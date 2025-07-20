@@ -1,0 +1,11 @@
+"Question_ID,Serial_Number,Stem,Tags",,,,,
+"2019_SM_Q01,1,Describe in detail secondary hypertension and management.,SystemicMedicine",Cardiology,Endocrinology,SecondaryHypertension,Describe,
+"2019_SM_Q02,2,""Discuss the etio-pathogenesis, clinical features, complications, diagnosis, and treatment of Ankylosing spondylitis."",SystemicMedicine",Gastroenterology,Pancreatitis,Autoimmune,Discuss,
+"2019_SM_Q03,3,Hemolytic uremic syndrome,SystemicMedicine",Nephrology,Hematology,HUS,Describe,
+"2019_SM_Q04,4,Approach to Interstitial Lung disease,SystemicMedicine",Pulmonology,ILD,Approach,Describe,
+"2019_SM_Q05,5,Henoch Schonlein purpura |,SystemicMedicine",Rheumatology,Vasculitis,HSP,Describe,
+"2019_SM_Q06,6,SGLT-2 inhibitors .,SystemicMedicine",Endocrinology,SGLT2Inhibitors,Pharmacology,Describe,
+"2019_SM_Q07,7,Alzheimer?s disease management,SystemicMedicine",Neurology,Geriatrics,Alzheimers,Management,Describe
+"2019_SM_Q08,8,Breaking bad news.,SystemicMedicine",Communication,Ethics,BreakingBadNews,Describe,
+"2019_SM_Q09,9,Discuss the diagnostic approach and management of hypokalemia.,SystemicMedicine",Nephrology,Hypokalemia,Approach,Management,Discuss
+"2019_SM_Q10,10,Compare metabolic and respiratory acidosis with their approach to diagnosis.,SystemicMedicine",AcidBaseDisorders,MetabolicAcidosis,RespiratoryAcidosis,Approach,Discuss

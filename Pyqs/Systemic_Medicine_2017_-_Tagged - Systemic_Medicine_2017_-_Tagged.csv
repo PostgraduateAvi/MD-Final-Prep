@@ -1,0 +1,11 @@
+"Question_ID,Serial_Number,Stem,Tags",,,,,
+"2017_SM_Q01,1,""Myasthenia gravis-signs , differentials , investigations and management"",SystemicMedicine",Neurology,MyastheniaGravis,Diagnosis,Management,Describe
+"2017_SM_Q02,2,Acute monoarthritis -diagnosis and management,SystemicMedicine",Rheumatology,Monoarthritis,Diagnosis,Management,Describe
+"2017_SM_Q03,3,Biosimilars,SystemicMedicine",Pharmacology,Biologics,Biosimilars,Describe,
+"2017_SM_Q04,4,Allergic bronchopulmonary aspergillosis,SystemicMedicine",Pulmonology,ABPA,Immunology,Describe,
+"2017_SM_Q05,5,Non motor manifestation of parkinsonism and management of parkinsons disease,SystemicMedicine",Neurology,Parkinsonism,NonMotorSymptoms,Management,Describe
+"2017_SM_Q06,6,Approach to Hypoxia,SystemicMedicine",Pulmonology,Hypoxia,Approach,Describe,
+"2017_SM_Q07,7,Phosphodiesterase-5 inhibitors,SystemicMedicine",Cardiology,Pharmacology,PDE5Inhibitors,Describe,
+"2017_SM_Q08,8,Osteoporosis current concepts in management,SystemicMedicine",Endocrinology,Osteoporosis,Management,Describe,
+"2017_SM_Q09,9,Pyoderma gangrenosum diagnosis and management,SystemicMedicine",Dermatology,PyodermaGangrenosum,Diagnosis,Management,Describe
+"2017_SM_Q10,10,Meniongioma diagnosis and management,SystemicMedicine",Neurology,Meningioma,Diagnosis,Management,Describe

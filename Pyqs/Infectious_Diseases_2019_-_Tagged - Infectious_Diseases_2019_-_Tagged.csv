@@ -1,0 +1,11 @@
+Question_ID,Serial_Number,Stem,Tags
+2019_ID_Q01,1,Describe four emerging viral infections which could be life threatening.,InfectiousDiseases;Virology;RecentGuideline;Describe
+2019_ID_Q02,2,Describe approach to and management of Drug Resistant Tuberculosis under the national programme.,InfectiousDiseases;Tuberculosis;Management;Approach;Describe
+2019_ID_Q03,3,Dengue Shock Syndrome,InfectiousDiseases;Dengue;Shock;Describe
+2019_ID_Q04,4,Approach to Diarrhoea in HIV positive patient,InfectiousDiseases;HIV;GI;Approach;Describe
+2019_ID_Q05,5,Newer Antimalarial agents,InfectiousDiseases;Malaria;Pharmacology;Describe
+2019_ID_Q06,6,Viper bite,InfectiousDiseases;Toxicology;SnakeBite;Describe
+2019_ID_Q07,7,Leptospirosis diagnosis,InfectiousDiseases;Leptospirosis;Diagnostics;Describe
+2019_ID_Q08,8,Mucormycosis,InfectiousDiseases;Fungal;Describe
+2019_ID_Q09,9,Discuss the adult vaccination schedule and its relevance in clinical practice.,InfectiousDiseases;Vaccination;PublicHealth;Discuss
+2019_ID_Q10,10,Describe hand hygiene protocols and classify commonly used disinfectants.,InfectiousDiseases;InfectionControl;HandHygiene;Disinfectants;Describe

@@ -1,0 +1,11 @@
+"Question_ID,Serial_Number,Stem,Tags",,,,,
+"2023_SM_Q01,1,""Discuss aetiology, clinical features, investigations, and management in a case of Aortic dissection"",SystemicMedicine",Neurology,GBS,Diagnosis,Management,Discuss
+"2023_SM_Q02,2,""Discuss classification, aetiology, clinical features, investigations, and treatment in a patient with interstitial lung disease."",SystemicMedicine",Hepatology,Ascites,Diagnosis,Management,Discuss
+"2023_SM_Q03,3,Discuss Hypertensive Emergencies. Tabulate preferred parenteral drugs for selected Hypertensive Emergencies,SystemicMedicine",Cardiology,Hypertension,Emergency,Management,Discuss
+"2023_SM_Q04,4,Classify Haemolytic Anaemia.Discuss in detail Hereditary Spherocytosis,SystemicMedicine",Hematology,HemolyticAnemia,Classification,G6PD,Discuss
+"2023_SM_Q05,5,SGLT-2 inhibiters in clinical practice,SystemicMedicine",Endocrinology,SGLT2Inhibitors,ClinicalUse,Describe,
+"2023_SM_Q06,6,Discuss etiopathogenesis and management of Autoimmune Hepatitis,SystemicMedicine",Rheumatology,AutoimmunePancreatitis,Describe,,
+"2023_SM_Q07,7,Psoriatic Arthropathy,SystemicMedicine",Rheumatology,PsoriaticArthropathy,Describe,,
+"2023_SM_Q08,8,Algorithm depicting assessment and management of delirium in hospitalized older patients,SystemicMedicine",Cardiology,HeartFailure,Algorithm,Diagram,Describe
+"2023_SM_Q09,9,Lupus Nephritis,SystemicMedicine",Nephrology,LupusNephritis,Describe,,
+"2023_SM_Q10,10,Discuss the pathophysiology and management of Parkinson’s’ disease.,SystemicMedicine",Pulmonology,ILD,Pathophysiology,Management,Discuss

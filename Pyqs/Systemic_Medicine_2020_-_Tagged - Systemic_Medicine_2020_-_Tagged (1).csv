@@ -1,0 +1,11 @@
+"Question_ID,Serial_Number,Stem,Tags",,,,,
+"2020_SM_Q01,1,Describe cardiomyopathies. Compare the clinical features and diagnosis,SystemicMedicine",Cardiology,Cardiomyopathy,HeartFailure,Compare,Describe
+"2020_SM_Q02,2,Discuss the clinical neurological syndromes of Central nervous system TB infection and management,SystemicMedicine",Neurology,SpinalCordSyndromes,Discuss,,
+"2020_SM_Q03,3,Osteoporosis,SystemicMedicine",Endocrinology,Osteoporosis,Diagnosis,Management,Describe
+"2020_SM_Q04,4,Palliative care of end stage renal disease,SystemicMedicine",Nephrology,PalliativeCare,ESRD,Discuss,
+"2020_SM_Q05,5,Budd Chiari syndrome,SystemicMedicine",Hepatology,BuddChiari,Diagnosis,Management,Describe
+"2020_SM_Q06,6,Promyelocytic Leukemia,SystemicMedicine",Hematology,Leukemia,APL,Treatment,Describe
+"2020_SM_Q07,7,Bronchial asthma management,SystemicMedicine",Pulmonology,Asthma,Management,Discuss,
+"2020_SM_Q08,8,Evaluation of a newly diagnosed diabetic patient,SystemicMedicine",Endocrinology,Diabetes,Diagnosis,Evaluation,Describe
+"2020_SM_Q09,9,Adult onset stills disease ,SystemicMedicine",Rheumatology,AdultStillDisease,ClinicalFeatures,Describe,
+"2020_SM_Q10,10,Diastolic heart failure,SystemicMedicine",Cardiology,DiastolicHeartFailure,Pathophysiology,Discuss,
