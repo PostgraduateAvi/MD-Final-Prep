@@ -1,0 +1,104 @@
+name: Organize Files
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  organize:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: Check file organization
+      run: |
+        echo "Checking repository structure..."
+        
+        # Check if all Python scripts are in scripts/ directory
+        if ls *.py 2>/dev/null | grep -v __pycache__ | grep -v setup.py; then
+          echo "❌ Found Python scripts in root directory. Please move to scripts/"
+          exit 1
+        fi
+        
+        # Check if scripts directory exists and contains Python files
+        if [ ! -d "scripts" ]; then
+          echo "❌ scripts/ directory not found"
+          exit 1
+        fi
+        
+        if [ ! -f "scripts/simple_tokenize.py" ] || [ ! -f "scripts/tokenize_content.py" ] || [ ! -f "scripts/navigate_content.py" ]; then
+          echo "❌ Required Python scripts not found in scripts/ directory"
+          exit 1
+        fi
+        
+        # Check if data directory exists
+        if [ ! -d "data" ]; then
+          echo "❌ data/ directory not found"
+          exit 1
+        fi
+        
+        # Check if processed outputs are in data directory
+        if [ -f "tokenized_content.json" ] || [ -f "token_summary.csv" ]; then
+          echo "❌ Found processed output files in root directory. Please move to data/"
+          exit 1
+        fi
+        
+        # Check if PDFs directory contains only PDFs (and subdirectories)
+        if find PDFs -maxdepth 2 -name "*.xlsx" -o -name "*.xls" -o -name "*.doc" -o -name "*.docx" | grep -q .; then
+          echo "❌ Found non-PDF files in PDFs directory. Please move to appropriate data subdirectory"
+          exit 1
+        fi
+        
+        # Check if metadata.json exists in data directory
+        if [ ! -f "data/metadata.json" ]; then
+          echo "❌ metadata.json not found in data/ directory"
+          exit 1
+        fi
+        
+        echo "✅ Repository structure is properly organized"
+    
+    - name: Validate Python scripts syntax
+      run: |
+        echo "Validating Python script syntax..."
+        python -m py_compile scripts/*.py
+        echo "✅ All Python scripts have valid syntax"
+    
+    - name: Generate structure report
+      run: |
+        echo "📁 Repository Structure Report"
+        echo "=============================="
+        echo ""
+        echo "📂 Scripts ($(find scripts -name '*.py' | wc -l) files):"
+        ls -la scripts/*.py | awk '{print "  - " $9 " (" $5 " bytes)"}'
+        echo ""
+        echo "📂 Data ($(find data -name '*.json' -o -name '*.csv' | wc -l) processed files):"
+        ls -la data/*.json data/*.csv 2>/dev/null | awk '{print "  - " $9 " (" $5 " bytes)"}' || echo "  - No processed files found"
+        echo ""
+        echo "📂 PDFs:"
+        for dir in PDFs/*/; do
+          if [ -d "$dir" ]; then
+            count=$(find "$dir" -name "*.pdf" | wc -l)
+            echo "  - $(basename "$dir"): $count PDFs"
+          fi
+        done
+        echo ""
+        echo "📂 Question Papers (Excel files):"
+        if [ -d "data/question_papers" ]; then
+          count=$(find data/question_papers -name "*.xlsx" -o -name "*.xls" | wc -l)
+          echo "  - $count Excel files in data/question_papers/"
+        else
+          echo "  - No question papers directory found"
+        fi

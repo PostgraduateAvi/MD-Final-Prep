@@ -11,7 +11,11 @@ import json
 def load_token_summary():
     """Load tokenization summary if available"""
     try:
-        with open('tokenized_content.json', 'r') as f:
+        # Get script directory and repo root for proper path resolution
+        script_dir = Path(__file__).parent
+        repo_root = script_dir.parent
+        token_file = repo_root / "data" / "tokenized_content.json"
+        with open(token_file, 'r') as f:
             return json.load(f)
     except FileNotFoundError:
         return None
@@ -54,7 +58,10 @@ def display_category_contents(category_path, category_name, token_data=None):
 
 def main():
     """Main navigation function"""
-    base_path = Path("PDFs")
+    # Get script directory and repo root for proper path resolution
+    script_dir = Path(__file__).parent
+    repo_root = script_dir.parent
+    base_path = repo_root / "PDFs"
     
     if not base_path.exists():
         print("PDFs directory not found. Make sure you're in the correct directory.")

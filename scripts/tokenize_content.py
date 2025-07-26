@@ -31,7 +31,12 @@ logger = logging.getLogger(__name__)
 class MDTokenizer:
     """Tokenizer for MD preparation materials"""
     
-    def __init__(self, base_path: str = "PDFs"):
+    def __init__(self, base_path: str = None):
+        if base_path is None:
+            # Get the directory containing this script, then go up one level to repo root
+            script_dir = Path(__file__).parent
+            repo_root = script_dir.parent
+            base_path = repo_root / "PDFs"
         self.base_path = Path(base_path)
         self.encoding = tiktoken.get_encoding("cl100k_base")  # GPT-4 encoding
         self.results = {
@@ -161,8 +166,13 @@ class MDTokenizer:
                 self.results[category].append(file_info)
                 logger.info(f"✓ {file_path.name}: {file_info['num_chunks']} chunks, {file_info['total_tokens']} tokens")
     
-    def save_results(self, output_file: str = "tokenized_content.json") -> None:
+    def save_results(self, output_file: str = None) -> None:
         """Save tokenized results to JSON file"""
+        if output_file is None:
+            # Get script directory and repo root for proper path resolution
+            script_dir = Path(__file__).parent
+            repo_root = script_dir.parent
+            output_file = repo_root / "data" / "tokenized_content.json"
         try:
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(self.results, f, indent=2, ensure_ascii=False)
@@ -231,7 +241,7 @@ def main():
         print(f"  {category.replace('_', ' ').title()}: {stats['files']} files, {stats['tokens']:,} tokens (avg: {stats['avg_tokens_per_file']:,})")
     
     print("\n✓ Tokenization completed successfully!")
-    print("✓ Results saved to 'tokenized_content.json'")
+    print("✓ Results saved to 'data/tokenized_content.json'")
 
 if __name__ == "__main__":
     main()

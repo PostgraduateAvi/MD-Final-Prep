@@ -23,7 +23,12 @@ logger = logging.getLogger(__name__)
 class SimpleTokenizer:
     """Simple tokenizer for MD preparation materials"""
     
-    def __init__(self, base_path: str = "PDFs"):
+    def __init__(self, base_path: str = None):
+        if base_path is None:
+            # Get the directory containing this script, then go up one level to repo root
+            script_dir = Path(__file__).parent
+            repo_root = script_dir.parent
+            base_path = repo_root / "PDFs"
         self.base_path = Path(base_path)
         self.results = {
             "harrison_textbooks": [],
@@ -162,8 +167,13 @@ class SimpleTokenizer:
                 self.results[category].append(file_info)
                 logger.info(f"✓ {file_path.name}: {file_info['num_chunks']} chunks, {file_info['total_tokens']} tokens")
     
-    def save_results(self, output_file: str = "tokenized_content.json") -> None:
+    def save_results(self, output_file: str = None) -> None:
         """Save tokenized results to JSON file"""
+        if output_file is None:
+            # Get script directory and repo root for proper path resolution
+            script_dir = Path(__file__).parent
+            repo_root = script_dir.parent
+            output_file = repo_root / "data" / "tokenized_content.json"
         try:
             with open(output_file, 'w', encoding='utf-8') as f:
                 json.dump(self.results, f, indent=2, ensure_ascii=False)
@@ -171,8 +181,13 @@ class SimpleTokenizer:
         except Exception as e:
             logger.error(f"Error saving results: {e}")
     
-    def save_token_summary(self, output_file: str = "token_summary.csv") -> None:
+    def save_token_summary(self, output_file: str = None) -> None:
         """Save a CSV summary of tokenization results"""
+        if output_file is None:
+            # Get script directory and repo root for proper path resolution
+            script_dir = Path(__file__).parent
+            repo_root = script_dir.parent
+            output_file = repo_root / "data" / "token_summary.csv"
         try:
             with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
                 fieldnames = ['category', 'filename', 'file_type', 'size_bytes', 'text_length', 'total_tokens', 'unique_tokens']
@@ -273,8 +288,8 @@ def main():
         print()
     
     print("✓ Tokenization completed successfully!")
-    print("✓ Detailed results saved to 'tokenized_content.json'")
-    print("✓ Summary saved to 'token_summary.csv'")
+    print("✓ Detailed results saved to 'data/tokenized_content.json'")
+    print("✓ Summary saved to 'data/token_summary.csv'")
     print("\nNote: This uses a simple tokenization method. For advanced NLP processing,")
     print("consider installing specialized libraries like tiktoken or transformers.")
 
