@@ -1,0 +1,10 @@
+
+# MD Prep Automation outputs
+md_prep_automation_*.log
+embeddings.jsonl
+*.tmp
+__pycache__/
+*.pyc
+.env
+# OpenAI API key files
+openai_key.txt
