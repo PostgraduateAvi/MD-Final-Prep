@@ -66,3 +66,13 @@ python3 generate_embeddings.py
 This creates `embeddings.jsonl` containing one record per chunk with the text and
 its embedding vector. You can upload this file to OpenAI's retrieval tool or any
 vector database for semantic search.
+
+### Local API Server
+
+A simple FastAPI server (`server.py`) exposes endpoints for tokenization, embedding generation, and retrieving token data. Start the server with:
+
+```bash
+python3 server.py
+```
+
+The API is documented in `openapi.yaml` and can be used as a Custom GPT action.
