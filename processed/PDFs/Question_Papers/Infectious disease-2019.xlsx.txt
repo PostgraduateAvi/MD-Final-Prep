@@ -1,0 +1,15 @@
+
+--- Sheet: Paper_II_Systemic_Medicine_2019 ---
+serial number                                                                                         question
+            1                         Describe four emerging viral infections which could be life threatening.
+            2 Describe approach to and management of Drug Resistant Tuberculosis under the national programme.
+            3                                                                            Dengue Shock Syndrome
+            4                                                    Approach to Diarrhoea in HIV positive patient
+            5                                                                        Newer Antimalarial agents
+            6                                                                                       Viper bite
+            7                                                                          Leptospirosis diagnosis
+            8                                                                                     Mucormycosis
+          NaN                                                                                              NaN
+          NaN                                                                                              NaN
+   Paper year                                                                                             2019
+ Paper title                                                                                 Systemic medicine

@@ -1,0 +1,13 @@
+
+--- Sheet: Recent Advances 2023 ---
+ serial number                                                                                                             question
+             1                                                            Describe applications of Stem Cells in Clinical Medicine.
+             2 Describe non-invasive modalities for diagnosis of coronary artery disease with special reference to nuclear imaging.
+             3                                                                                    Monoclonal antibodies in Medicine
+             4                                                                                                        MELD Na Score
+             5                                                Pathophysiology, clinical features and management of sleep disorders.
+             6                                                                                  Bronchoscopic Lung Volume reduction
+             7                                                                                               Microbial Bioterrorism
+             8                                                                                Pharmacological management of obesity
+             9                                                                                                       Newer insulins
+            10                                                                                                         Rivaroxaban 

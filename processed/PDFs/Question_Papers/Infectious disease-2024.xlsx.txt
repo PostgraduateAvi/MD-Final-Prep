@@ -1,0 +1,13 @@
+
+--- Sheet: Infections_Disease_Paper_III_20 ---
+ serial number                                                                                                       question
+             1                                  Discuss sources, metabolism, toxicity and management of heavy metal poisoning
+             2               Discuss Classification, clinical presentation and treatment of NTM (Non Tubercular Mycobacteria)
+             3 Define and classify vasculitis syndrome. Discuss potential mechanisms of vessel damage in vasculitis syndrome.
+             4                                                                    Recent guidelines in the management of HIV.
+             5                                                                                                 Dengue Vaccine
+             6                                                                                  Serological Markers of Sepsis
+             7                                                             Approach to the patient with Acute Febrile illness
+             8                         Discuss Microbial pathogens that can cause lung abscess and management of lung abscess
+             9                                            Discuss differential diagnosis and management of viral Encephalitis
+            10                                                                               Management of Venomous snakebite

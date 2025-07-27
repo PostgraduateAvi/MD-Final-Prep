@@ -1,0 +1,13 @@
+
+--- Sheet: Systemic_Medicine_Paper_II_June ---
+ Question-ID  Serial Number                                                                                                            stem  Tag
+         NaN              1                                                                           Laboratory diagnosis of enteric fever  NaN
+         NaN              2                                                                     Diffuse infiltrative lymphocytosis syndrome  NaN
+         NaN              3                                                                    Pacemaker; types, indications, complications  NaN
+         NaN              4                                                                                                    Mucormycosis  NaN
+         NaN              5                                                                               Non Cirrhotic portal hypertension  NaN
+         NaN              6                                                                                         Pathogenesis of tetanus  NaN
+         NaN              7                                                                                                  ACE Inhibitors  NaN
+         NaN              8                                                                                                 C-peptide assay  NaN
+         NaN              9                                                                       omnious octet in diabetes pathophysiology  NaN
+         NaN             10 Discuss the clinical features , diagnosis and management of Vitamin D deficiency in adults and its implications  NaN

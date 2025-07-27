@@ -1,0 +1,13 @@
+
+--- Sheet: Recent_Advances_Paper_IV_2025_m ---
+ serial number                                                                                question
+             1 Describe the pathology, prognostic scoring system and management of Alcoholic Hepatitis
+             2            Describe the role of SGLT2 Inhibitors in medicine; add a note on CVOT Trials
+             3                Describe the management strategies in a patient with atrial fibrillation
+             4       Describe bone marrow transplantation; enumerate the indications and complications
+             5       Describe the glycemic variability and its role in management of diabetes mellitus
+             6                                                       Hypertensive arteriolar sclerosis
+             7                                                                            Mucormycosis
+             8                                               Revised Jones criteria in rheumatic fever
+             9                                                   Neuropsychiatric sequelae of COVID-19
+            10                                                     Assessment of glomerular filtration

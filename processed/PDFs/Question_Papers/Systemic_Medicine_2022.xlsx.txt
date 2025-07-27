@@ -1,0 +1,13 @@
+
+--- Sheet: Systemic examination 2024 ---
+ serial number                                   question
+             1 Microvascular angina (Cardiac syndrome X )
+             2                   Pulmonary rehabilitation
+             3       Hyperosmolar hyperglycaemic syndrome
+             4                  Neutropenic Enterocolitis
+             5     Light chain-associated renal disorders
+             6                  Myelodysplastic syndromes
+             7                         Avascular necrosis
+             8            Cerebral Salt-Wasting Syndrome 
+             9                      Geriatric psychiatry 
+            10                Palliative pain management 
