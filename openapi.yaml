@@ -1,85 +1,115 @@
-openapi: 3.0.0
+openapi: 3.0.1
 info:
-  title: MD Final Prep API
-  version: '1.0'
+  title: MD Personal Assistant API
   description: |
-    API endpoints to tokenize medical PDFs, generate embeddings, and access summarized token data.
+    An OpenAPI specification for the custom GPT that powers the MD personal assistant.
+    It exposes endpoints for retrieving high‑yield medical content, summarising topics
+    and predicting likely examination subjects based on historical tagging data.
+  version: '1.0.0'
+
 servers:
-  - url: http://localhost:8000
+  - url: http://localhost
+    description: Local server
+
 paths:
-  /files:
+  /content/{topic}:
     get:
-      summary: List available study files
-      responses:
-        '200':
-          description: Mapping of categories to filenames
-          content:
-            application/json:
-              schema:
-                type: object
-                additionalProperties:
-                  type: array
-                  items:
-                    type: string
-  /tokenize:
-    post:
-      summary: Run tokenization over all study materials
-      responses:
-        '200':
-          description: Tokenization completed
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  detail:
-                    type: string
-  /generate-embeddings:
-    post:
-      summary: Generate OpenAI embeddings from tokenized content
-      responses:
-        '200':
-          description: Embeddings generation completed
-          content:
-            application/json:
-              schema:
-                type: object
-                properties:
-                  detail:
-                    type: string
-  /token-data:
-    get:
-      summary: Retrieve tokenization info for a specific file
+      summary: Retrieve the content of a topic
+      description: Return the full markdown content for a given topic.
       parameters:
-        - in: query
-          name: category
+        - name: topic
+          in: path
+          required: true
+          description: The slug of the topic (e.g. `heart_failure`)
           schema:
             type: string
-          required: true
-          description: Category key (e.g., "guidelines")
-        - in: query
-          name: filename
-          schema:
-            type: string
-          required: true
-          description: File name within that category
       responses:
         '200':
-          description: Token data for the file
+          description: Success
           content:
             application/json:
               schema:
                 type: object
                 properties:
-                  filename:
+                  topic:
                     type: string
-                  num_chunks:
-                    type: integer
-                  total_tokens:
-                    type: integer
-                  unique_tokens:
-                    type: integer
-                  chunks:
+                  content:
+                    type: string
+      x-function: get_content
+
+  /summarize:
+    post:
+      summary: Summarise a topic
+      description: Return a list of high‑yield points from a topic.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                topic:
+                  type: string
+                  description: The slug of the topic to summarise (e.g. `pneumonia`)
+      responses:
+        '200':
+          description: Summary generated
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  topic:
+                    type: string
+                  summary:
                     type: array
                     items:
                       type: string
+      x-function: summarize_topic
+
+  /predict:
+    get:
+      summary: Predict likely exam topics
+      description: Return the most likely topics that may appear on examinations.
+      parameters:
+        - name: limit
+          in: query
+          required: false
+          description: Number of topics to return (default 3)
+          schema:
+            type: integer
+            minimum: 1
+            default: 3
+      responses:
+        '200':
+          description: Prediction list
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  predictions:
+                    type: array
+                    items:
+                      type: object
+                      properties:
+                        topic:
+                          type: string
+                        score:
+                          type: number
+      x-function: predict_exam
+
+components:
+  securitySchemes:
+    api_key:
+      type: apiKey
+      in: header
+      name: Authorization
+  schemas:
+    Error:
+      type: object
+      properties:
+        message:
+          type: string
+      required:
+        - message
