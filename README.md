@@ -52,3 +52,27 @@ Total processed: 56 files (278 MB)
 - **19.2M tokens** generated across all materials
 - **6.1M unique tokens** identified
 - Organized by category for easy language model training/fine-tuning
+
+### Embedding Generation
+
+After tokenization you can generate OpenAI embeddings for each text chunk to
+build a retrieval index for a Custom GPT.
+
+```bash
+# Requires OPENAI_API_KEY environment variable
+python3 generate_embeddings.py
+```
+
+This creates `embeddings.jsonl` containing one record per chunk with the text and
+its embedding vector. You can upload this file to OpenAI's retrieval tool or any
+vector database for semantic search.
+
+### Local API Server
+
+A simple FastAPI server (`server.py`) exposes endpoints for tokenization, embedding generation, and retrieving token data. Start the server with:
+
+```bash
+python3 server.py
+```
+
+The API is documented in `openapi.yaml` and can be used as a Custom GPT action.

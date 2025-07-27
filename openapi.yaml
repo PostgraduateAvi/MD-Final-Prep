@@ -1,0 +1,85 @@
+openapi: 3.0.0
+info:
+  title: MD Final Prep API
+  version: '1.0'
+  description: |
+    API endpoints to tokenize medical PDFs, generate embeddings, and access summarized token data.
+servers:
+  - url: http://localhost:8000
+paths:
+  /files:
+    get:
+      summary: List available study files
+      responses:
+        '200':
+          description: Mapping of categories to filenames
+          content:
+            application/json:
+              schema:
+                type: object
+                additionalProperties:
+                  type: array
+                  items:
+                    type: string
+  /tokenize:
+    post:
+      summary: Run tokenization over all study materials
+      responses:
+        '200':
+          description: Tokenization completed
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  detail:
+                    type: string
+  /generate-embeddings:
+    post:
+      summary: Generate OpenAI embeddings from tokenized content
+      responses:
+        '200':
+          description: Embeddings generation completed
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  detail:
+                    type: string
+  /token-data:
+    get:
+      summary: Retrieve tokenization info for a specific file
+      parameters:
+        - in: query
+          name: category
+          schema:
+            type: string
+          required: true
+          description: Category key (e.g., "guidelines")
+        - in: query
+          name: filename
+          schema:
+            type: string
+          required: true
+          description: File name within that category
+      responses:
+        '200':
+          description: Token data for the file
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  filename:
+                    type: string
+                  num_chunks:
+                    type: integer
+                  total_tokens:
+                    type: integer
+                  unique_tokens:
+                    type: integer
+                  chunks:
+                    type: array
+                    items:
+                      type: string
