@@ -1,0 +1,13 @@
+
+--- Sheet: Infections_Disease_and_Tropical ---
+ serial number                                                                                                                                                                                            question
+             1                                                                        Discuss diagnosis of Latent TB infection. Discuss current indications and newer regimes of treatment of Latent TB infection.
+             2                                                 Discuss briefly the phases of Dengue Fever. Discuss management of a patient with confirmed Dengue Fever with a systolic blood pressure of 80 mm Hg.
+             3                                 Discuss causes of acute undifferentiated fever in the tropical regions. Outline 7 examination findings of relevance in patients with acute undifferentiated fevers.
+             4      Apatient with chronic hepatitis B infection has a HBV DNA of 50000 international units /ml, is HBeAg positive and has ALT level of 80 IU/L, without evidence of cirrhosis. Discuss management.
+             5                                                                              Discuss types of COVID-19 vaccines with their protective efficacy. Discuss emerging role of booster doses of COVID-19.
+             6                Discuss differential diagnosis of fever, headache and altered sensorium in a patient with HIV disease with CD4 count of 150 cells/ul. Discuss management of cryptococcal meningitis.
+             7                                                                  Discuss infection control practices for prevention of catheter-associated UTI and central line associated blood-stream infections.
+             8                                                                What is antimicrobial stewardship and why is it important? Discuss concepts of pre-authorisation and prospective audit and feedback.
+             9 A 35 year old patient presents with recurrent seizures and headache.MRI shows 8 viable cysts with visible scolex and surrounding edema. Ocular examination shows no cysticerci. Discuss management.
+            10                                         Discuss causes and diagnosis of ventilator associated pneumonia. How will you treat a patient with extensively drug resistant Acinetobacter spp. Infection.

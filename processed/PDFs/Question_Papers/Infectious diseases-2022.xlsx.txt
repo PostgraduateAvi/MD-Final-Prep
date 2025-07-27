@@ -1,0 +1,13 @@
+
+--- Sheet: Infectious disease-2022 ---
+ serial number                                                        question
+             1                     Management of poisonous snake bite in India
+             2                                          Acetaminophen Toxicity
+             3                                                   Scrofuloderma
+             4                               Post exposure prophylaxis for HIV
+             5                                               Covid-19 vaccines
+             6 Classify UTI syndromes. Write a note on Asymptomatic bacteruria
+             7                                                 Hydatid disease
+             8                                                   Scrub typhus 
+             9                                         Antibiotic stewardship 
+            10                                Ventilator associated pneumonia 

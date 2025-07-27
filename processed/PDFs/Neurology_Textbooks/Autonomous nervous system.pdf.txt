@@ -1,0 +1,1296 @@
+CHAPTER	45
+
+The	Autonomic	Nervous	System
+
+The	 autonomic	 nervous	 system	 (ANS)	 is	 the	 system	 that	 controls	 nonstriated
+muscles	 and	 glands.	 There	 are	 three	 divisions	 of	 the	 ANS:	 sympathetic
+(thoracolumbar),	 parasympathetic	 (craniosacral),	 and	 enteric.	 The	 sympathetic
+and	parasympathetic	divisions	are	characterized	by	a	two-neuron	chain	with	two
+anatomic	 elements:	 a	 preganglionic	 (first-order)	 neuron	 within	 the	 central
+nervous	 system	 (CNS)	 that	 terminates	 in	 a	 ganglion	 outside	 the	 CNS	 and	 a
+postganglionic	(second-order)	neuron	that	carries	impulses	to	a	destination	in	the
+viscera.	 An	 overview	 of	 the	 anatomy	 of	 the	 sympathetic	 and	 parasympathetic
+division	 is	 shown	 in	 Figure	45.1.	 The	 enteric	 nervous	 system	 is	 located	 in	 the
+walls	 of	 the	 gastrointestinal	 tract.	 In	 addition,	 dorsal	 root	 ganglion	 neurons
+in	 both	 sympathetic	 and
+convey	 afferent	 visceral	
+parasympathetic	 fibers.	 There	 are	 also	 autonomic	 neurons	 within	 the	 CNS	 at
+various	levels	from	the	cerebral	cortex	to	the	spinal	cord.	Autonomic	functions
+are	beyond	voluntary	control	and	for	the	most	part	beneath	consciousness.
+
+that	 arise	
+
+impulses	
+
+THE	PERIPHERAL	AUTONOMIC	NERVOUS
+SYSTEM
+
+The	parasympathetic	division	is	composed	of	the	general	visceral	efferent	fibers
+of	cranial	nerves	III,	VII,	IX,	X,	and	bulbar	portion	of	XI	(the	cranial	outflow),
+together	with	fibers	arising	in	the	S2-S4	segments	of	the	spinal	cord	(the	sacral
+outflow).	 The	 parts	 of	 the	 parasympathetic	 division	 are	 widely	 separated,	 but
+because	 of	 anatomic	 characteristics,	 similarity	
+in	 function,	 and	 similar
+pharmacologic	responses,	they	are	classified	as	parts	of	one	system	rather	than
+as	separate	divisions.	The	parasympathetic	nerves	have	long	preganglionic	fibers
+that	 end	 in	 peripheral	 ganglia	 near	 or	 in	 the	 viscera	 they	 supply,	 and	 short
+
+postganglionic	 fibers	that	arise	in	proximity	to	 or	within	 the	 viscus	innervated.
+One	preganglionic	fiber	usually	synapses	with	only	one	postganglionic	neuron.
+
+The	 anatomy	 of	 the	 cranial	 portion	 of	 the	 parasympathetic	 division	 is
+discussed	with	the	individual	cranial	nerves.	In	brief,	it	consists	of	the	Edinger-
+Westphal	 nucleus,	 the	 superior	 and	 inferior	 salivatory	 nuclei,	 the	 dorsal	 motor
+nucleus	of	the	vagus,	and	neurons	in	the	vicinity	of	the	nucleus	ambiguus.	The
+sacral	 parasympathetic	 fibers	 arise	 from	 cells	 in	 the	 intermediolateral	 cell
+column	 at	 the	 S2-S4	 levels	 of	 the	 sacral	 spinal	 cord,	 travel	 through	 the	 sacral
+nerves,	 and	 are	 collected	 into	 the	 pelvic	 splanchnic	 nerves	 (nervi	 erigentes),
+which	 proceed	 to	 the	 pelvic	 plexuses	 and	 their	 branches.	 Some	 postganglionic
+fibers	 may	 travel	 from	 these	 plexuses	 to	 the	 pelvic	 viscera,	 but	 most
+preganglionic	fibers	continue	to	small	ganglia	in	or	near	the	viscera,	from	where
+postganglionic	 fibers	 supply	 the	 bladder,	 descending	 colon,	 rectum,	 anus,	 and
+genitalia.	 The	 greatest	 parasympathetic	 outflow	 is	 via	 the	 vagus	 nerves.
+Peripheral	parasympathetic	ganglia	include	the	ciliary,	otic,	submandibular,	and
+sphenopalatine	(Figure	45.2).
+
+The	sympathetic	division	is	composed	of	preganglionic	fibers	that	arise	from
+cells	 in	 the	 intermediolateral	 columns	 from	 the	 T1	 to	 the	 L3	 segments	 of	 the
+spinal	 cord.	 The	 fibers	 exit	 through	 the	 ventral	 roots	 of	 the	 corresponding
+segmental	 nerves	 (Figure	 24.3).	 These	 fibers	 terminate	 in	 the	 paravertebral
+ganglionic	chain,	prevertebral	plexuses,	and	collateral	ganglia,	or	occasionally	in
+terminal	 ganglia	 (Figure	 45.3).	 Postganglionic	 fibers	 go	 to	 the	 viscera.	 The
+sympathetic	 preganglionic	 fibers	 are	 typically	 short	 and	 terminate	 on	 ganglia
+some	distance	from	the	viscera	they	supply,	with	long	postganglionic	fibers	that
+travel	from	the	ganglia	to	the	viscera.	One	preganglionic	fiber	may	synapse	with
+many	postganglionic	neurons.
+
+the	 autonomic	 nervous	 system.	 The
+FIGURE	 45.1	 General	 arrangement	 of	
+sympathetic	 components	 are	 shown	 in	 red	 and	 the	 parasympathetic	 component	 in
+blue.	 (Reprinted	 with	 permission	 from	 Snell	 R.	 Clinical	 Neuroanatomy.	 7th	 ed.
+Philadelphia:	Wolters	Kluwer	Health/Lippincott	Williams	&	Wilkins,	2009.)
+
+The	 sympathetic	 ganglia	 are	 arranged	 into	 two	 plexuses:	 paravertebral	 and
+
+prevertebral.	 The	 paravertebral	 ganglia	 lie	 alongside	 the	 vertebral	 column;	 the
+prevertebral	ganglia	lie	anterior	to	the	vertebral	column.	The	prevertebral	ganglia
+innervate	the	viscera	of	the	abdomen	and	pelvis.	The	paravertebral	sympathetic
+chain	consists	of	two	elongated	plexuses,	each	composed	of	a	series	of	ganglia
+that	are	segmentally	arranged	and	bound	together	by	ascending	and	descending
+nerve	fibers.	The	sympathetic	trunks	have	from	22	to	24	ganglia	and	extend	from
+the	level	of	C2	to	the	coccyx.	There	are	3	cervical,	10	to	12	thoracic,	4	lumbar,
+and	4	to	5	sacral	ganglia.	The	chains	usually	join	at	the	level	of	the	coccyx	in	an
+unpaired	 coccygeal	 ganglion	 (ganglion	 impar).	 Preganglionic	 fibers	 leave	 the
+spinal	cord	through	the	anterior	root	and	mixed	spinal	nerve	to	reach	the	anterior
+primary	 ramus	 and	 then	 exit	 as	 finely	 myelinated	 fibers	 (white	 rami
+communicantes)	 to	 enter	 the	 ganglionic	 chain.	 They	 may	 synapse	 immediately
+or	 ascend	 or	 descend	 before	 synapsing.	 The	 postganglionic	 fibers	 return	 to	 the
+anterior	primary	ramus	as	unmyelinated	fibers	(gray	rami	communicantes).	The
+T1-T3	segments	innervate	the	head	and	neck,	the	T3-T11	segments	innervate	the
+upper	 extremities	 and	 viscera	 in	 the	 thorax	 and	 abdomen,	 and	 the	 T12-L2
+segments	innervate	the	lower	extremities	and	pelvic	viscera.
+
+FIGURE	 45.2	 The	 parasympathetic	 division.	 Preganglionic	 neurons	 are	 red,	 and
+postganglionic	neurons	are	blue.	(Reprinted	with	permission	from	Kiernan	JA.	Barr’s
+The	Human	Nervous	System:	An	Anatomical	Viewpoint.	9th	ed.	Philadelphia:	Wolters
+Kluwer	Health/Lippincott	Williams	&	Wilkins,	2009.)
+
+FIGURE	 45.3	 The	 sympathetic	 outflow,	 showing	 connections	 with	 the	 paravertebral
+ganglionic	chain,	splanchnic	nerves,	and	collateral	ganglia.
+
+The	cervical	portion	of	the	sympathetic	chain	consists	of	the	superior,	middle,
+and	inferior	cervical	ganglia.	These	innervate	structures	 within	the	head,	upper
+extremities,	and	thorax.	The	superior	cervical	ganglion,	the	largest,	lies	opposite
+the	 C2-C3	 vertebrae	 and	 behind	 the	 internal	 carotid	 artery.	 It	 is	 primarily
+
+supplied	by	the	first	two	thoracic	segments.	The	internal	carotid	nerve,	a	direct
+continuation	 of	 the	 superior	 cervical	 ganglion,	 gives	 rise	 to	 postganglionic
+filaments	that	supply	the	internal	carotid,	and	terminates	as	the	internal	carotid
+and	 cavernous	 plexuses.	 Anterior	 branches	 from	 the	 ganglion	 form	 plexuses
+around	 the	 middle	 meningeal	 and	 external	 carotid	 and	 maxillary	 arteries.	 The
+sympathetic	 innervation	 of	 the	 ciliary	 ganglia	 travels	 through	 the	 long	 ciliary
+nerves	 from	 the	 cavernous	 plexus.	 The	 sphenopalatine	 ganglion	 is	 supplied	 by
+the	internal	carotid	plexus	through	the	deep	petrosal	and	vidian	nerves.	The	otic
+ganglion	receives	its	sympathetic	innervation	from	the	plexus	around	the	middle
+meningeal	 artery,	 and	 the	 submaxillary	 ganglion	 from	 that	 around	 the	 external
+maxillary	artery.	There	are	other	connections	from	the	superior	cervical	ganglion
+to	other	cranial	nerves	and	the	upper	four	cervical	nerves,	the	pharyngeal	plexus,
+the	carotid	sinus	and	body,	the	heart,	and	the	superior	cardiac	nerves.	The	middle
+cervical	ganglion	communicates	with	the	fifth	and	sixth	cervical	nerves	to	begin
+the	 middle	 cardiac	 nerve	 and	 sends	 other	 branches	 to	 the	 thyroid	 gland.	 The
+inferior	 cervical	 ganglion	 communicates	 with	 the	 seventh	 and	 eighth	 cervical
+nerves	to	form	the	inferior	cardiac	nerve	and	nerves	to	the	blood	vessels.
+long	 unmyelinated	 axons	
+
+to	 all
+sympathetically	 innervated	 tissues	 and	 organs	 except	 those	 in	 the	 abdomen,
+pelvis,	 and	 perineum.	 The	 superior	 cervical	 ganglion	 (T1-T2)	 provides
+pupillodilator	 and	 sudomotor	 fibers	 to	 the	 face.	 The	 stellate	 ganglion	 (T2-T6)
+innervates	 the	 upper	 limb	 through	 branches	 of	 the	 brachial	 plexus,	 and	 the
+lumbar	sympathetic	ganglia	(T9-L1)	innervate	the	lower	limb	through	branches
+of	 the	 lumbosacral	 plexus.	 The	 postganglionic	 sympathetic	 fibers	 join	 the
+peripheral	 somatic	 nerves	 via	 the	 gray	 rami	 communicantes,	 and	 thus	 their
+distribution	is	similar	to	that	of	the	corresponding	somatic	nerve.
+
+The	 paravertebral	 ganglia	 provide	
+
+to	 form	
+
+The	 thoracic	 portion	 of	 the	 sympathetic	 trunk	 rests	 against	 the	 heads	 of	 the
+ribs.	Occasionally	the	first	thoracic	ganglion	is	blended	with	the	inferior	cervical
+ganglion	
+the	 stellate	 ganglion.	 The	 stellate	 ganglion	 receives
+preganglionic	 fibers	 from	 the	 T2-T6	 levels,	 and	 its	 postganglionic	 fibers	 are
+distributed	 with	 the	 nerves	 of	 the	 brachial	 plexus	 to	 provide	 autonomic
+innervation	 to	 the	 upper	 extremity.	 The	 sympathetic	 fibers	 traveling	 in	 somatic
+nerves	 innervate	 vasomotor,	 sudomotor,	 and	 pilomotor	 structures	 in	 the
+distribution	of	the	nerve	in	which	they	are	carried.
+
+The	 upper	 five	 ganglia	 provide	 branches	 to	 the	 cardiac	 and	 pulmonary
+plexuses.	The	abdominal	portion	of	the	sympathetic	trunk	is	situated	in	front	of
+the	vertebral	column	along	the	medial	margin	of	the	psoas	major	muscle,	and	the
+
+pelvic	 portion	 is	 in	 front	 of	 the	 sacrum.	 All	 of	 these	 ganglia	 send	 gray	 rami
+communicantes	 to	 the	 corresponding	 spinal	 nerves	 and	 many	 branches	 to	 the
+various	 plexuses	 and	 collateral	 ganglia.	 The	 postganglionic	 fibers	 terminate	 on
+blood	vessels,	sweat	glands,	and	other	smooth	muscle	and	glandular	structures.
+
+Branches	 of	 the	 lower	 seven	 thoracic	 ganglia	 unite	 to	 form	 the	 three
+splanchnic	nerves	that	penetrate	the	diaphragm	and	supply	the	abdomen	and	the
+pelvic	 viscera.	 These	 branches	 are	 white	 in	 color	 and	 primarily	 carry
+preganglionic	 fibers	 that	 pass	 through	 the	 ganglia	 without	 synapsing	 and
+terminate	 in	 the	 prevertebral	 plexuses	 or	 the	 collateral	 ganglia.	 The	 greater
+splanchnic	 nerve	 is	 formed	 by	 branches	 of	 the	 5th	 through	 the	 9th	 or	 10th
+thoracic	ganglia;	it	terminates	in	the	celiac	ganglion.	The	lesser	splanchnic	nerve
+is	formed	by	branches	of	the	9th,	10th,	and	sometimes	the	11th	thoracic	ganglia;
+it	ends	in	the	aorticorenal	ganglion.	The	lower	splanchnic	nerve	arises	from	the
+last	thoracic	ganglion;	it	ends	in	the	renal	plexus.
+
+Within	the	thoracic,	abdominal,	and	pelvic	cavities	are	aggregations	of	nerves
+and	 ganglia	 known	 as	 the	 prevertebral	 plexuses	 and	 their	 collateral	 ganglia.
+These	 are	 composed	 of	 both	 parasympathetic	 and	 sympathetic	 fibers.	 The
+parasympathetic	fibers	are	preganglionic	and	may	synapse	in	the	plexuses	or	go
+through	 without	 synapse	 to	 terminal	 ganglia.	 The	 sympathetic	 fibers,	 mainly
+from	 the	 splanchnic	 nerves,	 usually	 synapse	 in	 the	 plexuses.	 From	 these
+plexuses,	branches	are	given	off	to	the	abdominal	and	pelvic	viscera.	The	cardiac
+plexus	 is	 supplied	 by	 the	 cardiac	 branches	 of	 the	 vagus	 nerves	 and	 the	 cardiac
+nerves	 arising	 from	 the	 cervical	 and	 upper	 thoracic	 sympathetic	 ganglia.	 The
+cardiac	 plexus	 also	 communicates	 with	 the	 pulmonary	 and	 the	 esophageal
+plexuses,	 all	 supplied	 by	 the	 vagus	 nerve	 as	 well	 as	 the	 thoracic	 sympathetic
+ganglia.
+
+The	 celiac	 plexus	 is	 the	 largest	 of	 the	 three	 sympathetic	 plexuses	 and
+innervates	 all	 the	 abdominal	 viscera	 except	 for	 the	 descending	 colon.	 The
+thoracic	 splanchnic	 nerves,	 carrying	 preganglionic	 fibers	 from	 the	 T5-T12
+levels,	 perforate	 the	 diaphragm	 and	 form	 the	 celiac	 plexus,	 which	 lies	 in	 the
+abdomen	 at	 the	 level	 of	 the	 upper	 part	 of	 the	 first	 lumbar	 vertebra,	 behind	 the
+stomach	and	omental	bursa,	in	front	of	the	diaphragm	and	abdominal	aorta,	and
+between	 the	 adrenal	 glands.	 It	 is	 composed	 of	 the	 two	 celiac	 ganglia	 that	 are
+supplied	 by	 the	 greater	 splanchnic	 nerves	 and	 filaments	 from	 the	 right	 vagus
+nerve,	and	the	aorticorenal	ganglia,	which	receive	the	lesser	splanchnic	nerves.
+Other	 plexuses	 arise	 from	 or	 are	 connected	 with	 the	 celiac	 plexus,	 including
+phrenic,	 hepatic,	 splenic,	 and	 others.	 The	 superior	 (anterior)	 gastric	 plexus	 and
+
+the	hepatic	plexus	also	receive	branches	from	the	left	vagus	nerve.	The	renal	and
+inferior	mesenteric	plexuses	and	their	 branches	are	also	supplied	by	the	 lowest
+splanchnic	nerve.
+
+The	hypogastric	plexus	is	located	in	front	of	the	last	lumbar	vertebra	and	the
+promontory	of	the	sacrum,	between	the	two	common	iliac	arteries,	and	is	formed
+by	 the	 union	 of	 many	 elements	 from	 the	 aortic	 plexus	 and	 the	 lumbar
+sympathetic	 chain,	 together	 with	 some	 fibers	 from	 the	 inferior	 mesenteric
+plexus.	 It	 is	 divided	 into	 the	 two	 pelvic	 plexuses	 formed	 by	 fibers	 from	 the
+hypogastric	plexus;	preganglionic	sympathetic	fibers	from	the	second,	third,	and
+fourth	 sacral	 nerves;	 and	 a	 few	 filaments	 from	 the	 sacral	 sympathetic	 ganglia.
+Branches	 are	 distributed	 to	 the	 pelvic	 viscera	 and	 the	 internal	 and	 external
+genitalia	 through	 the	 middle	 hemorrhoidal,	 vesical,	 prostatic,	 vaginal,	 and
+uterine	plexuses.
+
+The	 enteric	 nervous	 system	 consists	 of	 intrinsic	 and	 extrinsic	 components.
+The	 intrinsic	 component	 consists	 of	 Meissner’s	 submucosal	 and	 Auerbach’s
+myenteric	plexi.	The	extrinsic	component	consists	of	preganglionic	sympathetic,
+from	 prevertebral	 ganglia,	 and	 parasympathetic,	 from	 the	 dorsal	 motor	 nucleus
+of	 the	 vagus	 and	 the	 sacral	 parasympathetic	 centers,	 inputs	 that	 control
+peristalsis	and	secretion.
+
+Autonomic	Afferents
+
+General	 visceral	 afferent	 fibers	 convey	 both	 conscious	 and	 unconscious
+sensations	 from	 the	 viscera	 and	 are	 involved	 in	 autonomic	 reflexes.	 Small
+myelinated	 and	 unmyelinated	 fibers	 carry	 impulses	 from	 visceral	 receptors	 to
+cell	 bodies	 in	 the	 dorsal	 root	 and	 cranial	 nerve	 ganglia.	 The	 visceral	 afferents
+that	 enter	 the	 spinal	 cord	 synapse	 on	 neurons	 in	 the	 dorsal	 horn	 and
+intermediolateral	 gray	 column.	 Centrally,	 sensation	 from	 the	 viscera	 travels
+mainly	in	the	spinothalamic	and	spinoreticular	tracts,	but	some	visceral	afferents
+—especially	 those	 related	 to	 bowel	 and	 bladder	 control—are	 carried	 in	 the
+posterior	 columns.	 After	 a	 synapse	 in	 the	 thalamus,	 visceral	 sensory	 fibers
+project	 to	 areas	 of	 the	 cortex	 involved	 in	 autonomic	 function.	 Afferent
+autonomic	fibers	in	the	vagus	nerve	synapse	in	the	nodose	ganglion,	and	those	in
+the	glossopharyngeal	nerve	synapse	in	the	petrosal	ganglion.	The	vagal	afferents
+transmit	impulses	from	the	heart,	great	vessels,	lungs,	and	gastrointestinal	(GI)
+tract;	the	glossopharyngeal	afferents	convey	information	from	the	carotid	sinus.
+These	 afferents	 synapse	 in	 the	 nucleus	 of	 the	 solitary	 tract	 and	 are	 involved	 in
+
+autonomic	reflexes	as	well	as	such	functions	as	coughing	and	swallowing.
+
+Neurotransmitters
+
+pupillary	
+
+constriction,	
+
+Acetylcholine	 is	 the	 neurotransmitter	 at	 sympathetic	 and	 parasympathetic
+preganglionic	 neurons,	 and	 at	 postganglionic	 parasympathetic	 neurons.
+Norepinephrine	 is	 the	 primary	 postganglionic	 sympathetic	 neurotransmitter,
+except	 at	 sweat	 glands,	 which	 are	 cholinergic.	 There	 are	 two	 subtypes	 of
+acetylcholine	 receptor:	 nicotinic	 and	 muscarinic.	 Most	 of	 the	 postganglionic
+acetylcholine	 receptors	 are	 muscarinic.	 They	 mediate	 the	 cardiac	 effects	 and
+cause	
+secretion,
+bronchoconstriction,	 and	 erection.	 They	 also	 stimulate	 GI	 tract	 motility	 and
+cause	 evacuation	 of	 the	 bladder	 and	 rectum.	 There	 are	 two	 main	 subtypes	 of
+adrenergic	 receptors:	 alpha	 and	 beta.	 The	 alpha-adrenergic	 receptors	 mediate
+pupillary	dilatation,	 vasoconstriction,	and	ejaculation,	and	they	also	control	the
+internal	sphincters	of	the	bladder	and	rectum.	Beta-adrenergic	receptors	control
+the	 heart,	 cause	 vasodilation	 and	 bronchial	 dilatation,	 and	 mediate	 metabolic
+effects.	 Some	 postganglionic	 sympathetic	 neurons	 also	 utilize	 adenosine
+triphosphate	 and	 neuropeptide	 Y,	 and	 some	 postganglionic	 parasympathetic
+endings	may	use	vasoactive	intestinal	polypeptide	or	nitric	oxide.
+
+lacrimal	
+
+salivary	
+
+and	
+
+The	Physiology	of	the	Peripheral	Autonomic
+Nervous	System
+
+The	 ANS	 governs	 the	 activities	 of	 cardiac	 and	 smooth	 muscle,	 including	 the
+smooth	 muscle	 of	 the	 blood	 vessels	 and	 the	 functions	 of	 most	 glandular
+structures.	 It	 regulates	 such	 important	 functions	 as	 respiration,	 circulation,
+digestion,	
+to	 normal
+temperature	 adjustment,	 and	 metabolism—all	 vital	
+existence—and	combats	forces	acting	from	within	or	without	that	would	tend	to
+cause	 undesirable	 changes	 in	 the	 normal	 function	 of	 the	 body.	 By	 homeostasis
+the	 constancy	 of	 the	 internal	 environment	 of	 the	 body	 and	 the	 uniformity	 and
+stability	of	the	organism	are	maintained.
+
+The	 sympathetic	 division	 supplies	 all	 parts	 of	 the	 body.	 Its	 functions	 are
+catabolic	and	directed	toward	the	utilization	of	energy.	It	prepares	the	organism
+for	 combat	 or	 escape	 (fight-or-flight	 response).	 It	 acts	 whenever	 rapid
+adjustment	 to	 the	 environment	 is	 required.	 It	 accelerates	 the	 heart,	 dilates	 the
+
+coronary	 vessels,	 increases	 the	 arterial	 blood	 pressure,	 empties	 the	 blood
+reservoirs,	dilates	the	bronchi,	liberates	glucose,	and	inhibits	GI	activity.	It	is	an
+emergency	protective	mechanism	that	is	called	into	action	under	emotional	stress
+and	 causes	 the	 individual	 to	 react	 strongly	 to	 stimuli	 of	 rage	 and	 fear.	 The
+parasympathetic	division	supplies	special	structures,	such	as	the	pupils,	salivary
+glands,	 heart,	 lungs,	 GI	 tract,	 bladder,	 and	 portions	 of	 the	 genital	 system.	 In
+certain	 parasympathetic	 functions,	 as	 in	 bladder,	 rectal,	 and	 genital	 activity,
+contraction	of	striated	muscles	is	closely	integrated	with	that	of	smooth	muscle.
+The	 parasympathetic	 division	 conserves	 energy.	 It	 controls	 anabolic,	 excretory,
+and	 reproductive	 functions,	 and	 conserves	 and	 restores	 bodily	 resources	 and
+energy.
+
+TABLE
+45.1
+
+Effects	of	Sympathetic	and	Parasympathetic	Systems
+on	Various	Effector	Organs
+
+Organ
+
+Pupil
+
+Sympathetic	Effect
+
+Parasympathetic	Effect
+
+Pupillodilation	(alpha)
+
+Pupilloconstriction
+
+Accommodation
+
+Decreased
+
+Increased
+
+Heart
+
+Positive	chronotropic
+
+Negative	chronotropic
+
+effect	(beta)
+
+effect
+
+Positive	inotropic	effect
+
+Negative	inotropic	effect
+
+(beta)
+
+Arteries
+
+Vasoconstriction
+
+Vasodilation
+
+Veins
+
+(alpha)
+
+Vasodilation	(beta)
+
+Vasoconstriction
+
+(alpha)
+
+Vasoconstriction	(beta)
+
+Tracheobronchial
+
+Bronchodilation	(beta) Bronchoconstriction
+
+tree
+
+	
+	
+	
+	
+	
+	
+Increased	bronchial	gland
+
+secretions
+
+Gastrointestinal
+
+Decreased	motility
+
+Increased	motility
+
+tract
+
+(beta)
+
+Contraction	of
+
+Relaxation	of	sphincters
+
+sphincters	(alpha)
+
+Bladder
+
+Detrusor	relaxation
+
+Detrusor	contraction
+
+(beta)
+
+Contraction	of
+
+Relaxation	of	sphincter
+
+sphincter	(alpha)
+
+Salivary	glands
+
+Scant,	thick,	viscid
+saliva	(alpha)
+
+Copious,	thin,	watery
+
+saliva
+
+Skin
+
+Piloerection	(cutis
+
+No	piloerection
+
+anserina)
+
+Sweat	glands
+
+Increased	secretion
+
+Decreased	secretion
+
+(cholinergic)
+
+Genitalia
+
+Erection
+
+Ejaculation
+
+Ejaculation
+
+Adrenal	medulla
+
+Catecholamine	release 	
+
+Glycogen
+
+Glycogenolysis	(alpha
+
+Glycogen	synthesis
+
+and	beta)
+
+Lipolysis	(alpha	and
+
+beta)
+
+The	 viscera	 receive	 a	 dual	 autonomic	 supply,	 both	 sympathetic	 and
+parasympathetic.	 In	 general	 these	 two	 divisions	 are	 antagonistic	 and	 reciprocal
+in	their	functions,	but	there	are	exceptions.	Table	45.1	compares	the	functions	of
+the	two	divisions	in	the	innervation	of	various	effector	organs.
+
+	
+	
+	
+	
+	
+	
+	
+	
+THE	CENTRAL	REGULATION	OF	AUTONOMIC
+FUNCTION
+
+The	peripheral	ANS	is	under	the	control	of	higher	centers	in	the	cerebral	cortex,
+especially	 the	 amygdala,	 hypothalamus,	 basal	 forebrain,	 ventral	 striatum,
+brainstem,	 and	 spinal	 cord	 that	 regulate	 and	 influence	 the	 function	 of	 its
+peripheral	components.	The	centers	in	the	CNS	that	are	involved	in	autonomic
+function	 are	 referred	 to	 as	 the	 central	 autonomic	 network.	 The	 neurons	 of	 the
+central	 autonomic	 network	 are	 interconnected	 and	 make	 up	 a	 functional	 unit.
+The	most	important	of	these	centers	is	the	hypothalamus.
+
+The	Hypothalamus
+
+The	 hypothalamus	 (Figure	45.4)	 is	 part	 of	 the	 ventral	 diencephalon,	 lying	 just
+below	the	thalamus	and	above	the	pituitary	gland.	The	entire	area	measures	only
+about	14	×	18	×	20	mm	and	weighs	only	4	g.	It	forms	most	of	the	floor	and	part
+of	the	lateral	wall	of	the	third	ventricle,	extending	from	the	level	of	the	chiasm	to
+the	interpeduncular	fossa.	From	a	strictly	anatomic	point	of	view	it	includes	the
+optic	 chiasm,	 neurohypophysis	 (posterior	 pituitary),	
+infundibulum,	 pars
+supraoptica,	 tuber	 cinereum,	 and	 mammillary	 bodies,	 but	 from	 a	 physiologic
+point	of	view	the	first	three	structures	are	not	included.	The	supraoptic	nucleus	is
+located	just	above	the	optic	chiasm.	The	mammillary	bodies	are	a	pair	of	small
+spherical	 gray	 matter	 masses	 that	 lie	 in	 the	 interpeduncular	 fossa	 rostral	 to	 the
+posterior	perforated	substance	and	contain	the	mammillary	nuclei;	they	form	the
+caudal	portion	of	the	hypothalamus.	Beneath	the	hypothalamus	a	hollow,	conical
+process,	the	infundibulum,	or	pituitary	stalk,	projects	downward	and	forward	and
+is	 attached	 to	 the	 posterior	 lobe	 of	 the	 hypophysis.	 The	 infundibulum	 contains
+the	supraopticohypophyseal	and	tuberohypophyseal	tracts.	The	tuber	cinereum	is
+a	prominence	that	lies	between	the	mammillary	bodies	and	the	infundibulum.
+
+FIGURE	 45.4	 Diagrammatic	 sketch	 of	 the	 human	 hypothalamus.	 A.	 Anterior
+commissure.	 B.	 Optic	 nerve.	 (1)	 Lateral	 preoptic	 area,	 permeated	 by	 the	 median
+forebrain	 bundle.	 (2)	 Medial	 preoptic	 area.	 (3)	 Paraventricular	 nucleus.	 (4)	 Anterior
+hypothalamic	 area.	 (5)	 Suprachiasmatic	 nucleus.	 (6)	 Supraoptic	 nucleus.	 (7)
+Dorsomedial	 hypothalamic	 nucleus.	 (8)	 Ventromedial	 hypothalamic	 nucleus.	 (9)
+Posterior	 hypothalamic	 area.	 (10)	 Medial	 mammillary	 nucleus.	 (11)	 Lateral
+mammillary	 nucleus.	 (12)	 Premammillary	 area.	 (13)	 Supramammillary	 area.	 (14)
+Interpeduncular	nucleus.	(15)	Lateral	hypothalamic	area.	(16)	 Stria	 habenularis.	 (17)
+Fornix.	(18)	Habenulopeduncular	tract.
+
+The	 boundaries	 of	 the	 hypothalamus	 are	 not	 sharply	 defined.	 Anteriorly	 it
+merges	with	the	basal	olfactory	and	preoptic	areas,	and	caudally	it	is	continuous
+with	 the	 central	 gray	 matter	 and	 tegmentum	 of	 the	 midbrain.	 Laterally	 it	 is
+continuous	 with	 the	 subthalamic	 region;	 superiorly	 it	 is	 separated	 from	 the
+thalamus	proper	by	the	hypothalamic	sulcus.	The	preoptic	area	is	the	region	just
+above	and	anterior	to	the	chiasm,	extending	to	the	lamina	terminalis	and	anterior
+commissure.
+
+The	 hypothalamus	 is	 composed	 of	 numerous	 nerve	 cells,	 not	 uniformly
+distributed	but	arranged	into	more	or	less	definite	regions	or	nuclear	groups.	It
+can	be	divided	into	three	longitudinal	zones:	periventricular,	medial,	and	lateral,
+all	 of	 which	 send	 descending	 fibers	 to	 the	 brainstem	 and	 spinal	 cord.	 The
+paraventricular	 and	 supraoptic	 hypothalamic	 nuclei	 give	
+the
+supraopticohypophyseal	 tract	 and	 are	 important	 in	 osmotic	 balance.	 The
+paraventricular	nucleus	has	subpopulations	of	neurons	that	produce	vasopressin,
+oxytocin,	 corticotropin-releasing	 hormone,	 and	 other	 hormones	 involved	 in
+pituitary	 function.	 Destruction	 of	 the	 paraventricular	 and	 supraoptic	 nuclei
+causes	 diabetes	
+in
+insipidus.	 The	 paraventricular	 nucleus	
+cardiovascular	 regulation.	 Afferents	 to	 the	 paraventricular	 nucleus	 come	 from
+the	 medial	 prefrontal	 cortex,	 amygdalae,	 and	 insular	 and	 other	 hypothalamic
+nuclei.
+
+important	
+
+rise	
+
+to	
+
+is	
+
+The	 medial	 zone	 of	 the	 hypothalamus	 contains	 the	 medial	 preoptic	 nucleus,
+which	controls	gonadotropin	release	and	is	involved	in	thermoregulation,	and	the
+anterior	 nucleus,	 which	 is	 also	 involved	 in	 thermoregulation.	 The	 lateral	 zone
+contains	the	lateral	preoptic	and	lateral	hypothalamic	nuclei	and	is	traversed	by
+the	 medial	 forebrain	 bundle.	 Stimulation	 of	 the	 lateral	 nucleus	 causes	 eating,
+whereas	ablation	causes	starvation.	The	lateral	zone	is	also	involved	in	arousal
+the
+and	 sleep	 mechanisms.	 The	 arcuate	 (infundibular)	 nucleus	
+the
+tuber	 cinereum	 and	 gives	
+periventricular	
+tuberohypophyseal	 tract.	 It	 contains	 releasing	 factors	 that	 control	 release	 of
+hormones	from	the	anterior	pituitary.	It	also	contains	dopaminergic	neurons	that
+act	to	inhibit	the	release	of	prolactin.
+
+region	 of	
+
+lies	
+rise	
+
+in	
+to	
+
+the	
+
+The	 autonomic	 pathways	 that	 descend	 from	 the	 hypothalamus	 run	 primarily
+in	 the	 ipsilateral	 brainstem	 tegmentum.	 In	 the	 spinal	 cord	 the	 descending
+autonomic	fibers	are	in	the	anterolateral	fasciculus.	They	are	widely	distributed
+but	 run	 primarily	 in	 the	 reticulospinal	 tracts.	 Some	 fibers,	 especially	 those
+subserving	bladder	control,	lie	close	to	the	lateral	corticospinal	tracts.	Impulses
+the
+carried	
+intermediolateral	column	of	the	spinal	cord.
+
+terminate	 at	 appropriate	
+
+these	 pathways	
+
+through	
+
+levels	
+
+in	
+
+Despite	 its	 small	 size,	 the	 hypothalamus	 has	 extensive	 and	 complex
+connections,	 some	 organized	 into	 definite	 bundles	 or	 tracts,	 others	 diffuse	 and
+difficult	 to	 trace	 (Figure	45.5).	 It	 is	 involved	 in	 the	 functions	 of	 the	 ANS,	 the
+endocrine	 system,	 and	 the	 limbic	 system.	 The	 hypothalamus	 receives	 impulses
+from	the	primary	olfactory	area,	septal	area,	and	orbitofrontal	cortex	through	the
+medial	 forebrain	 bundle;	 from	 the	 amygdaloid	 nucleus	 through	 the	 stria
+
+terminalis;	 from	 the	 hippocampal	 formation	 through	 the	 fornix;	 and	 from	 the
+raphe	 nuclei,	 locus	 caeruleus,	 and	 tegmental	 nuclei	 of	 the	 brainstem.	 It	 sends
+efferent	 fibers	 through	 the	 medial	 forebrain	 bundle	 to	 the	 septal	 area	 and
+brainstem,	via	the	mamillothalamic	tract	to	the	anterior	nucleus	of	the	thalamus,
+by	 the	 stria	 terminalis	 to	 the	 amygdala,	 and	 to	 the	 dorsomedial	 nucleus	 of	 the
+thalamus.	 The	 tuberohypophyseal	 tract	 and	 hypophyseal	 portal	 system	 connect
+the	hypothalamus	to	the	adenohypophysis	and	the	supraopticohypophyseal	tract
+connects	it	to	the	neurohypophysis.
+
+Other	Components	of	the	Central	Autonomic
+Network
+
+It	
+
+include	
+
+involved	
+
+function.	
+
+receives	 afferents	
+
+important	 centers	
+
+in	 autonomic	 control	
+
+Other	
+the
+periaqueductal	 gray	 matter	 (PAG)	 in	 the	 midbrain,	 other	 brainstem	 nuclei,	 the
+cerebral	 cortex,	 and	 the	 amygdala.	 The	 PAG	 is	 important	 in	 the	 micturition
+reflex,	 pain	 mechanisms—including	 opiate	 responsiveness—and	 the	 fight-or-
+flight	response.	Descending	pathways	from	the	PAG	modulate,	primarily	inhibit,
+pain.	 The	 nucleus	 of	 the	 solitary	 tract	 (NST)	 in	 the	 medulla	 is	 involved	 in
+cardiopulmonary	 and	 GI	
+from	 arterial
+baroreceptors	 and	 chemoreceptors,	 and	 mediates	 important	 autonomic	 reflexes.
+The	medullary	cardiorespiratory	centers	consist	of	cells	in	the	reticular	formation
+of	 the	 ventral	 medulla	 that	 control	 blood	 pressure	 and	 respiration	 and	 mediate
+cardiorespiratory	 reflexes.	 Afferents	 from	 baroreceptors,	 chemoreceptors,	 and
+cardiac	 and	 pulmonary	 receptors	 travel	 into	 the	 brainstem	 through	 the
+glossopharyngeal	and	vagus	nerves	and	synapse	in	the	NST.	Projections	from	the
+NST	 activate	 the	 nucleus	 ambiguus	 and	 dorsal	 motor	 nucleus	 of	 the	 vagus,
+which	send	parasympathetic	fibers	to	the	heart	and	lungs.	Bilateral	lesions	of	the
+NST	 cause	 acute	 neurogenic	 hypertension.	 There	 are	 also	 projections	 from	 the
+NST	to	the	reticular	formation	neurons	involved	in	respiratory	rhythmogenesis,
+and	to	cells	that	send	sympathetic	fibers	to	the	intermediolateral	column	of	the
+spinal	 cord.	 Reticular	 formation	 interneurons,	 along	 with	 the	 NST,	 are	 also
+involved	 in	 such	 functions	 as	 coughing,	 sneezing,	 and	 vomiting.	 The
+reticulospinal	 pathways	 involved	 in	 cardiovascular	 and	 respiratory	 function
+descend	in	the	ventral	part	of	lateral	columns	of	the	spinal	cord.
+
+Neurons	 in	 the	 nucleus	 ambiguus	 are	 part	 of	 the	 system	 of	 cardiac
+parasympathetic	 innervation	 and	 are	 involved	 in	 the	 automatic	 control	 of
+
+respiration.	 The	 parabrachial	 nuclear	 complex	 lies	 in	 the	 dorsolateral	 pontine
+tegmentum.	 It	 includes	 the	 medial	 and	 lateral	 parabrachial	 nuclei	 and	 the
+Kölliker-Fuse	 nucleus.	 The	 parabrachial	 complex	 is	 involved	 in	 the	 processing
+of	visceral	information,	pain	modulation,	and	automatic	control	of	respiration.
+
+The	primary	cortical	areas	involved	in	autonomic	function	include	the	cortex
+of	the	insula,	the	medial	prefrontal	cortex,	the	cingulate	gyrus,	and	the	nucleus	of
+the	amygdala.	The	medial	prefrontal	cortex	is	activated	by	stress	and	is	involved
+in	autonomic	and	affective	responses.	Sensory	input	from	the	viscera	project	to
+the	 insula.	 It	 connects	 with	 the	 limbic	 system	 and	 projects	 to	 the	 amygdalae.
+There	are	wide	connections	with	other	cortical	regions.	It	is	an	important	area	in
+cardiovascular	regulation.	Damage	to	the	insula	in	cerebrovascular	disease	may
+mediate	 hypertension,	 arrhythmias,	 myocardial	 injury,	 and	 an	 increased	 risk	 of
+sudden	 death.	 The	 amygdala	 communicates	 with	 the	 hypothalamus,	 PAG,	 and
+the	brainstem	autonomic	nuclei.	It	is	important	in	regulating	vigilance,	memory
+modulation,	emotional	learning,	and	fear	mechanisms.
+
+FIGURE	45.5	 Direct	 and	 indirect	 neural	 connections	 of	 the	 hypothalamus	 with	 other
+parts	of	the	brain	and	spinal	cord.	(Reprinted	with	permission	from	Kiernan	JA.	Barr’s
+The	Human	Nervous	System:	An	Anatomical	Viewpoint.	9th	ed.	Philadelphia:	Wolters
+Kluwer	Health/Lippincott	Williams	&	Wilkins,	2009.)
+
+EXAMINATION
+
+The	 history	 in	 patients	 with	 autonomic	 insufficiency	 may	 reveal	 symptoms
+related	to	orthostatic	hypotension,	abnormalities	 of	sweating,	 or	dysfunction	 of
+the	 GI	 or	 genitourinary	 tracts.	 Symptoms	 of	 orthostasis	 include	 dizziness	 or
+
+light-headedness,	 feelings	 of	 presyncope,	 syncope,	 palpitations,	 tremulousness,
+weakness,	 confusion,	 or	 slurred	 speech,	 all	 worse	 with	 standing.	 Occasional
+patients	 complain	 only	 of	 difficulty	 walking.	 The	 symptoms	 of	 orthostasis	 are
+often	worse	postprandially,	after	a	hot	bath	or	ingestion	of	alcohol,	or	following
+exercise.	 Sweating	 abnormalities	 may	 produce	 abnormal	 dryness	 of	 the	 skin,
+sometimes	 with	 excessive	 sweating	 in	 uninvolved	 regions.	 Other	 symptoms
+include	constipation,	dysphagia,	early	satiety,	anorexia,	diarrhea	(particularly	at
+night),	 weight	
+loss,	 erectile	 dysfunction,	 ejaculatory	 failure,	 retrograde
+ejaculation,	urinary	retention,	urinary	urgency,	recurrent	urinary	tract	infections,
+and	urinary	or	fecal	incontinence.
+
+The	 general	 physical	 and	 neurologic	 examinations	 may	 reveal	 a	 variety	 of
+abnormalities	in	patients	with	disorders	of	the	ANS.	Acromegaly,	dwarfism,	or
+signs	of	endocrine	imbalance	or	sexual	immaturity	may	indicate	a	hypothalamic
+abnormality.	Abnormal	dryness	of	the	skin	may	be	a	sign	of	sudomotor	failure
+and	could	occur	in	a	localized	distribution,	as	with	a	peripheral	nerve	injury,	or
+be	generalized,	as	in	diffuse	dysautonomia.	Lack	of	normal	moisture	in	the	socks
+may	 indicate	 deficient	 sweating.	 A	 simple	 bedside	 test	 to	 demonstrate	 the
+distribution	 of	 abnormal	 skin	 dryness	 related	 to	 loss	 of	 sweating	 is	 to	 note	 the
+resistance	to	stroking	of	the	skin	with	a	finger	or	an	object	such	as	the	barrel	of	a
+pen	or	a	spoon.	When	a	spoon	is	drawn	over	the	skin,	it	pulls	smoothly	over	dry
+(sympathectomized)	 skin	 but	 irregularly	 and	 unevenly	 over	 moist,	 perspiring
+skin.	It	is	often	possible	to	see	the	sweat	droplets	on	the	skin,	especially	on	the
+papillary	 ridges	 of	 the	 fingers,	 using	 the	 +20	 ophthalmoscope	 lens.	 Other
+cutaneous	signs	of	autonomic	dysregulation	include	changes	in	skin	temperature
+or	 color,	 mottling,	 alopecia,	 hypertrichosis,	 thickening	 or	 fragility	 of	 the	 nails,
+absent	piloerection,	decreased	hand	wrinkling	in	water,	and	skin	atrophy.	Acral
+vasomotor	dysregulation	may	lead	to	pallor,	acrocyanosis,	mottling,	erythema,	or
+livedo	 reticularis.	 Patients	 with	 dysautonomia	 associated	 with	 a	 regional	 pain
+syndrome	 may	 have	 allodynia	 and	 hyperalgesia	 in	 addition	 to	 the	 autonomic
+changes.
+
+Assessment	of	orthostatic	changes	in	blood	pressure	(BP)	and	heart	rate	(HR)
+are	 basic	 tests	 of	 cardiovascular	 autonomic	 function.	 At	 the	 bedside,	 BP	 and
+pulse	 are	 taken	 with	 the	 patient	 supine	 and	 after	 standing	 for	 variable	 periods;
+typically	 the	 BP	 is	 determined	 at	 1,	 3,	 and	 5	 minutes	 after	 standing.	 Tilt	 table
+testing	 is	 more	 precise.	 Normally,	 systolic	 blood	 pressure	 (SBP)	 on	 standing
+does	 not	 decrease	 by	 more	 than	 20	 mm	 Hg,	 and	 the	 diastolic	 blood	 pressure
+(DBP)	by	not	more	than	10	mm	Hg.	There	are	more	stringent	diagnostic	criteria
+
+that	permit	a	30-point	drop	in	SBP	or	a	15-point	drop	in	DBP	in	normals.	When
+BP	measurement	is	done	with	a	standard	sphygmomanometer,	the	cuff	should	be
+kept	at	heart	level	to	minimize	hydrostatic	influence	on	the	measurement.	When
+routine	 measurements	 are	 unrevealing,	 orthostatic	 blood	 pressure	 declines	 can
+sometimes	 be	 detected	 by	 having	 the	 patient	 perform	 5	 to	 10	 squats	 and	 then
+repeating	the	measurements.
+
+The	HR	should	not	increase	by	more	than	30	beats	per	minute	above	baseline
+on	 standing.	 In	 hypovolemia,	 the	 most	 common	 cause	 of	 orthostasis,	 a	 reflex
+tachycardia	 develops	 in	 response	 to	 the	 fall	 in	 standing	 blood	 pressure.	 When
+autonomic	cardiovascular	reflexes	are	impaired,	the	reflex	tachycardia	may	not
+occur.	 Patients	 with	 the	 postural	 tachycardia	 syndrome	 will	 develop	 a	 brisk
+tachycardia	 without	 orthostatic	 hypotension	 (increased	 pulse	 rate	 more	 than	 30
+beats	 per	 minute	 above	 baseline	 or	 more	 than	 120	 beats	 per	 minute).	 The
+sustained	hand	grip,	mental	stress,	and	cold	pressor	tests	all	look	for	increases	in
+DBP	 of	 at	 least	 15	 mm	 Hg	 or	 an	 increase	 in	 HR	 of	 greater	 than	 10	 beats	 per
+minute	 in	 response	 to	 peripheral	 vasoconstriction	 induced,	 respectively,	 by
+isometric	 hand	 exercise,	 mental	 arithmetic,	 or	 immersion	 of	 the	 hand	 in	 cold
+water.	 The	 cold	 face	 test	 assesses	 the	 trigeminovagal	 (diving)	 reflex.	 Resting
+tachycardia	may	be	a	sign	of	parasympathetic	dysfunction.
+
+Clinical	 assessment	 of	 bladder	 function	 is	 done	 by	 looking	 for	 evidence	 of
+distension	 by	 palpation	 and	 percussion,	 and	 by	 checking	 the	 anal	 wink	 and
+bulbocavernosus	reflexes.	The	bulbocavernosus	and	superficial	anal	reflexes	are
+somatic	 motor	 reflexes;	 the	 internal	 anal	 and	 scrotal	 reflexes	 are	 autonomic
+reflexes.	The	internal	anal	sphincter	reflex	is	contraction	of	the	internal	sphincter
+on	 insertion	 of	 a	 gloved	 finger	 into	 the	 anus.	 If	 the	 reflex	 is	 impaired	 there	 is
+decreased	 sphincter	 tone	 and	 the	 anus	 does	 not	 close	 immediately	 after
+withdrawal.	 Postvoid	 residual	 urine	 volume	 is	 determined	 by	 catheterization
+after	voiding.
+
+Tear	production	by	the	lacrimal	glands	can	be	evaluated	in	a	number	of	ways
+by	 ophthalmologists.	 A	 convenient	 and	 simple	 bedside	 assessment	 can	 be
+obtained	with	the	Schirmer	test,	done	by	placing	a	strip	of	sterile	filter	paper	in
+the	lower	conjunctival	sac	and	measuring	the	degree	of	wetting	over	5	minutes.
+Additional	eye	findings	include	excessive	dryness	with	redness	and	itching,	and
+ptosis.	 Examination	 of	 the	 pupil	 is	 discussed	 in	 Chapter	 14.	 When	 autonomic
+failure	occurs	as	part	of	a	neurologic	illness,	there	may	be	findings	related	to	the
+underlying	 condition	 such	 as	 extrapyramidal	 or	 cerebellar	 signs,	 abnormal	 eye
+movements,	weakness,	sensory	loss,	or	reflex	abnormalities.
+
+Autonomic	Function	Testing
+
+Many	 different	 procedures	 have	 been	 developed	 to	 test	 the	 sympathetic	 and
+parasympathetic	nervous	systems.	Tests	of	cardiac	vagal	tone	include	assessment
+of	 heart	 rate	 variability	 to	 deep	 breathing,	 standing,	 and	 performing	 Valsalva.
+The	 beat-to-beat	 changes	 in	 heart	 rate	 in	 response	 to	 autonomic	 reflexes	 occur
+quickly,	often	too	quickly	for	bedside	assessment	to	be	accurate.	It	is	possible	at
+the	bedside	to	determine	if	heart	rate	variability	with	respiration	or	to	Valsalva	is
+present	 and	 obvious	 (probably	 normal),	 present	 but	 minimal	 (possibly
+abnormal),	 or	 absent	 (abnormal).	 More	 precise	 testing	 requires	 equipment,	 and
+may	include	an	indwelling	arterial	catheter	to	follow	BP	changes.
+
+Normal	 sinus	 arrhythmia	 is	 the	 beat-to-beat	 variability	 in	 heart	 rate	 that
+occurs	 with	 respiration.	 It	 is	 most	 prominent	 in	 healthy	 young	 people.	 Sinus
+arrhythmia	normally	becomes	less	prominent	with	age,	and	it	may	be	markedly
+impaired	or	abolished	when	vagal	innervation	of	the	heart	is	compromised.	The
+heart	 rate	 response	 to	 deep	 breathing	 (HRDB)	 shows	 maximal	 variability	 at	 a
+breathing	 rate	 of	 5	 to	 6	 per	 minute.	 The	 HRDB	 can	 be	 assessed	 at	 the	 bedside
+simply	 by	 noting	 pulse	 variability;	 it	 can	 be	 measured	 more	 quantitatively	 by
+measuring	 the	 R-R	 interval	 with	 cardiac	 monitoring.	 The	 expiratory-to-
+inspiratory	 ratio	 quantitates	the	 variability	in	HRDB.	 The	 heart	rate	 response	 to
+standing	 (30:15	 ratio)	 is	 another	 method	 of	 evaluating	 the	 baroreflex	 arc.	 The
+most	 dramatic	 changes	 in	 HR	 normally	 occur	 in	 the	 first	 30	 seconds	 after
+standing,	with	an	initial	tachycardia,	followed	by	bradycardia	about	20	seconds
+later.	The	30:15	(tachycardia:bradycardia)	ratio	is	the	ratio	of	the	R-R	interval	at
+beat	30/R-R	interval	at	beat	15;	normal	is	>1.04.
+
+The	 respiratory	 variability	 in	 heart	 rate	 is	 exaggerated	 when	 a	 Valsalva
+maneuver	 is	 performed.	 The	 cardiovascular	 responses	 to	 Valsalva	 are	 divided
+into	four	phases.	Phases	I	and	II	occur	during	breath	holding	and	phases	III	and
+IV	 after	 release.	 The	 BP	 and	 HR	 responses	 are	 mirror	 images:	 when	 BP
+increases,	 HR	 reflexly	 decreases.	 Measuring	 HR	 alone	 is	 adequate	 for	 some
+aspects	 of	
+the	 Valsalva	 response,	 but	 a	 complete	 evaluation	 requires
+measurement	 of	 BP.	 In	 phase	 I	 there	 is	 a	 brief	 rise	 in	 BP	 because	 of	 increased
+intrathoracic	 pressure	 constricting	 the	 great	 vessels;	 in	 phase	 II,	 there	 is	 a
+gradual	 fall	 in	 BP	 because	 of	 impaired	 venous	 return	 that	 reaches	 a	 plateau
+because	 of	 peripheral	 vasoconstriction,	 with	 a	 compensatory	 tachycardia;	 in
+phase	 III,	 there	 is	 a	 brief	 fall	 in	 BP	 because	 of	 removal	 of	 the	 intrathoracic
+pressure	 constricting	 the	 great	 vessels.	 Phase	 IV	 occurs	 after	 the	 Valsalva	 is
+
+released	and	the	patient	resumes	normal	breathing;	the	BP	begins	to	recover	and
+slowly	rises.	About	15	to	20	seconds	after	release,	there	is	a	rebound	overshoot
+of	BP	to	a	level	above	baseline,	accompanied	by	a	reflex	bradycardia	with	an	HR
+below	 baseline,	 lasting	 for	 approximately	 1	 minute.	 The	 Valsalva	 ratio	 is	 the
+ratio	of	the	fastest	HR	during	phase	II	to	the	slowest	HR	during	phase	IV,	or	the
+longest	R-R	interval	during	phase	IV	to	the	shortest	R-R	interval	during	phase	II.
+Normal	 is	 approximately	 ≥1.45,	 but	 age	 specific	 reference	 values	 are	 more
+precise.	A	lack	of	rebound	overshoot	of	BP	during	phase	IV	is	an	early	indicator
+of	 autonomic	 dysfunction.	 A	 lack	 of	 overshoot	 can	 also	 occur	 in	 some	 non-
+neurologic	 conditions,	 such	 as	 congestive	 heart	 failure.	 The	 BP	 changes	 occur
+quickly,	and	it	is	not	possible	to	follow	the	complete	cycle	at	the	bedside	with	a
+BP	 cuff.	 The	 rebound	 overshoot	 in	 phase	 IV,	 however,	 can	 be	 detected	 by
+inflating	 a	 cuff	 to	 just	 at	 SBP	 and	 then	 having	 the	 patient	 Valsalva.	 Without
+changing	the	cuff	pressure,	the	sounds	will	disappear	during	breath	holding,	and
+on	release	the	sounds	will	return	and	can	be	followed	up	to	detect	the	rebound
+overshoot	in	BP.
+
+for	 different	 durations.	
+
+Tilt-table	 testing	 evaluates	 the	 integrity	 of	 autonomic	 reflexes.	 Autonomic
+laboratories	 use	 different	 degrees	 of	 tilt,	 but	 usually	 in	 the	 range	 of	 60	 to	 80
+degrees	 and	
+(vasovagal,
+vasodepressor)	 syncope,	 or	
+is	 accompanied	 by
+bradycardia,	rather	than	the	tachycardia	that	should	occur.	It	occurs	in	response
+to	 emotional	 upsets	 such	 as	 fear,	 stress,	 or	 the	 sight	 of	 blood;	 occasionally	 in
+relation	 to	micturition	 (micturition	 syncope)	 or	coughing	 (cough	syncope);	 and
+sometimes	 without	 identifiable	 provocation.	 Tilt-table	 testing	 has	 shown	 that	 a
+neurocardiogenic	mechanism	is	responsible	for	a	large	proportion	of	the	patients
+with	recurrent,	unexplained	syncope.
+
+fainting,	 hypotension	
+
+In	 neurocardiogenic	
+
+Tests	 for	 thermoregulatory	 and	 sudomotor	 function	 include	 the	 sympathetic
+skin	response	(SSR),	QSART	(Quantitative	Sudomotor	Axon	Reflex	Test),	sweat
+imprint,	 and	 thermoregulatory	 sweat	 test	 (TST).	 The	 SSR	 assesses	 peripheral
+sympathetic	 function	 by	 detecting	 changes	 in	 skin	 resistance	 in	 response	 to
+sudomotor	 discharges.	 The	 TST	 assesses	 both	 the	 central	 and	 peripheral
+sympathetic	 components	 by	 analyzing	 the	 sweating	 response	 to	 a	 rise	 in	 body
+temperature.	 The	 QSART	 assesses	 the	 postganglionic	 sudomotor	 fibers	 by
+measuring	 the	 sweat	 output	 in	 response	 to	 iontophoresis	 into	 the	 skin	 of
+acetylcholine.	The	sweat	imprint	test	quantitates	sweat	output	by	visualizing	the
+imprints	 sweat	 droplets	 make	 on	 a	 plastic	 or	 silicone	 mold.	 A	 TST	 combined
+with	a	test	of	postganglionic	function	can	localize	the	site	of	a	process	producing
+
+anhidrosis.	 If	 the	 postganglionic	 function	 test	 is	 abnormal,	 the	 cause	 is
+postganglionic.	But	if	the	postganglionic	test	is	normal	and	the	TST	is	abnormal,
+the	cause	is	preganglionic.	Sudoscan	measures	electrochemical	skin	conductance
+of	 the	 hands	 and	 feet	 through	 reverse	 iontophoresis.	 This	 technique	 is	 another
+method	for	measuring	sudomotor	function	in	small	fiber	neuropathy.
+
+DISORDERS	OF	THE	AUTONOMIC	NERVOUS
+SYSTEM
+
+Autonomic	disorders	can	be	divided	into	those	that	affect	the	central	autonomic
+elements	 and	 are	 typically	 associated	 with	 other	 evidence	 of	 CNS	 disease	 and
+those	 that	 affect	 the	 peripheral	 autonomic	 nervous	 system.	 Disorders	 may	 be
+local	 or	 generalized,	 and	 primary	 or	 secondary.	 Adie’s	 pupil	 is	 an	 example	 of
+localized	 and	 acute	 pandysautonomia	 an	 example	 of	 generalized	 dysfunction.
+Pure	 autonomic	 failure	 is	 an	 example	 of	 primary	 and	 amyloid	 neuropathy	 an
+example	of	secondary	dysautonomia.	Autonomic	dysfunction	is	usually	manifest
+by	 underactivity,	 but	 hyperactivity	 occurs	 under	 some	 circumstances.
+Paroxysmal	 dysautonomia	 is	 common	 in	 spinal	 cord	 injury.	 Orthostatic
+hypertension	 occurs	 because	 of	 overactive	 pressor	 reflexes.	 A	 massive
+trigeminal-parasympathetic	discharge	causes	the	lacrimation	and	nasal	secretion
+during	attacks	of	cluster	headache.
+
+Multiple	system	atrophy	(MSA)	is	a	degenerative	neurologic	disorder,	which
+is	 usually	 accompanied	 by	 prominent	 dysautonomia	 (Chapter	 30).	 The
+autonomic	failure	in	MSA	results	from	involvement	of	preganglionic	neurons	in
+the	 brainstem	 and	 spinal	 cord	 in	 the	 degenerative	 process.	 Autonomic	 failure
+impotence,	 constipation,	 and	 urinary
+produces	 orthostatic	 hypotension,	
+incontinence;	it	may	be	associated	with	respiratory	symptoms	such	as	laryngeal
+stridor	and	sleep	apnea.	Autonomic	dysfunction	may	also	occur	in	patients	with
+Parkinson’s	disease,	but	usually	late	in	the	illness	and	not	to	the	degree	typical	of
+MSA.	 Autonomic	 disturbances	 may	
+including
+cardiovascular	 changes,	 flushing,	 pallor,	 sweating,	 shivering,	 piloerection,
+respiratory	 abnormalities.	 Seizure-induced	 cardiovascular
+vomiting,	 and	
+abnormalities	 include	 sinus	 tachycardia,	 bradyarrhythmia,	 sinus	 arrest,	 and
+ventricular	 tachyarrhythmias,	 including	 ventricular	 fibrillation.	 Autonomic
+dysfunction	may	also	be	a	major	feature	of	dementia	with	Lewy	bodies,	MS,	and
+Wernicke’s	encephalopathy.
+
+accompany	
+
+seizures,	
+
+Hypothalamic	 disorders	 may	 cause	 many	 abnormalities	 of	 autonomic
+function,	 including	 deficiencies	 in	 osmoregulation	 and	 thermoregulation;
+abnormalities	 of	 appetite	 and	 body	 weight;	 sleep	 disturbances;	 changes	 in
+carbohydrate,	fat,	and	water	metabolism;	and	respiratory	abnormalities	together
+with,	 in	 many	 instances,	 behavioral	 abnormalities	 and	 personality	 changes.
+lesions	 may	 cause	 either	 hyperthermia	 or	 hypothermia.
+Hypothalamic	
+Hyperthermia	 generally	 results	 from	 involvement	 of	 the	 tuberal	 region,
+especially	 the	 supraoptic	 nuclei	 or	 the	 rostral	 portion	 of	 the	 anterior
+hypothalamus.	 It	 is	 a	 common	 manifestation	 of	 third	 ventricular	 tumors,	 and
+may	 occur	 after	 head	 trauma	 or	 cranial	 surgery;	 terminal	 hyperthermia	 is	 a
+frequent	 manifestation	 of	 neurologic	 disease.	 Hypothermia	 tends	 to	 occur	 with
+involvement	 of	 the	 posterior	 hypothalamic	 area	 and	 mammillary	 bodies.
+Disorders	 of	 the	 anterior	 hypothalamus	 tend	 to	 cause	 loss	 of	 the	 ability	 to
+regulate	 against	 heat	 and	 disorders	 of	 the	 posterior	 hypothalamus,	 loss	 of	 the
+ability	to	regulate	against	cold.
+
+The	hypothalamus	 is	 closely	related	 anatomically	and	physiologically	 to	the
+pituitary	gland	(Figure	45.6).	Because	 the	 hypothalamus	 controls	 the	release	of
+many	of	the	anterior	pituitary	hormones,	abnormalities	of	hypothalamic	function
+may	 have	 a	 close	 relationship	 to	 some	 endocrine	 disorders.	 Lesions	 of	 the
+supraoptic	 nuclei	 or	 the	 supraopticohypophyseal	 tract	 cause	 diabetes	 insipidus.
+Diabetes	insipidus	is	a	common	manifestation	of	tumors	in	the	parasellar	region,
+encephalitis,	 and	 meningitis,	 and	 it	 may	 develop	 after	 intracranial	 surgery	 or
+head	injury.	Lesions	involving	the	hypothalamus	may	also	cause	disturbances	of
+fat	 metabolism.	 The	 Froehlich,	 or	 adiposogenital,	 syndrome	 was	 the	 first
+hypothalamic	 syndrome	 described.	 It	 is	 characterized	 by	 disturbances	 of	 fat
+metabolism	and	sexual	underdevelopment.
+
+Abnormalities	 of	 respiration	 may	 be	 caused	 by	 hypothalamic	 dysfunction.
+These	include	hyperpnea,	apnea,	Cheyne-Stokes	respirations,	and	Biot	breathing.
+Disturbances	of	the	sleep	cycle	may	occur	with	hypothalamic	lesions,	especially
+those	 involving	 its	 posterior	 portions,	 including	 the	 mammillary	 bodies.	 There
+may	 be	 hypersomnolence,	 inversion	 of	 the	 sleep	 cycle,	 or	 insomnia.	 In	 the
+Kline-Levin	 syndrome	
+there	 are	 periodic	 attacks	 of	 hypersomnolence,
+accompanied	 by	 bulimia,	 irritability,	 behavioral	 changes,	 and	 uninhibited
+sexuality.	Neurons	in	the	lateral	hypothalamus	synthesize	hypocretin,	a	chemical
+involved	 in	 the	 pathogenesis	 of	 narcolepsy,	 and	 project	 to	 brainstem	 regions
+involved	 in	 rapid-eye-movement	 sleep.	 Disturbances	 of	 sexual	 function	 and
+sexual	 development	 occur	 with	 hypothalamic	 lesions,	 including	 precocious
+
+puberty	and	sexual	infantilism.
+
+FIGURE	45.6	Longitudinal	section	through	the	human	hypothalamus	and	hypophysis.
+
+The	hypothalamus	is	involved	with	emotions.	It	is	the	center	that	coordinates
+the	 neural	 and	 humoral	 mechanisms	 of	 emotional	 expression.	 Hypothalamic
+lesions	 in	 animals	 may	 cause	 “sham	 rage,”	 with	 pupillary	 dilatation,	 increased
+pulse	 rate	 and	 BP,	 piloerection,	 and	 other	 signs	 of	 sympathetic	 overactivity.
+These	 physical	 manifestations	 suggest	 an	 intense	 emotional	 reaction	 is	 taking
+place,	but	there	is	no	change	in	affect.
+
+Brainstem	 disorders	 commonly	 cause	 autonomic	 dysfunction,	 including
+paroxysmal	 hypertension,	 profound	 bradycardia,	 intractable	 vomiting,	 central
+hypo-	 and	 hyperventilation,	 neurogenic	 pulmonary	 edema,	 and	 Horner’s
+syndrome.	The	automatic	and	the	voluntary	breathing	pathways	are	separated	in
+the	 brainstem	 and	 upper	 spinal	 cord.	 Selective	 damage	 of	 the	 pathways
+subserving	automatic	breathing	may	cause	respiratory	insufficiency	during	sleep,
+with	 preserved	 respiration	 during	 wakefulness	 (Ondine’s	 curse).	 The	 Cushing
+reflex,	 or	 Cushing	 triad,	 is	 bradycardia,	 hypertension,	 and	 slow,	 irregular
+respirations	 due	 to	 brainstem	 compromise	 and	 has	 ominous	 prognostic
+implications.	Myelopathy,	particularly	spinal	cord	injury,	is	often	associated	with
+severe	dysautonomia.
+
+Peripheral	 autonomic	 failure	 results	 from	 disorders	 that	 involve	 the
+autonomic	 ganglia	 or	 postganglionic	 nerve	 fibers.	 The	 syndrome	 of	 pure
+autonomic	failure	is	a	slowly	progressive,	degenerative	disorder	of	the	ANS	in
+which	 dysautonomia	 occurs	 in	 isolation,	 without	 other	 evidence	 of	 neurologic
+disease.	Dysautonomia	occurs	commonly	in	some	peripheral	nerve	disorders.	It
+may	 develop	 acutely	 in	 Guillain-Barré	 syndrome,	 porphyria,	 and	 some
+paraneoplastic	 neuropathies.	 Acute	 pandysautonomia	 is	 a	 condition	 probably
+akin	to	Guillain-Barré	syndrome	but	in	which	dysautonomia	occurs	in	isolation.
+Chronic	neuropathies	often	associated	with	major	autonomic	dysfunction	include
+diabetes	 mellitus,	 alcoholism,	 amyloidosis,	 hereditary	 sensory	 autonomic
+neuropathy	 type	 III	 (Riley-Day	 syndrome),	 Fabry’s	 disease,	 and	 vincristine
+toxicity.	The	most	common	cause	of	autonomic	neuropathy	is	diabetes	mellitus.
+Patients	 typically	 develop	 orthostatic	 hypotension,	 impotence,	 gastroparesis,
+constipation	alternating	with	diarrhea,	nocturnal	diarrhea,	and	difficulty	voiding.
+Autoimmune	attack	on	autonomic	ganglia	may	cause	severe	autonomic	failure.
+
+Dysautonomia	 may	 accompany	 disorders	 of	 neuromuscular	 transmission,
+particularly	 Lambert-Eaton	 syndrome	 and	 botulism,	 in	 which	 the	 defect	 is
+presynaptic	and	acetylcholine	release	is	impaired	at	autonomic	synapses	as	well
+as	 at	 neuromuscular	 junctions.	 Some	 autonomic	 disorders	 occur	 in	 a	 restricted
+distribution	 or	 involve	 a	 particular	 organ	 system.	 Autonomic	 disorders	 of	 the
+pupil	include	Argyll	Robertson	and	Adie’s	pupils,	Horner’s	syndrome,	and	third
+cranial	nerve	palsy.	Dysautonomia	primarily	involving	the	vascular	system	may
+cause	 Raynaud’s	 phenomenon,	 acrocyanosis,	 erythromelalgia	 (Weir	 Mitchell
+syndrome),	 and	 livedo	 reticularis.	 Autonomic	 dysfunction	 of	 the	 genitalia
+causing	 erectile	 dysfunction	 and	 other	 abnormalities	 is	 common,	 especially	 in
+diabetes	mellitus.	Abnormalities	of	sweating	occur	frequently	and	are	sometimes
+
+the	only	manifestation	of	the	autonomic	disturbance.	Autonomic	dysregulation	is
+a	common	component	of	complex	regional	pain	syndromes	(reflex	sympathetic
+dystrophy)	and	occurs	in	the	same	distribution	as	the	pain.
+
+The	Bladder
+
+Bladder	 function	 involves	 both	 the	 autonomic	 and	 the	 voluntary	 nervous
+systems,	and	disorders	of	bladder	function	may	follow	lesions	of	the	paracentral
+lobule,	 hypothalamus,	 descending	 pathways	 in	 the	 spinal	 cord,	 pre-	 or
+postganglionic	parasympathetic	nerves,	or	pudendal	nerve.	The	detrusor	muscle
+of	 the	 bladder	 is	 innervated	 by	 parasympathetic	 neurons	 located	 in	 the	 S2-S4
+intermediolateral	 column	 (Figure	 45.7).	 Onuf’s	 nucleus	 consists	 of	 additional
+motor	neurons	located	in	the	nearby	anterior	horn	at	the	same	levels.	The	axons
+from	Onuf’s	nucleus	innervate	the	external	urethral	sphincter.	There	is	a	curious
+preservation	 of	 the	 Onuf	 nucleus	 neurons	 in	 amyotrophic	 lateral	 sclerosis.	 The
+internal	urethral	sphincter	at	the	neck	of	the	bladder	receives	its	innervation	from
+the	 intermediolateral	 column	 at	 the	 T12-L1	 level,	 via	 the	 sympathetic
+prevertebral	plexus	and	the	hypogastric	nerve.
+
+Micturition	 is	 a	 spinobulbospinal	 reflex.	 In	 response	 to	 stretch,	 afferent
+impulses	are	carried	to	the	sacral	spinal	cord.	Sacral	cord	projections	to	the	PAG
+are	 relayed	 to	 the	 pontine	 micturition	 center	 (Barrington’s	 nucleus)	 in	 the
+dorsomedial	 pontine	 tegmentum,	 near	 the	 locus	 caeruleus,	 which	 sends
+descending	 fibers	 to	 the	 preganglionic	 parasympathetic	 motoneurons	 in	 the
+sacral	cord	innervating	the	bladder.	The	pontine	micturition	center	is	under	the
+control	 of	 centers	 in	 the	 forebrain.	 Descending	 impulses	 activate	 the	 efferent
+centers	 in	 the	 sacral	 cord,	 causing	 contraction	 of	 the	 detrusor	 muscle	 and
+relaxation	 of	 the	 internal	 sphincter.	 In	 the	 infant,	 bladder	 function	 is	 purely
+reflex,	but	with	cortical	maturation	and	the	completion	of	myelination	inhibitory
+control	over	this	reflex	develops,	as	well	as	voluntary	regulation	of	the	external
+sphincter.	 Normal	 micturition	 requires	 intact	 autonomic	 and	 spinal	 pathways,
+and	cerebral	inhibition	and	control	of	the	external	sphincter	must	be	normal.
+
+Forebrain	 lesions	 may	 cause	 loss	 of	 voluntary	 bladder	 control,	 but	 do	 not
+affect	 the	 spinobulbospinal	 reflex	 mechanisms.	 Disruption	 of	 the	 bulbospinal
+pathway	 from	 the	 pontine	 micturition	 center	 to	 the	 sacral	 cord,	 and	 lesions
+affecting	the	afferent	and	efferent	connections	between	the	bladder	and	the	conus
+medullaris,	may	cause	severe	disturbances	in	bladder	function.
+
+The	term	neurogenic	bladder	refers	to	bladder	dysfunction	caused	by	disease
+
+of	 the	 nervous	 system.	 Symptoms	 of	 bladder	 dysfunction	 are	 often	 among	 the
+earliest	 manifestations	 of	 nervous	 system	 disease.	 Frequency,	 urgency,
+precipitate	micturition,	massive	or	dribbling	incontinence,	difficulty	in	initiating
+urination,	 urinary	 retention,	 and	 loss	 of	 bladder	 sensation	 may	 occur.	 One
+practical	 classification	 of	 neurogenic	 bladder	 dysfunction	
+is	 based	 on
+urodynamic	 criteria	 and	 includes	 the	 following	 types:	 uninhibited,	 reflex,
+autonomous,	sensory	paralytic,	and	motor	paralytic.
+
+FIGURE	45.7	Innervation	of	the	urinary	bladder.
+
+In	the	uninhibited	neurogenic	bladder,	there	is	a	loss	of	the	cortical	inhibition
+of	 reflex	 voiding,	 although	 bladder	 tone	 remains	 normal.	 Bladder	 distention
+causes	contraction	in	response	to	the	stretch	reflex.	There	is	frequency,	urgency,
+
+and	 incontinence	 that	 are	 not	 associated	 with	 dysuria.	 Hesitancy	 may	 precede
+urgency.	 Bladder	 sensation	 is	 usually	 normal.	 There	 is	 no	 residual	 urine.	 The
+reflex	 neurogenic	 bladder	 occurs	 with	 severe	 myelopathy	 or	 extensive	 brain
+lesions	 causing	 interruption	 of	 both	 the	 descending	 autonomic	 tracts	 to	 the
+bladder	 and	 the	 ascending	 sensory	 pathways	 above	 the	 sacral	 segments	 of	 the
+cord.	 The	 bladder	 capacity	 is	 small,	 and	 micturition	 is	 reflex	 and	 involuntary.
+The	residual	urine	volume	is	variable.	An	autonomous	neurogenic	bladder	is	one
+without	external	innervation.	It	is	caused	by	neoplastic,	traumatic,	inflammatory,
+and	other	lesions	of	the	sacral	spinal	cord,	conus	medullaris	or	cauda	equina,	S2-
+S4	 motor	 or	 sensory	 roots,	 or	 the	 peripheral	 nerves,	 and	 with	 congenital
+anomalies	 such	 as	 spina	 bifida.	 There	 is	 destruction	 of	 the	 parasympathetic
+supply.	 Sensation	 is	 absent,	 and	 there	 is	 no	 reflex	 or	 voluntary	 control	 of	 the
+bladder;	 contractions	 occur	 as	 the	 result	 of	 stimulation	 of	 the	 intrinsic	 neural
+plexuses	within	the	bladder	wall.	The	amount	of	residual	urine	is	large,	but	the
+bladder	 capacity	 is	 not	 greatly	 increased.	 A	 sensory	 paralytic	 bladder	 is	 found
+with	lesions	that	involve	the	posterior	roots	or	posterior	root	ganglia	of	the	sacral
+nerves,	or	the	posterior	columns	of	the	spinal	cord.	Sensation	is	absent,	and	there
+is	 no	 desire	 to	 void.	 There	 may	 be	 distention,	 dribbling,	 and	 difficulty	 both	 in
+initiating	 micturition	 and	 in	 emptying	 the	 bladder.	 There	 is	 a	 large	 amount	 of
+residual	urine.	A	motor	paralytic	bladder	develops	when	the	motor	nerve	supply
+to	 the	 bladder	 is	 interrupted.	 The	 bladder	 distends	 and	 decompensates,	 but
+sensation	is	normal.	The	residual	urine	and	bladder	capacity	vary.
+
+Sexual	Function
+
+Disturbed	 sexual	 function	 is	 common	 in	 dysautonomia.	 In	 the	 genital	 (sex,
+ejaculatory,	 coital)	 reflex,	 arousal	 causes	 penile	 erection	 and	 sometimes
+ejaculation.	 Erection	 is	 a	 parasympathetic	 function	 mediated	 through	 S2-S4;
+ejaculation	 is	 a	 largely	 sympathetic	 function	 mediated	 by	 the	 lumbar	 nerves.
+Autonomic	insufficiency	usually	causes	impotence,	but	pathologic	exaggeration
+of	the	sexual	reflex	may	occur	as	part	of	the	mass	reflex,	a	spinal	defense	reflex
+seen	 in	 severe	 myelopathy	 (see	 Chapter	 40),	 and	 may	 produce	 priapism	 and
+occasionally	 ejaculation	 after	 minimal	 stimulation.	 In	 autonomic	 neuropathy,
+especially	from	diabetes,	retrograde	ejaculation	may	precede	the	development	of
+impotence.	 Because	 the	 internal	 vesical	 sphincter	 does	 not	 close,	 semen	 goes
+into	 the	 bladder	 rather	 than	 externally	 through	 the	 urethra.	 The	 patient	 with
+retrograde	ejaculation	may	notice	milky-appearing	urine.
+
+BIBLIOGRAPHY
+
+Adkisson	 WO,	 Benditt	 DG.	 Syncope	 due	 to	 autonomic	 dysfunction:	 diagnosis
+
+and	management.	Med	Clin	North	Am	2015;99:691–710.
+
+Alexander	 MS.	 Autonomic	 function	 and	 spinal	 cord	 injury:	 are	 we	 at	 a
+
+crossroads?	Spinal	Cord	2008;46:402–405.
+
+Ay	H,	Koroshetz	WJ,	Benner	T,	et	al.	Neuroanatomic	correlates	of	stroke-related
+
+myocardial	injury.	Neurology	2006;66:1325–1329.
+
+Baguley	 IJ.	 Autonomic	 complications	 following	 central	 nervous	 system	 injury.
+
+Semin	Neurol	2008;28:716–725.
+
+Baranchuk	 A,	 Nault	 MA,	 Morillo	 CA.	 The	 central	 nervous	 system	 and	 sudden
+
+cardiac	death:	what	should	we	know?	Cardiol	J	2009;16:105–112.
+
+Benarroch	 EE.	 The	 central	 autonomic	 network:	 functional	 organization,
+
+dysfunction,	and	perspective.	Mayo	Clin	Proc	1993;68:988–1001.
+
+Benarroch	EE.	Brainstem	respiratory	control:	substrates	of	respiratory	failure	of
+
+multiple	system	atrophy.	Mov	Disord	2007;22:155–161.
+
+Benarroch	 EE,	 Chang	 Fl.	 Central	 autonomic	 disorders.	 J	 Neurophysiol
+
+1993;10:39–50.
+
+Benarroch	 E,	 Freeman	 R,	 Kaufmann	 H.	 Autonomic	 nervous	 system.	 In:	 Goetz
+
+CG,	ed.	Textbook	of	Clinical	Neurology.	Philadelphia:	Saunders,	2003.
+
+Blok	 BF,	 Holstege	 G.	 Direct	 projections	 from	 the	 periaqueductal	 gray	 to	 the
+pontine	micturition	center	(M-region).	An	anterograde	and	retrograde	tracing
+study	in	the	cat.	Neurosci	Lett	1994;166:93–96.
+
+Blok	BF,	Holstege	G.	The	central	nervous	system	control	of	micturition	in	cats
+
+and	humans.	Behav	Brain	Res	1998;92:119–125.
+
+Cheshire	 WP.	 Autonomic	 disorders	 and	 their	 management.	 In:	 Goldman	 L,
+Schafer	 AI,	 eds.	 Goldman-Cecil	 Medicine.	 25th	 ed.	 Philadelphia:	 W.B.
+Elsevier/Saunders,	2016.
+
+Cheshire	 WP	 Jr,	 Saper	 CB.	 The	 insular	 cortex	 and	 cardiac	 response	 to	 stroke.
+
+Neurology	2006;66:1296–1297.
+
+Drummond	 PD.	 Mechanisms	 of	 autonomic	 disturbance	 in	 the	 face	 during	 and
+
+between	attacks	of	cluster	headache.	Cephalalgia	2006;26:633–641.
+
+Duchesne	M,	Richard	L,	et	al.	Assessing	sudomotor	impairment	in	patients	with
+peripheral	neuropathy:	comparison	between	electrochemical	skin	conductance
+and	skin	biopsy.	Clin	Neurophysiol	2018;129:1341–1348.
+
+England	JD,	Gronseth	GS,	Franklin	G,	et	al.	Practice	parameter:	the	evaluation
+of	 distal	 symmetric	 polyneuropathy:	 the	 role	 of	 autonomic	 testing,	 nerve
+
+biopsy,	and	skin	biopsy	(an	evidence-based	review).	Report	of	the	American
+Academy	 of	 Neurology,	 the	 American	 Association	 of	 Neuromuscular	 and
+Electrodiagnostic	Medicine,	and	the	American	Academy	of	Physical	Medicine
+and	Rehabilitation.	PM	R	2009;1:14–22.
+
+Elmquist	JK,	Elias	CF,	Saper	CB.	From	lesions	to	leptin:	hypothalamic	control
+
+of	food	intake	and	body	weight.	Neuron	1999;22:221–232.
+
+Etienne	 M,	 Weimer	 LH.	 Immune-mediated	 autonomic	 neuropathies.	 Curr
+
+Neurol	Neurosci	Rep	2006;6:57–64.
+
+Fessel	 J,	 Robertson	 D.	 Orthostatic	 hypertension:	 when	 pressor	 reflexes
+
+overcompensate.	Nat	Clin	Pract	Nephrol	2006;2:424–431.
+
+Freeman	R.	Autonomic	peripheral	neuropathy.	Neurol	Clin	2007;25:277–301.
+Freeman	R,	Chapleau	MW.	Testing	the	autonomic	nervous	system.	Handb	Clin
+
+Neurol	2013;115:115–136.
+
+Freeman	 R,	 Dover	 JS.	 Autonomic	 neurodermatology	 (Part	 I):	 erythromelalgia,
+reticularis.	 Semin	 Neurol
+
+livedo	
+
+reflex	 sympathetic	 dystrophy,	 and	
+1992;12:385–393.
+
+Freeman	R,	Schachter	SC.	Autonomic	epilepsy.	Semin	Neurol	1995;15:158–166.
+Freeman	 R,	 Waldorf	 HA,	 Dover	 JS.	 Autonomic	 neurodermatology	 (Part	 II):
+
+disorders	of	sweating	and	flushing.	Semin	Neurol	1992;12:394–407.
+
+Goldstein	DS,	Robertson	D,	Esler	M,	et	al.	Dysautonomias:	clinical	disorders	of
+
+the	autonomic	nervous	system.	Ann	Intern	Med	2002;137:753–763.
+
+Haensch	 CA,	 Jorg	 J.	 Autonomic	 dysfunction	 in	 multiple	 sclerosis.	 J	 Neurol
+
+2006;253(suppl	1):I3–I9.
+
+Jones	PK,	Gibbons	CH.	Autonomic	function	testing:	an	important	diagnostic	test
+
+for	patients	with	syncope.	Pract	Neurol	2015;15:346–351.
+
+Kandel	 ER.	 Principles	 of	 Neural	 Science.	 5th	 ed.	 New	 York:	 McGraw-Hill
+
+Medical,	2013.
+
+Kaufmann	H.	Neurally	mediated	syncope	and	syncope	due	to	autonomic	failure:
+
+differences	and	similarities.	J	Clin	Neurophysiol	1997;14:183–196.
+
+Kimpinski	K,	Iodice	V,	Sandroni	P,	et	al.	Sudomotor	dysfunction	in	autoimmune
+
+autonomic	ganglionopathy.	Neurology	2009;73:1501–1506.
+
+Klein	CM.	Evaluation	and	management	of	autonomic	nervous	system	disorders.
+
+Semin	Neurol	2008;28:195–204.
+
+Klein	 CM,	 Vernino	 S,	 Lennon	 VA,	 et	 al.	 The	 spectrum	 of	 autoimmune
+
+autonomic	neuropathies.	Ann	Neurol	2003;53:752–758.
+
+Leone	 M,	 Bussone	 G.	 Pathophysiology	 of	 trigeminal	 autonomic	 cephalalgias.
+
+Lancet	Neurol	2009;8:755–764.
+
+Low	 PA,	 Opfer-Gehrking	 TL,	 Textor	 SC,	 et	 al.	 Postural	 tachycardia	 syndrome
+
+(POTS).	Neurology	1995;45:S19–S25.
+
+Low	 PA,	 Vernino	 S,	 Suarez	 G.	 Autonomic	 dysfunction	 in	 peripheral	 nerve
+
+disease.	Muscle	Nerve	2003;27:646–661.
+
+Luigetti	 M,	 Primiano	 G,	 Cuccagna	 C,	 et	 al.	 Small	 fibre	 neuropathy	 in
+sudoscan.	 Clin	 Neurophysiol
+
+mitochondrial	 diseases	 explored	 with	
+2018;129:1618–1623.
+
+Mehr	 SE,	 Barbul	 A,	 Shibao	 CA.	 Gastrointestinal	 symptoms	 in	 postural
+tachycardia	syndrome:	a	systematic	review.	Clin	Auton	Res	2018;28:411–421.
+Pasnoor	 M,	 Dimachkie	 MM.	 Chronic	 autonomic	 neuropathies.	 In:	 Roos	 RP,
+Editor-in-Chief.	 MedLink	 Neurology.	 San	 Diego:	 MedLink	 Corporation.
+www.medlink.com.	Accessed	January	7,	2016.
+
+Perkes	 I,	 Baguley	 IJ,	 Nott	 MT,	 et	 al.	 A	 review	 of	 paroxysmal	 sympathetic
+
+hyperactivity	after	acquired	brain	injury.	Ann	Neurol	2010;68:126–135.
+
+Pischik	 E,	 Kauppinen	 R.	 Neurological	 manifestations	 of	 acute	 intermittent
+
+porphyria.	Cell	Mol	Biol	(Noisy-le-grand)	2009;55:72–83.
+
+Rajan	 S,	 Campagnolo	 M,	 Callaghan	 B,	 et	 al.	 Sudomotor	 function	 testing	 by
+electrochemical	skin	conductance:	does	it	really	measure	sudomotor	function?
+Clin	Auton	Res	2018.	[Epub	ahead	of	print].
+
+Ravits	 JM.	 AAEM	 minimonograph	 #48:	 autonomic	 nervous	 system	 testing.
+
+Muscle	Nerve	1997;20:919–937.
+
+Ropper	AH,	Samuels	MA,	Klein	J.	Adams	and	Victor’s	Principles	of	Neurology.
+
+10th	ed.	New	York:	McGraw-Hill	Education	Medical,	2014.
+
+Saper	CB.	“All	fall	down”:	the	mechanism	of	orthostatic	hypotension	in	multiple
+
+systems	atrophy	and	Parkinson’s	disease.	Ann	Neurol	1998;43:149.
+
+Sedy	 J,	 Zicha	 J,	 Kunes	 J,	 et	 al.	 Mechanisms	 of	 neurogenic	 pulmonary	 edema
+
+development.	Physiol	Res	2008;57:499–506.
+
+Shields	 RW.	 Functional	 anatomy	 of	 the	 autonomic	 nervous	 system.	 J
+
+Neurophysiol	1993;10:2–13.
+
+Shivaprasad	 C,	 Amit	 G,	 Anish	 K,	 et	 al.	 Clinical	 correlates	 of	 sudomotor
+dysfunction	 in	 patients	 with	 type	 2	 diabetes	 and	 peripheral	 neuropathy.
+Diabetes	Res	Clin	Pract	2018;139:188–194.
+
+Tabbaa	 MA,	 Leshner	 RT,	 Campbell	 WW.	 Malignant	
+
+thymoma	 with
+dysautonomia	 and	 disordered	 neuromuscular	 transmission.	 Arch	 Neurol
+1986;43:955–957.
+
+Vernino	 S.	 Antibody	 testing	 as	 a	 diagnostic	 tool	 in	 autonomic	 disorders.	 Clin
+
+Auton	Res	2009;19:13–19.
+
+Vernino	S,	Sandroni	P,	Singer	W,	et	al.	Invited	article:	autonomic	ganglia:	target
+
+and	novel	therapeutic	tool.	Neurology	2008;70:1926–1932.
+
+Vianna	 DM,	 Brandao	 ML.	 Anatomical	 connections	 of	 the	 periaqueductal	 gray:
+specific	 neural	 substrates	 for	 different	 kinds	 of	 fear.	 Braz	 J	 Med	 Biol	 Res
+2003;36:557–566.
+
+Weimer	 LH.	 Autonomic	 testing:	 common	 techniques	 and	 clinical	 applications.
+
+Neurologist	2010;16:215–222.
+
+Zilliox	 L,	 Russell	 JW,	 Weimer	 LH.	 Acute	 autonomic	 neuropathies.	 In:	 Weimer
+LH,	 Editor-in-Chief.	MedLink	 Neurology.	 San	 Diego:	 MedLink	 Corporation.
+www.medlink.com.	Accessed	May	24,	2018.
+
+Zimmerman	 M,	 Pourhamidi	 K,	 Rolandsson	 O,	 et	 al.	 Autonomic	 neuropathy-a
+prospective	 cohort	 study	 of	 symptoms	 and	 E/I	 ratio	 in	 normal	 glucose
+tolerance,	 impaired	 glucose	 tolerance,	 and	 type	 2	 diabetes.	 Front	 Neurol
+2018;9:154.
+
+

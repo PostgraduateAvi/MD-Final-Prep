@@ -1,0 +1,13 @@
+
+--- Sheet: Basic sciences-2020 ---
+ serial number                                                                                                                                 question
+             1                                  Discuss the Pathophysiology of Gestational diabetes, and various diagnostic criteria and complications.
+             2                                                    Discuss and describe approach to a case of hypokalemia, complications and management.
+             3 Describe the blood supply of Heart. Describe in detail difference in Clinical presentation of Right and Left coronary arterial syndrome.
+             4                                                Describe Neural mechanism of REM sleep. Mention abnormalities of sleep related disorders.
+             5                                                                     Describe clinical features, causes and treatment of Hypoalbuminemia.
+             6                                                                                                       Extended spectrum Beta lactamases.
+             7                                                                                Describe the genetics of inherited coagulation disorders.
+             8                                                            Describe mechanism of action of Metformin, side effects & beneficial effects.
+             9                                                                                                                        Pharmacogenetics 
+            10                                                                    Cross section of medulla and short note on any 2 brain stem syndromes

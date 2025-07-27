@@ -1,0 +1,57 @@
+           category                                    filename file_type  size_bytes  text_length  total_tokens  unique_tokens
+ harrison_textbooks                 Harrison's-Rheumatology.pdf      .pdf    13147898      3758602        876612         294888
+ harrison_textbooks          Harrison's -Respiratory System.pdf      .pdf     8260681      2578610        568429         158736
+ harrison_textbooks             Harrison's-Gastroenterology.pdf      .pdf    16258950      4367028       1032324         343762
+ harrison_textbooks                      Harrison's-General.pdf      .pdf    23648996      6514647       1542408         443961
+ harrison_textbooks              Harrison's-Haematology.pdf.pdf      .pdf    20098445      5677768       1336523         436972
+ harrison_textbooks                Harrison's-Endocrinology.pdf      .pdf    19333360      5427122       1279068         397171
+ harrison_textbooks           Harrisons-Infectious Diseases.pdf      .pdf    39380985     10613307       2513277         829197
+ harrison_textbooks                  Harrison's- Nephrology.pdf      .pdf     7316164      2020191        464873         140613
+ harrison_textbooks                  Harrison's- Cardiology.pdf      .pdf    32769297     10556584       2263779         583500
+ harrison_textbooks                    Harrison's-Neurology.pdf      .pdf    12581541      3454599        817663         275672
+         guidelines                           ADA-TREATMENT.pdf      .pdf      496877       184788         39220          15301
+         guidelines                               KDIGO-AKI.pdf      .pdf     1650239       751564        118819          44055
+         guidelines                      ADA-GLYCEMIC GOALS.pdf      .pdf     2924726       901226        200622          75263
+         guidelines                         KDIGO-BP IN CKD.pdf      .pdf     4642743      1592555        279163          99586
+         guidelines            ADA-PHARMOCOLOGICAL APPROACH.pdf      .pdf     1875566       669893        124288          49904
+         guidelines                          ADA-EVALUATION.pdf      .pdf      788340       320507         56710          22506
+         guidelines                               KDIGO-CKD.pdf      .pdf     5966902      1934490        445261         138954
+         guidelines                              ADA-KIDNEY.pdf      .pdf      733385       269508         51190          22704
+         guidelines                IDSA-community pneumonia.pdf      .pdf      735203       239560         46110          21390
+         guidelines                    ADA-STANDARD OF CARE.pdf      .pdf      455068       187445         34256          14629
+         guidelines                     KDIGO-Anemia in CKD.pdf      .pdf      968835       419186         69532          28551
+         guidelines                           ADA-Diagnosis.pdf      .pdf      615758       254171         42503          17523
+         guidelines                   KDIGO-LUPUS NEPHRITIS.pdf      .pdf     1737164       539143        133447          47647
+neurology_textbooks                            Motor System.pdf      .pdf    15405391      4320125       1066936         329399
+neurology_textbooks   Brainstem and Cranial nerve syndromes.pdf      .pdf     2055595       525147        127462          49438
+neurology_textbooks                      Cortical functions.pdf      .pdf     5995322      1638131        405722         132895
+neurology_textbooks               Autonomous nervous system.pdf      .pdf     1740129       477099        119640          42909
+neurology_textbooks                Archit Neurology section.pdf      .pdf    25416582      6717421       1582749         530976
+neurology_textbooks                          Cranial Nerves.pdf      .pdf    17757300      4785610       1178858         365905
+neurology_textbooks                    Cordination and Gait.pdf      .pdf     2339943       651307        162181          57172
+neurology_textbooks                       General Neurology.pdf      .pdf     4175202      1045338        253256          91370
+    question_papers                 Systemic medicine-2017.xlsx     .xlsx        9677          102            14             14
+    question_papers                 Systemic_Medicine_2023.xlsx     .xlsx        9795          102            13             13
+    question_papers                     Basic science-2023.xlsx     .xlsx        9681           98            14             14
+    question_papers                     Basic science-2022.xlsx     .xlsx        9722           98            14             14
+    question_papers                Infectious disease-2019.xlsx     .xlsx        9717          103            14             14
+    question_papers                   Recent advances 2020.xlsx     .xlsx        9711          100            15             15
+    question_papers                     Basic science 2019.xlsx     .xlsx       10406           99            15             15
+    question_papers              Systemic examination 2021.xlsx     .xlsx       10303          106            15             15
+    question_papers Systemic_Medicine_Paper_II_2025_manual.xlsx     .xlsx        9907          118            13             13
+    question_papers                          Reserve paper.xlsx     .xlsx        9724           93            14             14
+    question_papers              Infectious diseases- 2021.xlsx     .xlsx        9693          105            15             15
+    question_papers                     Basic science 2016.xlsx     .xlsx        9733           98            15             15
+    question_papers               Infectious diseases-2023.xlsx     .xlsx       10201          105            14             14
+    question_papers                 Systemic_Medicine_2022.xlsx     .xlsx        9651          102            13             13
+    question_papers                   Recent_Advances_2022.xlsx     .xlsx        9656          100            13             13
+    question_papers                Infectious disease-2024.xlsx     .xlsx        9794          103            14             14
+    question_papers                     Basic science-2016.xlsx     .xlsx        9734           98            14             14
+    question_papers                   Recent Advances-2021.xlsx     .xlsx        9871          100            14             14
+    question_papers                 Systemic medicine-2020.xlsx     .xlsx        9728          102            14             14
+    question_papers                     Basic science-2024.xlsx     .xlsx        9784           98            14             14
+    question_papers                 Systemic medicine-2019.xlsx     .xlsx        9635          102            14             14
+    question_papers                   Recent Advances-2024.xlsx     .xlsx        9775          100            14             14
+    question_papers                Systemic medicine -2018.xlsx     .xlsx        9719          103            15             15
+    question_papers                     Basic science-2020.xlsx     .xlsx        9861           98            14             14
+    question_papers               Infectious diseases-2022.xlsx     .xlsx        9651          104            14             14

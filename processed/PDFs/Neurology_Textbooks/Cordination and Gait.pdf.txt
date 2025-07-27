@@ -1,0 +1,2263 @@
+SECTION	H	Coordination	and	Gait
+
+CHAPTER	43
+
+Cerebellar	Function
+
+The	 cerebellum	 is	 tasked	 with	 bringing	 finesse	 to	 the	 motor	 system.	 Although
+not	primarily	involved	in	the	mechanisms	for	production	of	muscle	power,	it	is
+necessary	 for	 normal	 control	 and	 regulation	 of	 muscle	 contraction.	 The	 major
+function	of	the	cerebellum,	from	a	clinical	point	of	view,	is	the	coordination	of
+movement.	The	cerebellum	is	the	portion	of	the	brain	through	which	the	cerebral
+motor	 cortex	 achieves	 the	 synthesis	 and	 coordination	 of	 individual	 muscle
+contractions	 required	 for	 normal	 voluntary	 movements.	 Without	 it,	 movements
+are	 gross,	 uncoordinated,	 clumsy,	 and	 tremulous,	 and	 precise	 movements
+become	impossible.	Lesions	of	the	cerebellum	do	not	cause	weakness,	but	rather
+loss	of	coordination	and	inability	to	gauge	and	regulate,	as	Gordon	Holmes	said,
+the	 “rate,	 range,	 and	 force”	 of	 movement.	 Although	 motor	 strength	 and	 power
+are	preserved,	active	movements	are	severely	compromised.
+
+In	order	to	perform	any	movement—especially	a	complex	act	involving	many
+muscle	 groups—contractions	 of	 the	 agonists,	 antagonists,	 synergists,	 and
+muscles	of	fixation	must	be	adequately	coordinated.	To	begin	a	movement,	the
+agonists	contract	to	execute	the	movement;	the	antagonists	relax	or	modify	their
+tone	 to	 facilitate	 it;	 the	 synergists	 reinforce	 the	 movement;	 and	 the	 fixating
+muscles	prevent	displacements	and	maintain	the	appropriate	posture	of	the	limb.
+To	terminate	the	movement,	the	antagonists	contract	and	the	agonists	relax.	The
+individual	muscles	that	enter	into	the	act	must	be	controlled	and	coordinated,	as
+a	 conductor	 would	 direct	 an	 orchestra,	 precisely	 regulating	 the	 action	 of	 the
+individual	parts.	The	cerebellum	is	the	conductor.	It	is	essential	to	the	synergy	of
+muscle	contraction	and	is	the	center	of	coordination	for	voluntary	movement.	It
+does	 not	 provide	 power	 and	 does	 not	 play	 an	 instrument,	 but	 without	 it	 the
+symphony	 of	 normal	 movement	 degenerates	 into	 a	 cacophony	 of	 disorganized
+muscle	contractions.
+
+A	 major	 manifestation	 of	 cerebellar	 lesions	 is	 ataxia	 (Gr.	 a	 “without,”	 taxis
+
+“order”);	 a	 rough	 translation	 is	 “not	 orderly.”	 The	 essential	 feature	 in	 ataxia	 is
+that	movements	are	not	normally	organized.	Although	the	term	is	a	general	one,
+indicating	chaotic	and	disorganized	movement,	it	is	used	clinically	primarily	to
+refer	to	the	motor	control	abnormalities—including	incoordination,	tremor,	and
+impaired	 rapid	 alternating	 movements	 (RAMs)—that	 occur	 with	 cerebellar
+lesions.	Ataxia	is	not	specific	for	cerebellar	disease,	and	lesions	in	other	parts	of
+the	 nervous	 system	 must	 be	 excluded	 before	 attributing	 ataxia	 to	 cerebellar
+disease.	 Impaired	 proprioception	 may	 cause	 sensory	 ataxia,	 and	 lesions
+involving	 pathways	 that	 originate	 in	 the	 frontal	 lobe	 may	 cause	 frontal	 lobe
+ataxia.	 Other	 common	 manifestations	 of	 cerebellar	 disease	 include	 nystagmus,
+impaired	balance,	and	difficulty	walking.
+
+ANATOMY
+
+The	cerebellum	is	located	in	the	posterior	fossa,	beneath	the	tentorium	cerebelli.
+Below	and	anteriorly,	it	is	separated	from	the	dorsal	pons	by	the	fourth	ventricle
+and	 from	 the	 medulla	 and	 the	 dura	 mater	 covering	 the	 atlanto-occipital
+membrane	by	the	cisterna	magna.	Grossly,	there	are	three	parts:	(a)	the	cerebellar
+hemispheres,	two	larger,	lateral	masses;	(b)	the	vermis,	a	small,	unpaired	median
+portion	 that	 connects	 the	 hemispheres	 (Figures	 43.1	 and	 43.2);	 and	 (c)	 the
+flocculonodular	(FN)	lobe,	a	small,	midline	structure	that	lies	on	the	anterior	part
+of	the	inferior	surface.	The	FN	lobe	consists	of	the	paired	lateral	flocculi	and	the
+midline	nodulus	(Figure	43.3).	The	vermis	is	separated	from	the	hemispheres	by
+the	 paramedian	 sulci.	 The	 cerebellar	 tonsils	 are	 small,	 rounded	 lobules	 on	 the
+inferior	aspect	of	the	cerebellar	hemispheres,	just	above	the	foramen	magnum.
+
+Gross	Anatomy
+
+Anatomically,	the	cerebellum	is	divided	into	three	lobes:	anterior,	posterior,	and
+FN.	 Each	 has	 a	 vermis	 and	 hemisphere	 portion	 (Figure	 43.3).	 The	 deep
+transverse	 primary	 fissure	 divides	 the	 cerebellum	 into	 anterior	 and	 posterior
+lobes.	 The	 posterolateral	 fissure	 separates	 the	 FN	 lobe	 from	 the	 posterior	 lobe.
+Anatomists	 further	 divide	 the	 cerebellum	 by	 fissures	 and	 sulci	 into	 10	 lobules
+that	bear	arcane	names	of	no	clinical	relevance	(Figure	43.4).	In	terms	of	afferent
+and	 efferent	 connections,	 the	 cerebellum	 can	 also	 be	 organized	 into	 three
+parallel,	 sagittal	 zones:	 vermian,	 paravermian,	 and	 lateral.	 As	 mentioned
+
+the	 cerebellum	
+
+previously,	clinicians	divide	the	cerebellum	functionally	into	three	parts:	(a)	the
+hemispheres,	responsible	for	appendicular	coordination;	(b)	the	anterior,	superior
+vermis	(or	simply	the	vermis),	responsible	for	gait	and	other	axial	functions;	and
+(c)	 the	 FN	 lobe,	 or	 vestibulocerebellum.	 The	 FN	 lobe	 is	 phylogenetically	 the
+oldest	 and	 is	 referred	 to	 as	 the	 archicerebellum.	 The	 FN	 lobe	 has	 extensive
+connections	 with	 the	 vestibular	 nuclei	 and	 is	 concerned	 primarily	 with	 eye
+movements	and	gross	balance.	It	also	receives	visual	afferents	from	the	superior
+colliculi	and	the	visual	cortex.	The	primary	concerns	of	the	archicerebellum	are
+eye	movement	control	and	gross	orientation	in	space,	such	as	up	and	down.	The
+next	 area	 of	
+the	 paleocerebellum	 or
+spinocerebellum.	 In	 humans,	 the	 paleocerebellum	 consists	 of	 the	 anterior,
+superior	vermis	and	adjacent	paravermal	cortex;	it	corresponds	approximately	to
+the	anatomical	anterior	lobe.	The	paleocerebellum	developed	during	a	period	of
+evolution	 when	 extremity	 control	 was	 not	 a	 concern;	 it	 is	 concerned	 primarily
+with	 posture,	 muscle	 tone,	 axial	 muscle	 control,	 and	 locomotion.	 There	 are
+extensive	connections	 between	the	vermis	and	 spinal	cord	pathways.	The	 most
+phylogenetically	 recent	 part	 of	 the	 cerebellum	 is	 the	 neocerebellum,	 or	 the
+cerebellar	 hemispheres,	 which	 make	 up	 the	 bulk	 of	 the	 cerebellum.	 The
+neocerebellum	 corresponds	 approximately	
+lobe.	 The
+hemispheres	 are	 concerned	 with	 coordinating	 movement	 and	 providing	 fine
+motor	control	for	precise	movements	of	the	extremities.	The	primary	afferents	to
+the	 hemispheres	 are	 from	 the	 pontine	 nuclei,	 which	 receive	 the	 corticopontine
+fibers	from	the	cerebral	cortex.
+
+to	 evolve	 was	
+
+the	 posterior	
+
+to	
+
+FIGURE	43.1	Ventral	(A)	and	dorsal	(B)	views	of	the	human	cerebellum.	See	Figure
+43.4	for	names	of	lobes	and	lobules.
+
+FIGURE	43.2	Median	longitudinal	section	through	the	human	cerebellum,	pons,	and
+medulla.
+
+FIGURE	 43.3	 Horizontal	 section	 through	 the	 human	 cerebellum	 showing	 the
+arrangement	 of	 the	 cortical	 gray	 matter	 and	 locations	 of	 the	 nuclei	 within	 the	 white
+
+matter.
+
+FIGURE	43.4	Diagram	of	the	cerebellum	showing	the	lobes	and	lobules.
+
+Another	 way	 to	 view	 the	 cerebellum	 is	 in	 terms	 of	 its	 primary	 afferent
+connections:	 the	 vestibulocerebellum	 (input	 from	 vestibular	 nuclei	 to	 the	 FN
+lobe),	the	spinocerebellum	(input	from	the	spinocerebellar	tracts	to	the	anterior
+vermis),	 and	 the	 pontocerebellum	 (input	 from	 the	 pontine	 nuclei	 to	 the
+hemispheres).
+
+The	cerebellum	is	made	up	of	a	white	matter	core,	covered	with	a	thin	layer
+of	gray	matter,	the	cerebellar	cortex.	Deep	in	the	white	matter	are	several	gray
+masses,	 the	 cerebellar	 nuclei.	 The	 dentate	 nuclei,	 the	 largest	 of	 the	 cerebellar
+nuclei,	 are	 gray	 matter	 structures	 situated	 deep	 in	 the	 white	 matter	 of	 each
+hemisphere	(Figure	43.3).	In	the	hilus	of	each	dentate	nucleus	lie	the	emboliform
+nuclei;	 medial	 to	 the	 emboliform	 are	 the	 globose	 nuclei.	 The	 globose	 and
+emboliform	 nuclei	 together	 are	 called	 the	 nucleus	 interpositus.	 In	 the	 white
+matter	of	the	vermis,	at	the	roof	of	the	fourth	ventricle,	are	the	fastigial,	or	roof,
+nuclei.	 From	 medial	 to	 lateral,	 the	 deep	 nuclei	 are	 the	 fastigial,	 globose,
+emboliform,	and	dentate.	The	major	cerebellar	connections	are	to	the	vestibular
+system,	the	spinal	cord,	and	the	cerebral	cortex	(Figure	43.5).	Microscopically,
+the	cortex	is	made	up	of	three	layers:	the	outer,	nuclear,	or	molecular	layer;	the
+
+layer	of	Purkinje	cells;	and	the	inner,	or	granular,	layer	(Figure	43.6).
+
+The	 FN	 lobe	 is	 a	 primitive	 part	 of	 the	 cerebellum	 primarily	 concerned	 with
+vestibular	function.	The	connections	of	the	FN	lobe	are	primarily,	if	not	entirely,
+vestibular.	 The	 FN	 lobe	 receives	 afferent	 impulses	 from	 the	 labyrinths	 and
+vestibular	centers,	spinal	cord,	and	brainstem—including	the	reticular	formation
+and	olivary	bodies—and	projects	to	the	vestibular	nuclei,	vestibulospinal	tracts,
+and	reticular	formation.	The	cerebellum	and	vestibular	centers	function	together
+to	maintain	equilibrium,	the	orientation	of	the	body	in	space,	and	the	regulation
+of	muscle	tone	and	posture.	The	clinical	manifestations	of	disease	of	the	FN	lobe
+are	 difficult	 to	 separate	 from	 the	 invariably	 accompanying	 vestibular	 findings,
+primarily	 nystagmus.	 Isolated	 FN	 lobe	 dysfunction	 is	 usually	 caused	 by
+ependymomas	and	medulloblastomas	in	children.
+
+FIGURE	43.5	Principal	afferent	and	efferent	connections	of	the	cerebellum.
+
+FIGURE	43.6	 Transverse	 section	 of	 cerebellar	 folia	 showing	 the	 three	 layers	 of	 the
+cortex	 and	 the	 underlying	 white	 matter	 (cresyl	 violet).	 (Reprinted	 from	 Kiernan	 JA.
+Barr’s	 The	 Human	 Nervous	 System:	 An	 Anatomical	 Viewpoint.	 9th	 ed.	 Philadelphia:
+Wolters	Kluwer	Health/Lippincott	Williams	&	Wilkins,	2009,	with	permission.)
+
+The	 paleocerebellum	 communicates	 with	 the	 spinal	 cord,	 brainstem,	 and
+vestibular	centers.	The	principal	afferent	connections	of	the	anterior	lobe	come
+from	 the	 anterior	 spinocerebellar	 tract,	 although	 it	 receives	 trigeminocerebellar
+fibers,	 input	 from	 the	 vestibular	 nuclei,	 and	 some	 corticocerebellar	 fibers.	 The
+discharges	are	to	the	vestibular	nuclei,	brainstem,	and	spinal	cord.
+
+The	 neocerebellum	 (pontocerebellum)	 communicates	 with	 the	 cerebral
+cortex.	It	is	enormously	developed	in	mammals	in	association	with	growth	of	the
+cerebral	 hemispheres.	 In	 primates,	 the	 hemispheres	 overshadow	 the	 rest	 of	 the
+cerebellum.	
+Its	 afferent	 connections	 are	 principally	 corticopontine,	 or
+corticopontocerebellar,	 although	 there	 are	 some	 spinocerebellar	 fibers;	 it
+discharges	through	the	dentate	nucleus	to	the	red	nucleus	and	thalamus,	and	thus
+to	the	cerebral	cortex.
+
+The	 cerebellum	 is	 connected	 to	 the	 brainstem	 by	 the	 three	 cerebellar
+peduncles.	The	inferior	cerebellar	peduncle	(ICP)	connects	the	cerebellum	with
+
+the	 olivocerebellar,	
+
+the	 spinal	 cord	 and	 the	 medulla.	 The	 ICP	 lies	 medial	 to	 the	 middle	 cerebellar
+peduncle	(MCP,	brachium	pontis).	The	ICP	has	two	parts:	the	restiform	body	and
+the	 juxtarestiform	 body.	 Ascending	 fibers	 in	 the	 restiform	 body	 include	 the
+posterior	 spinocerebellar	 and	 cuneocerebellar	 (from	 the	 accessory	 cuneate
+nucleus)	 tracts,	 the	 dorsal	 and	 ventral	 external	 arcuate	 fibers	 from	 the	 nuclei
+trigeminocerebellar,	 and
+gracilis	 and	 cuneatus,	 and	
+reticulocerebellar	pathways.	Lying	just	medial	to	ICP	is	the	juxtarestiform	body,
+made	 up	 of	 fibers	 traveling	 directly	 between	 the	 vestibular	 nuclei	 and	 the	 FN
+lobe.	The	restiform	body	is	an	afferent	system;	the	juxtarestiform	body	contains
+both	vestibulocerebellar	and	cerebellovestibular	fibers.	The	juxtarestiform	body
+is	mainly	efferent.	Although	it	carries	primary	afferent	vestibulocerebellar	fibers
+from	 the	 vestibular	 nerve	 and	 secondary	 vestibulocerebellar	 fibers	 from	 the
+vestibular	 nuclei,	 its	 primary	 component	 is	 cerebellovestibular	 fibers	 from	 the
+vermis	 and	 the	 FN	 lobe	 (fastigiobulbar	 tract).	 Other	 cerebellovestibular	 fibers
+run	from	the	fastigial	nucleus	to	the	vestibular	nuclei	in	the	uncinate	fasciculus,
+which	 enters	 the	 brainstem	 adjacent	 to	 the	 ICP.	 The	 MCP	 connects	 the
+cerebellum	with	the	pons,	and	through	it	run	the	pontocerebellar	tracts;	these	are
+the	final	neurons	of	the	corticopontocerebellar	pathway	that	comes	mainly	from
+the	 frontal,	 temporal,	 and	 other	 areas	 of	 the	 cortex	 to	 communicate	 with	 the
+contralateral	cerebellar	hemisphere.
+
+The	superior	cerebellar	peduncle	(SCP,	brachium	conjunctivum)	contains	the
+principal	 efferent	 fibers	 of	 the	 cerebellum	 and	 the	 dentatorubral	 and	 the
+dentatothalamic	 pathways.	 It	 also	 carries	 the	 afferent	 anterior	 spinocerebellar
+tract,	 as	 well	 as	 cerebellovestibular	 fibers	 in	 the	 uncinate	 fasciculus.	 The
+cerebellotegmental,	 cerebellotectal,	 and	 tectocerebellar	 tracts	 also	 travel	 in	 the
+SCP.	 The	 afferent	 fibers	 to	 the	 cerebellar	 cortex	 arrive	 primarily	 by	 tracts	 that
+enter	through	the	middle	and	inferior	peduncles,	but	the	anterior	spinocerebellar
+tract	enters	via	the	SCP.
+
+Microscopic	Anatomy
+
+The	molecular	layer	of	the	cerebellar	cortex	contains	the	dendritic	arborizations
+of	 the	 Purkinje	 cells,	 radial	 fibers	 of	 the	 Bergmann	 glial	 cells,	 basket	 cells,
+stellate	 cells,	 climbing	 fibers,	 and	 parallel	 fibers	 (Figure	 43.6).	 The	 flattened
+dendritic	trees	of	the	Purkinje	cells	spread	out	perpendicular	to	the	long	axis	of
+the	 cerebellar	 folium.	 Climbing	 fibers	 are	 the	 terminal	 ramifications	 of	 fibers
+from	 the	 inferior	 olivary	 nucleus	 that	 ascend	 through	 the	 granular	 layer	 to
+
+contact	Purkinje	dendrites	in	the	molecular	layer.	Each	climbing	fiber	forms	an
+excitatory	synapse	with	a	single	Purkinje	cell.	Climbing	fibers	also	synapse	on
+the	neurons	of	the	deep	cerebellar	nuclei.	Parallel	fibers	are	granule	cell	axons
+that	 extend	 upward	 into	 the	 molecular	 layer	 where	 they	 bifurcate	 to	 send
+branches	 in	 opposite	 directions	 along	 the	 axis	 of	 a	 folium	 to	 terminate	 on	 the
+Purkinje	 cell	 dendrites.	 The	 parallel	 fibers	 intersect	 the	 Purkinje	 cell	 dendrites
+like	telephone	wires	over	the	cross	pieces	of	a	telephone	pole.
+
+The	Purkinje	cell	layer	contains	the	perikarya	of	the	large	Purkinje	cells	and
+the	smaller	Bergmann	(epithelial)	glial	cells.	The	granule	cell	layer	lies	between
+the	white	matter	and	the	Purkinje	cell	layer;	it	contains	granule	cells,	Golgi	cells,
+brush	 cells,	 and	 the	 cerebellar	 glomeruli	 (Figure	43.7).	 The	 granule	 cells	 send
+their	 axons	 to	 the	 molecular	 layer	 where	 they	 branch	 to	 form	 parallel	 fibers.
+Mossy	fibers	are	the	predominant	afferent	system	to	the	cerebellum.	They	arise
+from	the	spinal	cord,	the	trigeminal,	reticular	formation,	vestibular	and	pontine
+nuclei	of	the	brainstem.	The	mossy	fibers	terminate	as	mossy	fiber	rosettes	that
+lie	at	the	center	of	each	cerebellar	glomerulus.	Like	the	climbing	fibers,	mossy
+fibers	 are	 excitatory.	 The	 mossy	 fibers	 primarily	 use	 glutamate;	 the	 climbing
+fibers	 release	 glutamate	 or	 aspartate.	 Cerebellar	 glomeruli	 are	 synaptic
+formations	 with	 mossy	 fiber	 rosettes	 at	 the	 center,	 surrounded	 by	 granule	 and
+Golgi	cell	dendrites	(Figure	43.8).
+
+The	 Purkinje	 cells	 are	 excited	 by	 the	 parallel	 and	 climbing	 fibers	 and	 send
+inhibitory	 GABA-ergic	 projections	 to	 the	 deep	 cerebellar	 and	 the	 vestibular
+nuclei.	 Input	 from	 the	 basket	 and	 stellate	 cells	 inhibit	 the	 Purkinje	 cells.	 The
+granule	cells	are	excitatory,	glutaminergic	neurons.	The	parallel	fibers	that	arise
+from	the	granule	cells	excite	the	Purkinje,	basket,	stellate,	and	Golgi	cells.	The
+granule	 cell	 is	 excited	 by	 mossy	 fiber	 input	 at	 the	 cerebellar	 glomerulus	 and
+inhibited	by	Golgi	cells.	The	mossy	fiber	input	excites	Purkinje	cells	indirectly
+through	the	granule	cell–parallel	fiber	system	and	produces	simple	spikes	from
+the	Purkinje	cell.	The	climbing	fibers	are	entwined	around	the	Purkinje	cell,	like
+a	vine	around	a	tree	trunk,	and	excite	it	directly,	producing	complex	spikes.	The
+cerebellar	 cortex	 also	 receives	 noradrenergic	 fibers	 from	 the	 locus	 coeruleus,
+dopaminergic	fibers	from	the	substantia	nigra,	and	serotonergic	fibers	from	the
+raphe	nuclei.	All	the	aminergic	afferents	are	probably	inhibitory.	Afferents	to	the
+cerebellar	 cortex	 and	 deep	 nuclei	 generally	 produce	 an	 increase	 in	 excitability.
+The	 Purkinje	 cells	 impose	 inhibitory	 control	 over	 the	 cells	 of	 the	 deep	 nuclei.
+Mossy	 fiber	 input	 causes	 strong	 direct	 excitation	 of	 the	 deep	 nuclei;	 the
+additional	 input	 via	 the	 granule	 cell-parallel	 fiber	 system	 provides	 inhibitory
+
+control	 and	 modulation	 of	 the	 direct	 excitatory	 pathway.	 The	 climbing	 fibers
+modulate	 the	 activity	 of	 the	 Purkinje	 cells	 by	 controlling	 the	 influence	 of	 the
+different	systems	that	converge	on	it.
+
+FIGURE	 43.7	 Neurons	 in	 the	 cerebellar	 cortex	 showing	 excitatory	 and	 inhibitory
+synapses.	The	diagram	represents	a	longitudinally	sectioned	folium,	with	an	edge-on
+view	of	the	dendritic	tree	of	the	Purkinje	cell.	Glutaminergic	(excitatory)	neurons	are
+red;	GABA-ergic	(inhibitory)	neurons	are	blue.	(Reprinted	from	Kiernan	JA.	Barr’s	The
+Human	 Nervous	 System:	 An	 Anatomical	 Viewpoint.	 9th	 ed.	 Philadelphia:	 Wolters
+Kluwer	Health/Lippincott	Williams	&	Wilkins,	2009,	with	permission.)
+
+FIGURE	 43.8	 Ultrastructure	 of	 a	 synaptic	 glomerulus	 in	 the	 granule	 cell	 layer.	 The
+astrocytic	 processes	 (yellow)	 prevent	 diffusion	 of	 neurotransmitters	 to	 adjacent
+synapses.	 (Reprinted	 from	 Kiernan	 JA.	 Barr’s	 The	 Human	 Nervous	 System:	 An
+Anatomical	Viewpoint.	9th	ed.	Philadelphia:	Wolters	Kluwer	Health/Lippincott	Williams
+&	Wilkins,	2009,	with	permission.)
+
+The	efferent	fibers	from	the	Purkinje	cells	in	the	cerebellar	cortex	are	nearly
+all	 relayed	 to	 the	 deep	 nuclei,	 where	 the	 cerebellar	 outflow	 originates	 (Figure
+43.5).	The	output	from	the	deep	cerebellar	nuclei	is	excitatory	and	glutaminergic
+except	for	the	projection	to	the	inferior	olive,	which	uses	gamma-aminobutyric
+acid.	The	fastigial	nucleus,	the	oldest	of	the	cerebellar	nuclei,	receives	afferent
+fibers	 from	 the	 paleocerebellum	 and	 also	 from	 the	 vestibular	 nuclei	 and	 the
+eighth	 cranial	 nerve.	 Its	 efferent	 impulses,	 many	 of	 them	 crossing	 in	 the	 roof,
+pass	into	the	brainstem	to	the	vestibular	nuclei—especially	the	lateral	vestibular
+nucleus—and	 to	 the	 reticular	 formation.	 Some	 of	 these	 go	 through	 the	 ICP;
+others	 travel	 in	 the	 SCP	 in	 the	 uncinate	 fasciculus.	 The	 fastigial	 nucleus	 also
+projects	 to	 the	 ventral	 lateral	 (VL)	 nucleus	 of	 the	 thalamus,	 which	 in	 turn
+projects	 to	 the	 trunk	 area	 of	 the	 motor	 strip.	 The	 interposed	 nuclei	 receive
+afferents	 primarily	 from	 the	 paravermal	 cortex	 and	 project	 to	 VL	 and	 to	 the
+
+magnocellular	 part	 of	 the	 contralateral	 red	 nucleus,	 which	 gives	 rise	 to	 the
+rubrospinal	tract.	The	dentate	nuclei,	the	most	important	of	the	nuclear	masses	in
+terms	of	clinical	function,	receive	afferents	principally	from	the	Purkinje	cells	of
+the	 neocerebellum.	 The	 dentate	 projects	 to	 the	 ipsilateral	 VL	 and	 intralaminar
+thalamic	nuclei	and	to	the	contralateral	red	nucleus	and	inferior	olivary	nucleus.
+
+The	 cerebellum	 is	 part	 of	 complex	 feedback	 loops	 that	 are	 involved	 in	 the
+coordination	of	motor	activity	(Figures	43.9	to	43.11).	Large	myelinated	muscle
+spindle	 and	 Golgi	 tendon	 organ	 afferents	 travel	 to	 the	 cerebellum	 via	 the
+spinocerebellar	 tracts	 and	 enter	 primarily	 through	 the	 ICP.	 This	 information	 is
+processed	in	the	hemispheres	and	influences	the	activity	of	Purkinje	cells	in	the
+deep,	midline	(primarily	dentate)	nucleus.	The	Purkinje	cells	send	axons	via	the
+SCP	to	the	contralateral	VL	nucleus	of	the	thalamus,	which	in	turn	projects	to	the
+motor	 cortex.	 Descending	 corticopontine	 fibers	 then	 synapse	 on	 pontine	 nuclei
+in	the	basis	pontis,	which	in	turn	send	pontocerebellar	axons	via	the	MCP	to	the
+cerebellar	 hemispheres.	 Other	 descending	 corticomotor	 fibers	 actually	 execute
+the	 task	 at	 hand.	 The	 cerebellum	 can	 thereby	 communicate	 the	 need	 for	 fine
+adjustment	of	movement	to	the	cortex,	and	the	cortex	can	take	corrective	action
+while	simultaneously	informing	the	cerebellum	of	the	extent	of	the	correction	so
+further	adjustments	can	be	made	(see	Chapter	22).	The	motor	thalamus	serves	to
+integrate	cerebellar,	basal	ganglia,	and	cortical	activity.	Another	loop	consists	of
+fibers	 that	 arise	 from	 the	 inferior	 olive	 and	 travel	 via	 the	 ICP	 to	 the	 dentate
+nucleus,	with	projections	from	the	dentate	going	to	the	red	nucleus,	which	then
+projects	 to	 the	 inferior	 olive	 (Guillain-Mollaret	 triangle,	 see	 Chapter	 30).	 The
+direct	 vestibulocerebellar	 and	 returning	 cerebellovestibular	 fibers	 form	 yet
+another	circuit.	The	cerebellum	also	receives	input	from	the	hypothalamus.
+
+FIGURE	43.9	Connections	of	the	vestibulocerebellum	and	vestibular	nuclei.	Afferents
+to	the	cerebellum	are	blue,	cerebellar	efferents	are	red,	and	other	neurons	are	black.
+(Reprinted	 from	 Kiernan	 JA.	 Barr’s	 The	 Human	 Nervous	 System:	 An	 Anatomical
+Viewpoint.	9th	ed.	Philadelphia:	Wolters	Kluwer	Health/Lippincott	Williams	&	Wilkins,
+2009,	with	permission.)
+
+CLINICAL	MANIFESTATIONS	OF	CEREBELLAR
+DYSFUNCTION
+
+Patients	with	cerebellar	dysfunction	suffer	from	various	combinations	of	tremor,
+incoordination,	difficulty	walking,	dysarthria,	and	nystagmus,	depending	on	the
+parts	of	the	cerebellum	involved	(see	Table	22.1).	Ataxia	is	the	cardinal	sign	of
+cerebellar	disease;	it	consists	of	varying	degrees	of	dyssynergia,	dysmetria,	lack
+of	agonist-antagonist	coordination,	and	tremor.	Ataxia	may	affect	the	limbs,	the
+trunk,	 or	 the	 gait.	 Cerebellar	 disease	 may	 also	 cause	 hypotonia,	 asthenia	 or
+slowness	of	movement,	and	deviation	or	drift	of	the	outstretched	limbs.	Disease
+involving	 the	 cerebellar	 connections	 in	 the	 brainstem	 causes	 abnormalities
+indistinguishable	 from	 disease	 of	 the	 cerebellum	 itself.	 When	 cerebellar	 ataxia
+
+results	from	dysfunction	of	the	cerebellar	connections	in	the	brainstem,	there	are
+usually	other	brainstem	signs.
+
+Dyssynergia
+
+The	essential	disturbance	in	cerebellar	disease	is	dyssynergia.	Normally,	there	is
+harmonious,	 coordinated	 action	 between	 the	 various	 muscles	 involved	 in	 a
+movement	so	that	they	contract	with	the	proper	force,	timing,	and	sequence	of
+activation	to	carry	out	the	movement	smoothly	and	accurately.	Cerebellar	disease
+impairs	 the	 normal	 control	 mechanisms	 that	 organize	 and	 regulate	 the
+contractions	 of	 the	 different	 participating	 muscles	 and	 muscle	 groups	 to	 insure
+smooth,	 properly	 coordinated	 movement.	 There	 is	 a	 lack	 of	 speed	 and	 skill	 in
+performing	movements	that	require	the	coordinated	activity	of	several	groups	of
+muscles	or	of	several	movements.	The	cerebellum	is	instrumental	in	timing	the
+activation	of	the	different	muscles	involved	in	a	movement.	Lack	of	integration
+of	the	components	of	the	act	results	in	decomposition	of	movement—the	act	is
+broken	 down	 into	 its	 component	 parts	 and	 carried	 out	 in	 a	 jerky,	 erratic,
+awkward,	 disorganized	 manner.	 The	 cerebellum	 is	 particularly	 important	 in
+coordinating	multijoint	movements.
+
+FIGURE	43.10	 Connections	 of	 the	 spinocerebellum.	 Afferents	 to	 the	 cerebellum	 are
+blue,	 cerebellar	 efferents	 are	 red,	 and	 other	 neurons	 are	 black.	 (Reprinted	 from
+Kiernan	 JA.	 Barr’s	 The	 Human	 Nervous	 System:	 An	 Anatomical	 Viewpoint.	 9th	 ed.
+Philadelphia:	 Wolters	 Kluwer	 Health/Lippincott	 Williams	 &	 Wilkins,	 2009,	 with
+permission.)
+
+Dysmetria
+
+Dysmetria	 refers	 to	 errors	 in	 judging	 distance	 and	 gauging	 the	 distance,	 speed,
+power,	 and	 direction	 of	 movement.	 Cerebellar	 dysfunction	 leads	 to	 loss	 of	 the
+normal	 collaboration	 between	 agonist	 and	 antagonist.	 When	 reaching	 for	 an
+object	 50	 cm	 away,	 the	 hand	 shoots	 out	 55	 cm,	 overshooting	 the	 target
+(hypermetria),	 or	 fails	 to	 reach	 the	 target	 (hypometria).	 Hypermetria	 is	 more
+common.	The	movement	may	be	carried	out	too	slowly	or	too	rapidly	with	too
+much	or	too	little	force.	The	patient	with	dysmetria	does	not	make	a	movement
+along	 a	 straight	 line	 between	 two	 points	 but	 erratically	 deviates	 from	 the
+
+intended	 track.	 Electromyographic	 studies	 have	 shown	 that	 dysmetria	 is
+associated	 with	 abnormalities	 of	 the	 timing	 and	 force	 of	 antagonist	 contraction
+necessary	 to	 decelerate	 the	 movement.	 Hypermetria	 is	 associated	 with	 a	 more
+gradual	 buildup	 and	 prolongation	 of	 agonist	 activity	 with	 a	 delayed	 onset	 of
+antagonist	 activity	 or	 with	 a	 slower	 rate	 of	 rise	 of	 activity	 in	 the	 antagonists.
+Evidence	suggests	that	different	mechanisms	may	underlie	dysmetria,	depending
+on	the	anatomical	location	of	the	cerebellar	lesion.
+
+FIGURE	43.11	Connections	of	the	pontocerebellum	and	vestibular	nuclei.	Afferents	to
+the	 cerebellum	 are	 blue,	 cerebellar	 efferents	 are	 red,	 and	 other	 neurons	 are	 black.
+(Reprinted	 from	 Kiernan	 JA.	 Barr’s	 The	 Human	 Nervous	 System:	 An	 Anatomical
+Viewpoint.	9th	ed.	Philadelphia:	Wolters	Kluwer	Health/Lippincott	Williams	&	Wilkins,
+2009,	with	permission.)
+
+Agonist-Antagonist	Coordination
+
+A	disturbance	in	reciprocal	innervation	results	in	a	loss	of	the	ability	to	stop	the
+contraction	 of	 the	 agonists	 and	 rapidly	 contract	 the	 antagonists	 to	 control	 and
+regulate	movement.	In	patients	with	cerebellar	deficits	attempting	to	make	rapid,
+voluntary	 movements,	 the	 first	 agonist	 burst	 is	 frequently	 prolonged,	 the
+acceleration	 time	 is	 longer	 than	 normal,	 and	 the	 acceleration	 time	 may	 exceed
+the	deceleration	time.	The	normal	triphasic	agonist-antagonist-agonist	sequence
+of	 activity	 is	 disturbed	 by	 a	 too	 long	 or	 too	 short	 agonist	 burst,	 or	 an	 agonist
+burst	that	continues	into	the	antagonist	activity.	Impairment	of	the	ability	to	carry
+out	successive	movements	and	to	stop	one	act	and	follow	it	immediately	by	its
+diametric	opposite	causes	dysdiadochokinesia,	loss	of	checking	movements,	and
+the	rebound	phenomenon.	Dysdiadochokinesia	(or	adiadochokinesia)	is	a	clumsy
+term	 (coined	 by	 Babinski)	 that	 means	 inability	 to	 make	 rapid	 alternating
+movements	or	RAMs.	The	patient	with	impaired	RAMs	has	difficulty	with	such
+tests	as	patting	the	palm	of	one	hand	alternately	with	the	palm	and	dorsum	of	the
+other	 hand,	 rapid	 tapping	 of	 the	 fingers,	 tapping	 out	 a	 complex	 rhythm,	 or
+tapping	the	foot	in	steady	beat.	Inability	to	rapidly	reverse	an	action	also	causes
+impairment	of	the	check	response,	producing	the	Holmes	rebound	phenomenon
+(see	section	on	“Impaired	Check	and	the	Rebound	Phenomenon”).
+
+Tremor
+
+The	 most	 common	 type	 of	 cerebellar	 tremor	 is	 an	 intention	 (active,	 kinetic,	 or
+terminal)	 tremor	 that	 is	 not	 present	 at	 rest	 but	 becomes	 evident	 on	 purposeful
+movement.	In	the	upper	extremity,	when	the	patient	reaches	to	touch	an	object,
+there	 are	 irregular,	 to-and-fro,	 jerky	 movements	 perpendicular	 to	 the	 path	 of
+movement	 that	 increase	 in	 amplitude	 as	 the	 hand	 approaches	 the	 target.	 A
+postural	 tremor	 of	 the	 outstretched	 limbs	 may	 also	 occur,	 without	 the	 patient
+reaching	 for	 a	 target.	 Cerebellar	 tremor	 often	 involves	 the	 proximal	 muscles.
+When	severe,	cerebellar	tremor	may	involve	not	only	the	extremities	but	also	the
+head	or	even	the	entire	body.	Severe	cerebellar	tremor	may	at	times	take	on	an
+
+almost	 myoclonic	 character.	 The	 tremors	 and	 other	 movements	 probably	 result
+from	disease	involving	the	cerebellar	efferent	pathways	or	their	connections	with
+the	 red	 nucleus	 and	 thalamus	 (dentatorubral	 and	 dentatothalamic	 pathways,	 or
+SCP)	 and	 are	 sometimes	 referred	 to	 as	 a	 cerebellar	 outflow	 tremor.	 A	 rubral
+tremor	is	present	at	rest	but	worsens	with	action	and	probably	also	results	from	a
+lesion	involving	the	cerebellar	outflow	tracts	(see	Chapter	30).
+
+Hypotonia
+
+Hypotonia,	 or	 muscle	 flaccidity,	 with	 a	 decrease	 in	 resistance	 to	 passive
+movement,	is	often	seen	in	cerebellar	disease.	Cerebellar	dysfunction	results	in	a
+decrease	 in	 the	 tonic	 output	 of	 the	 cerebellar	 nuclei,	 causing	 loss	 of	 cerebellar
+facilitation	 to	 the	 motor	 cortex.	 The	 muscles	 are	 flabby	 and	 assume	 unnatural
+attitudes;	the	parts	of	the	body	can	be	moved	passively	into	positions	of	extreme
+flexion	 or	 extension.	 The	 stretch	 reflexes	 are	 normal	 or	 diminished	 in	 disease
+limited	 to	 the	 cerebellum.	 Occasionally,	 the	 tendon	 reflexes	 are	 “pendular.”
+Tapping	the	patellar	tendon	with	the	foot	hanging	free	results	in	a	series	of	to-
+and-fro	 movements	 of	 the	 foot	 and	 leg	 before	 the	 limb	 finally	 comes	 to	 rest.
+Pendular	 reflexes	 are	 caused	 by	 muscle	 hypotonicity	 and	 the	 lack	 of	 normal
+checking	 of	 the	 reflex	 response.	 The	 superficial	 reflexes	 are	 unaffected	 by
+cerebellar	disease.	Cerebellar	disease	may	also	cause	a	characteristic	position	of
+the	 extended	 hand,	 probably	 because	 of	 hypotonia.	 The	 wrist	 is	 flexed	 and
+arched	 dorsally,	 with	 the	 fingers	 hyperextended,	 and	 a	 tendency	 toward
+overpronation.	 The	 hand	 is	 similar	 to	 that	 seen	 in	 Sydenham’s	 chorea.	 A
+cerebellar	lesion	may	cause	a	decrease	in	the	normal	pendular	movement	of	the
+affected	 arm	 when	 walking.	 A	 decreased	 arm	 swing	 may	 also	 occur	 with
+extrapyramidal	 disorders	 and	 with	 mild	 hemiparesis.	 In	 the	 shoulder-shaking
+test,	a	cerebellar	lesion	causes	an	increase	in	the	range	and	duration	of	swinging
+of	the	involved	arm,	although	the	movements	may	be	irregular	and	nonrhythmic
+(see	Chapter	28).
+
+Dysarthria
+
+Cerebellar	disease	often	affects	speech.	Articulation	may	be	slow,	ataxic,	slurred,
+drawling,	 jerky,	 or	 explosive	 in	 type	 because	 of	 dyssynergy	 of	 the	 muscles	 of
+phonation.	 A	 scanning	 type	 of	 dysarthria	 is	 particularly	 characteristic	 of
+cerebellar	disease	(see	Chapter	9).	The	scanning	speech	of	multiple	sclerosis	and
+
+the	 staccato	 speech	 of	 Friedreich’s	 ataxia	 (FA)	 are	 probably	 the	 result	 of
+cerebellar	 dysfunction.	 Dysarthria	 may	 be	 an	 isolated	 manifestation	 of
+paravermal	cerebellar	infarction.
+
+Nystagmus
+
+Nystagmus	and	other	disturbances	of	ocular	motility	may	occur	with	lesions	of
+the	 cerebellum.	 Nystagmus	 often	 indicates	 involvement	 of	 vestibulocerebellar
+pathways.	 The	 ocular	 abnormalities	 often	 result	 from	 involvement	 of	 the
+connections	 of	 the	 cerebellum	 with	 other	 centers	 rather	 than	 actual	 cerebellar
+dysfunction.	Cerebellar	disease	may	cause	gaze	paretic	nystagmus.	The	patient	is
+unable	to	sustain	eccentric	gaze	and	requires	repeated	saccades	to	gaze	laterally.
+With	 a	 lesion	 of	 one	 hemisphere,	 the	 eyes	 at	 rest	 may	 be	 deviated	 10	 to	 30
+degrees	toward	the	unaffected	side.	When	the	patient	attempts	to	gaze	elsewhere,
+the	eyes	saccade	toward	the	point	of	fixation	with	slow	return	movements	to	the
+resting	point.	The	movements	are	more	marked	and	of	greater	amplitude	when
+the	patient	looks	toward	the	affected	side.	When	a	tumor	of	the	cerebellopontine
+angle	is	present,	the	nystagmus	is	coarse	on	looking	toward	the	side	of	the	lesion
+and	fine	and	rapid	on	gaze	to	the	opposite	side	(Bruns’	nystagmus).	Other	ocular
+motility	disturbances	seen	with	cerebellar	disease	include	skew	deviation,	ocular
+dysmetria,	ocular	flutter,	opsoclonus,	ocular	tilt	reaction,	and	saccadic	intrusions.
+Rebound	 nystagmus	 is	 a	 type	 of	 nystagmus	 that	 may	 be	 unique	 to	 cerebellar
+disease;	 the	 fast	 component	 is	 in	 the	 direction	 of	 lateral	 gaze	 but	 transiently
+reverses	 direction	 when	 the	 eyes	 come	 back	 to	 primary	 position	 (see	 Chapter
+14).	For	a	detailed	discussion	of	cerebellar	eye	signs,	see	Cerebellar	 Eye	Signs
+from	 Dr.	 Robert	 B.	 Darroff,	 Neuro-ophthalmology	 Virtual	 Education	 Library
+(NOVEL),	University	of	Utah,	Video	Link	43.1.
+
+Other	Abnormalities
+
+Abnormalities	 of	 posture	 and	 gait	 with	 abnormal	 attitudes	 and	 spontaneous
+deviation	of	the	head	and	parts	of	the	body	may	be	seen	in	cerebellar	disease.	In
+unilateral	cerebellar	disease,	there	may	be	deviation	of	the	head	and	body	toward
+the	affected	side,	with	past	pointing	of	the	extremities	toward	the	affected	side.
+When	 standing,	 there	 is	an	 inclination	to	fall,	 and	 when	 walking	a	tendency	to
+deviate,	 toward	 the	 side	 of	 the	 lesion.	 The	 outstretched	 extremities	 deviate
+laterally,	 toward	 the	 affected	 side.	 There	 may	 be	 a	 decrease	 or	 absence	 of	 the
+
+normal	pendular	movement	of	the	arm	in	walking.	In	midline,	or	vermis,	lesions,
+the	 patient	 may	 not	 be	 able	 to	 stand	 erect	 and	 may	 fall	 either	 backward	 or
+forward.	 The	 gait	 is	 staggering,	 reeling,	 or	 lurching	 in	 character,	 without
+laterality.	 “Cerebellar	 fits”	 is	 an	 antiquated	 term,	 referring	 to	 episodes	 of
+decerebrate	 rigidity	 because	 of	 brainstem	 dysfunction	 due	 to	 mass	 effect	 from
+lesions	in	the	cerebellum.
+
+EXAMINATION	OF	COORDINATION	AND
+CEREBELLAR	FUNCTION
+
+Clinical	 tests	 for	 cerebellar	 dysfunction	 are	 basically	 designed	 to	 detect
+dyssynergia,	 decomposition	 of	 movement,	 and	 dysmetria.	 The	 combination	 of
+incoordination,	awkwardness,	errors	in	the	speed,	range	and	force	of	movement,
+along	with	dysdiadochokinesia,	and	intention	tremor	is	referred	to	as	cerebellar
+ataxia.	 Simple	 observation	 can	 be	 as	 informative	 as	 a	 detailed	 clinical
+examination.	 Watching	 as	 the	 patient	 is	 standing,	 walking,	 dressing	 and
+undressing,	buttoning	and	unbuttoning	clothing,	and	tying	shoelaces	may	reveal
+tremor,	 incoordination,	 clumsiness,	 and	 disturbed	 postural	 fixation.	 The	 patient
+may	be	asked	to	write,	use	simple	tools,	drink	from	a	glass,	and	trace	lines	with	a
+lightweight	 pen	 while	 no	 support	 is	 given	 at	 the	 elbow.	 The	 examination	 of
+infants	 and	 children	 may	 be	 limited	 to	 simple	 observation,	 noting	 the	 child’s
+ability	 to	 reach	 for	 and	 use	 toys	 and	 objects.	 Tests	 for	 coordination	 may	 be
+divided	into	those	concerned	with	equilibratory	and	nonequilibratory	functions.
+
+Equilibratory	Coordination
+
+Equilibratory	 coordination	 refers	 to	 the	 maintenance	 of	 balance	 and	 the
+coordination	 of	 the	 body	 as	 a	 whole.	 The	 examination	 of	 station	 and	 gait
+assesses	equilibratory	coordination;	these	are	discussed	further	in	Chapter	44.
+
+Nonequilibratory	Coordination
+
+Tests	 of	 nonequilibratory	 coordination	 assess	 the	 patient’s	 ability	 to	 carry	 out
+discrete,	oftentimes	relatively	fine,	intentional	movements	with	the	extremities.
+Although	these	are	primarily	tests	of	coordination,	other	neural	systems	must	be
+intact	 for	 normal	 performance.	 The	 other	 components	 affecting	 fine	 motor
+
+control	 are	 discussed	 in	 Chapter	27.	 It	 is	 important	 to	 consider	 handedness	 in
+judging	 coordination	 and	 to	 allow	 for	 the	 normal	 slight	 clumsiness	 of	 the
+nondominant	side.	Patients	who	are	fatigued	or	sedated	may	have	incoordination
+that	 is	 not	 normal	 for	 the	 individual.	 Fine	 motor	 skills	 may	 also	 be	 assessed
+functionally	by	asking	the	patient	to	do	such	things	as	thread	a	needle,	pick	up	a
+pin,	string	beads,	pour	water,	or	draw	circles.
+
+The	Finger-to-Nose	(Finger-Nose-Finger)	Test
+There	are	several	variations	on	the	theme	of	having	the	patient	touch	the	index
+finger	to	the	nose,	all	of	which	will	be	included	as	the	finger-to-nose	(FTN)	test.
+All	 may	 be	 carried	 out	 with	 the	 patient	 lying,	 seated,	 or	 standing.	 The	 patient
+extends	the	arm	completely	and	then	touches	the	tip	of	the	index	finger	to	the	tip
+of	the	nose,	slowly	at	first,	then	rapidly,	with	the	eyes	open	and	then	closed.	The
+examiner	may	place	the	outstretched	extremity	in	various	positions	and	have	the
+test	carried	out	in	different	planes	and	from	various	angles.	The	patient	may	be
+asked	 to	 touch	 the	 tip	 of	 his	 index	 finger	 to	 his	 nose,	 then	 touch	 the	 tip	 of	 the
+examiner’s	 finger,	 and	 then	 back	 to	 the	 tip	 of	 his	 nose.	 It	 is	 helpful	 to
+demonstrate	 the	 requested	 movement,	 lest	 the	 patient	 make	 some	 odd
+interpretation	of	the	verbal	request;	an	occasional	patient	will	attempt	to	put	his
+index	 finger	 on	 the	 examiner’s	 finger	 without	 removing	 it	 from	 his	 own	 nose.
+The	examiner’s	finger	may	be	moved	about	during	the	test,	and	the	patient	asked
+to	try	to	touch	the	moving	target	as	the	finger	is	placed	in	different	locations	at
+different	distances	and	to	move	both	slowly	and	quickly.	The	examiner	may	pull
+his	finger	away	and	make	the	patient	chase	it	(finger	chase	test).	Fully	extending
+the	arm	in	this	way	can	bring	out	mild	intention	tremor.
+
+During	 these	movements,	note	 the	smoothness	 and	 accuracy	with	 which	 the
+act	 is	 executed	 and	 look	 for	 oscillations,	 jerkiness,	 and	 tremor.	 An	 intention
+tremor	becomes	more	marked,	coarse,	and	irregular	as	the	finger	approaches	the
+target.	There	may	be	little	tremor	during	the	midrange	of	the	movement,	but	near
+the	end,	the	tremor	erupts;	when	the	finger	contacts	the	target,	the	tremor	stops.
+In	 cerebellar	 ataxia,	 the	 difficulty	 may	 vary	 from	 slight	 incoordination,	 with	 a
+blundering	type	of	movement,	to	wild	oscillations	causing	complete	inability	to
+execute	 the	 act.	 A	 patient	 with	 severe	 appendicular	 ataxia	 may	 not	 be	 able	 to
+touch	hand	to	head,	much	less	finger	to	nose.	Video	43.1	demonstrates	a	patient
+with	appendicular	ataxia.
+
+00:00	/	00:00
+
+Video	43.1	Cerebellar	ataxia	with	titubation	and	severe	appendicular	ataxia
+causing	intention	tremor	on	finger	to	nose	and	heel	to	shin	testing.
+
+With	 dysmetria,	 the	 patient	 may	 stop	 before	 he	 reaches	 his	 nose,	 pause	 and
+then	complete	the	act	slowly	and	unsteadily,	or	overshoot	the	mark	and	bring	the
+finger	to	the	nose	with	too	much	speed	and	force.	With	dyssynergy,	the	act	is	not
+carried	 out	 smoothly	 and	 harmoniously;	 there	 may	 be	 irregular	 stops,
+accelerations,	 and	 deflections,	 or	 the	 movement	 may	 disintegrate	 into	 its
+component	 parts.	 Performing	 the	 FTN	 test	 against	 slight	 resistance	 may	 cause
+mild	ataxia	to	become	more	obvious,	or	latent	ataxia	evident.	The	examiner	may
+apply	resistance	by	placing	his	fingers	against	the	patient’s	forearm	and	exerting
+slight	pressure	as	the	patient	moves	his	arm	toward	the	nose,	or	by	placing	a	long
+rubber	 band	 around	 the	 patient’s	 wrist	 and	 pulling	 gently	 on	 it	 during	 the	 test.
+Another	test	is	to	have	the	patient	draw	a	line,	starting	and	then	stopping	at	fixed
+points.	He	may	have	difficulty	in	starting	at	the	correct	point	and	may	either	stop
+short	 of	 the	 second	 point	 or	 overshoot	 the	 mark.	 This	 may	 also	 demonstrate
+tremor,	 with	 side-to-side	 oscillations	 along	 the	 intended	 tract.	 The	 patient	 with
+cerebellar	 disease	 may	 have	 macrographia,	 using	 large	 characters	 that	 become
+larger	 across	 the	 page,	 the	 opposite	 of	 the	 writing	 disturbance	 seen	 in
+Parkinson’s	disease.
+
+In	the	finger-to-finger	(fingertips	in	the	midline)	test,	the	patient	abducts	the
+arms	widely	to	the	horizontal	and	then	brings	in	the	tips	of	the	index	or	middle
+fingers	 through	 a	 wide	 arc	 to	 touch	 them	 exactly	 in	 the	 midline.	 This	 is	 done
+slowly	 and	 rapidly,	 with	 the	 eyes	 first	 open	 and	 then	 closed.	 With	 unilateral
+cerebellar	disease,	the	finger	on	the	involved	side	may	fail	to	reach	the	midline,
+and	the	finger	on	the	normal	side	may	cross	the	midline	to	reach	it.	Also,	the	arm
+on	the	affected	side	may	sag	or	rise,	causing	the	finger	on	that	side	to	be	below
+
+or	above	the	one	on	the	normal	side.
+
+In	 hysteria	 or	 malingering,	 there	 may	 be	 bizarre	 responses	 of	 various	 types.
+The	patient	may	act	as	if	unable	to	touch	the	finger	to	the	nose,	or	circle	around
+it	with	widespread,	wandering	movements	but	eventually	touch	the	very	tip.	Or
+the	 patient	 may	 repeatedly	 but	 precisely	 touch	 some	 other	 part	 of	 the	 face,
+implying	there	is	no	loss	of	sensation	or	coordination.
+
+Similar	 tests	 may	 be	 used	 to	 evaluate	 the	 lower	 extremities.	 In	 the	 heel-to-
+shin	(heel-knee-shin/toe)	test,	the	patient	is	asked	to	place	the	heel	of	one	foot	on
+the	opposite	knee,	tap	it	up	and	down	on	the	knee	several	times,	push	the	point
+of	the	heel	(not	the	instep)	along	the	shin	in	a	straight	line	to	the	great	toe,	and
+then	 bring	 it	 back	 to	 the	 knee.	 The	 patient	 with	 cerebellar	 disease	 is	 likely	 to
+raise	the	foot	too	high,	flex	the	knee	too	much,	and	place	the	heel	down	above
+the	 knee.	 The	 excursions	 along	 the	 shin	 are	 jerky	 and	 unsteady.	 With	 sensory
+ataxia,	 the	 patient	 may	 have	 difficulty	 locating	 the	 knee	 with	 the	 heel,	 groping
+around	for	it;	there	is	difficulty	keeping	the	heel	on	the	shin,	and	it	may	slip	off
+to	 either	 side	 while	 sliding	 down	 the	 shin.	 In	 the	 toe-to-finger	 test,	 the	 patient
+tries	 to	 touch	 his	 great	 toe,	 knee	 bent,	 to	 the	 examiner’s	 finger.	 If	 there	 is
+dysmetria,	 the	 patient	 will	 undershoot	 or	 overshoot	 the	 mark;	 intention	 tremor
+and	oscillations	may	also	be	evident.	The	patient	may	be	asked	to	draw	a	circle
+or	 a	 figure	 eight	 with	 his	 foot,	 either	 in	 the	 air	 or	 on	 the	 floor;	 in	 ataxia,	 the
+movement	will	be	unsteady	and	the	figure	irregular.
+
+Rapid	Alternating	Movements
+With	 dysdiadochokinesia,	 one	 act	 cannot	 be	 immediately	 followed	 by	 its
+diametric	 opposite;	 the	 contraction	 of	 one	 set	 of	 agonists	 and	 relaxation	 of	 the
+antagonists	 cannot	 be	 followed	 immediately	 by	 relaxation	 of	 the	 agonists	 and
+contraction	 of	 the	 antagonists.	 Patients	 with	 cerebellar	 ataxia	 may	 have	 great
+difficulty	making	these	kinds	of	movements	(Video	43.1).	A	 common	 test	 for
+dysdiadochokinesia	 is	 to	 have	 the	 patient	 alternately	 pronate	 and	 supinate	 his
+hands,	 as	 in	 patting	 alternately	 with	 the	 palm	 and	 dorsum	 of	 the	 hand	 on	 the
+thigh	or	on	the	palm	or	dorsum	of	the	other	hand,	or	imitating	screwing	in	a	light
+bulb	 or	 turning	 a	 doorknob.	 The	 movements	 are	 performed	 repetitively	 and	 as
+rapidly	 as	 possible.	 Any	 movement	 involving	 reciprocal	 innervation	 and
+alternate	 action	 of	 agonists	 and	 antagonists	 can	 be	 used,	 such	 as	 alternate
+opening	 and	 closing	 of	 the	 fists,	 quickly	 flexing	 and	 extending	 individual
+fingers,	touching	the	tip	of	the	index	finger	to	the	tip	or	extended	interphalangeal
+joint	of	the	thumb,	or	patting	rapidly	against	a	table	top	with	hand	or	fingertips.
+
+A	good	test	is	to	have	the	patient	touch	the	tip	of	his	thumb	with	the	tip	of	each
+finger	rapidly	and	in	sequence—starting	with	the	index	finger	and	proceeding	to
+the	little	finger,	repeating	with	the	little	finger	and	going	to	the	index	finger,	and
+so	forth.	Another	good	test	is	to	have	the	patient	tap	out	a	simple	rhythm	with
+each	 hand	 (e.g.,	 1-2-3/pause	 in	 steady	 beat),	 and	 then	 a	 more	 complex	 but
+familiar	 rhythm	 (e.g.,	 Happy	 Birthday	 song).	 Testing	 RAMs	 in	 the	 lower
+extremity	 is	 much	 more	 limited.	 The	 patient	 may	 be	 asked	 to	 pat	 the	 foot
+steadily,	 against	 the	 floor	 if	 standing,	 and	 against	 the	 examiner’s	 palm	 if
+recumbent	 or	 to	 repetitively	 touch	 the	 heel	 up	 and	 down	 to	 the	 knee	 if	 supine.
+RAMs	of	the	tongue	may	be	tested	by	having	the	patient	move	the	tongue	in	and
+out	or	from	side	to	side	as	rapidly	as	possible.
+
+In	 all	 of	 these	 tests,	 note	 the	 rate,	 rhythm,	 accuracy,	 and	 smoothness	 of	 the
+movements.	In	patients	with	ataxia,	the	RAMs	are	carried	out	either	slowly	and
+hesitantly,	 with	 pauses	 during	 transition	 between	 the	 opposing	 motions,	 or
+unsteadily	and	irregularly,	with	loss	of	rhythm.	There	may	be	a	rapid	fatigability:
+The	movements	may	be	executed	satisfactorily	in	the	beginning,	but	after	a	few
+attempts,	 they	 become	 awkward	 and	 clumsy.	 The	 two	 extremities	 are	 usually
+compared,	 but	 patients	 with	 bilateral	 abnormalities	 are	 common,	 and	 the
+examiner	 must	 rely	 on	 experience	 or	 use	 another	 control.	 Demonstrating	 the
+movements	 to	 the	 patient	 provides	 an	 opportunity	 for	 the	 examiner	 to	 be	 the
+control.	 For	 some	 maneuvers,	 such	 as	 rapid,	 repetitive	 finger	 movements,	 the
+two	extremities	can	be	examined	simultaneously	and	one	side	compared	with	the
+other.	 Simultaneous	 testing	 may	 also	 cause	 accentuation	 of	 the	 abnormality	 on
+the	affected	side.
+
+Impaired	Check	and	the	Rebound	Phenomenon
+Checking	 movements	 involve	 contraction	 of	 the	 antagonists	 after	 a	 load	 is
+unexpectedly	 removed	 during	 strong	 contraction	 of	 the	 agonists.	 The	 agonists
+must	 immediately	 relax	 and	 the	 antagonists	 must	 contract	 to	 provide	 braking
+after	 the	 sudden	 release	 of	 resistance.	 Because	 cerebellar	 dysfunction	 causes
+impairment	 of	 the	 reciprocal	 relationship	 between	 agonist	 and	 antagonist,
+patients	may	have	impairment	of	the	checking	response.
+
+In	 the	 Holmes	 (Stewart-Holmes)	 rebound	 test,	 the	 patient	 holds	 the	 arm
+adducted	at	the	shoulder	and	flexed	at	the	elbow,	with	the	forearm	supinated	and
+the	fist	firmly	clenched.	The	elbow	may	rest	on	a	table	or	be	held	unsupported
+close	 to	 the	 body.	 The	 examiner	 pulls	 on	 the	 wrist,	 and	 the	 patient	 strongly
+resists	the	examiner’s	attempt	to	extend	the	elbow.	The	examiner	then	suddenly
+
+releases	 his	 grip	 on	 the	 wrist.	 Normally,	 with	 the	 sudden	 unloading,	 the
+contraction	of	the	elbow	flexors	immediately	ceases	and	is	rapidly	followed	by
+contraction	 of	 the	 elbow	 extensors	 to	 arrest	 the	 sudden	 flexion	 movement	 and
+stop	 the	 patient	 from	 hitting	 himself.	 The	 normal	 patient	 is	 able	 to	 control	 the
+unexpected	 flexion	 movement	 of	 the	 elbow.	 In	 cerebellar	 disease,	 when	 the
+strongly	flexed	extremity	is	suddenly	released,	the	patient	cannot	stop	the	flexor
+contraction	 and	 engage	 the	 extensors	 to	 stop	 the	 elbow	 movement.	 Because	 of
+loss	 of	 the	 checking	 response,	 the	 fist	 flies	 up	 to	 the	 shoulder	 or	 mouth,	 often
+with	considerable	force.	The	examiner’s	free	arm	should	be	placed	between	the
+patient’s	fist	and	face	to	block	the	blow.	The	prevalent	description	of	this	as	the
+Holmes	rebound	phenomenon	is	not	precisely	correct.	Stewart	and	Holmes	used
+rebound	to	refer	to	the	jerk	back	in	the	opposite	direction,	the	recoil,	on	release
+of	the	restraint.	The	rebound	phenomenon	is	present	normally	and	exaggerated
+in	spastic	limbs.	It	is	the	absence	of	rebound	(usually	accompanied	by	impaired
+checking)	in	limbs	affected	by	cerebellar	disease	that	is	abnormal.	It	is	the	loss
+of	 rebound	 that	 is	 abnormal	 and	 characteristic	 of	 cerebellar	 disease,	 not	 its
+presence.
+
+The	rebound	test	may	be	carried	out	in	other	ways.	Elbow	extension	against
+resistance	may	be	tested	instead	of	flexion.	With	both	arms	outstretched	in	front
+of	the	patient,	the	examiner	may	press	either	down	or	up	on	them	as	the	patient
+resists	 and	 then	 suddenly	 lets	 go.	 This	 allows	 comparison	 of	 the	 rebound
+phenomenon	 and	 loss	 of	 checking	 movements	 on	 the	 two	 sides.	 In	 the	 lower
+extremities,	 rebound	 can	 be	 tested	 by	 sudden	 release	 after	 the	 patient	 has	 been
+resisting	either	flexion	or	extension	at	the	knee,	hip,	or	ankle.	Impaired	checking
+and	 loss	 of	 rebound	 are	 not	 invariably	 present	 in	 cerebellar	 disease	 and	 may
+sometimes	 be	 present	 in	 normal	 limbs.	 Loss	 of	 rebound	 is	 more	 significant
+unilaterally	than	bilaterally.	In	the	arm-stopping	test,	the	patient	holds	both	arms
+overhead	or	by	his	sides,	the	examiner	holds	his	arms	outstretched	horizontally,
+and	 then	 the	 patient	 tries	 to	 quickly	 bring	 his	 arms	 up	 or	 down	 so	 that	 his
+fingertips	 are	 at	 the	 exact	 same	 level	 as	 the	 examiner’s.	 With	 a	 unilateral
+hemispheric	 lesion,	 the	 good	 arm	 will	 stop	 on	 target,	 the	 affected	 arm	 often
+overshoots	 and	 then	 corrects	 in	 the	 opposite	 direction,	 oscillating	 around	 the
+target	before	eventually	coming	to	rest.
+
+Deviation	and	Past	Pointing
+Patients	 with	 cerebellar	 disease	 often	 have	 difficulty	 maintaining	 normal
+alignment	of	the	limbs	or	body	when	performing	a	task	such	as	holding	the	arms
+
+outstretched	or	walking,	especially	with	eyes	closed.	The	patient	may	miss	when
+trying	 to	 reach	 out	 to	 touch	 a	 target	 (past	 pointing),	 drift	 to	 one	 side	 when
+walking	eyes	closed,	or	have	drift	of	the	outstretched	arm	(Video	43.2).	Similar
+findings	may	occur	with	vestibular	lesions.
+
+00:00	/	00:00
+
+Video	43.2	Vestibular	and	cerebellar	past	pointing	and	the	stepping	test.
+
+To	 perform	 the	 traditional	 test	 for	 past	 pointing,	 the	 patient	 and	 examiner
+should	be	 facing,	either	 seated	 or	 standing,	 the	 outstretched	 upper	 extremity	of
+each	 held	 horizontally	 with	 the	 index	 fingers	 in	 contact.	 The	 patient	 raises	 his
+arm	 to	 a	 vertical	 position,	 finger	 pointed	 directly	 upward,	 and	 then	 returns	 to
+horizontal	to	again	touch	the	examiner’s	finger.	The	maneuver	should	be	tried	a
+few	times	with	the	eyes	open	and	then	executed	with	the	eyes	closed.	The	arms
+may	 be	 tested	 sequentially	 or	 simultaneously.	 The	 test	 is	 less	 commonly	 done
+with	the	patient	raising	the	arm	from	below	up	to	the	horizontal.	Normally,	the
+patient	will	return	to	the	starting	position	fairly	accurately,	without	any	drift	or
+deviation.	 In	 labyrinthine	 disease	 or	 with	 a	 cerebellar	 hemispheric	 lesion,	 the
+arm	will	deviate	to	the	involved	side	on	the	return	track,	more	so	with	the	eyes
+closed.	 This	 deviation	 is	 called	 past	 pointing.	 A	 simpler	 way	 to	 test	 for	 past
+pointing	is	to	have	the	patient	close	his	eyes	while	doing	the	finger-nose-finger
+test.	With	 eyes	open,	 the	pointing	is	 accurate,	 but	with	 eyes	closed,	 the	 patient
+points	off	to	the	side	of	the	target.	Repeating	the	test	several	times	may	produce
+greater	 deviation.	With	severe	 lesions,	past	pointing	may	occur	 even	with	 eyes
+open.	The	pattern	is	different	in	vestibular	as	opposed	to	cerebellar	past	pointing.
+In	vestibular	disease,	past	pointing	occurs	with	both	upper	extremities	toward	the
+involved	 side;	 in	 unilateral	 cerebellar	 disease,	 past	 pointing	 occurs	 toward	 the
+side	of	the	lesion,	or	erratically	to	either	side,	but	only	in	the	ipsilateral	arm.	Past
+
+pointing	is	discussed	further	in	Chapter	17.
+
+A	cerebellar	lesion	may	also	cause	drift	of	the	outstretched	upper	extremities.
+Three	 types	 of	 drift	 may	 occur	 when	 the	 patient	 attempts	 to	 hold	 the	 arms
+outstretched	with	eyes	closed:	pyramidal	drift,	parietal	drift,	and	cerebellar	drift.
+In	 pronator	 drift	 (Barré’s	 sign)	 due	 to	 a	 pyramidal	 lesion,	 the	 arm	 sinks
+downward	and	there	is	accompanying	pronation	of	the	forearm	(see	Chapter	27).
+In	 parietal	 drift,	 the	 arm	 usually	 rises	 and	 strays	 outward	 (updrift).	 With
+cerebellar	drift,	the	arm	drifts	mainly	outward,	either	at	the	same	level,	rising,	or
+less	often	sinking.	Testing	is	done	with	arms	outstretched	and	eyes	closed.	With
+disease	 involving	 one	 cerebellar	 hemisphere,	 the	 arm	 drifts	 toward	 the	 side	 of
+the	 lesion.	 The	 deviation	 may	 be	 accentuated	 by	 tapping	 the	 patient’s
+outstretched	 wrists.	 Tapping	 on	 the	 wrists	 may	 also	 create	 an	 up-and-down
+oscillation	because	of	impaired	checking,	so	that	the	arm	swings	up	and	down	a
+few	times	and	gradually	drifts	laterally	and	often	upward.
+
+Position	holding	can	also	be	tested	in	the	lower	extremities.	The	patient,	lying
+supine,	raises	the	legs	one	at	a	time.	When	there	is	ataxia,	the	leg	cannot	be	lifted
+steadily	 or	 in	 a	 straight	 line.	 There	 may	 be	 adduction,	 abduction,	 rotation,
+oscillations,	or	jerky	movements	from	one	position	to	another.	When	the	limb	is
+lowered,	 the	 patient	 may	 throw	 it	 down	 heavily,	 and	 it	 may	 not	 return	 to	 its
+original	position	beside	its	mate	but	may	be	deviated	across	it	or	away	from	it.
+When	 the	 seated	 patient	 extends	 the	 legs	 without	 support	 and	 attempts	 to	 hold
+them	 steady,	 a	 unilateral	 cerebellar	 lesion	 may	 cause	 oscillations	 and	 lateral
+deviation	 of	 the	 ipsilateral	 extremity.	 If	 the	 prone	 patient	 bends	 the	 knees	 and
+tries	to	maintain	the	shins	vertically,	there	may	be	marked	oscillations	and	lateral
+deviation	of	the	leg	on	the	side	of	the	lesion.
+
+Deviation	and	drift	may	also	occur	when	the	patient	tries	to	walk	with	eyes
+closed.	 As	 in	 vestibulopathy,	 the	 patient	 drifts	 to	 the	 side	 of	 the	 lesion	 (see
+Chapter	17).	Walking	back	and	forth	with	eyes	closed	may	reveal	a	“compass”
+or	“star”	gait	due	to	deviation	toward	the	involved	side.	When	walking	around	a
+chair,	the	patient	shows	a	tendency	to	fall	toward	the	affected	side.
+
+CEREBELLAR	SYNDROMES
+
+Cerebellar	disease	may	affect	all	or	only	a	specific	part	of	the	cerebellum.	There
+are	two	clearly	defined	cerebellar	syndromes:	a	midline	or	vermis	syndrome	and
+a	 lateral	 or	 hemispheric	 syndrome.	 With	 the	 vermis,	 or	 midline,	 syndrome,	 the
+
+outstanding	symptoms	 are	abnormalities	of	 station	 and	 gait,	with	 abnormalities
+ranging	from	slight	widening	of	the	base	on	walking	in	mild	disease	(gait	ataxia)
+to	 total	 inability	 to	 sit	 or	 walk	 in	 severe	 disease.	 Disease	 of	 the	 cerebellar
+hemispheres	 produces	 appendicular	 ataxia,	 disturbance	 in	 coordination	 of	 the
+ipsilateral	 extremities,	 the	 arm	 more	 than	 the	 leg.	 The	 primary	 clinical
+manifestations	of	dysfunction	of	the	FN	lobe	or	its	connections	are	disturbances
+of	 equilibrium;	 nystagmus,	 often	 positional;	 and	 other	 abnormalities	 of
+extraocular	 movement.	 There	 is	 no	 limb	 ataxia.	 Table	 43.1	 summarizes	 the
+clinical	manifestations	of	disease	of	these	parts	of	the	cerebellum.
+
+TABLE
+43.1
+
+Clinical	Manifestations	of	Disorders	of	the	Cerebellum
+(Related	to	the	Different	Zones	of	the	Cerebellum)
+
+Zone	of	Cerebellum Clinical	Manifestation
+
+Possible
+Disorder
+
+Flocculonodular	lobe
+(archicerebellum)
+
+Nystagmus;	extraocular
+
+Medulloblastoma
+
+movement	abnormalities
+
+Vermis
+
+Gait	ataxia
+
+(paleocerebellum)
+
+Alcoholic
+
+degeneration
+
+Hemisphere
+
+(neocerebellum)
+
+Appendicular	ataxia
+
+Tumor;	stroke
+
+Pancerebellar
+
+All	of	the	above
+
+Paraneoplastic
+
+The	 manifestations	 of	 cerebellar	 disease	 differ	 markedly	 in	 severity,
+depending	 upon	 the	 acuteness	 or	 chronicity	 of	 the	 process.	 The	 ability	 of	 the
+nervous	system	to	compensate	for	a	cerebellar	lesion	can	be	remarkable.	If	the
+lesion	is	acute,	the	symptoms	are	profound;	if	it	is	slowly	progressive,	they	are
+much	less	severe.	There	may	be	considerable	recovery	from	an	acute	lesion.	If	a
+lesion	 develops	 insidiously,	 there	 may	 be	 extensive	 involvement	 of	 the
+hemispheres	without	much	in	the	way	of	clinical	findings.	The	neural	plasticity
+and	 compensation	 are	 such	 that	 some	 patients	 with	 little	 remaining	 cerebellar
+tissue	can	eventually	function	quite	well.	The	symptoms	of	cerebellar	disease	are
+similar	regardless	of	the	etiology	of	the	disease	process,	and	whether	the	lesion
+is	congenital	or	acquired.
+
+Midline	Syndrome
+
+The	 vermis	 is	 important	 in	 the	 control	 of	 axial	 structures,	 or	 those	 that	 are
+bilaterally	 innervated;	 vermian	 lesions	 primarily	 affect	 midline	 functions,	 such
+as	walking	and	coordination	of	the	head	and	trunk.	A	patient	with	mild	vermian
+disease	has	gait	ataxia.	The	base	is	widened,	tandem	gait	is	particularly	difficult,
+and	there	may	be	decompensation	on	turning.	The	Romberg	test	is	negative—the
+imbalance	 does	 not	 worsen	 significantly	 with	 eyes	 closed.	 With	 severe
+dysfunction	 of	 the	 vermis,	 there	 may	 be	 gross	 postural	 and	 locomotor
+disturbances	 of	 the	 entire	 body.	 There	 is	 no	 lateralization,	 and	 the	 tendency	 to
+fall	may	be	either	backward	or	forward.	The	gait	is	wide	based	and	characterized
+by	swaying	 and	 staggering;	 the	patient	may	 reel	 in	 a	 drunken	 manner	 to	either
+side.	Cerebellar	ataxia	is	discussed	further	in	Chapter	44.
+
+With	truncal	ataxia,	there	is	swaying	and	unsteadiness	when	standing,	and	the
+patient	may	be	unable	to	maintain	an	upright	position.	There	may	be	loss	of	the
+ability	 to	 remain	 erect	 when	 seated	 or	 to	 hold	 the	 neck	 and	 head	 steady	 and
+upright;	 when	 severe,	 the	 standing	 and	 sitting	 balance	 disturbance	 leads	 to
+constant,	to-and-fro	swaying,	nodding,	and	weaving	movements	of	the	head	and
+trunk	 when	 the	 patient	 is	 upright	 known	 as	 titubation.	 The	 head	 movements	 in
+titubation	 are	 primarily	 anteroposterior	 (yes-yes)	 at	 3	 to	 4	 Hz.	 Vermis
+dysfunction	 causes	 little	 or	 no	 abnormality	 of	 the	 extremities,	 especially	 the
+upper	 extremities,	 although	 all	 coordinated	 movements	 may	 be	 poorly
+performed.	Muscle	tone	and	reflexes	are	normal.	Nystagmus	may	be	present	but
+is	 usually	 not	 marked.	 Ocular	 dysmetria,	 rebound	 nystagmus,	 and	 pursuit
+abnormalities	 may	 also	 occur.	 Lesions	 involving	 the	 vermis	 may	 cause	 upbeat
+nystagmus.	Dysarthria	is	often	present.	There	is	sometimes	an	abnormal	rotated
+or	tilted	head	posture.
+
+Common	 causes	 of	 a	 midline	 cerebellar	 syndrome	 are	 alcoholic	 cerebellar
+degeneration	 and	 medulloblastoma.	 Alcohol	 preferentially	 poisons	 the	 vermis,
+leading	 to	 a	 characteristic	 syndrome	 of	 gait	 ataxia	 with	 sparing	 of	 the	 limbs.
+Such	 patients	 may	 have	 no	 demonstrable	 lower-extremity	 ataxia	 while	 lying
+supine,	 yet	 be	 totally	 unable	 to	 walk.	 Unwary	 examiners	 may	 conclude	 such
+findings	represent	hysteria.	Medulloblastomas	occur	most	often	in	the	cerebellar
+vermis.
+
+Hemispheric	Syndrome
+
+With	 a	 lesion	 involving	 one	 cerebellar	 hemisphere,	 the	 manifestations	 are
+appendicular	rather	than	axial.	Cerebellar	hemispheric	deficits	are	unilateral	and
+ipsilateral	 to	 the	 lesion,	 as	 the	 pathways	 are	 uncrossed	 (or,	 more	 correctly,
+double	crossed).	There	is	a	disturbance	of	skilled	movements	of	the	extremities,
+with	 ataxia,	 dysmetria,	 dyssynergy,	 dysdiadochokinesia,	 and	 hypotonicity
+affecting	 the	 arm	 and	 hand	 more	 than	 the	 leg	 and	 foot.	 Distal	 movements	 are
+affected	 more	 than	 proximal	 and	 fine	 movements	 more	 than	 gross	 ones.
+Movements	are	performed	irregularly,	and	there	may	be	intention	tremor	or	other
+hyperkinesias	if	the	dentate	nucleus	or	its	efferent	pathways	are	involved.
+
+Posture	and	gait	are	not	impaired	as	severely	as	in	the	vermis	syndrome,	but
+abnormalities	do	occur.	There	may	be	swaying	and	falling	toward	the	side	of	the
+lesion.	 The	 patient	 may	 be	 able	 to	 stand	 one	 legged	 using	 the	 contralateral	 but
+not	the	ipsilateral	foot.	He	may	be	unable	to	bend	his	body	toward	the	involved
+side	 without	 falling.	 The	 abnormalities	 often	 resemble	 those	 of	 a	 unilateral
+vestibular	 lesion.	 On	 walking,	 there	 may	 be	 unsteadiness,	 with	 deviation	 or
+rotation	toward	the	involved	side.	There	may	be	drift	and	past	pointing	toward
+the	 involved	 side.	 Dysarthria	 may	 occur,	 although	 disturbances	 of	 articulation
+are	not	as	severe	as	in	vermis	lesions.	Nystagmus	is	a	common	finding,	usually
+horizontal	 but	 sometimes	 rotatory.	 It	 is	 usually	 more	 prominent	 when	 looking
+toward	 the	 side	 of	 the	 lesion.	 Common	 causes	 of	 a	 cerebellar	 hemispheric
+syndrome	 include	 cerebellar	 astrocytoma,	 multiple	 sclerosis,	 and	 lateral
+medullary	stroke.
+
+Diffuse	Cerebellar	Dysfunction
+
+Some	 conditions	 affect	 the	 cerebellum	 diffusely,	 causing	 midline	 and	 bilateral
+hemispheric	abnormalities.	Patients	may	have	nystagmus,	gait	and	truncal	ataxia,
+and	
+hereditary
+spinocerebellar	 ataxia	 (SCA)	 syndromes,	 drugs	 (especially	 phenytoin),	 toxins,
+and	paraneoplastic	cerebellar	degeneration.
+
+incoordination.	 Etiologies	
+
+appendicular	
+
+include	
+
+the	
+
+Sensory	Ataxia
+
+Incoordination	 may	 also	 result	 from	 a	 lack	 of	 proprioceptive	 input	 from	 the
+limbs.	 Sensory	 ataxia	 results	 from	 peripheral	 nerve	 disease	 affecting	 primarily
+sensory	 fibers;	 pathology	 involving	 the	 dorsal	 root	 ganglia,	 dorsal	 roots,	 or
+posterior	columns	of	the	spinal	cord;	interruption	of	the	proprioceptive	pathways
+
+in	 the	 brainstem;	 or	 disease	 of	 the	 parietal	 lobe.	 Incoordination	 due	 to	 sensory
+ataxia	can	 closely	mimic	that	of	cerebellar	ataxia	 (Table	43.2).	 With	 cerebellar
+ataxia,	it	makes	little	difference	whether	the	patient’s	eyes	are	open	or	closed.	In
+sensory	ataxia,	performance	is	not	normal	with	eyes	open	but	worsens	markedly
+with	 eyes	 closed.	 The	 different	 components	 of	 the	 abnormality	 may	 behave
+slightly	differently	when	visual	input	is	removed.	Some	of	the	tremor	in	sensory
+ataxia	 is	 due	 to	 visually	 guided	 voluntary	 corrections	 of	 deviations	 from	 the
+intended	 track.	 Because	 of	 loss	 of	 appreciation	 of	 limb	 position	 in	 space,	 with
+eyes	closed,	the	patient	may	be	unable	to	find	his	nose	or	the	examiner’s	finger,
+but	the	tremor	may	actually	abate	because	the	patient	cannot	see	that	a	deviation
+is	occurring	and	does	not	attempt	to	correct	it.	He	may	be	wildly	off	target	but
+move	in	a	straighter	line.	The	distinction	between	cerebellar	and	sensory	ataxia
+is	also	made	by	the	associated	findings	(Table	43.2).
+
+TABLE
+43.2
+
+Associated	Findings	Helpful	in	Distinguishing	Sensory
+from	Cerebellar	Ataxia
+
+Sensory	Ataxia
+
+Cerebellar	Ataxia
+
+Sensory	loss,
+
+Nystagmus,	ocular	dysmetria,	and	other	eye
+
+especially	for	joint
+position	and
+vibration
+
+movement	abnormalities
+
+Steppage	gait
+
+Reeling,	ataxic	gait
+
+Decreased	reflexes Other	signs	of	cerebellar	disease	(dyssynergia,
+
+dysmetria,	dysdiadochokinesia,	hypotonia,
+rebound,	impaired	check	response)
+
+Other	Abnormalities
+
+There	are	many	potential	causes	for	a	lack	of	coordination	of	movement.	All	of
+the	levels	of	the	motor	system	are	involved	in	performing	smooth	and	accurate
+movement.	 Weakness	 of	 any	 origin	 may	 interfere	 with	 skill	 and	 precision.
+Abnormalities	of	tone	of	any	type	may	interfere	with	coordination.	Diseases	of
+the	extrapyramidal	system	may	impair	motor	control	because	of	rigidity,	akinesia
+
+or	 bradykinesia,	 lack	 of	 spontaneity,	 and	 loss	 of	 associated	 movements.	 A
+corticospinal	tract	lesion	may	cause	jerkiness	and	clumsiness	of	movement,	loss
+of	 motor	 control,	 and	 poor	 integration	 of	 skilled	 acts.	 Nonorganic	 illness	 may
+true	 ataxia.	 Hyperkinetic
+cause	 difficulty	 with	 coordination	 simulating	
+movement	 disorders	 may	 cause	 irregularity	 in	 the	 timing	 and	 excursion	 of
+impair	 motor
+successive	 movements.	 Proprioceptive	 abnormalities	 may	
+performance.	 To	 always	 attribute	 ataxia	
+is	 an
+oversimplification	 because	 many	 conditions	 can	 cause	 incoordination	 and
+clumsiness.	 Often,	 the	 cause	 is	 multifactorial.	 A	 good	 general	 rule	 is	 to	 avoid
+drawing	conclusions	about	the	meaning	of	“cerebellar	signs”	in	the	face	of	any
+significant	 degree	 of	 weakness,	 spasticity,	 rigidity,	 or	 sensory	 loss.	 When	 the
+examination	 shows	no	 other	abnormalities,	incoordination	 and	 awkwardness	 of
+movement	are	usually	due	to	cerebellar	disease.
+
+to	 cerebellar	 disease	
+
+Frontal	lobe	ataxia	refers	to	disturbed	coordination	due	to	dysfunction	of	the
+contralateral	frontal	lobe;	it	may	resemble	the	deficits	due	to	abnormalities	of	the
+ipsilateral	 cerebellar	 hemisphere.	 Frontal	 lobe	 ataxia	 results	 from	 disease
+involving	 the	 frontopontocerebellar	 fibers	 en	 route	 to	 synapse	 in	 the	 pontine
+nuclei.	 Frontal	 lobe	 lesions	 may	 produce	 other	 abnormalities,	 such	 as
+hyperreflexia,	increased	tone,	and	pathologic	reflexes,	whereas	purely	cerebellar
+lesions	 typically	 cause	 hypotonia,	 diminished	 or	 pendular	 reflexes,	 and	 no
+pathologic	 reflex	 responses.	 Pressure	 on	 the	 brainstem	 by	 a	 cerebellar	 mass
+lesion	may	cause	corticospinal	tract	findings	that	can	confuse	the	picture.	Bruns’
+ataxia	 refers	 to	 a	 gait	 disturbance	 seen	 primarily	 in	 frontal	 lobe	 lesions	 (see
+Chapter	44).
+
+A	variety	of	other	functions	have	been	attributed	to	the	cerebellum,	and	there
+has	 been	 increasing	 awareness	 of	 its	 nonmotor	 functions.	 Roles	 for	 the
+cerebellum	in	learning,	planning,	emotion,	and	cognition	have	been	proposed.	It
+may	 play	 a	 role	 in	 sensory-motor	 integration,	 motor	 coordination,	 motor
+learning,	 and	 timing.	 A	 cerebellar	 cognitive	 affective	 syndrome	 has	 been
+function,	 visuospatial
+described,	 characterized	 by	 disturbed	 executive	
+disorganization	 and	 impaired	 visuospatial	 memory,	 personality	 change,	 and
+linguistic	difficulties	such	as	dysprosodia,	agrammatism,	and	mild	anomia.	The
+cerebellum	 has	 considerable	 influence	 in	 language	 processing.	 Children	 with
+cerebellar	 malformations	 have	 a	 high	 prevalence	 of	 nonmotor	 developmental
+and	 functional	 disabilities	 including	 cognitive,	 language,	 and	 social-behavioral
+deficits.	The	cerebellar	mutism	syndrome	(posterior	fossa	syndrome)	consists	of
+diminished	 speech	 progressing	 to	 mutism,	 emotional	 lability,	 hypotonia,	 and
+
+ataxia.	 It	 is	 common	 following	 resection	 of	 a	 midline	 posterior	 fossa	 tumor	 in
+children,	 particularly	 medulloblastoma.	 Dysarthria	 may	 occur	 as	 a	 sequela.
+Nonmotor	 dysfunction	 of	 the	 cerebellum	 has	 been	 implicated	 in	 conditions	 as
+diverse	as	autism,	dyslexia,	and	schizophrenia.
+
+CEREBELLAR	DISORDERS
+
+Conditions	 causing	 a	 relatively	 acute	 ataxia	 include	 metabolic	 disorders,
+infections,	 toxins,	 neoplasms,	 infarction,	 hemorrhage,	 and	 demyelinating
+disease.	An	idiopathic	condition,	acute	cerebellar	ataxia	or	“cerebellitis,”	is	most
+common	 in	 children.	 Autoimmunity	 may	 account	 for	 some	 cases	 of	 idiopathic
+include	 Wernicke’s
+sporadic	 cerebellar	 ataxia.	 The	 metabolic	 disorders	
+encephalopathy,	 biotinidase	 deficiency,	 and	 hyperammonemia.	 Conditions
+causing	 episodic	 or	 recurrent	 ataxia	 include	 channelopathies,	 such	 as	 the
+episodic	 ataxia	 syndromes,	 basilar	 artery	 migraine,	 recurrent	 toxin	 exposure
+(alcohol	 is	 the	 archetypal	 cerebellar	 toxin),	 and	 metabolic	 disorders	 such	 as
+Hartnup’s	disease,	Leigh’s	syndrome,	and	organic	acidurias.
+
+Chronic	 ataxia	 may	 be	 relatively	 fixed	 or	 progressive.	 Static	 forms	 include
+alcoholic	cerebellar	degeneration	and	malformations,	such	as	the	Dandy-Walker
+and	Chiari	malformations.	The	Chiari	I	malformation	is	relatively	common.	It	is
+often	 asymptomatic	 and	 discovered	 incidentally	 on	 neuroimaging.	 When
+symptomatic,	 typical	 other	 manifestations	 include	 headache	 and	 neck	 pain
+(worsened	 by	 cough	 or	 Valsalva	 maneuver),	 evidence	 of	 lower	 brainstem
+dysfunction	(e.g.,	dysarthria,	dysphagia,	downbeat	nystagmus),	myelopathy,	and
+syringomyelia.	Causes	of	chronic	progressive	ataxia	include	the	hereditary	SCAs
+and	 acquired	 disorders	 such	 as	 hypothyroidism,	 paraneoplastic	 cerebellar
+degeneration,	and	multiple	sclerosis.
+
+TABLE
+43.3
+
+Name
+
+SCA1
+
+The	Common	Forms	of	Spinocerebellar	Ataxia	(SCA)
+
+Genetics
+
+Phenotype
+
+6p22–p23;	CAG
+
+Ataxia;	ophthalmoparesis;
+
+repeats;	ataxin-1
+
+pyramidal	and	extrapyramidal
+findings
+
+SCA2
+
+12q23–q24.1;	CAG;
+
+ataxin-2
+
+SCA3
+
+(Machado-
+Joseph
+disease)
+
+SCA6
+
+SCA7
+
+14q24.3–q32;	CAG
+repeats;	ataxin-3
+
+19p13.2;	CAG	repeats;
+CACNA1A	protein,
+P/Q-type	calcium
+channel	subunit
+
+3p14.1–p21.1;	CAG
+repeats;	ataxin-7
+binding	protein
+
+Ataxia;	slow	saccades;	minimal
+pyramidal	and	extrapyramidal
+findings
+
+Ataxia;	ophthalmoparesis;
+
+variable	pyramidal,
+extrapyramidal,	and
+amyotrophic	signs
+
+Ataxia;	dysarthria;	nystagmus;
+mild	proprioceptive	sensory
+loss
+
+Ophthalmoparesis;	visual	loss;
+ataxia;	dysarthria;	extensor
+plantar	response;	pigmentary
+retinal	degeneration
+
+SCA8
+
+13q21	with	CTG
+
+Gait	ataxia;	dysarthria;
+
+repeats;	noncoding;
+3′	untranslated
+region	of	transcribed
+RNA
+
+nystagmus;	leg	spasticity;
+reduced	vibratory	sensation
+
+Modified	from	Rosenberg	RN.	Ataxic	disorders.	In:	Longo	D,	Fauci	AS,	Kasper	DL,	et	al.,	eds.
+Harrison’s	Principles	of	Internal	Medicine.	18th	ed.	New	York:	McGraw-Hill,	2011.
+
+The	 inherited	 ataxias	 may	 be	 transmitted	 through	 autosomal	 dominant,
+autosomal	 recessive,	 or	 maternal	 (mitochondrial)	 modes	 of	 inheritance.	 A
+genomic	 classification	 has	 now	 largely	 superseded	 previous	 ones	 based	 on
+clinical	 expression	 alone.	 The	 clinical	 manifestations	 and	 neuropathologic
+findings	 of	 cerebellar	 disease	 dominate	 the	 clinical	 picture;	 there	 may	 also	 be
+characteristic	changes	in	the	basal	ganglia,	brainstem,	spinal	cord,	optic	nerves,
+retina,	 and	 peripheral	 nerves.	 The	 conditions	 clinically	 range	 from	 purely
+cerebellar	syndromes	to	mixed	cerebellar	and	brainstem	disorders,	cerebellar	and
+basal	ganglia	syndromes,	and	spinal	cord	or	peripheral	nerve	disease.
+
+The	 most	 common	 form	 of	 hereditary	 ataxia	 is	 the	 autosomal	 recessive
+condition	 called	 FA.	 The	 most	 common	 molecular	 abnormality	 in	 FA	 is	 a
+
+trinucleotide	 repeat	 expansion	 in	 the	 gene	 encoding	 frataxin.	 The	 condition	 is
+characterized	 by	 progressive	 gait	 and	 limb	 ataxia	 with	 associated	 limb	 muscle
+weakness,	 absent	 lower	 limb	 reflexes,	 extensor	 plantar	 responses,	 dysarthria,
+decreased	vibratory	and	proprioception	sense,	scoliosis,	pes	cavus,	hammer	toes,
+and	cardiac	abnormalities.	Onset	is	usually	in	the	first	or	second	decade,	before
+the	 end	 of	 puberty.	 The	 triad	 of	 hypoactive	 knee	 and	 ankle	 jerks,	 signs	 of
+progressive	 cerebellar	 dysfunction,	 and	 preadolescent	 onset	 is	 commonly
+regarded	as	sufficient	for	diagnosis.	Uncommon	features	and	atypical	forms	have
+been	 recognized.	 As	 many	 as	 one-quarter	 of	 the	 patients,	 even	 homozygotes,
+have	 atypical	 features,	 including	 older	 age	 at	 presentation	 and	 intact	 tendon
+reflexes.	 Smaller	 trinucleotide	 repeat	 expansions	 correlate	 with	 later	 onset	 and
+longer	times	to	loss	of	ambulation.
+
+The	 autosomal	 dominant	 SCAs	 include	 SCA	 types	 1	 through	 47	 (at	 this
+writing).	 The	 most	 common	 disorders	 are	 SCA	 1,	 2,	 3	 (Machado-Joseph
+disease),	6,	7,	and	8	(Table	43.3).	Many	of	the	conditions	are	nucleotide	repeat
+disorders;	others	are	channelopathies.	Most	of	the	CAG	repeat	disorders	result	in
+proteins,	 termed	 ataxins,	 that	 produce	 a	 toxic	 gain	 of	 function.	 Although	 the
+phenotype	is	variable	for	any	given	disease	gene,	a	pattern	of	neuronal	loss	with
+gliosis	is	produced	that	is	relatively	unique	for	each	ataxia.
+
+Video	Links
+
+Video	Link	43.1.	Cerebellar	eye	signs.	https://collections.lib.utah.edu/details?
+
+id=188448
+
+BIBLIOGRAPHY
+
+Almeida	J,	Afonso	JG.	Cerebellum	and	schizophrenia:	from	concepts	to	clinical
+
+practice.	Eur	Psychiatry	2011;26:1340.
+
+Amarenco	P,	Chevrie-Muller	C,	Roullet	E,	et	al.	Paravermal	infarct	and	isolated
+
+cerebellar	dysarthria.	Ann	Neurol	1991;30:211–213.
+
+Andreasen	 NC,	 Pierson	 R.	 The	 role	 of	 the	 cerebellum	 in	 schizophrenia.	 Biol
+
+Psychiatry	2008;64:81–88.
+
+Angel	 RW.	 The	 rebound	 phenomenon	 of	 Gordon	 Holmes.	 Arch	 Neurol
+
+1977;34:250.
+
+Baier	 B,	 Dieterich	 M.	 Ocular	 tilt	 reaction:	 a	 clinical	 sign	 of	 cerebellar
+
+infarctions?	Neurology	2009;72:572–573.
+
+Bertini	E,	des	Portes	V,	Zanni	G,	et	al.	X-linked	congenital	ataxia:	a	clinical	and
+
+genetic	study.	Am	J	Med	Genet	2000;92:53–56.
+
+Bolduc	ME,	Du	Plessis	AJ,	Sullivan	N,	et	al.	Spectrum	of	neurodevelopmental
+disabilities	in	children	with	cerebellar	malformations.	Dev	Med	Child	Neurol
+2011;53:409–416.
+
+Campbell	 WW.	 Clinical	 Signs	 in	 Neurology:	 A	 Compendium.	 Philadelphia:
+
+Wolters	Kluwer	Health,	2016.
+
+Cruz-Marino	 T,	 Gonzalez-Zaldivar	 Y,	 Laffita-Mesa	 JM,	 et	 al.	 Uncommon
+features	 in	 Cuban	 families	 affected	 with	 Friedreich	 ataxia.	 Neurosci	 Lett
+2010;472:85–89.
+
+Daum	I,	Ackermann	H.	Cerebellar	contributions	to	cognition.	Behav	Brain	Res
+
+1995;67:201–210.
+
+Diehl	 B,	 Lee	 MS,	 Reid	 JR,	 et	 al.	 Atypical,	 perhaps	 under-recognized?	 An
+
+unusual	phenotype	of	Friedreich	ataxia.	Neurogenetics	2010;11:261–265.
+
+Diener	 HC,	 Dichgans	 J.	 Pathophysiology	 of	 cerebellar	 ataxia.	 Mov	 Disord
+
+1992;7:95–109.
+
+Durr	A,	Cossee	M,	Agid	Y,	et	al.	Clinical	and	genetic	abnormalities	in	patients
+
+with	Friedreich’s	ataxia.	N	Engl	J	Med	1996;335:1169–1175.
+
+Fenichel	GM,	Phillips	JA.	Familial	aplasia	of	the	cerebellar	vermis.	Possible	X-
+
+linked	dominant	inheritance.	Arch	Neurol	1989;46:582.
+
+Fine	 EJ,	 Ionita	 CC,	 Lohr	 L.	 The	 history	 of	 the	 development	 of	 the	 cerebellar
+
+examination.	Semin	Neurol	2002;22:375–384.
+
+Fogel	 BL,	 Perlman	 S.	 Clinical	 features	 and	 molecular	 genetics	 of	 autosomal
+
+recessive	cerebellar	ataxias.	Lancet	Neurol	2007;6:245–257.
+
+Fuller	 G.	 Neurological	 Examination	 Made	 Easy.	 5th	 ed.	 New	 York:	 Churchill
+
+Livingstone,	2013.
+
+Gilman	 S.	 Clinical	 Examination	 of	 the	 Nervous	 System.	 New	 York:	 McGraw-
+
+Hill,	2000.
+
+Gilman	S,	Newman	SW.	Manter	and	Gatz’s	Essentials	of	Clinical	Neuroanatomy
+
+and	Neurophysiology.	10th	ed.	Philadelphia:	FA	Davis,	2003.
+
+Goldstein	 BH,	 Birk	 CL,	 Van	 HM,	 et	 al.	 Ovarian	 cancer	 and	 late	 onset
+paraneoplastic	 cerebellar	 degeneration.	 Arch	 Gynecol	 Obstet	 2009;280:99–
+101.
+
+Gomez	 CM,	 Subramony	 SH.	 Dominantly	 inherited	 ataxias.	 Semin	 Pediatr
+
+Neurol	2003;10:210–222.
+
+Gould	 DJ,	 Fix	
+
+JD.	 Neuroanatomy.	 5th	 ed.	 Philadelphia:	 Wolters
+
+Kluwer/Lippincott	Williams	&	Wilkins,	2014.
+
+Gudrunardottir	T,	Sehested	A,	Juhler	M,	et	al.	Cerebellar	mutism:	review	of	the
+
+literature.	Childs	Nerv	Syst	2011;27:355–363.
+
+Hallett	M,	Berardelli	A,	Matheson	J,	et	al.	Physiological	analysis	of	simple	rapid
+movements	in	patients	with	cerebellar	deficits.	J	Neurol	Neurosurg	Psychiatry
+1991;54:124–133.
+
+Hallett	 M,	 Massaquoi	 SG.	 Physiologic	 studies	 of	 dysmetria	 in	 patients	 with
+
+cerebellar	deficits.	Can	J	Neurol	Sci	1993;20(Suppl	3):S83–S92.
+
+Hore	 J,	 Wild	 B,	 Diener	 HC.	 Cerebellar	 dysmetria	 at	 the	 elbow,	 wrist,	 and
+
+fingers.	J	Neurophysiol	1991;65:563–571.
+
+Iannicelli	M,	Brancati	F,	Mougou-Zerelli	S,	et	al.	Novel	TMEM67	mutations	and
+genotype-phenotype	 correlates	 in	 meckelin-related	 ciliopathies.	 Hum	 Mutat
+2010;31:E1319–E1331.
+
+Inhoff	AW,	Diener	HC,	Rafal	RD,	et	al.	The	role	of	cerebellar	structures	in	the
+
+execution	of	serial	movements.	Brain	1989;112:565.
+
+Ivry	 RB,	 Keele	 SW,	 Diener	 HC.	 Dissociation	 of	 the	 lateral	 and	 medial
+cerebellum	 in	 movement	 timing	 and	 movement	 execution.	 Exp	 Brain	 Res
+1988;73:167.
+
+Karmon	 Y,	 Inbar	 E,	 Cordoba	 M,	 et	 al.	 Paraneoplastic	 cerebellar	 degeneration
+mimicking	acute	post-infectious	cerebellitis.	Cerebellum	2009;8:441–444.
+Kiernan	JA,	Rajakumar	N.	Barr’s	The	Human	Nervous	System:	An	Anatomical
+Viewpoint.	 10th	 ed.	 Philadelphia:	 Wolters	 Kluwer/Lippincott	 Williams	 &
+Wilkins,	2014.
+
+Klockgether	 T,	 Ludtke	 R,	 Kramer	 B,	 et	 al.	 The	 natural	 history	 of	 degenerative
+ataxia:	a	retrospective	study	in	466	patients.	Brain	1998;121(Pt	4):589–600.
+Landau	 WM.	 Ataxic	 hindbrain	 thinking:	 the	 clumsy	 cerebellum	 syndrome.
+
+Neurology	1989;39:315.
+
+Lechtenberg	 R,	 Gilman	 S.	 Speech	 disorders	 in	 cerebellar	 disease.	 Ann	 Neurol
+
+1978;3:285–290.
+
+Lee	H,	Sohn	SI,	Cho	YW,	et	al.	Cerebellar	infarction	presenting	isolated	vertigo:
+frequency	 and	 vascular	 topographical	 patterns.	 Neurology	 2006;67:1178–
+1183.
+
+Leiner	 HC,	 Leiner	 AL,	 Dow	 RS.	 Reappraising	 the	 cerebellum:	 what	 does	 the
+hindbrain	contribute	to	the	forebrain?	Behav	Neurosci	1989;103:998–1008.
+Manto	 M,	 Godaux	 E,	 Jacquy	 J,	 et	 al.	 Cerebellar	 hypermetria	 associated	 with	 a
+selective	 decrease	 in	 the	 rate	 of	 rise	 of	 antagonist	 activity.	 Ann	 Neurol
+1996;39:271–274.
+
+Manto	 MU,	 Setta	 F,	 Jacquy	 J,	 et	 al.	 Different	 types	 of	 cerebellar	 hypometria
+associated	with	a	distinct	topography	of	the	lesion	in	cerebellum.	J	Neurol	Sci
+
+1998;158:88–95.
+
+Massey	 EW,	 Pleet	 AB,	 Scherokman	 BJ.	 Diagnostic	 Tests	 in	 Neurology:	 A
+Photographic	 Guide	 to	 Bedside	 Techniques.	 Chicago:	 Year	 Book	 Medical
+Publishers,	Inc.,	1985.
+
+Masur	 H,	 Elger	 CE,	 Ludolph	 AC,	 et	 al.	 Cerebellar	 atrophy	 following	 acute
+
+intoxication	with	phenytoin.	Neurology	1989;39:432.
+
+Miquel	 M,	 Toledo	 R,	 García	 LI,	 et	 al.	 Why	 should	 we	 keep	 the	 cerebellum	 in
+mind	when	thinking	about	addiction?	Curr	Drug	Abuse	Rev	2009;2:26–40.
+Morrison	PJ.	Paediatric	and	adult	autosomal	dominant	ataxias	(update	6).	Eur	 J
+
+Paediatr	Neurol	2010;14:261–263.
+
+Narabayashi	 H.	 Analysis	 of	
+1992;94(Suppl):S130–S132.
+
+intention	
+
+tremor.	 Clin	 Neurol	 Neurosurg
+
+Oberdick	 J,	 Sillitoe	 RV.	 Cerebellar	 zones.	 History,	 development,	 and	 function.
+
+Cerebellum	2011;10:301–306.
+
+Pernet	 CR,	 Poline	 JB,	 Demonet	 JF,	 et	 al.	 Brain	 classification	 reveals	 the	 right
+
+cerebellum	as	the	best	biomarker	of	dyslexia.	BMC	Neurosci	2009;10:67.
+
+Pestronk	
+
+A.	
+
+Hereditary	
+
+ataxias.
+
+http://neuromuscular.wustl.edu/ataxia/aindex.html.	Accessed	May	28,	2018.
+Piven	 J,	 Saliba	 K,	 Bailey	 J,	 et	 al.	 An	 MRI	 study	 of	 autism:	 the	 cerebellum
+
+revisited.	Neurology	1997;49:546–551.
+
+Pollack	 IF,	 Polinko	 P,	 Albright	 AL,	 et	 al.	 Mutism	 and	 pseudobulbar	 symptoms
+after	 resection	 of	 posterior	 fossa	 tumors	 in	 children:	 incidence	 and
+pathophysiology.	Neurosurgery	1995;37:885–893.
+
+Pryse-Phillips	 W.	 Companion	 to	 Clinical	 Neurology.	 3rd	 ed.	 Oxford:	 Oxford
+
+University	Press,	2009.
+
+Ropper	AH,	Samuels	MA,	Klein	J.	Adams	and	Victor’s	Principles	of	Neurology.
+
+10th	ed.	New	York:	McGraw-Hill	Education	Medical,	2014.
+
+Rosenberg	RN.	Ataxic	disorders.	In:	Longo	D,	Fauci	AS,	Kasper	DL,	et	al.,	eds.
+Harrison’s	Principles	of	Internal	Medicine.	18th	ed.	New	York:	McGraw-Hill,
+2011.
+
+Ross	RT.	How	to	Examine	the	Nervous	System.	4th	ed.	Totowa:	Humana	Press,
+
+2006.
+
+Sabater	 L,	 Bataller	L,	 Suarez-Calvet	 M,	 et	 al.	 ZIC	antibodies	 in	paraneoplastic
+cerebellar	 degeneration	 and	 small	 cell	 lung	 cancer.	 J	 Neuroimmunol
+2008;201–202:163–165.
+
+Sacchetti	 B,	 Scelfo	 B,	 Strata	 P.	 Cerebellum	 and	 emotional	 behavior.
+
+Neuroscience	2009;162:756–762.
+
+Schmahmann	 JD,	 MacMore	 J,	 Vangel	 M.	 Cerebellar	 stroke	 without	 motor
+deficit:	clinical	evidence	for	motor	and	non-motor	domains	within	the	human
+cerebellum.	Neuroscience	2009;162:852–861.
+
+Schmahmann	 JD,	 Sherman	 JC.	 The	 cerebellar	 cognitive	 affective	 syndrome.
+
+Brain	1998;121(Pt	4):561–579.
+
+Schols	 L,	 Bauer	 P,	 Schmidt	 T,	 et	 al.	 Autosomal	 dominant	 cerebellar	 ataxias:
+clinical	features,	genetics,	and	pathogenesis.	Lancet	Neurol	2004;3:291–304.
+Serrao	 M,	 Pierelli	 F,	 Ranavolo	 A,	 et	 al.	 Gait	 pattern	 in	 inherited	 cerebellar
+
+ataxias.	Cerebellum	2011;11:194–211.
+
+Spencer	 RM,	 Zelaznik	 HN,	 Diedrichsen	 J,	 et	 al.	 Disrupted	 timing	 of
+discontinuous	 but	 not	 continuous	 movements	 by	 cerebellar	 lesions.	 Science
+2003;300:1437–1439.
+
+Subramony	SH.	Approach	to	ataxic	diseases.	Handb	Clin	Neurol	2011;103:127–
+
+134.
+
+Subramony	 SH.	 Overview	 of	 autosomal	 dominant	 ataxias.	 Handb	 Clin	 Neurol
+
+2011;103:389–398.
+
+Timmann	 D,	 Drepper	 J,	 Frings	 M,	 et	 al.	 The	 human	 cerebellum	 contributes	 to
+motor,	 emotional	 and	 cognitive	 associative	 learning.	 A	 review.	 Cortex
+2010;46:845–857.
+
+Turgut	M.	Cerebellar	mutism.	J	Neurosurg	Pediatr	2008;1:262.
+Wartenberg	 R.	 Diagnostic	 Tests	 in	 Neurology,	 A	 Selection	 for	 Office	 Use.
+
+Chicago:	Year	Book	Medical	Publishers,	1953.
+
+Weibers	 DO,	 Dale	 AJD,	 Kokmen	 E,	 et	 al.,	 eds.	 Mayo	 Clinic	 Examinations	 in
+
+Neurology.	7th	ed.	St.	Louis:	Mosby,	1998.
+
+Wild	 B,	 Klockgether	 T,	 Dichgans	 J.	 Acceleration	 deficit	 in	 patients	 with
+cerebellar	 lesions.	 A	 study	 of	 kinematic	 and	 EMG-parameters	 in	 fast	 wrist
+movements.	Brain	Res	1996;713:186–191.
+
+Wu	JP,	Jedynak	CP,	Pidoux	B,	et	al.	Quantitative	study	of	Stewart-Holmes	test.
+
+Electromyogr	Clin	Neurophysiol	1998;38:237–245.
+
+Zanni	 G,	 Barresi	 S,	 Travaglini	 L,	 et	 al.	 FGF17,	 a	 gene	 involved	 in	 cerebellar
+development,	is	downregulated	in	a	patient	with	Dandy-Walker	malformation
+carrying	a	de	novo	8p	deletion.	Neurogenetics	2011;12:241–245.
+
+Zanni	G,	Bertini	ES.	X-linked	disorders	with	cerebellar	dysgenesis.	Orphanet	 J
+
+Rare	Dis	2011;6:24.
+
+Zanni	 G,	 Bertini	 E,	 Bellcross	 C,	 et	 al.	 X-linked	 congenital	 ataxia:	 a	 new	 locus
+
+maps	to	Xq25–q27.1.	Am	J	Med	Genet	A	2008;146:593–600.
+
+Zanni	G,	Saillour	Y,	Nagara	M,	et	al.	Oligophrenin	1	mutations	frequently	cause
+
+X-linked	 mental	
+2005;65:1364–1369.
+
+retardation	 with	 cerebellar	 hypoplasia.	 Neurology
+
+Zhang	N,	Ottersen	OP.	In	search	of	the	identity	of	the	cerebellar	climbing	fiber
+in	 rats.	 Can	 J	 Neurol	 Sci
+
+immunocytochemical	 studies	
+
+transmitter:	
+1993;20(Suppl	3):S36–S42.
+
+CHAPTER	44
+
+Gait	and	Station
+
+It	is	likely	possible	to	learn	more	about	neurologic	status	from	watching	a	patient
+walk	 than	 from	 any	 other	 single	 procedure,	 and	 observation	 of	 gait	 should
+always	be	part	of	a	neurologic	examination.	Abnormalities	of	gait	are	a	common
+clinical	 problem	 with	 numerous	 causes,	 both	 neurologic	 and	 nonneurologic.	 A
+careful	general	evaluation	is	always	necessary	to	exclude	a	nonneurologic	cause.
+Station	is	the	way	a	patient	stands	and	gait	the	way	she	walks.	Standing	and
+walking	 are	 active	 processes	 that	 depend	 upon	 a	 number	 of	 factors	 and	 reflex
+responses.	The	mechanisms	are	complex,	especially	in	the	human,	whose	biped
+gait	 and	 erect	 position	 over	 a	 narrow	 base	 require	 more	 efficient	 maintenance
+and	control	of	equilibrium	than	is	necessary	in	quadrupeds.	Normal	resting	tone,
+especially	 in	 the	 antigravity	 muscles,	 is	 essential.	 The	 postural	 and	 righting
+reflexes	 described	 in	 Chapter	 41	 are	 particularly	 important.	 Standing	 may	 be
+considered	a	postural	reflex	that	is	dependent	on	reflexes	mediated	through	the
+brainstem	 and	 influenced	 to	 a	 major	 degree	 by	 tonic	 neck	 and	 labyrinthine
+reflexes.	If	the	mechanisms	mediating	static	and	postural	reflexes	are	impaired,
+normal	 standing	 and	 walking	 will	 be	 impaired.	 In	 addition,	 proprioceptive
+sensation	must	be	received,	the	skeletal	system	must	be	intact,	the	muscles	must
+be	 functioning	 normally,	 and	 coordination	 must	 be	 adequate.	 Gait	 and	 station
+may	 be	 affected	 by	 abnormalities	 of	 proprioception,	 abnormalities	 of	 muscle
+power	 or	 tone,	 and	 abnormalities	 of	 vestibular	 function	 and	 by	 dysfunction	 of
+the	basal	ganglia,	the	cerebellum,	or	their	connections.
+
+Neurologic	 causes	 of	 an	 abnormal	 gait	 include	 conditions	 as	 varied	 as
+footdrop	 due	 to	 peroneal	 nerve	 palsy,	 myopathy,	 hydrocephalus,	 and	 cerebellar
+degeneration.	The	various	gait	abnormalities	have	different	findings	on	physical
+examination	in	regard	to	the	gait	itself,	such	as	a	steppage	pattern	as	opposed	to
+a	 pelvic	 waddle.	 The	 differential	 diagnosis	 of	 the	 gait	 abnormality	 is	 also	 very
+dependent	on	the	history	and	the	other	clinical	signs	present.	Some	of	the	more
+
+common	abnormal	gait	patterns	are	summarized	in	Table	44.1.
+
+EXAMINATION	OF	STATION
+
+Station	 is	 the	 patient’s	 attitude,	 posture,	 or	 manner	 of	 standing.	 The	 healthy
+individual	 stands	 erect	 with	 her	 head	 up,	 chest	 out,	 and	 abdomen	 in.
+Abnormality	 of	 station	 may	 be	 an	 important	 indicator	 of	 neurologic	 disease.
+Station	 is	 tested	 by	 having	 the	 patient	 stand,	 feet	 closely	 together,	 noting	 any
+unsteadiness	or	swaying.	More	rigorous	testing	includes	having	the	patient	stand
+eyes	open	and	eyes	closed,	on	one	foot	at	a	time,	on	toes	and	heels,	and	tandem
+with	 one	heel	in	front	 of	 the	 toes	of	the	other	foot.	She	may	be	 given	a	gentle
+push	to	see	whether	she	falls	to	one	side,	forward,	or	backward.
+
+Patients	 with	 unsteadiness	 standing	 often	 attempt	 to	 compensate	 by	 placing
+the	feet	wide	apart	in	order	to	stand	on	a	broader	and	steadier	base.	In	cerebellar
+disease,	the	patient	usually	stands	on	a	broad	base	and	there	is	swaying,	to	more
+or	less	an	equal	degree,	with	eyes	open	and	closed.	With	a	lesion	of	the	vermis,
+the	patient	may	sway	backward,	forward,	or	to	either	side.	With	a	lesion	of	one
+hemisphere,	 she	 sways	 or	 falls	 toward	 the	 affected	 side.	 Unilateral	 vestibular
+disease	 also	 causes	 falling	 toward	 the	 affected	 side.	 In	 a	 unilateral,	 cerebellar
+hemispheric	lesion,	or	in	a	unilateral	vestibulopathy,	the	patient	may	tilt	the	head
+toward	 the	 involved	 side	 with	 the	 chin	 rotated	 toward	 the	 sound	 side,	 with	 the
+shoulder	 on	 the	 involved	 side	 somewhat	 higher	 than	 the	 other	 and	 slightly	 in
+front	of	it.	If	the	patient	with	a	cerebellar	hemispheric	lesion	is	given	a	light	push
+—first	 toward	 one	side	 and	then	toward	the	other—she	will	lose	 balance	more
+easily	when	pushed	toward	the	involved	side.	If	asked	to	stand	on	one	foot	at	a
+time,	the	patient	with	a	cerebellar	hemispheric	lesion	may	be	unable	to	maintain
+equilibrium	standing	on	the	ipsilateral	foot	but	may	stand	without	difficulty	on
+the	contralateral	foot.
+
+TABLE
+44.1
+
+Some	of	the	More	Common	Neurologic	Abnormalities
+of	Gait
+
+Gait
+Disorder
+
+Gait	Characteristics
+
+Usual	Associated
+Findings
+
+Spastic
+
+Stiff	legged,	scissoring	(wooden
+
+Hyperreflexia,
+
+soldier)
+
+extensor	plantar
+
+Cerebellar
+ataxia
+
+Sensory
+ataxia
+
+Wide	based,	reeling,	careening
+
+Heel-to-shin
+
+responses
+
+(drunken	sailor)
+
+Wide	based,	steppage
+
+ataxia,	other
+cerebellar	signs
+
+Positive	Romberg,
+impaired	joint
+position	sense
+
+Hemiparetic
+
+Involved	leg	spastic,	circumduction,
+
+Weakness,
+
+often	with	footdrop
+
+Parkinsonian Small	steps,	flexed	posture,
+
+shuffling,	festination
+
+Marche	à
+
+Small	steps,	slow	shuffling
+
+petits	pas
+
+Footdrop
+
+High	steppage	pattern	to	clear	the
+
+(unilateral
+or
+bilateral)
+
+toes	from	the	floor,	double	tap	with
+toe	strike	before	heel	strike
+
+hyperreflexia,
+extensor	plantar
+response
+
+Tremor,	rigidity,
+bradykinesia
+
+Dementia,	frontal
+
+lobe	signs
+
+Foot	dorsiflexion
+weakness
+
+Myopathic
+
+Exaggerated	“sexy”	hip	motion,
+
+Hip	girdle
+
+waddling,	lumbar	hyperlordosis
+
+weakness
+
+Other	 abnormalities	 may	 be	 apparent	 during	 station	 testing,	 particularly
+movement	disorders.	Patients	with	chorea	seem	unusually	fidgety	and	often	have
+small	 adventitial	 finger	 movements	 (Video	 30.4).	 Skeletal	 changes	 (such	 as
+kyphosis,	 scoliosis,	 or	 lordosis);	 abnormalities	 in	 the	 position	 of	 the	 head,
+shoulders,	 hips,	 or	 extremities;	 asymmetries;	 anomalies	 of	 development;	 and
+abnormalities	of	contour	may	be	apparent.	Patients	who	are	weak	or	debilitated
+may	need	support	to	stand	erect.	If	the	patient	is	unable	to	stand	alone,	or	unable
+to	 stand	 at	 all,	 document	 how	 much	 support	 and	 assistance	 is	 required	 (e.g.,
+stands	 with	 a	 walker,	 chair	 bound).	 If	 the	 patient	 is	 chair	 bound	 or	 bed	 bound,
+describe	 the	 sitting	 or	 recumbent	 posture.	 The	 patient	 with	 a	 hemiparesis	 may
+
+stand	 with	 the	 upper	 extremity	 flexed	 and	 pronated	 and	 the	 lower	 extremity
+extended.	 Patients	 with	 Parkinson’s	 disease	 stand	 in	 a	 flexed	 posture,	 stooped
+over	 with	 head	 and	 shoulders	 bent	 forward	 and	 arms	 and	 knees	 flexed.	 Pelvic
+girdle	 weakness	 may	 cause	 pronounced	 lordosis,	 especially	 in	 muscular
+dystrophy	(Figure	4.5).	Depressed	patients	may	appear	stooped	and	dejected;	in
+manic	 states,	 an	 erect,	 domineering,	 aggressive	 posture	 may	 be	 present.	 In
+schizophrenia,	the	patient	may	assume	bizarre	postures	and	hold	them	for	long
+periods	 of	 time.	 Hyperkinesias,	 such	 as	 athetoid	 and	 choreic	 movements,	 may
+become	evident	during	the	evaluation	of	station.
+
+The	Romberg	Sign
+
+When	 proprioception	 is	 disturbed,	 the	 patient	 may	 be	 able	 to	 stand	 with	 eyes
+open	but	sways	or	falls	with	eyes	closed	(Romberg	sign).	The	Romberg	sign	is
+often	 misunderstood	 and	 misinterpreted.	 The	 essential	 finding	 is	 a	 difference
+between	 standing	 balance	 with	 eyes	 open	 and	 closed.	 In	 order	 to	 test	 this
+function,	the	patient	must	have	a	stable	stance	eyes	open	and	then	demonstrate	a
+decrease	 in	 balance	 with	 eyes	 closed	 when	 visual	 input	 is	 eliminated,	 and	 the
+patient	must	rely	on	proprioception	to	maintain	balance	(see	Video	Link	44.1).
+Romberg	 described	 this	 sign	 in	 patients	 with	 tabes	 dorsalis	 and	 thought	 it	 was
+pathognomonic.	 He	 said,	 “If	 he	 is	 ordered	 to	 close	 his	 eyes	 while	 in	 the	 erect
+posture,	he	at	once	commences	to	totter	or	swing	from	side	to	side;	the	insecurity
+of	his	gait	also	exhibits	itself	more	in	the	dark.”	Romberg	did	not	state	that	the
+feet	should	be	placed	together;	that	was	a	later	addition.	Nor	did	he	comment	on
+where	the	arms	were	to	be	positioned.	It	is	common	practice	to	have	the	patient
+hold	the	arms	outstretched	in	front,	but	this	is	in	order	to	check	simultaneously
+for	 pronator	 drift	 or	 to	 perform	 finger-to-nose	 testing;	 it	 is	 not	 what	 Romberg
+described.	Some	authorities	recommend	the	arms	be	held	at	the	sides,	others	that
+the	arms	be	crossed	on	the	chest.	Whether	arm	position	makes	any	difference	in
+test	 sensitivity	 is	 unknown.	 Turning	 the	 head	 side	 to	 side	 eliminates	 vestibular
+clues	 and	 increases	 the	 reliance	 on	 proprioception	 (Ropper’s	 refined	 Romberg
+test).
+
+The	Romberg	test	can	be	difficult	to	interpret.	There	is	some	variability,	even
+among	expert	examiners,	in	how	the	Romberg	test	is	performed	and	interpreted.
+Many	 patients	 sway	 slightly	 with	 eyes	 closed,	 and	 minimal	 amounts	 of	 sway,
+especially	 in	 elderly	 patients,	 are	 seldom	 significant.	 Minor,	 normal	 swaying
+may	 stop	 if	 the	 patient	 is	 simply	 asked	 to	 stand	 perfectly	 still.	 Most	 clinicians
+
+discount	sway	at	the	hips	and	insist	on	seeing	sway	at	the	ankles	before	calling
+the	test	positive,	some	require	the	patient	take	a	corrective	step	to	the	side,	and
+others	 that	 the	 patient	 nearly	 fall.	 Some	 require	 the	 patient	 be	 barefoot.	 The
+“sharpened”	or	tandem	Romberg	is	done	by	having	the	patient	stand	in	tandem
+position	with	eyes	open	and	closed;	the	limits	of	normality	for	this	variation	are
+conjectural.
+
+The	Romberg	sign	is	used	primarily	as	a	test	of	proprioceptive,	not	cerebellar,
+function.	 The	 pioneering	 19th-century	 clinicians	 thought	 it	 was	 particularly
+useful	in	separating	tabes	dorsalis	from	cerebellar	disease.	In	fact,	patients	with
+cerebellar	 disease,	 particularly	 disorders	 of	
+the	 vestibulocerebellum	 or
+spinocerebellum,	may	have	some	increase	in	instability	with	eyes	closed,	but	not
+usually	to	the	degree	seen	with	impaired	proprioception.	A	patient	with	an	acute
+unilateral	 vestibulopathy	 may	 fall	 toward	 the	 side	 of	 the	 lesion	 when	 standing
+with	eyes	closed.	Patients	with	cerebellar	disease,	or	those	with	severe	weakness,
+may	 not	 have	 a	 stable	 base	 eyes	 open.	 It	 may	 help	 to	 have	 the	 patients	 widen
+stance	 to	 the	 point	 where	 they	 are	 stable	 eyes	 open,	 then	 close	 the	 eyes,	 and
+check	for	any	difference.	Only	a	marked	worsening	of	balance	with	eyes	closed
+qualifies	as	a	positive	Romberg	sign.	A	patient	who	cannot	maintain	balance	feet
+together	and	eyes	open	does	not	have	a	positive	Romberg.
+
+Some	 histrionic	 patients	 will	 sway	 with	 eyes	 closed	 in	 the	 absence	 of	 any
+organic	 neurologic	 impairment	 (false	 Romberg	 sign).	 The	 swaying	 is	 usually
+from	the	hips	and	may	be	exaggerated.	If	the	patient	takes	a	step,	the	eyes	may
+remain	closed,	which	never	happens	with	a	bona	fide	Romberg.	The	instability
+can	often	be	eliminated	by	diverting	the	patient’s	attention.	Effective	distracters
+are	to	ask	the	patient	to	detect	numbers	the	examiner	writes	with	her	finger	on
+the	 forehead,	 to	 wiggle	 the	 tongue,	 or	 to	 perform	 the	 finger-to-nose	 testing.
+Having	the	shoes	off	and	watching	the	toe	movements	may	be	very	informative.
+The	toes	of	the	patient	with	histrionic	sway	are	often	extended;	the	patient	with
+organic	imbalance	flexes	the	toes	strongly	and	tries	to	grip	the	floor.
+
+PHYSIOLOGY	OF	GAIT
+
+The	 brainstem	 and	 spinal	 cord	 in	 lower	 forms	 contain	 “central	 pattern
+generators,”	 which	 are	 groups	 of	 interneurons	 that	 coordinate	 the	 activity	 in
+pools	of	motor	neurons	to	produce	patterned	movements.	Although	the	existence
+of	 such	 cell	 groups	 in	 humans	 is	 unproven,	 locomotion	 likely	 depends	 on
+
+activity	in	pattern	generators.	The	pattern	generators	control	the	activity	in	lower
+motor	 neurons	 that	 execute	 the	 mechanics	 of	 walking.	 Higher	 centers	 in	 the
+subthalamus	and	midbrain,	particularly	the	pedunculopontine	nucleus,	modulate
+the	activity	in	the	spinal	cord	pattern	generators	through	the	reticulospinal	tracts.
+The	 gait	 cycle	 refers	 to	 the	 events	 that	 transpire	 between	 the	 time	 that	 one
+heel	strikes	the	ground	and	the	time	the	same	heel	strikes	the	ground	again	(see
+Video	Link	44.2).	The	gait	cycle	begins	when	the	forward	foot	hits	the	ground
+(heel	strike	or	initial	contact).	During	the	stance	 phase,	the	stance	leg	 supports
+all	or	most	of	the	weight.	At	the	end	of	the	stance	phase,	there	is	a	push	off	(toe-
+off	or	preswing	phase)	after	which	the	leg	swings	forward	to	contact	the	ground
+again.	 The	 stance	 period	 is	 divided	 into	 four	 phases:	 initial	 contact,	 loading,
+midstance,	and	terminal	stance.	The	swing	phase	is	also	divided	into	four	parts:
+preswing,	 initial	 swing,	 midswing,	 and	 terminal	 swing.	 The	 functional	 task
+during	the	stance	phase	is	to	bear	weight;	the	functional	task	during	swing	phase
+is	to	advance	the	limb.	Periods	of	single	limb	support	(one	foot	on	the	ground)
+alternate	with	periods	of	double	limb	support	(two	feet	on	the	ground).
+
+Various	parameters	are	used	to	measure	and	characterize	gait,	including	gait
+velocity,	stride	time,	step	time,	stride	length,	step	width,	and	step	length.	Stride
+length	is	the	distance	covered	by	a	gait	cycle;	step	length	is	the	distance	covered
+by	the	swing	phase	of	one	leg.	When	walking,	at	least	one	foot	is	in	contact	with
+the	ground	at	all	times,	and	there	are	two	periods	of	double	limb	support.	When
+there	 is	 no	 longer	 a	 moment	 in	 time	 when	 both	 limbs	 are	 in	 contact	 with	 the
+ground,	walking	has	become	running.	A	typical	adult	walking	comfortably	on	a
+level	surface	walks	at	a	velocity	of	about	80	m/min,	taking	about	113	steps	per
+minute,	with	a	stride	length	of	1.41	m.	About	60%	of	the	gait	cycle	is	spent	in
+stance,	40%	in	swing,	and	10%	in	double	limb	support.	Periods	of	double	limb
+increase	quickly	to	compensate	for	instability.
+
+The	body’s	center	of	mass	is	located	just	anterior	to	the	S2	vertebral	body.	An
+efficient	gait	minimizes	the	displacement	of	the	center	of	mass	by	rotating	and
+tilting	 the	 pelvis	 and	 flexing	 and	 extending	 the	 various	 joints	 involved.	 Gait
+disturbances	that	increase	the	normal	displacement	of	the	center	of	mass	are	less
+efficient	 and	 require	 an	 increased	 expenditure	 of	 energy.	 Patients	 typically
+compensate	by	walking	more	slowly	and	employing	compensatory	maneuvers	to
+regain	lost	efficiency.	In	addition	to	the	increased	energy	requirement,	abnormal
+gaits	increase	the	risk	of	falling	and	the	susceptibility	to	biomechanical	injury.
+
+EXAMINATION	OF	GAIT
+
+The	 first	 step	 in	 analyzing	 gait	 is	 to	 check	 the	 width	 of	 the	 base,	 or	 the	 step
+width.	The	wider	the	base,	the	better	the	balance,	and	spreading	the	feet	farther
+apart	 is	 the	 first	 compensatory	 effort	 in	 most	 gait	 disorders.	 Under	 normal
+circumstances,	 the	 medial	 malleoli	 pass	 within	 about	 2	 in	 of	 each	 other	 during
+the	stride	phase,	a	narrow	and	well-compensated	gait.	Any	spread	more	than	this
+may	signal	some	problem	with	gait	or	balance.
+
+The	forefoot	on	each	side	should	clear	the	ground	to	about	the	same	degree;
+asymmetry	 of	 toe	 lift	 may	 be	 the	 earliest	 evidence	 of	 footdrop.	 A	 shortened
+stride	 length	 may	 be	 early	 evidence	 of	 bifrontal	 or	 extrapyramidal	 disease.
+Excessive	movement	of	the	hips	may	occur	with	any	process	causing	proximal
+muscle	weakness.	Note	the	reciprocal	arm	swing;	a	decreased	swing	on	one	side
+is	sometimes	an	early	indicator	of	hemiparesis	or	hemiparkinsonism.	Watch	the
+hands	for	tremor	or	chorea.
+
+Tandem	 walking	 stresses	 the	 gait	 and	 balance	 mechanisms	 even	 further.
+Elderly	 patients	 may	 have	 difficulty	 with	 tandem	 gait	 because	 of	 obesity	 or
+deconditioning.	In	relatively	young	patients	with	a	low	likelihood	of	neurologic
+disease,	a	quick	and	effective	substitute	for	the	Romberg	 is	 simply	to	have	the
+patient	 close	 her	 eyes	 while	 walking	 tandem.	 This	 is	 a	 difficult	 maneuver	 and
+has	high	value	as	a	screening	test.	Having	the	patient	walk	briskly	and	then	stop
+abruptly	on	command,	or	make	quick	turns,	first	in	one	direction	and	then	in	the
+other,	 may	 bring	 out	 ataxia	 and	 incoordination	 not	 noticeable	 on	 straightaway
+walking.	 Rather	 than	 turning	 easily,	 the	 patient	 may	 have	 to	 turn	 in	 small,
+staccato	 steps.	 The	 patient	 may	 be	 asked	 to	 walk	 sideways,	 backward,	 and
+overstep,	or	cross	one	foot	over	the	other.	Having	the	patient	walk	on	heels	and
+toes	 may	 bring	 out	 weakness	 of	 dorsiflexion	 or	 plantar	 flexion.	 An	 excellent
+screening	 test	 is	 to	 have	 the	 patient	 hop	 on	 either	 foot.	 This	 simultaneously
+assesses	 lower-extremity	 strength,	 especially	 of	 the	 gastrosoleus,	 plus	 balance
+functions.	 Individuals	 who	 can	 hop	 adroitly	 on	 either	 foot	 are	 unlikely	 to	 have
+significant	 neurologic	 disease.	 Note	 if	 the	 patient	 is	 able	 to	 maintain	 balance
+with	a	sudden	push	or	pull	backward,	forward,	or	to	the	side.	This	can	be	done
+by	 gently	 tapping	 the	 upper	 chest	 or	 pulling	 on	 the	 shoulders	 while	 standing
+behind	the	patient,	reassuring	the	patient,	“I	will	catch	you	if	you	begin	to	fall.”
+Note	whether	the	patient	has	any	obvious	orthopedic	limitations,	such	as	a	varus
+deformity	of	the	knee,	genu	recurvatum,	pelvic	tilt,	or	any	other	abnormalities.
+Also	 note	 whether	 there	 is	 any	 difficulty	 rising	 from	 a	 chair	 or	 initiating	 gait.
+
+Note	 posture,	 arm	 swing,	 extraneous	 movements,	 step	 height,	 and	 any	 side	 to
+side	lurching.
+
+ABNORMAL	GAITS
+
+A	nosology	has	been	suggested	that	classifies	abnormal	gait	syndromes	into	low-
+,	mid-,	and	high-level	disorders.	Low-level	disorders	are	due	to	peripheral	motor
+or	 sensory	 abnormalities;	 mid-level	 disorders	 include	 hemiplegic,	 paraplegic,
+cerebellar	 ataxic,	 parkinsonian,	 choreic,	 and	 dystonic	 disorders.	 Highest-level
+disorders	 include	 cautious	 gait,	 subcortical	 and	 frontal	 disequilibrium,	 isolated
+gait	ignition	failure,	frontal	gait	disorder,	and	psychogenic	gait	disorder	(PGD).
+Description	of	the	clinical	semiology	of	gait	disorders	continues	to	be	the	most
+common	approach.
+
+Cerebellar	Ataxia
+
+The	 gait	 of	 cerebellar	 disease	 is	 caused	 by	 involvement	 of	 the	 coordinating
+mechanisms	 in	 the	 cerebellum	 and	 its	 connecting	 systems	 (Video	 44.1).	 The
+only	sign	of	mild	ataxia	may	be	the	inability	to	walk	tandem.	Sudden	stopping	or
+turning	 may	 bring	 out	 a	 stagger.	 With	 more	 severe	 disease,	 there	 is	 a	 clumsy,
+staggering,	unsteady,	irregular,	lurching,	titubating,	and	wide-based	gait,	and	the
+patient	 may	 sway	 to	 either	 side,	 back,	 or	 forward.	 Leg	 movements	 are	 erratic,
+and	 step	 length	 varies	 unpredictably.	 The	 patient	 may	 compensate	 by	 avoiding
+periods	of	single	limb	support,	creating	a	shuffling	gait.	The	patient	is	unable	to
+walk	 tandem	 or	 follow	 a	 straight	 line	 on	 the	 floor.	 There	 may	 be	 tremors	 and
+oscillatory	movements	involving	the	entire	body.
+
+00:00	/	00:00
+
+Video	44.1	Composite	video	demonstrating	cerebellar	ataxia,	sensory	ataxia	in	a
+patient	with	sensory	neuropathy,	spastic	gait	with	pronounced	scissoring	in
+siblings	with	hereditary	spastic	paraplegia,	gait	apraxia	in	a	patient	with	normal
+pressure	hydrocephalus,	steppage	gait	due	to	dense	bilateral	foot	drops	in	a
+patient	with	Charcot-Marie-Tooth	disease,	and	hemiparetic	gait	following	stroke.
+(Cerebellar	ataxia	video	courtesy	John	C.	Pearson,	PhD,	and	Thomas	Mathews,
+MD,	Neurological	Teaching	Videos,	Wright	State	University	Boonshoft	School
+of	Medicine.)
+
+Ataxia	 of	 the	 lower	 extremities	 when	 tested	 separately	 usually	 accompanies
+cerebellar	gait	ataxia,	except	when	disease	is	limited	to	the	vermis	(see	below).
+With	 a	 lesion	 of	 the	 cerebellar	 vermis,	 the	 patient	 will	 exhibit	 a	 lurching,
+staggering	 gait,	 but	 without	 laterality,	 the	 ataxia	 will	 be	 as	 marked	 toward	 one
+side	as	the	other.	Cerebellar	ataxia	is	present	with	eyes	both	open	and	closed;	it
+may	increase	slightly	with	eyes	closed,	but	not	so	markedly	as	in	sensory	ataxia.
+A	gait	resembling	cerebellar	ataxia	is	seen	in	acute	alcohol	intoxication.	With	a
+cerebellar	 hemispheric	 lesion,	 the	 patient	 will	 stagger	 and	 deviate	 toward	 the
+involved	side.	In	disease	localized	to	one	cerebellar	hemisphere	or	in	unilateral
+vestibular	disease,	there	is	persistent	swaying	or	deviation	toward	the	abnormal
+side.	 As	 the	 patient	 attempts	 to	 walk	 a	 straight	 line	 or	 to	 walk	 tandem,	 she
+deviates	 toward	 the	 side	 of	 the	 lesion.	 Walking	 a	 few	 steps	 backward	 and
+forward	with	eyes	closed	may	bring	out	“compass	deviation”	or	a	“star-shaped
+gait”	(see	Chapter	17).	 When	 attempting	 to	 walk	 a	 fixed	 circle	 around	 a	 chair,
+clockwise	then	counterclockwise,	the	patient	will	tend	to	fall	toward	the	chair	if
+it	 is	 on	 the	 side	 of	 the	 lesion,	 or	 to	 spiral	 out	 away	 from	 the	 chair	 if	 on	 the
+opposite	side.
+
+Either	unilateral	cerebellar	or	vestibular	disease	may	cause	turning	toward	the
+
+side	of	the	lesion	on	the	Unterberger-Fukuda	stepping	test	(Chapter	17).	For	all
+the	tests	that	bring	out	deviation	in	one	direction,	other	findings	must	be	used	to
+differentiate	 between	 vestibulopathy	 and	 a	 cerebellar	 hemispheric	 lesion.
+Unilateral	ataxia	may	be	demonstrated	by	having	the	patient	attempt	to	jump	on
+one	foot,	with	the	eyes	either	open	or	closed.	The	patient	with	bilateral	vestibular
+disease	may	seek	to	minimize	head	movement	during	walking,	holding	the	head
+stiff	 and	 rigid;	 having	 the	 patient	 turn	 the	 head	 back	 and	 forth	 during	 walking
+may	 bring	 out	 ataxia.	 Cerebellar	 gait	 ataxia	 is	 common	 in	 multiple	 sclerosis
+(MS),	alcoholic	cerebellar	degeneration,	cerebellar	tumors,	stroke,	and	cerebellar
+degenerations.	With	alcoholic	cerebellar	degeneration,	pathology	is	restricted	to
+the	vermis.	Nystagmus,	dysarthria,	and	appendicular	ataxia,	even	of	the	legs,	are
+typically	absent.
+
+Sensory	Ataxia
+
+Sensory	 ataxia	 occurs	 when	 the	 nervous	 system	 is	 deprived	 of	 the	 sensory
+information,	 primarily	 proprioceptive,	 necessary	 to	 coordinate	 walking	 (Video
+44.1).	 Deafferentation	 may	 result	 from	 disease	 of	 the	 posterior	 columns	 (e.g.,
+tabes	 dorsalis	 or	 subacute	 combined	 degeneration)	 or	 disease	 affecting	 the
+peripheral	nerves	(e.g.,	sensory	peripheral	neuropathy).	The	term	“spinal	ataxia”
+is	sometimes	used,	but	the	pathology	is	not	always	in	the	spinal	cord.	The	patient
+loses	awareness	of	the	position	of	the	lower	extremities	in	space,	or	even	of	the
+body	 as	 a	 whole,	 except	 as	 provided	 by	 the	 visual	 system.	 The	 patient	 is
+extremely	dependent	on	visual	input	for	coordination.	When	deprived	of	visual
+input,	 as	 with	 eyes	 closed	 or	 in	 the	 dark,	 the	 gait	 deteriorates	 markedly.	 The
+difference	in	walking	ability	with	and	without	visual	input	is	the	key	feature	of
+sensory	ataxia.	If	the	condition	is	mild,	locomotion	may	appear	normal	when	the
+patient	 walks	 eyes	 open;	 more	 commonly,	 it	 is	 wide	 based	 and	 poorly
+coordinated.
+
+The	term	“steppage	gait”	refers	to	a	manner	of	walking	in	which	the	patient
+takes	unusually	high	steps.	Sensory	ataxia	is	one	of	the	causes	of	a	steppage	gait.
+The	patient	takes	a	high	step,	throws	out	her	foot,	and	slams	it	down	on	the	floor
+in	order	 to	increase	the	proprioceptive	feedback.	The	heel	may	land	before	the
+toe,	 creating	 an	 audible	 “double	 tap.”	 An	 additional	 sound	 effect	 may	 be	 the
+tapping	of	a	cane,	creating	a	“slam,	slam,	tap”	cadence.	The	sound	effects	may
+be	so	characteristic	that	the	trained	observer	can	make	the	diagnosis	by	listening
+to	the	footfalls.	The	patient	with	sensory	ataxia	watches	her	feet	and	keeps	her
+
+eyes	on	the	floor	while	walking.	With	eyes	closed,	the	feet	seem	to	shoot	out,	the
+staggering	 and	 unsteadiness	 are	 increased,	 and	 the	 patient	 may	 be	 unable	 to
+walk.	There	is	less	reeling	and	lurching	in	sensory	ataxia	than	with	a	comparable
+degree	 of	 cerebellar	 ataxia.	 The	 difficulty	 is	 even	 worse	 walking	 backward,
+because	 the	 patient	 cannot	 see	 where	 she	 is	 going.	 The	 patient	 with	 bilateral
+footdrops,	 however,	 also	 has	 a	 steppage	 gait	 and	 a	 double	 tapping	 sound	 (see
+“Steppage	Gait”	below).	For	a	striking	illustration	of	a	tabetic	gait	in	sequential
+photographs	by	Eadweard	Muybridge	in	1887,	see	Lanska	and	Goetz.
+
+In	all	of	these	tests,	sensory	ataxia	can	be	differentiated	from	predominantly
+cerebellar	ataxia	by	accentuation	of	the	difficulty	with	eyes	closed;	and	unilateral
+cerebellar	 or	 vestibular	 disease	 from	 vermis	 involvement	 by	 laterality	 of
+unsteadiness.	 Ropper	 and	 Samuels	 point	 out	 the	 similarity	 of	 the	 wide	 based,
+stamping	gait	of	sensory	ataxia	to	film	depictions	of	Frankenstein.
+
+The	Gait	of	Spastic	Hemiparesis
+
+The	 gait	 of	 spastic	 hemiparesis	 may	 be	 caused	 by	 a	 lesion	 interrupting	 the
+corticospinal	 pathways	 to	 one-half	 of	 the	 body,	 most	 commonly	 stroke.	 The
+patient	 stands	 with	 a	 hemiparetic	 posture,	 arm	 flexed,	 adducted,	 and	 internally
+rotated,	and	leg	extended.	There	is	plantar	flexion	of	the	foot	and	toes,	either	due
+to	 foot	 dorsiflexion	 weakness	 or	 to	 heel	 cord	 shortening,	 rendering	 the	 lower
+extremity	 on	 the	 involved	 side	 functionally	 slightly	 longer	 than	 on	 the	 normal
+side,	 referred	 to	 as	 an	 equinus	 deformity.	 (A	 horse’s	 foot	 is	 digitigrade;	 horses
+stand	on	the	tips	of	their	toes.	The	human	foot	is	normally	plantigrade,	with	the
+whole	 plantar	 surface	 in	 contact	 with	 the	 ground.	 The	 human	 foot	 with	 a
+footdrop	 or	 shortened	 heel	 cord	 resembles	 a	 horse’s,	 hence	 the	 term.)	 When
+walking,	the	patient	holds	the	arm	tightly	to	the	side,	rigid	and	flexed,	extends	it
+with	difficulty,	and	does	not	swing	it	in	a	normal	fashion	(Video	44.1).	The	leg
+is	held	stiffly	in	extension	and	the	patient	drags	or	shuffles	the	foot	and	scrapes
+the	 toes.	 With	 each	 step,	 the	 pelvis	 tilts	 upward	 on	 the	 involved	 side	 to	 aid	 in
+lifting	 the	 foot	 off	 the	 floor	 (hip	 hike),	 and	 during	 swing	 phase,	 the	 entire
+extremity	 sweeps	 around	 in	 a	 semicircle	 from	 the	 hip	 (circumduction).	 The
+stance	phase	is	shortened	because	of	weakness,	and	the	swing	phase	 shortened
+because	 of	 spasticity	 and	 slowing	 of	 movement.	 The	 sound	 produced	 by	 the
+scraping	 of	 the	 toes,	 as	 well	 as	 the	 wear	 of	 the	 shoe	 at	 the	 toe,	 may	 be	 quite
+characteristic.	The	patient	is	able	to	turn	toward	the	paralyzed	side	more	easily
+than	toward	the	normal	side.	Loss	of	normal	arm	swing	and	slight	circumduction
+
+of	the	leg	may	be	the	only	gait	abnormalities	in	very	mild	hemiparesis.
+
+Spastic	Gait,	Scissoring
+
+This	 gait	 pattern	 occurs	 in	 patients	 who	 have	 severe	 spasticity	 of	 the	 legs.	 It
+occurs	in	patients	who	have	congenital	spastic	diplegia	(Little’s	disease,	cerebral
+palsy)	and	related	conditions	and	in	chronic	myelopathies	due	to	conditions	such
+as	 MS	 and	 cervical	 spondylosis.	 It	 is	 essentially	 a	 bilateral	 hemiplegic	 gait
+affecting	the	legs.	There	is	characteristic	tightness	of	the	hip	adductors	causing
+adduction	 of	 the	 thighs,	 so	 that	 the	 knees	 may	 cross,	 one	 in	 front	 of	 the	 other,
+with	each	step	(scissors	gait).	The	patient	walks	on	an	abnormally	narrow	base,
+with	 a	 stiff	 shuffling	 gait,	 dragging	 both	 legs	 and	 scraping	 the	 toes	 (Video
+44.1).	 The	 steps	 are	 short	 and	 slow;	 the	 feet	 seem	 to	 stick	 to	 the	 floor.	 There
+may	 be	 a	 marked	 compensatory	 sway	 of	 the	 trunk	 away	 from	 the	 side	 of	 the
+advancing	 leg.	 Swaying	 and	 staggering	 may	 suggest	 an	 element	 of	 ataxia,	 but
+usually	 there	 is	 no	 true	 loss	 of	 coordination.	 The	 shuffling,	 scraping	 sound—
+together	with	worn	areas	at	the	toes	of	the	shoes—are	characteristic.	The	equinus
+position	of	the	feet	and	heel	cord	shortening	often	cause	the	patient	to	walk	on
+tiptoe.
+
+The	Spastic-Ataxic	Gait
+
+Some	neurologic	disorders	cause	involvement	of	both	the	corticospinal	and	the
+proprioceptive	 pathways	 (e.g.,	 combined	 system	 disease	 due	 to	 vitamin	 B12
+deficiency,	 or	 MS),	 resulting	 in	 a	 gait	 that	 has	 features	 of	 both	 spasticity	 and
+ataxia.	The	relative	proportion	of	each	abnormality	depends	on	the	particulars	of
+the	case.	The	ataxic	component	may	be	either	cerebellar	or	sensory.	In	vitamin
+B12	 deficiency,	 it	 is	 predominantly	 sensory;	 in	 MS,	 both	 components	 may	 be
+present.
+
+The	Parkinsonian	Gait
+
+The	 gait	 in	 most	 akinetic-rigid,	 parkinsonian	 syndromes	 is	 characterized	 by
+rigidity,	bradykinesia,	and	loss	of	associated	movements.	The	patient	is	stooped,
+with	head	and	neck	forward	and	knees	flexed;	the	upper	extremities	are	flexed	at
+the	 shoulders,	 elbows,	 and	 wrists,	 but	 the	 fingers	 are	 usually	 extended	 (Figure
+
+30.1).	The	gait	is	slow,	stiff,	and	shuffling;	the	patient	walks	with	small,	mincing
+steps.	 Other	 features	 include	 involuntary	 acceleration	 (festination),	 decreased
+arm	 swing,	 en	 bloc	 turning,	 start	 hesitation,	 and	 freezing	 when	 encountering
+obstacles	such	as	doorways	(Video	30.2).
+
+The	 patient	 loses	 balance	 easily	 with	 a	 gentle	 shove	 or	 pull.	 Difficulty
+walking	 may	 be	 one	 of	 the	 earliest	 symptoms	 of	 the	 disease.	 The	 gait	 of
+Parkinson’s	 disease	 is	 further	 described	 in	 Chapter	30.	 The	 same	 gait	 disorder
+can	 occur	 with	 any	 condition	 causing	 parkinsonism,	 such	 as	 drug	 side	 effects.
+Gait	 difficulty	 and	 a	 tendency	 to	 fall	 is	 particularly	 prominent	 in	 progressive
+supranuclear	palsy	(PSP).
+
+Frontal	Lobe	Gait	Disorders
+
+A	 number	 of	 gait	 disorders	 have	 been	 ascribed	 to	 dysfunction	 of	 the	 frontal
+lobes.	 Lesions	 of	 the	 frontal	 lobe,	 or	 of	 the	 frontal	 lobe	 connections	 with	 the
+basal	 ganglia	 and	 cerebellum,	 may	 lead	 to	 a	 gait	 disorder	 characterized	 by	 a
+slightly	flexed	posture,	short,	shuffling	steps,	a	widened	base,	and	an	inability	to
+integrate	 and	 coordinate	 lower-extremity	 movements	 to	 accomplish	 normal
+ambulation.	There	is	particular	difficulty	with	starts	and	turns.	Some	of	these	are
+poorly	 understood	 and	 the	 relationship	 between	 them	 unclear.	 In	 some,	 the
+frontal	lobe	“dysfunction”	has	been	attributed	to	normal	aging.	Many	terms	have
+been	 used,	 which	 refer	 to	 more	 or	 less	 the	 same	 phenomenon,	 including	 gait
+apraxia,	 frontal	 disequilibrium	 or	 ataxia,	 Bruns’	 apraxia/ataxia,	 magnetic	 gait,
+and	lower	half/body	or	vascular	(arteriosclerotic)	parkinsonism.	Some	of	the	gait
+disorders	often	included	under	this	rubric	include	gait	apraxia,	the	gait	of	normal
+pressure	 hydrocephalus	 (NPH),	 marche	 à	 petits	 pas,	 and	 the	 cautious	 (senile)
+gait.
+
+Marche	à	Petits	Pas
+
+The	marche	à	petits	pas	(walk	of	little	steps)	gait	resembles	that	of	parkinsonism
+but	 lacks	 the	 rigidity	 and	 bradykinesia.	 Locomotion	 is	 slow,	 and	 the	 patient
+walks	with	very	short,	mincing,	shuffling,	and	somewhat	irregular	footsteps.	The
+length	of	the	step	may	be	less	than	the	length	of	the	foot.	There	is	often	a	loss	of
+associated	movements.	This	type	of	gait	may	be	seen	in	normal	elderly	persons
+but	 also	 occurs	 in	 patients	 who	 have	 diffuse	 cerebral	 hemispheric	 dysfunction,
+particularly	involving	the	frontal	lobes.	It	may	also	occur	as	part	of	the	syndrome
+
+of	NPH	and	in	other	types	of	hydrocephalus.	The	same	gait	disturbance	is	typical
+of	multi-infarct	dementia	or	lacunar	state.	In	some	patients	with	marche	à	petits
+pas,	 there	 are	 bizarre	 movements	 such	 as	 dancing	 or	 hopping.	 There	 may	 be
+generalized	 weakness	 of	 the	 lower	 extremities	 or	 of	 the	 entire	 body,	 with	 the
+patient	fatiguing	easily.
+
+Gait	Apraxia
+
+Apraxia	 of	 gait	 is	 the	 loss	 of	 the	 ability	 to	 use	 the	 legs	 properly	 in	 walking,
+without	 demonstrable	 sensory	 impairment,	 weakness,	 incoordination,	 or	 other
+apparent	explanation.	The	term	has	been	criticized	as	not	being	loss	of	a	learned
+skill.	Gait	apraxia	is	seen	in	patients	with	extensive	cerebral	lesions,	especially
+of	the	frontal	lobes.	It	is	a	common	feature	of	NPH	and	may	occur	in	frontal	lobe
+neoplasms,	Binswanger’s	disease,	frontotemporal	dementia,	and	other	conditions
+that	 cause	 diffuse	 frontal	 lobe	 dysfunction.	 The	 patient	 cannot	 carry	 out
+purposeful	movements	with	the	legs	and	feet,	such	as	making	a	circle	or	kicking
+an	imaginary	ball.	In	rising,	standing,	and	walking,	there	is	difficulty	in	initiating
+movement,	 and	 the	 automatic	 sequence	 of	 component	 movements	 is	 lost.	 The
+gait	is	slow	and	shuffling,	with	short	steps.	The	patients	may	have	the	greatest
+difficulty	 initiating	 walking,	 making	 small,	 feeble,	 stepping	 movements	 with
+minimal	 forward	 progress.	 Eventually,	 the	 patient	 may	 be	 essentially	 unable	 to
+lift	 the	 feet	 from	 the	 floor,	 as	 if	 they	 were	 stuck	 or	 glued	 down,	 or	 may	 raise
+them	in	place	without	advancing	them	(magnetic	gait,	gait	ignition	failure,	start
+hesitation).	After	a	few	hesitant	shuffles,	the	stride	length	may	increase	(slipping
+clutch	 gait).	 When	 trying	 to	 turn,	 the	 patient	 may	 freeze	 (turn	 hesitation).	 The
+patient	may	be	able	to	imitate	normal	walking	movements	when	sitting	or	lying
+down,	 but	 eventually,	 even	 this	 ability	 is	 often	 lost.	 In	 addition,	 perseveration,
+hypokinesia,	 rigidity,	 and	 stiffness	 of	 the	 limb	 in	 response	 to	 contact
+(gegenhalten)	are	often	seen.	In	the	syndrome	of	isolated	gait	ignition	failure,	or
+freezing	 of	 gait,	 patients	 have	 difficulty	 starting	 to	 walk,	 but	 with	 continued
+stepping,	 the	 gait	 improves.	 They	 may	 again	 freeze	 when	 turning	 or
+encountering	an	obstacle.
+
+Gait	of	Normal	Pressure	Hydrocephalus
+
+Gait	difficulty	is	typically	the	initial	and	most	prominent	symptom	of	NPH.	The
+primary	changes	are	slow	walking,	widened	base,	short	steps,	and	shuffling,	all
+
+nonspecific	features	and	natural	compensations	seen	in	patients	with	various	gait
+disorders.	 It	 may	 range	 from	 mild,	 with	 only	 a	 cautious	 gait	 or	 difficulty	 with
+tandem	walking,	to	severe,	when	unaided	gait	is	impossible	(Video	44.1).	It	has
+been	 referred	 to	 as	 a	 gait	 apraxia.	 Features	 in	 common	 with	 other	 frontal	 lobe
+gait	 disorders	 include	 reduced	 velocity,	 stride	 length,	 and	 step	 height.	 NPH
+causes	 more	 widening	 of	 the	 base	 and	 outwardly	 rotated	 feet	 and	 is	 less
+responsive	 to	 external	 cues	 such	 as	 marching	 to	 a	 cadence	 or	 in	 step	 with	 the
+examiner.	As	with	other	disorders	of	frontal	lobe	function,	patients	may	mimic
+stepping	motions	while	supine	or	sitting.
+
+Cautious	(Senile)	Gait
+
+A	cautious	gait	is	seen	in	older	patients	who	have	no	neurologic	disease	but	are
+uncertain	 of	 their	 balance	 and	 postural	 reflexes.	 The	 gait	 takes	 on	 the
+characteristics	 seen	 when	 a	 healthy	 person	 walks	 on	 an	 icy	 surface:	 velocity
+slows,	 steps	 shorten,	 double	 support	 time	 increases,	 and	 the	 base	 widens.	 The
+foot-floor	clearance	is	not	decreased,	and	the	patient	does	not	shuffle.	There	is
+no	difficulty	with	gait	initiation,	nor	is	there	freezing.
+
+There	is	an	ostensible	“multimodal”	gait	disorder	in	the	elderly,	attributed	to
+aging	of	the	vestibular	system,	impaired	proprioceptive	function	caused	by	distal
+neuropathy	in	the	elderly,	and	impaired	vision.	Baloh	et	al.	found	that	age-related
+decreases	in	vestibular,	visual,	auditory,	and	somatosensation	occurred	in	normal
+older	people	but	were	only	weakly	correlated	with	changes	in	gait	and	balance.
+White	matter	hyperintensities	on	magnetic	resonance	imaging	were	more	highly
+correlated	with	changes	in	gait.
+
+Steppage	Gait
+
+A	 problem	 arises	 with	 the	 use	 of	 the	 term	 “steppage,”	 which	 means	 that	 the
+patient	 is	 lifting	 one	 or	 both	 legs	 high	 during	 her	 respective	 swing	 phases,	 as
+though	 she	 were	 walking	 up	 steps	 though	 the	 surface	 is	 level.	 Patients	 with
+footdrop	may	do	this	in	order	to	help	the	foot	clear	the	floor	and	avoid	tripping.
+Patients	with	sensory	ataxia,	classically	tabes	dorsalis,	may	also	lift	the	feet	up
+high	 and	 then	 slap	 them	 down	 smartly	 to	 improve	 proprioceptive	 feedback.
+Because	 both	 of	 these	 gaits	 are	 “high	 stepping,”	 both	 have	 been	 referred	 to	 as
+steppage	gaits,	but	the	causes	and	mechanisms	are	quite	different.
+
+A	patient	with	footdrop	has	weakness	of	the	dorsiflexors	of	the	foot	and	toes.
+
+When	mild,	this	may	be	manifest	only	as	a	decrease	in	toe	clearance	during	the
+swing	phase.	With	more	severe	footdrop,	the	patient	is	in	danger	of	tripping,	and
+may	 drag	 the	 toe	 when	 she	 walks,	 characteristically	 wearing	 out	 the	 toe	 of	 her
+shoe.	When	footdrop	is	severe,	the	foot	dangles	uncontrollably	during	the	swing
+phase.	To	compensate,	she	lifts	the	foot	as	high	as	possible,	hiking	the	hip	and
+flexing	the	hip	and	knee	(Video	44.1).	The	foot	is	thrown	out	and	falls	to	the
+floor,	toe	first.	The	touching	of	the	toe,	followed	by	the	heel	creates	a	“double
+tap”	 that	 has	 a	 different	 sound	 than	 the	 heel	 first	 double	 tap	 of	 sensory	 ataxia.
+The	 patient	 is	 unable	 to	 stand	 on	 her	 heel,	 and	 when	 standing	 with	 her	 foot
+projecting	 over	 the	 edge	 of	 a	 step,	 the	 forefoot	 drops.	 The	 footdrops	 and
+steppage	 gait	 may	 be	 unilateral	 or	 bilateral.	 Common	 causes	 of	 unilateral
+footdrop	 and	 steppage	 gait	 include	 peroneal	 nerve	 palsy	 and	 L5	 radiculopathy.
+Causes	 of	 bilateral	 footdrop	 and	 steppage	 gait	 include	 amyotrophic	 lateral
+sclerosis,	Charcot-Marie-Tooth	disease	and	other	severe	peripheral	neuropathies,
+and	 certain	 forms	 of	 muscular	 dystrophy.	 In	 severe	 polyneuropathies,	 the
+steppage	gait	may	have	components	of	both	sensory	ataxia	and	footdrop.
+
+The	Myopathic	(Waddling)	Gait
+
+Myopathic	 gaits	 occur	 when	 there	 is	 weakness	 of	 the	 hip	 girdle	 muscles,	 most
+often	due	to	myopathy	and	most	characteristically	due	to	muscular	dystrophy.	If
+the	hip	flexors	are	weak,	there	may	be	a	pronounced	lordosis	(Chapter	27).	The
+hip	 abductor	 muscles	 are	 vital	 in	 stabilizing	 the	 pelvis,	 while	 walking.
+Trendelenburg’s	sign	is	an	abnormal	drop	of	the	pelvis	on	the	side	of	the	swing
+leg	 because	 of	 hip	 abductor	 weakness	 (Chapter	 27).	 When	 the	 weakness	 is
+bilateral,	there	is	an	exaggerated	pelvic	swing	that	results	in	a	waddling	gait.	The
+patient	 walks	 with	 a	 broad	 base,	 with	 an	 exaggerated	 rotation	 of	 the	 pelvis,
+rolling	or	throwing	the	hips	from	side	to	side	with	every	step	to	shift	the	weight
+of	the	body.	In	the	extreme	forms,	this	gait	pattern	has	a	bizarre	appearance.	The
+patient	 walks	 with	 a	 pronounced	 waddle,	 shoulders	 thrown	 back	 and	 pelvis
+thrust	forward	(see	Video	Link	44.3).	This	form	of	gait	is	particularly	common
+in	 facioscapulohumeral	 muscular	 dystrophy.	 The	 myopathy	 patient	 has	 marked
+difficulty	 climbing	 stairs,	 often	 needing	 to	 pull	 herself	 up	 with	 the	 hand	 rail.
+Patients	 also	 have	 difficulty	 going	 from	 a	 lying	 to	 standing	 position	 without
+placing	 the	 hands	 on	 the	 knees	 and	 hips	 to	 push	 themselves	 up	 (Gower’s	 sign,
+Figure	29.4).	 For	 a	 vintage	 motion	 picture	 showing	 a	 myopathic	 gait	 with	 calf
+pseudohypertrophy,	 toe	 walking,	 and	 Gower’s	 sign	 in	 a	 boy	 with	 Duchenne’s
+
+dystrophy,	see	Video	Link	44.4).
+
+Hyperkinetic	Gait
+
+In	conditions	such	as	Sydenham’s	chorea,	Huntington’s	disease,	other	forms	of
+transient	or	persistent	chorea,	athetosis,	and	dystonia,	the	abnormal	movements
+may	become	more	marked	while	the	patient	is	walking,	and	the	manifestations
+of	the	disease	more	evident.	Walking	may	accentuate	not	only	the	hyperkinesias
+but	 also	 the	 abnormalities	 of	 power	 and	 tone	 that	 accompany	 them.	 In
+Huntington’s	 disease,	 the	 gait	 may	 be	 grotesque,	 dancing	 or	 prancing	 with
+abundant	extraneous	movement.	It	may	look	histrionic	but	is	all	too	real	(Video
+Link	44.5).	The	distal	movements	in	athetosis	and	the	proximal	movements	in
+dystonia	 may	 be	 marked	 during	 walking,	 and	 in	 both,	 there	 are	 accompanying
+grimaces.	 Some	 movement	 disorders	 may	 present	 as	 a	 gait	 disturbance.
+Oppenheim	 termed	 the	 walking	 pattern	 in	 dystonia	 musculorum	 deformans
+“dromedary”	because	of	the	exaggerated	lumbar	lordosis	and	hip	flexion.
+
+Gaits	Associated	with	Focal	Weakness
+
+In	addition	to	the	steppage	gait	that	accompanies	footdrop,	weakness	limited	to
+other	 muscle	 groups	 may	 cause	 gait	 difficulties.	 With	 paralysis	 of	 the
+gastrocnemius	and	soleus	muscles,	the	patient	is	unable	to	stand	on	the	toes,	and
+unable	to	push	off	to	enter	the	swing	phase	with	the	affected	leg.	This	may	cause
+a	 shuffling	 gait	 that	 is	 devoid	 of	 spring.	 In	 weakness	 of	 the	 quadriceps	 muscle
+(e.g.,	femoral	neuropathy),	there	is	weakness	of	knee	extension,	and	the	patient
+can	 only	 accept	 weight	 on	 the	 affected	 extremity	 by	 bracing	 the	 knee.	 When
+walking,	the	knee	is	held	stiffly,	and	there	is	a	tendency	to	fall	if	the	knee	bends.
+The	 patient	 has	 less	 difficulty	 walking	 backward	 than	 forward.	 Lumbosacral
+radiculopathy	may	cause	either	footdrop	or	a	unilateral	Trendelenburg’s	gait,	or
+both	(see	Chapters	27	and	47).	In	addition,	the	patient	with	acute	radiculopathy
+may	 walk	 with	 a	 list	 or	 pelvic	 tilt,	 accompanied	 by	 flattening	 of	 the	 normal
+lumbar	lordosis	because	of	low	back	muscle	spasm.	The	patient	may	walk	with
+small	 steps;	 if	 the	 pain	 is	 severe,	 she	 may	 place	 only	 the	 toes	 on	 the	 floor,
+because	 dorsiflexion	 of	 the	 foot	 aggravates	 the	 pain.	 Patients	 commonly	 use	 a
+cane	to	avoid	bearing	weight	on	the	involved	leg.
+
+Other	Gait	Disorders
+
+Patients	with	unilateral	thalamic	lesions	may	have	an	inability	to	stand	or	sit	out
+of	proportion	to	weakness	or	sensory	loss,	with	a	tendency	to	fall	backward	or	to
+the	side	contralateral	to	the	lesion	(thalamic	astasia).	A	toppling	gait	refers	to	a
+tendency	 to	 totter	 and	 fall	 seen	 with	 brainstem	 and	 cerebellar	 lesions,	 perhaps
+due	 to	 a	 failure	 of	 righting	 reflexes	 and	 slow	 motor	 responses.	 Primary
+progressive	 freezing	 gait	 causes	 early	 and	 progressive	 gait	 freezing;	 it	 is	 not	 a
+distinct	disorder	but	a	syndrome	with	diverse	causes.
+
+NONNEUROLOGIC	GAIT	DISORDERS
+
+Abnormalities	 of	 gait	 may	 occur	 for	 many	 other	 reasons	 and	 may	 be	 confused
+with	neurologic	disorders.	An	antalgic	gait	is	one	in	which	walking	is	disordered
+because	 of	 pain.	 Pain	 in	 a	 lower	 extremity,	 for	 whatever	 reason,	 causes	 a
+shortening	of	the	stance	phase	on	the	involved	limb	as	the	patient	seeks	to	avoid
+bearing	 weight.	 On	 more	 than	 one	 occasion,	 neurologic	 consultation	 has	 been
+requested	 in	 a	 patient	 who	 ultimately	 proved	 to	 have	 acute	 podagra	 or	 a	 hip
+fracture.	 An	 antalgic	 gait	 may	 also	 occur	 with	 peripheral	 neuropathy	 causing
+painful	 dysesthesias	 and	 allodynia	 of	 the	 feet.	 The	 patient	 walks	 as	 if	 on	 hot
+coals.	Arthritis	may	cause	difficulties	with	 gait	that	are	 secondary	to	 both	pain
+and	 deformity.	 In	 pregnancy,	 ascites,	 and	 abdominal	 tumors,	 there	 may	 be	 a
+lordosis	that	resembles	that	seen	in	the	muscular	dystrophies.	With	dislocation	of
+the	hips,	there	may	be	waddling	suggestive	of	a	myopathic	gait.	A	waddling	gait
+is	 also	 typical	 of	 advanced	 pregnancy.	 Patients	 with	 severe	 orthostatic
+hypotension	 may	 complain	 of	 difficulty	 walking	 rather	 than	 dizziness.	 Marked
+stooping	 in	 ankylosing	 spondylitis	 may	 resemble	 parkinsonism.	 A	 gait
+abnormality	due	to	generalized	weakness	may	occur	after	a	period	of	bed	rest,	or
+in	 wasting	 and	 debilitating	 diseases.	 It	 is	 characterized	 mainly	 by	 unsteadiness
+and	the	wish	for	support.	The	patient	staggers	and	sways	from	side	to	side	with	a
+suggestion	 of	 ataxia.	 She	 moves	 slowly,	 and	 the	 knees	 may	 tremble.	 If	 the
+difficulty	is	marked,	she	may	fall.
+
+NONORGANIC	(FUNCTIONAL)	GAIT
+ABNORMALITIES
+
+Derangements	 of	 station	 and	 gait	 on	 a	 nonorganic	 basis	 are	 common.	 Affected
+patients	may	be	unable	either	to	stand	or	walk,	despite	the	absence	of	weakness
+or	 other	 objective	 neurologic	 abnormalities.	 Testing	 for	 strength,	 tone,	 and
+coordination	is	normal	if	carried	out	supine.	Astasia-abasia	is	an	old	term	meant
+largely	 to	 describe	 the	 gait	 in	 conversion	 disorders.	 PGD	 is	 preferable	 and
+includes	gait	changes	related	to	depression,	anxiety,	and	phobic	states.
+
+The	 gait	 may	 suggest	 the	 presence	 of	 a	 monoparesis,	 hemiparesis,	 or
+paraparesis,	yet	the	limbs	can	be	used	in	an	emergency.	In	Keane’s	series	of	60
+patients,	 23	 mimicked	 paresis	 and	 most	 of	 the	 remainder	 had	 various	 ataxic	 or
+histrionic	patterns.	Several	authors	have	noted	that	knee	buckling	is	a	common
+type	 of	 PGD.	 The	 histrionic	 type	 of	 PGD	 is	 nondescript	 and	 bizarre	 and	 may
+take	 any	 number	 of	 forms	 that	 do	 not	 conform	 to	 a	 specific	 organic	 disease
+pattern	(see	Video	Link	44.6).	The	gait	is	irregular	 and	 variable,	 with	a	 great
+deal	of	superfluous	movement	and	often	marked	swaying	from	side	to	side.	The
+patient	 may	 appear	 to	 be	 in	 great	 danger	 of	 falling	 but	 rarely	 does	 so,	 often
+demonstrating	 superb	 balance	 during	 the	 contortions.	 If	 she	 does	 fall,	 it	 is	 in	 a
+theatrical	 manner	 without	 injury.	 The	 bizarre	 movements	 often	 require	 better
+than	 normal	 coordination.	 The	 patient	 may	 balance	 on	 the	 stance	 leg	 for	 a
+prolonged	period	of	time,	while	bringing	up	the	swing	leg	with	a	great	show	of
+effort.	 The	 gait	 may	 show	 skating,	 hopping,	 dancing,	 or	 zigzag	 characteristics;
+the	 legs	 may	 be	 thrown	 out	 wildly,	 or	 there	 may	 be	 a	 tendency	 to	 kneel	 every
+few	 steps.	 Tremulousness	 of	 the	 extremities	 or	 tic-like	 or	 compulsive	 features
+may	be	present.	Although	the	patient	cannot	walk	forward,	she	may	be	able	to
+walk	backward	or	to	one	side	or	to	run	without	difficulty.	Better	ability	to	propel
+a	wheeled,	swivel	chair	than	to	walk	(“chair	test”)	favors	PGD.	In	most	patients
+with	 PGD,	 the	 similarity	 to	 neurologic	 disease	 is	 slight.	 Hyperkinetic	 gait
+disorders	are	most	likely	to	be	confused	with	functional	conditions.
+
+The	term	astasia-abasia	originated	in	an	1888	monograph	by	Blocq,	and	the
+condition	 is	 sometimes	 referred	 to	 as	 Blocq’s	 syndrome.	 Blocq	 described
+patients	who	were	able	to	jump,	or	walk	on	all	fours,	but	unable	to	stand	upright
+(astasia)	 or	 to	 walk	 (abasia).	 There	 is	 normal	 lower-extremity	 function	 when
+recumbent,	 yet	 an	 inability	 to	 walk.	 This	 same	 pattern	 can	 occur	 in	 lesions
+involving	 the	 cerebellar	 vermis,	 such	 as	 alcoholic	 cerebellar	 degeneration	 or
+medulloblastoma,	and	in	frontal	lobe	disorders.	Astasia-abasia	is	sometimes	used
+to	refer	to	any	inability	to	either	stand	or	walk	normally	but	generally	refers	to	a
+histrionic	and	dramatic	gait	disturbance	with	wild	lurching	and	near	falls.
+
+

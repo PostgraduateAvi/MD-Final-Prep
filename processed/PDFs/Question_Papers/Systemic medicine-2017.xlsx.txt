@@ -1,0 +1,13 @@
+
+--- Sheet: Infections_Disease_and_Tropical ---
+ serial number                                                                     question
+             1      Myasthenia gravis-signs , differentials , investigations and management
+             2                                Acute monoarthritis -diagnosis and management
+             3                                                                  Biosimilars
+             4                                      Allergic bronchopulmonary aspergillosis
+             5 Non motor manifestation of parkinsonism and management of parkinsons disease
+             6                                                          Approach to Hypoxia
+             7                                               Phosphodiesterase-5 inhibitors
+             8                                  Osteoporosis current concepts in management
+             9                                Pyoderma gangrenosum diagnosis and management
+            10                                         Meniongioma diagnosis and management

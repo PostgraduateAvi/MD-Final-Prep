@@ -1,0 +1,7076 @@
+AMERICAN THORACIC SOCIETY
+DOCUMENTS
+
+Diagnosis and Treatment of Adults with Community-acquired
+Pneumonia
+An Ofﬁcial Clinical Practice Guideline of the American Thoracic Society and
+Infectious Diseases Society of America
+
+Joshua P. Metlay*, Grant W. Waterer*, Ann C. Long, Antonio Anzueto, Jan Brozek, Kristina Crothers, Laura A. Cooley,
+Nathan C. Dean, Michael J. Fine, Scott A. Flanders, Marie R. Grifﬁn, Mark L. Metersky, Daniel M. Musher,
+Marcos I. Restrepo, and Cynthia G. Whitney; on behalf of the American Thoracic Society and Infectious Diseases
+Society of America
+
+THIS OFFICIAL CLINICAL PRACTICE GUIDELINE WAS APPROVED BY THE AMERICAN THORACIC SOCIETY MAY 2019 AND THE INFECTIOUS DISEASES SOCIETY OF AMERICA
+AUGUST 2019
+
+Background: This document provides evidence-based clinical
+practice guidelines on the management of adult patients with
+community-acquired pneumonia.
+
+Methods: A multidisciplinary panel conducted pragmatic
+systematic reviews of the relevant research and applied Grading of
+Recommendations, Assessment, Development, and Evaluation
+methodology for clinical recommendations.
+
+Results: The panel addressed 16 speciﬁc areas for recommendations
+spanning questions of diagnostic testing, determination of site of
+care, selection of initial empiric antibiotic therapy, and subsequent
+
+management decisions. Although some recommendations remain
+unchanged from the 2007 guideline, the availability of results from
+new therapeutic trials and epidemiological investigations led to
+revised recommendations for empiric treatment strategies and
+additional management decisions.
+
+Conclusions: The panel formulated and provided the rationale for
+recommendations on selected diagnostic and treatment strategies
+for adult patients with community-acquired pneumonia.
+
+Keywords: community-acquired pneumonia; pneumonia; patient
+management
+
+Contents
+Overview
+Introduction
+Methods
+Recommendations
+
+Question 1: In Adults with CAP,
+
+Should Gram Stain and Culture
+of Lower Respiratory Secretions
+Be Obtained at the Time of
+Diagnosis?
+
+Question 2: In Adults with CAP,
+Should Blood Cultures Be
+Obtained at the Time of Diagnosis?
+
+Question 3: In Adults with CAP,
+
+Should Legionella and
+
+*Co–ﬁrst authors.
+
+Endorsed by the Society of Infectious Disease Pharmacists July 2019.
+
+ORCID IDs: 0000-0003-2259-6282 (J.P.M.); 0000-0002-7222-8018 (G.W.W.); 0000-0002-7007-588X (A.A.); 0000-0002-3122-0773 (J.B.);
+0000-0001-9702-0371 (K.C.); 0000-0002-5127-3442 (L.A.C.); 0000-0002-1996-0533 (N.C.D.); 0000-0003-3470-9846 (M.J.F.);
+0000-0002-8634-4909 (S.A.F.); 0000-0001-7114-7614 (M.R.G.); 0000-0003-1968-1400 (M.L.M.); 0000-0002-7571-066X (D.M.M.);
+0000-0001-9107-3405 (M.I.R.); 0000-0002-1056-3216 (C.G.W.).
+
+Supported by the American Thoracic Society and Infectious Diseases Society of America.
+
+The ﬁndings and conclusions in this report are those of the authors and do not necessarily represent the ofﬁcial position of the U.S. CDC.
+
+An Executive Summary of this document is available at http://www.atsjournals.org/doi/suppl/10.1164/rccm.201908-1581ST.
+
+You may print one copy of this document at no charge. However, if you require more than one copy, you must place a reprint order. Domestic reprint orders:
+
+amy.schriver@sheridan.com; international reprint orders: louisa.mott@springer.com.
+
+This article has an online supplement, which is accessible from this issue’s table of contents at www.atsjournals.org.
+
+Am J Respir Crit Care Med Vol 200, Iss 7, pp e45–e67, Oct 1, 2019
+Copyright © 2019 by the American Thoracic Society
+DOI: 10.1164/rccm.201908-1581ST
+Internet address: www.atsjournals.org
+
+American Thoracic Society Documents
+
+e45
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+Pneumococcal Urinary Antigen
+Testing Be Performed at the
+Time of Diagnosis?
+
+Question 4: In Adults with CAP,
+
+Should a Respiratory Sample Be
+Tested for Inﬂuenza Virus at the
+Time of Diagnosis?
+
+Question 5: In Adults with CAP,
+
+Should Serum Procalcitonin plus
+Clinical Judgment versus
+Clinical Judgment Alone Be
+Used to Withhold Initiation of
+Antibiotic Treatment?
+
+Question 6: Should a Clinical
+
+Prediction Rule for Prognosis
+plus Clinical Judgment versus
+Clinical Judgment Alone Be
+Used to Determine Inpatient
+versus Outpatient Treatment
+Location for Adults with CAP?
+
+Question 7: Should a Clinical
+
+Prediction Rule for Prognosis
+plus Clinical Judgment versus
+Clinical Judgment Alone Be
+Used to Determine Inpatient
+General Medical versus Higher
+
+Levels of Inpatient Treatment
+Intensity (ICU, Step-Down, or
+Telemetry Unit) for Adults with
+CAP?
+
+Question 8: In the Outpatient
+
+Setting, Which Antibiotics Are
+Recommended for Empiric
+Treatment of CAP in Adults?
+
+Question 9: In the Inpatient
+Setting, Which Antibiotic
+Regimens Are Recommended
+for Empiric Treatment of
+CAP in Adults without Risk
+Factors for MRSA and
+P. aeruginosa?
+
+Question 10: In the Inpatient
+Setting, Should Patients
+with Suspected Aspiration
+Pneumonia Receive Additional
+Anaerobic Coverage beyond
+Standard Empiric Treatment for
+CAP?
+
+Question 11: In the Inpatient
+
+Setting, Should Adults with CAP
+and Risk Factors for MRSA or
+P. aeruginosa Be Treated with
+
+Overview
+
+In the more than 10 years since the last
+American Thoracic Society(ATS)/Infectious
+Diseases Society of America (IDSA)
+community-acquired pneumonia (CAP)
+guideline (1), there have been changes in
+the process for guideline development, as
+well as generation of new clinical data. ATS
+and IDSA agreed on moving from the
+narrative style of previous documents to the
+Grading of Recommendations Assessment,
+Development, and Evaluation (GRADE)
+format. We thus developed this updated
+CAP guideline as a series of questions
+answered from available evidence in an “is
+option A better than option B” format
+using the Patient or Population,
+Intervention, Comparison, Outcome
+(PICO) framework (2).
+
+Given the expansion in information
+related to the diagnostic, therapeutic, and
+management decisions for the care of
+patients with CAP, we have purposely
+narrowed the scope of this guideline to
+address decisions from the time of clinical
+diagnosis of pneumonia (i.e., signs and
+symptoms of pneumonia with radiographic
+conﬁrmation) to completion of
+antimicrobial therapy and follow-up chest
+
+imaging. The document does not address
+either the initial clinical diagnostic criteria
+or prevention of pneumonia.
+
+CAP is an extraordinarily
+
+heterogeneous illness, both in the range
+of responsible pathogens and the host
+response. Thus, the PICO questions we
+identiﬁed for this guideline do not represent
+the full range of relevant questions about the
+management of CAP but encompass a set of
+core questions identiﬁed as high priority by
+the panel. In addition, although each
+question was addressed using systematic
+reviews of available high-quality studies,
+the evidence base was often insufﬁcient,
+emphasizing the continued importance of
+clinical judgment and experience in treating
+patients with this illness and the need for
+continued research.
+
+Introduction
+
+This guideline addresses the clinical entity of
+pneumonia that is acquired outside of the
+hospital setting. Although we recognize that
+CAP is frequently diagnosed without the use
+of a chest radiograph, especially in the
+ambulatory setting, we have focused on
+studies that used radiographic criteria for
+
+Extended-Spectrum Antibiotic
+Therapy Instead of Standard
+CAP Regimens?
+
+Question 12: In the Inpatient
+
+Setting, Should Adults
+with CAP Be Treated with
+Corticosteroids?
+
+Question 13: In Adults with CAP
+
+Who Test Positive for Inﬂuenza,
+Should the Treatment Regimen
+Include Antiviral Therapy?
+Question 14: In Adults with
+
+CAP Who Test Positive for
+Inﬂuenza, Should the Treatment
+Regimen Include Antibacterial
+Therapy?
+
+Question 15: In Outpatient and
+
+Inpatient Adults with CAP Who
+Are Improving, What Is the
+Appropriate Duration of
+Antibiotic Treatment?
+
+Question 16: In Adults with CAP
+Who Are Improving, Should
+Follow-up Chest Imaging Be
+Obtained?
+
+Conclusions
+
+deﬁning CAP, given the known inaccuracy
+of clinical signs and symptoms alone for
+CAP diagnosis (3). This guideline focuses
+on patients in the United States who have
+not recently completed foreign travel,
+especially to regions with emerging
+respiratory pathogens. This guideline also
+focuses on adults who do not have an
+immunocompromising condition, such as
+inherited or acquired immune deﬁciency or
+drug-induced neutropenia, including
+patients actively receiving cancer
+chemotherapy, patients infected with HIV
+with suppressed CD4 counts, and solid
+organ or bone marrow transplant
+recipients.
+
+Antibiotic recommendations for the
+empiric treatment of CAP are based on
+selecting agents effective against the major
+treatable bacterial causes of CAP.
+Traditionally, these bacterial pathogens
+include Streptococcus pneumoniae,
+Haemophilus inﬂuenzae, Mycoplasma
+pneumoniae, Staphylococcus aureus,
+Legionella species, Chlamydia pneumoniae,
+and Moraxella catarrhalis. The microbial
+etiology of CAP is changing, particularly
+with the widespread introduction of the
+pneumococcal conjugate vaccine, and there
+is increased recognition of the role of viral
+
+e46
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+pathogens. The online supplement contains
+a more detailed discussion of CAP
+microbiology. As bacterial pathogens often
+coexist with viruses and there is no current
+diagnostic test accurate enough or fast
+enough to determine that CAP is due solely
+to a virus at the time of presentation (see
+below), our recommendations are to
+initially treat empirically for possible
+bacterial infection or coinfection. In
+addition, the emergence of multidrug-
+resistant pathogens, including methicillin-
+resistant S. aureus (MRSA) and
+Pseudomonas aeruginosa, requires separate
+recommendations when the risk of
+each of these pathogens is elevated. We
+acknowledge that other multidrug-resistant
+Enterobacteriaceae can cause CAP,
+including organisms producing extended-
+spectrum b-lactamase, but we do not
+discuss them separately because they are
+much less common and are effectively
+covered by the strategies presented for
+P. aeruginosa. Therefore, throughout this
+document when discussing P. aeruginosa
+we are also referring to other similar
+multiresistant gram-negative bacteria.
+
+We have maintained the convention
+
+of separate recommendations on the
+basis of the severity of illness. Although
+historically site of care (outpatient,
+inpatient general ward, or ICU) has served
+as a severity surrogate, decisions about site
+of care may be based on considerations
+other than severity and can vary widely
+between hospitals and practice sites.
+We have therefore chosen to use the
+IDSA/ATS CAP severity criteria that have
+been validated and deﬁne severe CAP as
+present in patients with either one major
+criterion or three or more minor criteria.
+(Table 1)
+
+This guideline reafﬁrms many
+
+recommendations from the 2007 statement.
+However, new evidence and a new process
+have led to signiﬁcant changes, which are
+summarized in Table 2.
+
+Methods
+
+The guideline development methodology
+and how conﬂict of interest was managed
+are presented in the online supplement. In
+brief, the list of PICO questions was ﬁnalized
+based on a prioritization of the most
+important management decisions balanced
+against the decision to reduce the overall
+length of the document and total number of
+
+recommendations to maximize readability
+and usability. We followed the GRADE
+standards for evaluating the evidence for
+each PICO and assigned a quality of
+evidence rating of high, moderate, low, or
+very low. On the basis of the quality of
+evidence, recommendations were assigned
+as strong or conditional. In some cases,
+strong recommendations were made in the
+setting of low or very low quality of evidence
+in accordance with the GRADE rules for
+when such recommendations are allowable
+(e.g., when the consequences of the
+recommendation were high, such as
+preventing harm or saving life). In all other
+cases, recommendations that were based on
+low or very low quality of evidence and not
+believed to represent standards of care were
+labeled as conditional recommendations.
+Statements in favor of strong
+recommendations begin with the words
+“We recommend . . .”; statements in favor
+of conditional recommendations begin
+with the words “We suggest . . . .”
+Although we speciﬁed pairwise PICO
+questions for all antibiotic options in the
+outpatient and inpatient settings, we
+summarized the recommendations using
+lists of treatment options, in no preferred
+order, rather than retain the PICO format
+for this section.
+
+Recommendations
+
+Question 1: In Adults with CAP,
+Should Gram Stain and Culture of
+Lower Respiratory Secretions Be
+Obtained at the Time of Diagnosis?
+
+Recommendation. We recommend not
+obtaining sputum Gram stain and culture
+routinely in adults with CAP managed in the
+outpatient setting (strong recommendation,
+very low quality of evidence).
+
+We recommend obtaining pretreatment
+
+Gram stain and culture of respiratory
+secretions in adults with CAP managed in
+the hospital setting who:
+1. are classiﬁed as severe CAP (see Table 1),
+especially if they are intubated (strong
+recommendation, very low quality of
+evidence); or
+
+2.
+
+a. are being empirically treated for
+MRSA or P. aeruginosa (strong
+recommendation, very low quality
+of evidence); or
+
+b. were previously infected with MRSA
+or P. aeruginosa, especially those
+with prior respiratory tract infection
+(conditional recommendation, very
+low quality of evidence); or
+c. were hospitalized and received
+
+parenteral antibiotics, whether during the
+hospitalization event or not, in the last
+90 days (conditional recommendation,
+very low quality of evidence).
+
+Summary of the evidence. Arguments
+for trying to determine the etiology of CAP
+are that 1) a resistant pathogen may be
+identiﬁed; 2) therapy may be narrowed; 3)
+some pathogens, such as Legionella, have
+public health implications; 4) therapy may
+be adjusted when patients fail initial
+therapy; and 5) the constantly changing
+epidemiology of CAP requires ongoing
+evaluation.
+
+These arguments stand in contrast to
+
+the lack of high-quality evidence
+demonstrating that routine diagnostic
+testing improves individual patient
+outcomes. Studies that speciﬁcally evaluated
+the use of sputum Gram stain and culture
+alone (4–7), or in combination with other
+microbiological testing (8–11), also did not
+demonstrate better patient outcomes.
+The overall poor yield of sputum
+evaluation for detecting organisms causing
+CAP limits its impact on management and
+patient outcomes. Obtaining a valid sputum
+specimen can be challenging because of
+patient-related characteristics (12–17).
+Performance characteristics of testing also
+vary by organism, receipt of prior
+antibiotics, and setting. For example, in
+patients with bacteremic pneumococcal
+pneumonia who have not received
+antibiotics, microscopic examination and
+culture of a good-quality sputum sample
+detects pneumococci in 86% of cases (18).
+Rationale for the recommendation. In
+balancing the lack of evidence supporting
+routine sputum culture with the desire for
+improved antimicrobial stewardship, the
+committee voted to continue the stance of
+previous guidelines in recommending
+neither for nor against routinely obtaining
+sputum Gram stain and culture in all adults
+with CAP managed in the hospital setting.
+Whether to culture patients or not should be
+determined by individual clinicians on the
+basis of clinical presentation, local
+etiological considerations, and local
+antimicrobial stewardship processes.
+The committee identiﬁed two
+
+situations in which we recommend sputum
+
+American Thoracic Society Documents
+
+e47
+
+ Table 1. 2007 Infectious Diseases
+Society of America/American Thoracic
+Society Criteria for Deﬁning Severe
+Community-acquired Pneumonia
+
+Validated deﬁnition includes either one
+major criterion or three or more
+minor criteria
+
+Minor criteria
+
+Respiratory rate > 30 breaths/min
+PaO2/FIO2 ratio < 250
+Multilobar inﬁltrates
+Confusion/disorientation
+Uremia (blood urea nitrogen
+
+level > 20 mg/dl)
+
+Leukopenia* (white blood cell
+
+count , 4,000 cells/ml)
+Thrombocytopenia (platelet
+
+count , 100,000/ml)
+
+Hypothermia (core temperature , 368C)
+Hypotension requiring aggressive ﬂuid
+
+resuscitation
+
+Major criteria
+
+Septic shock with need for
+
+vasopressors
+
+Respiratory failure requiring mechanical
+
+ventilation
+
+*Due to infection alone (i.e., not chemotherapy
+induced).
+
+Gram stain and culture: in hospitalized
+patients with severe CAP, and when strong
+risk factors for MRSA and P. aeruginosa are
+identiﬁed, unless local etiological data have
+already shown these pathogens are very
+infrequently identiﬁed in patients with CAP.
+Patients who have severe CAP requiring
+intubation should have lower respiratory tract
+samples, such as endotracheal aspirates, sent
+for Gram stain and culture promptly after
+intubation, particularly as these patients may
+be more likely to have pneumonia due to
+MRSA or P. aeruginosa, and endotracheal
+aspirates have a better yield of microbiological
+organisms than sputum culture (19).
+
+We recommend obtaining sputum for
+Gram stain and culture in situations when
+risk factors for MRSA or P. aeruginosa are
+present, both when initial empiric therapy
+is expanded to cover these pathogens and
+when it is not expanded. In the former case,
+negative microbiological test results may be
+used to deescalate therapy, and in the latter
+case, positive microbiological test results
+may be used to adjust therapy. As discussed
+later, although there are numerous studies
+identifying individual risk factors for MRSA
+and P. aeruginosa, many of these
+associations are weak and vary across sites.
+
+AMERICAN THORACIC SOCIETY DOCUMENTS
+
+The most consistently strong risk factor to
+consider is prior infection with either
+MRSA or P. aeruginosa. In addition,
+hospitalization and treatment with
+parenteral antibiotics in the last 90 days is
+associated with an increased risk of these
+pathogens, and so we recommend
+sputum culture in this situation. These
+recommendations are not based on high-
+grade evidence but reﬂect the committee’s
+desire to improve antibiotic use as well as
+improve clinicians’ understanding of their
+local pathogen prevalences and resistance
+patterns, which we believe are key to
+selecting appropriate empiric antibiotic
+therapy.
+
+Research needed in this area. Rapid,
+
+cost-effective, sensitive, and speciﬁc
+diagnostic tests to identify organisms
+causing CAP have potential to improve
+routine care by supporting the use of
+targeted therapy, especially when there
+are risk factors for antibiotic-resistant
+pathogens. All new diagnostic tests should
+be assessed in high-quality research studies
+that address the impact of testing strategies
+on treatment decisions and patient
+outcomes.
+
+Question 2: In Adults with CAP,
+Should Blood Cultures Be Obtained at
+the Time of Diagnosis?
+
+Recommendation. We recommend not
+obtaining blood cultures in adults with CAP
+managed in the outpatient setting (strong
+recommendation, very low quality of
+evidence).
+
+We suggest not routinely obtaining blood
+cultures in adults with CAP managed in the
+hospital setting (conditional recommendation,
+very low quality of evidence).
+
+We recommend obtaining
+
+pretreatment blood cultures in adults with
+CAP managed in the hospital setting who:
+1. are classiﬁed as severe CAP (see Table 1)
+(strong recommendation, very low
+quality of evidence); or
+
+2.
+
+a. are being empirically treated for
+MRSA or P. aeruginosa (strong
+recommendation, very low quality of
+evidence); or
+
+b. were previously infected with MRSA
+or P. aeruginosa, especially those
+with prior respiratory tract infection
+(conditional recommendation, very
+low quality of evidence); or
+
+c. were hospitalized and received
+
+parenteral antibiotics, whether during
+the hospitalization event or not,
+in the last 90 days (conditional
+recommendation, very low quality of
+evidence).
+Summary of the evidence. There are no
+
+high-quality studies that speciﬁcally
+compared patient outcomes with and
+without blood culture testing. One large
+observational study found lower mortality
+for hospitalized patients associated with
+obtaining blood cultures at the time of
+admission (20). Three subsequent (smaller)
+observational studies found similar
+associations between in-hospital mortality
+and having blood cultures within 24 hours
+of admission, but the results were not
+statistically signiﬁcant (8, 21, 22).
+
+The yield of blood cultures in most
+series of adults with nonsevere CAP is low,
+ranging from 2% (outpatients) to 9%
+(inpatients) (14, 21, 23, 24); furthermore,
+blood cultures rarely result in an
+appropriate change in empiric therapy (25),
+and blood specimens that include skin
+contaminants can generate false-positive
+test results. Growth of organisms such as
+coagulase-negative staphylococci, which are
+not recognized as CAP pathogens (26), may
+lead to inappropriate antimicrobial use that
+increases the risk for adverse drug effects.
+A study of adults hospitalized with CAP
+found blood cultures were associated with
+a signiﬁcant increase in length of stay and
+duration of antibiotic therapy (27). Given the
+observational nature of these studies, it is
+unknown whether the associations found with
+blood cultures and patient outcomes were
+causal or due to unmeasured confounding
+factors, including severity of illness.
+
+Rationale for the recommendation.
+Although additional diagnostic information
+could improve the quality of treatment
+decisions, support for routine collection of
+blood cultures is reduced by the low quality of
+studies demonstrating clinical beneﬁt. Routinely
+obtaining blood cultures may generate false-
+positive results that lead to unnecessary
+antibiotic use and increased length of stay.
+
+In severe CAP, delay in covering less-
+
+common pathogens can have serious
+consequences. Therefore, the potential beneﬁt
+of blood cultures is much larger when results
+can be returned within 24 to 48 hours.
+
+The rationale for the recommendation
+
+for blood cultures in the setting of risk
+factors for MRSA and P. aeruginosa is the
+same as for sputum culture.
+
+e48
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+Table 2. Differences between the 2019 and 2007 American Thoracic Society/Infectious Diseases Society of America
+Community-acquired Pneumonia Guidelines
+
+Recommendation
+
+2007 ATS/IDSA Guideline
+
+2019 ATS/IDSA Guideline
+
+Sputum culture
+
+Primarily recommended in patients with
+
+Now recommended in patients with severe
+
+severe disease
+
+disease as well as in all inpatients
+empirically treated for MRSA or
+Pseudomonas aeruginosa
+
+Blood culture
+
+Primarily recommended in patients with
+
+Now recommended in patients with severe
+
+severe disease
+
+disease as well as in all inpatients
+empirically treated for MRSA or P.
+aeruginosa
+
+Macrolide monotherapy
+
+Strong recommendation for outpatients
+
+Conditional recommendation for outpatients
+
+Use of procalcitonin
+
+Not covered
+
+Use of corticosteroids
+
+Not covered
+
+Use of healthcare-associated pneumonia
+
+category
+
+Accepted as introduced in the 2005
+ATS/IDSA hospital-acquired and
+ventilator-associated pneumonia
+guidelines
+
+Standard empiric therapy for severe CAP
+
+b-Lactam/macrolide and
+
+b-lactam/ﬂuoroquinolone combinations
+given equal weighting
+
+Routine use of follow-up chest imaging
+
+Not addressed
+
+based on resistance levels
+
+Not recommended to determine need for
+
+initial antibacterial therapy
+
+Recommended not to use. May be considered
+
+in patients with refractory septic shock
+
+Recommend abandoning this categorization.
+
+Emphasis on local epidemiology and
+validated risk factors to determine need for
+MRSA or P. aeruginosa coverage.
+Increased emphasis on deescalation of
+treatment if cultures are negative
+
+Both accepted but stronger evidence in favor
+
+of b-lactam/macrolide combination
+
+Recommended not to obtain. Patients may be
+eligible for lung cancer screening, which
+should be performed as clinically indicated
+
+Deﬁnition of abbreviations: ATS = American Thoracic Society; CAP = community-acquired pneumonia; IDSA = Infectious Diseases Society of America;
+MRSA = methicillin-resistant Staphylococcus aureus.
+
+Question 3: In Adults with CAP,
+Should Legionella and Pneumococcal
+Urinary Antigen Testing Be Performed
+at the Time of Diagnosis?
+
+Recommendation. We suggest not
+routinely testing urine for pneumococcal
+antigen in adults with CAP (conditional
+recommendation, low quality of
+evidence), except in adults with severe
+CAP (conditional recommendation, low
+quality of evidence).
+
+We suggest not routinely testing urine
+
+for Legionella antigen in adults with CAP
+(conditional recommendation, low quality
+of evidence), except
+
+1.
+
+in cases where indicated by
+epidemiological factors, such as
+association with a Legionella outbreak
+or recent travel (conditional
+recommendation, low quality of
+evidence); or
+
+2.
+
+in adults with severe CAP (see Table 1)
+(conditional recommendation, low
+quality of evidence).
+
+We suggest testing for Legionella
+
+urinary antigen and collecting lower
+respiratory tract secretions for Legionella
+culture on selective media or Legionella
+nucleic acid ampliﬁcation testing in
+adults with severe CAP (conditional
+recommendation, low quality of evidence).
+Summary of the evidence. Falguera and
+colleagues (28) randomized 177 patients to
+pathogen-directed treatment (targeted
+treatment) on the basis of results of urinary
+antigen testing for S. pneumoniae and
+Legionella versus empirical guideline-
+directed treatment. Of the 88 patients in the
+targeted treatment arm, 25% had a positive
+urinary antigen test and received pathogen-
+directed therapy. There were no statistical
+differences in death, clinical relapse, ICU
+admission, length of hospitalization, or
+
+length of antibiotic treatment (28). A
+second trial of 262 patients included
+a broader range of microbiological testing
+(sputum and blood cultures) and only
+Legionella urinary antigen testing, but
+patients receiving pathogen-directed
+therapy had similar clinical outcomes to
+patients receiving empirical, guideline-
+directed therapy, including mortality, rates
+of clinical failure, and length of
+hospitalization (10).
+
+One observational study evaluated cost
+and antibiotic selection in patients during
+two time periods, with and without
+pneumococcal urinary antigen testing, but
+found no differences during the two
+time periods (29). In contrast, other
+observational studies that have evaluated
+the impact of prior CAP guideline
+concordance (including initial diagnostic
+testing with urinary antigen tests and
+blood cultures, along with site of care
+
+American Thoracic Society Documents
+
+e49
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+Table 3. Initial Treatment Strategies for Outpatients with Community-acquired
+Pneumonia
+
+No comorbidities or risk factors for MRSA
+
+or Pseudomonas aeruginosa*
+
+With comorbidities‡
+
+Standard Regimen
+
+Amoxicillin or
+doxycycline or
+macrolide (if local pneumococcal
+
+resistance is ,25%)†
+
+Combination therapy with
+amoxicillin/clavulanate or cephalosporin
+AND
+macrolide or doxycyclinex
+OR
+monotherapy with respiratory
+
+ﬂuoroquinolonejj
+
+Deﬁnition of abbreviations: ER = extended release; MRSA = methicillin-resistant Staphylococcus
+aureus.
+*Risk factors include prior respiratory isolation of MRSA or P. aeruginosa or recent hospitalization
+AND receipt of parenteral antibiotics (in the last 90 d).
+†Amoxicillin 1 g three times daily, doxycycline 100 mg twice daily, azithromycin 500 mg on ﬁrst day
+then 250 mg daily, clarithromycin 500 mg twice daily, or clarithromycin ER 1,000 mg daily.
+‡Comorbidities include chronic heart, lung, liver, or renal disease; diabetes mellitus; alcoholism;
+malignancy; or asplenia.
+xAmoxicillin/clavulanate 500 mg/125 mg three times daily, amoxicillin/clavulanate 875 mg/125 mg
+twice daily, 2,000 mg/125 mg twice daily, cefpodoxime 200 mg twice daily, or cefuroxime 500 mg
+twice daily; AND azithromycin 500 mg on ﬁrst day then 250 mg daily, clarithromycin 500 mg twice
+daily, clarithromycin ER 1,000 mg daily, or doxycycline 100 mg twice daily.
+jjLevoﬂoxacin 750 mg daily, moxiﬂoxacin 400 mg daily, or gemiﬂoxacin 320 mg daily.
+
+stratiﬁcation and guideline-concordant
+therapy) have reported reduced mortality
+for patients receiving prior CAP guideline-
+concordant care, including diagnostic
+testing. Costantini and colleagues reported
+a 57% statistically signiﬁcant reduced odds
+of in-hospital mortality for patients
+receiving pneumococcal and Legionella
+urinary antigen testing compared with
+patients not tested, adjusting for baseline
+demographic and clinical differences (27).
+Uematsu and colleagues reported 25%
+reduced odds of 30-day mortality in patients
+receiving urinary antigen tests but no impact
+on length of hospitalizations (7). However,
+neither study distinguished whether the
+mortality beneﬁts attributed to testing were
+a direct consequence of the test results or
+a marker of other improved processes of care.
+Rationale for the recommendation.
+
+Randomized trials have failed to identify
+a beneﬁt for urinary antigen testing for S.
+pneumoniae and Legionella. Concern has
+also been raised that narrowing therapy in
+response to positive urinary antigen tests
+could lead to increased risk of clinical
+relapse (28). In large observational studies,
+these diagnostic tests have been associated
+with reduction in mortality; therefore, we
+recommend testing in patients with severe
+
+disease. An increase in Legionella infections
+in the United States in the past decade
+highlights the importance of this diagnosis
+especially among severely ill patients,
+particularly in the setting of potential
+outbreaks due to a common source, although
+most cases are not associated with a known
+outbreak and remain sporadic (30, 31).
+
+Research needed in this area. Newer
+
+nucleic acid ampliﬁcation systems for
+sputum, urine, and blood are being developed
+and require rigorous testing to assess the
+impact on treatment decisions and clinical
+outcomes for patients with CAP, as well as
+the public health beneﬁt in terms of
+prevention of additional cases and informing
+primary prevention strategies. In particular,
+we acknowledge the emergence of rapid, low-
+cost genomic sequence detection assays that
+have the potential to greatly improve
+pathogen-directed therapy and thereby
+improve antimicrobial stewardship.
+
+Question 4: In Adults with CAP,
+Should a Respiratory Sample Be
+Tested for Inﬂuenza Virus at the Time
+of Diagnosis?
+
+Recommendation. When inﬂuenza viruses
+are circulating in the community, we
+
+recommend testing for inﬂuenza with
+a rapid inﬂuenza molecular assay
+(i.e., inﬂuenza nucleic acid ampliﬁcation
+test), which is preferred over a rapid
+inﬂuenza diagnostic test (i.e., antigen test)
+(strong recommendation, moderate quality
+of evidence).
+
+Summary of the evidence. Rapid
+inﬂuenza tests have become increasingly
+available, moving from earlier antigen-based
+detection tests to nucleic acid ampliﬁcation
+tests. We were unable to identify any studies
+that evaluated the impact of inﬂuenza
+testing on outcomes in adults with CAP.
+In contrast, a substantial literature has
+evaluated the importance of inﬂuenza
+testing in the general population, speciﬁcally
+among patients with inﬂuenza-like illness
+(32). Our recommendations for inﬂuenza
+testing in adults with CAP are consistent
+with testing recommendations for the
+broader population of adults with suspected
+inﬂuenza, as summarized in the recent
+IDSA Inﬂuenza Clinical Practice Guideline
+(33).
+
+Rationale for the recommendation. The
+beneﬁts of antiviral therapy support testing
+of patients during periods of high inﬂuenza
+activity. During periods of low inﬂuenza
+activity, testing can be considered but
+may not be routinely performed. Of note,
+this testing recommendation has both
+therapeutic and infection-control
+implications in the hospital setting. Updated
+inﬂuenza testing recommendations are
+also available on the CDC website
+(https://www.cdc.gov/ﬂu/professionals/
+diagnosis/index.htm).
+
+Question 5: In Adults with CAP,
+Should Serum Procalcitonin plus
+Clinical Judgment versus Clinical
+Judgment Alone Be Used to Withhold
+Initiation of Antibiotic Treatment?
+
+Recommendation. We recommend that
+empiric antibiotic therapy should be
+initiated in adults with clinically suspected
+and radiographically conﬁrmed CAP
+regardless of initial serum procalcitonin
+level (strong recommendation, moderate
+quality of evidence).
+
+Summary of the evidence. Several
+
+studies have assessed the ability of
+procalcitonin to distinguish acute
+respiratory infections due to pneumonia
+(which are of viral or bacterial etiology)
+from acute bronchitis or upper respiratory
+tract infections (which are almost
+
+e50
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+l
+
+y
+n
+o
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+i
+
+.
+
+P
+
+r
+o
+f
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+s
+s
+e
+n
+u
+
+l
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+A
+S
+R
+M
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+r
+a
+
+s
+t
+l
+u
+s
+e
+r
+
+e
+r
+u
+t
+l
+u
+c
+
+f
+i
+
+f
+I
+
+.
+e
+v
+i
+t
+i
+s
+o
+p
+
+e
+r
+a
+
+s
+t
+l
+u
+s
+e
+r
+
+e
+r
+u
+t
+l
+u
+c
+
+f
+o
+
+w
+o
+
+l
+l
+
+a
+
+o
+t
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+n
+o
+i
+t
+a
+m
+r
+ﬁ
+n
+o
+c
+
+r
+o
+
+l
+
+n
+o
+i
+t
+a
+a
+c
+s
+e
+e
+d
+
+f
+o
+
+n
+o
+i
+t
+a
+m
+r
+ﬁ
+n
+o
+c
+
+w
+o
+
+l
+l
+
+a
+
+o
+t
+
+R
+C
+P
+
+r
+o
+
+l
+
+n
+o
+i
+t
+a
+a
+c
+s
+e
+e
+d
+
+l
+
+a
+s
+a
+n
+/
+s
+e
+r
+u
+t
+l
+u
+c
+
+e
+t
+a
+i
+t
+i
+n
+
+i
+
+t
+u
+b
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+n
+a
+t
+b
+O
+
+l
+
+d
+o
+h
+h
+t
+i
+
+w
+
+t
+u
+b
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+n
+a
+t
+b
+O
+
+j
+j
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+r
+o
+f
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+d
+d
+A
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+x
+
+e
+g
+a
+r
+e
+v
+o
+c
+A
+S
+R
+M
+d
+d
+A
+
+l
+
+,
+e
+b
+a
+
+l
+i
+
+a
+v
+a
+
+s
+
+i
+
+R
+C
+P
+
+l
+
+a
+s
+a
+n
+
+i
+
+d
+p
+a
+r
+
+y
+p
+a
+r
+e
+h
+t
+
+d
+e
+u
+n
+i
+t
+n
+o
+c
+
+r
+o
+f
+
+d
+e
+e
+n
+
+y
+p
+a
+r
+e
+h
+t
+
+d
+e
+u
+n
+i
+t
+n
+o
+c
+
+r
+o
+f
+
+d
+e
+e
+n
+
+d
+n
+a
+
+n
+o
+i
+t
+a
+z
+
+i
+l
+
+a
+t
+i
+p
+s
+o
+H
+
+t
+n
+e
+c
+e
+R
+
+d
+n
+a
+
+i
+
+s
+c
+i
+t
+o
+b
+i
+t
+n
+A
+
+l
+
+a
+r
+e
+t
+n
+e
+r
+a
+P
+
+i
+
+k
+s
+R
+d
+e
+t
+a
+d
+
+i
+l
+
+a
+V
+
+y
+
+l
+l
+
+a
+c
+o
+L
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+r
+o
+f
+
+s
+r
+o
+t
+c
+a
+F
+
+d
+n
+a
+
+n
+o
+i
+t
+a
+z
+
+i
+l
+
+a
+t
+i
+p
+s
+o
+H
+
+t
+n
+e
+c
+e
+R
+
+d
+n
+a
+
+i
+
+s
+c
+i
+t
+o
+b
+i
+t
+n
+A
+
+l
+
+a
+r
+e
+t
+n
+e
+r
+a
+P
+
+i
+
+k
+s
+R
+d
+e
+t
+a
+d
+
+i
+l
+
+a
+V
+
+y
+
+l
+l
+
+a
+c
+o
+L
+
+A
+S
+R
+M
+
+r
+o
+f
+
+s
+r
+o
+t
+c
+a
+F
+
+f
+o
+
+n
+o
+i
+t
+a
+o
+s
+I
+
+l
+
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+R
+r
+o
+i
+r
+P
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+s
+a
+n
+o
+m
+o
+d
+u
+e
+s
+P
+
+n
+o
+i
+t
+a
+o
+s
+I
+
+l
+
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+R
+r
+o
+i
+r
+P
+
+A
+S
+R
+M
+
+f
+o
+
+i
+
+n
+e
+m
+g
+e
+R
+d
+r
+a
+d
+n
+a
+t
+S
+
+i
+
+e
+c
+n
+a
+t
+s
+s
+e
+R
+g
+u
+r
+D
+
+r
+o
+f
+
+i
+
+k
+s
+R
+d
+n
+a
+
+y
+t
+i
+r
+e
+v
+e
+S
+
+f
+o
+
+l
+
+e
+v
+e
+L
+
+y
+b
+
+i
+
+a
+n
+o
+m
+u
+e
+n
+P
+
+d
+e
+r
+i
+u
+q
+c
+a
+-
+y
+t
+i
+n
+u
+m
+m
+o
+C
+h
+t
+i
+
+w
+s
+t
+n
+e
+i
+t
+a
+p
+n
+
+I
+
+r
+o
+f
+
+i
+
+s
+e
+g
+e
+t
+a
+r
+t
+
+S
+
+t
+n
+e
+m
+t
+a
+e
+r
+T
+
+l
+
+a
+i
+t
+i
+n
+
+I
+
+.
+
+4
+
+l
+
+e
+b
+a
+T
+
+i
+
+d
+p
+a
+r
+
+f
+i
+
+A
+S
+R
+M
+
+i
+
+t
+s
+n
+a
+g
+a
+y
+p
+a
+r
+e
+h
+t
+
+c
+i
+r
+i
+p
+m
+e
+
+l
+
+a
+n
+o
+i
+t
+i
+d
+d
+a
+
+l
+
+d
+o
+h
+h
+t
+i
+
+w
+
+e
+v
+i
+t
+i
+s
+o
+p
+
+s
+
+i
+
+R
+C
+P
+
+f
+i
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+d
+d
+a
+
+r
+o
+
+e
+v
+i
+t
+a
+g
+e
+n
+
+s
+
+i
+
+g
+n
+i
+t
+s
+e
+t
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+d
+n
+a
+R
+C
+P
+
+l
+
+a
+s
+a
+n
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+x
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+A
+S
+R
+M
+d
+d
+A
+
+j
+j
+
+l
+
+n
+o
+i
+t
+a
+a
+c
+s
+e
+e
+d
+w
+o
+
+l
+l
+
+a
+o
+t
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+f
+o
+
+n
+o
+i
+t
+a
+m
+r
+ﬁ
+n
+o
+c
+
+r
+o
+
+l
+
+n
+o
+i
+t
+a
+a
+c
+s
+e
+e
+d
+
+w
+o
+
+l
+l
+
+a
+
+o
+t
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+j
+j
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+r
+o
+f
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+d
+d
+A
+
+w
+o
+
+l
+l
+
+a
+
+o
+t
+
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+f
+o
+
+n
+o
+i
+t
+a
+m
+r
+ﬁ
+n
+o
+c
+
+r
+o
+
+l
+
+n
+o
+i
+t
+a
+a
+c
+s
+e
+e
+d
+
+f
+o
+
+n
+o
+i
+t
+a
+m
+r
+ﬁ
+n
+o
+c
+
+w
+o
+
+l
+l
+
+a
+
+o
+t
+
+R
+C
+P
+
+r
+o
+
+l
+
+n
+o
+i
+t
+a
+a
+c
+s
+e
+e
+d
+
+l
+
+a
+s
+a
+n
+/
+s
+e
+r
+u
+t
+l
+u
+c
+
+i
+
+a
+s
+o
+n
+g
+u
+r
+e
+a
+
+.
+
+P
+
+r
+o
+f
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+d
+d
+A
+
+i
+
+n
+a
+t
+b
+o
+
+d
+n
+a
+
+x
+
+e
+g
+a
+r
+e
+v
+o
+c
+A
+S
+R
+M
+d
+d
+A
+
+y
+p
+a
+r
+e
+h
+t
+
+d
+e
+u
+n
+i
+t
+n
+o
+c
+
+r
+o
+f
+
+d
+e
+e
+n
+
+r
+o
+f
+
+d
+e
+e
+n
+
+f
+o
+
+n
+o
+i
+t
+a
+m
+r
+ﬁ
+n
+o
+c
+
+r
+o
+
+y
+p
+a
+r
+e
+h
+t
+
+d
+e
+u
+n
+i
+t
+n
+o
+c
+
+r
+o
+f
+
+d
+e
+e
+n
+
+y
+p
+a
+r
+e
+h
+t
+
+d
+e
+u
+n
+i
+t
+n
+o
+c
+
+r
+o
+f
+
+d
+e
+e
+n
+
+;
+a
+c
+i
+r
+e
+m
+A
+
+f
+
+o
+
+i
+
+y
+t
+e
+c
+o
+S
+
+i
+
+s
+e
+s
+a
+e
+s
+D
+s
+u
+o
+i
+t
+c
+e
+f
+n
+
+I
+
+y
+p
+a
+r
+e
+h
+t
+
+d
+e
+u
+n
+i
+t
+n
+o
+c
+
+=
+A
+S
+D
+
+I
+
+i
+
+;
+a
+n
+o
+m
+u
+e
+n
+p
+
+l
+
+d
+e
+r
+i
+u
+q
+c
+a
+-
+a
+t
+i
+p
+s
+o
+h
+=
+P
+A
+H
+
+i
+
+;
+a
+n
+o
+m
+u
+e
+n
+p
+
+d
+e
+r
+i
+u
+q
+c
+a
+-
+y
+t
+i
+n
+u
+m
+m
+o
+c
+=
+P
+A
+C
+
+i
+
+;
+y
+t
+e
+c
+o
+S
+
+i
+
+c
+c
+a
+r
+o
+h
+T
+
+n
+a
+c
+i
+r
+e
+m
+A
+=
+S
+T
+A
+
+i
+
+:
+s
+n
+o
+i
+t
+a
+v
+e
+r
+b
+b
+a
+
+f
+
+o
+
+n
+o
+i
+t
+i
+n
+ﬁ
+e
+D
+
+i
+
+.
+a
+n
+o
+m
+u
+e
+n
+p
+
+i
+
+d
+e
+t
+a
+c
+o
+s
+s
+a
+-
+r
+o
+t
+a
+
+l
+i
+t
+n
+e
+v
+=
+P
+A
+V
+
+;
+s
+u
+e
+r
+u
+a
+
+s
+u
+c
+c
+o
+c
+o
+y
+h
+p
+a
+t
+S
+
+l
+
+i
+
+t
+n
+a
+t
+s
+s
+e
+r
+-
+n
+
+i
+l
+l
+i
+
+i
+
+c
+h
+t
+e
+m
+=
+A
+S
+R
+M
+
+i
+
+n
+c
+y
+m
+o
+r
+h
+t
+i
+r
+a
+c
+r
+o
+y
+
+l
+
+l
+i
+
+i
+
+a
+d
+g
+m
+0
+0
+5
+n
+c
+y
+m
+o
+r
+h
+t
+i
+z
+a
+D
+N
+A
+s
+r
+u
+o
+h
+2
+1
+y
+r
+e
+v
+e
+g
+m
+0
+0
+6
+e
+n
+
+i
+l
+
+o
+r
+a
+t
+f
+e
+c
+r
+o
+,
+y
+
+l
+i
+
+i
+
+a
+d
+g
+2
+–
+1
+e
+n
+o
+x
+a
+i
+r
+t
+f
+e
+c
+,
+s
+r
+u
+o
+h
+8
+y
+r
+e
+v
+e
+g
+2
+–
+1
+e
+m
+x
+a
+t
+o
+e
+c
+,
+s
+r
+u
+o
+h
+6
+y
+r
+e
+v
+e
+g
+3
+–
+5
+.
+1
+m
+a
+t
+c
+a
+b
+u
+s
+1
+n
+
+f
+
+l
+
+i
+l
+l
+i
+
+i
+
+c
+p
+m
+A
+†
+
+.
+)
+1
+
+l
+
+e
+b
+a
+T
+
+e
+e
+s
+
+(
+
+s
+e
+n
+
+i
+l
+
+i
+
+e
+d
+u
+g
+
+a
+i
+r
+e
+t
+i
+r
+c
+
+y
+t
+i
+r
+e
+v
+e
+s
+
+P
+A
+C
+A
+S
+D
+
+I
+/
+S
+T
+A
+
+7
+0
+0
+2
+
+y
+b
+
+d
+e
+n
+ﬁ
+e
+d
+
+s
+A
+*
+
+e
+h
+t
+
+n
+o
+
+l
+
+y
+n
+o
+
+d
+e
+r
+e
+d
+s
+n
+o
+c
+
+i
+
+e
+b
+
+l
+
+d
+u
+o
+h
+s
+
+i
+
+h
+c
+h
+w
+
+,
+e
+a
+e
+c
+a
+i
+r
+e
+t
+c
+a
+b
+o
+r
+e
+t
+n
+E
+
+i
+
+l
+
+g
+n
+c
+u
+d
+o
+r
+p
+–
+e
+s
+a
+m
+a
+t
+c
+a
+-
+b
+m
+u
+r
+t
+c
+e
+p
+s
+-
+d
+e
+d
+n
+e
+t
+x
+e
+
+m
+e
+n
+e
+p
+o
+r
+e
+m
+
+,
+)
+h
+
+6
+
+y
+r
+e
+v
+e
+
+g
+m
+0
+0
+5
+
+(
+
+m
+e
+n
+e
+p
+m
+
+i
+
+i
+
+,
+)
+h
+
+8
+
+y
+r
+e
+v
+e
+
+g
+
+2
+
+(
+
+i
+
+i
+
+e
+m
+d
+z
+a
+t
+f
+e
+c
+
+,
+)
+h
+
+8
+
+y
+r
+e
+v
+e
+
+g
+
+2
+
+(
+
+i
+
+e
+m
+p
+e
+f
+e
+c
+
+,
+)
+h
+
+6
+
+y
+r
+e
+v
+e
+
+g
+
+5
+.
+4
+
+(
+
+m
+a
+t
+c
+a
+b
+o
+z
+a
+t
+-
+n
+
+i
+l
+l
+i
+
+c
+a
+r
+e
+p
+p
+
+i
+
+:
+s
+e
+n
+
+i
+l
+
+i
+
+e
+d
+u
+g
+
+.
+)
+h
+
+2
+1
+
+y
+r
+e
+v
+e
+
+g
+m
+0
+0
+6
+
+(
+
+d
+
+i
+l
+
+o
+z
+e
+n
+
+i
+l
+
+r
+o
+
+)
+
+l
+
+s
+e
+v
+e
+
+l
+
+n
+o
+
+d
+e
+s
+a
+b
+
+t
+s
+u
+d
+a
+
+j
+
+,
+h
+
+2
+1
+
+y
+r
+e
+v
+e
+
+g
+k
+/
+g
+m
+5
+1
+
+(
+
+i
+
+n
+c
+y
+m
+o
+c
+n
+a
+v
+
+:
+s
+e
+n
+
+i
+l
+
+i
+
+e
+d
+u
+g
+
+r
+o
+
+f
+
+e
+g
+a
+r
+e
+v
+o
+c
+
+e
+d
+u
+c
+n
+
+l
+
+i
+
+t
+o
+n
+
+s
+e
+o
+D
+
+.
+)
+h
+
+8
+
+y
+r
+e
+v
+e
+
+g
+
+2
+
+(
+
+m
+a
+n
+o
+e
+r
+t
+z
+a
+
+.
+a
+t
+a
+d
+
+l
+
+l
+
+i
+
+a
+c
+g
+o
+o
+b
+o
+r
+c
+m
+
+i
+
+i
+
+l
+
+a
+c
+o
+
+l
+
+r
+o
+
+r
+o
+
+,
+)
+h
+
+8
+
+y
+r
+e
+v
+e
+
+g
+
+1
+
+(
+
+t
+n
+e
+i
+t
+a
+p
+
+f
+
+o
+
+i
+
+s
+s
+a
+b
+
+.
+y
+
+l
+i
+
+a
+d
+
+g
+m
+0
+0
+4
+
+i
+
+n
+c
+a
+x
+o
+ﬂ
+x
+o
+m
+
+i
+
+r
+o
+
+y
+
+l
+i
+
+a
+d
+
+g
+m
+0
+5
+7
+
+.
+y
+
+l
+i
+
+a
+d
+
+e
+c
+w
+
+i
+
+t
+
+g
+m
+0
+0
+5
+
+i
+
+n
+c
+a
+x
+o
+ﬂ
+o
+v
+e
+L
+‡
+
+P
+A
+V
+/
+P
+A
+H
+A
+S
+D
+
+I
+/
+S
+T
+A
+
+6
+1
+0
+2
+
+P
+A
+V
+/
+P
+A
+H
+A
+S
+D
+
+I
+/
+S
+T
+A
+
+6
+1
+0
+2
+
+e
+h
+t
+
+e
+h
+t
+
+r
+e
+P
+
+r
+e
+P
+
+x
+
+j
+j
+
+‡
+
+i
+
+l
+
+e
+n
+o
+o
+n
+u
+q
+o
+r
+u
+ﬂ
+
+y
+r
+o
+t
+a
+r
+i
+p
+s
+e
+r
+
+r
+o
+
+†
+
+e
+d
+
+i
+l
+
+o
+r
+c
+a
+m
+1
+m
+a
+t
+c
+a
+L
+-
+b
+
+‡
+
+i
+
+l
+
+e
+n
+o
+o
+n
+u
+q
+o
+r
+u
+ﬂ
+1
+m
+a
+t
+c
+a
+l
+-
+b
+
+r
+o
+
+†
+
+e
+d
+
+i
+l
+
+o
+r
+c
+a
+m
+1
+m
+a
+t
+c
+a
+L
+-
+b
+
+t
+n
+e
+i
+t
+a
+p
+n
+
+i
+
+e
+r
+e
+v
+e
+s
+n
+o
+N
+
+i
+
+*
+a
+n
+o
+m
+u
+e
+n
+p
+
+t
+n
+e
+i
+t
+a
+p
+n
+
+i
+
+e
+r
+e
+v
+e
+S
+
+i
+
+*
+a
+n
+o
+m
+u
+e
+n
+p
+
+American Thoracic Society Documents
+
+e51
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+exclusively viral in etiology). However, for
+the purposes of this guideline, the question
+is whether, among patients with clinically
+conﬁrmed CAP, measurement of
+procalcitonin can distinguish patients with
+viral versus bacterial etiologies and guide the
+need for initial antibiotic therapy. Some
+investigators have suggested that
+procalcitonin levels of <0.1 mg/L indicate
+a high likelihood of viral infection, whereas
+levels >0.25 mg/L indicate a high likelihood
+of bacterial pneumonia (34–36). However,
+a recent study in hospitalized patients with
+CAP failed to identify a procalcitonin
+threshold that discriminated between viral
+and bacterial pathogens, although higher
+procalcitonin strongly correlated with
+increased probability of a bacterial infection
+(37). The reported sensitivity of
+procalcitonin to detect bacterial infection
+ranges from 38% to 91%, underscoring that
+this test alone cannot be used to justify
+withholding antibiotics from patients with
+CAP (38).
+
+Rationale for the recommendation.
+
+Procalcitonin has been used to guide
+initiation of antibiotics in patients with
+lower respiratory infections, but many of
+these studies are not restricted to patients
+with radiographically conﬁrmed
+pneumonia. Some patients with low
+procalcitonin levels have CAP and have
+been safely treated without antibiotics (35),
+but these represent small subgroups, raising
+concerns about the safety of widely using
+such a strategy.
+
+Research needed in this area. Given the
+epidemiological evidence that viruses are an
+important cause of CAP, there is a critical
+need to validate the use of current rapid
+laboratory tests, including point-of-care
+tests, to accurately identify situations in
+which antibacterial therapy can be safely
+withheld among adults with CAP.
+
+Question 6: Should a Clinical
+Prediction Rule for Prognosis plus
+Clinical Judgment versus Clinical
+Judgment Alone Be Used to
+Determine Inpatient versus
+Outpatient Treatment Location for
+Adults with CAP?
+
+Recommendation. In addition to clinical
+judgement, we recommend that clinicians
+use a validated clinical prediction rule
+for prognosis, preferentially the
+Pneumonia Severity Index (PSI) (strong
+recommendation, moderate quality of
+
+evidence) over the CURB-65 (tool based
+on confusion, urea level, respiratory rate,
+blood pressure, and age >65) (conditional
+recommendation, low quality of evidence),
+to determine the need for hospitalization in
+adults diagnosed with CAP.
+
+Summary of the evidence. Both the PSI
+and CURB-65 were developed as prognostic
+models in immunocompetent patients with
+pneumonia, using patient demographic and
+clinical variables from the time of diagnosis
+to predict 30-day mortality (39, 40). When
+compared with CURB-65, PSI identiﬁes
+larger proportions of patients as low risk
+and has a higher discriminative power in
+predicting mortality (41).
+
+Two multicenter, cluster-randomized
+
+trials demonstrated that use of the PSI safely
+increases the proportion of patients who can
+be treated in the outpatient setting (42, 43).
+These trials and one additional randomized
+controlled trial (RCT) support the safety of
+using the PSI to guide the initial site of
+treatment of patients without worsening
+mortality or other clinically relevant
+outcomes (42–44). Consistent evidence
+from three pre–post intervention
+studies and one prospective controlled
+observational study support the
+effectiveness and safety of using the PSI to
+guide the initial site of treatment (45–48).
+Clinical severity is not the only
+consideration in determining the need for
+hospital admission (49, 50). Some patients
+have medical and/or psychosocial
+contraindications to outpatient therapy,
+such as inability to maintain oral intake,
+history of substance abuse, cognitive
+impairment, severe comorbid illnesses, and
+impaired functional status.
+
+The PSI may underestimate illness
+
+severity among younger patients and
+oversimplify how clinicians interpret
+continuous variables (e.g., all systolic blood
+pressures ,90 mm Hg are considered
+abnormal, regardless of the patient’s
+baseline and actual measurement).
+Therefore, when used as a decision aid, the
+PSI should be used in conjunction with
+clinical judgment.
+
+In comparison to the PSI, there is less
+
+evidence that CURB-65 is effective as
+a decision aid in guiding the initial site of
+treatment. One pre–post, controlled
+intervention study using an electronically
+calculated version of CURB-65,
+PaO2/FIO2
+effusion, and fewer than three minor ATS
+severity criteria observed no signiﬁcant
+
+, 300, absence of pleural
+
+increase in the use of outpatient treatment
+for adults with CAP (51). A randomized
+trial compared the safety of inpatient versus
+outpatient treatment of 49 patients with
+CURB-65 scores of less than 2 (52) but had
+limited power to detect differences in
+patient outcomes; furthermore, outpatient
+treatment included daily nursing visits and
+parenteral antibiotic therapy that is
+typically restricted to inpatient care.
+
+Rationale for the recommendation. Our
+
+recommendation to use the PSI as an
+adjunct to clinical judgment to guide the
+initial site of treatment is based on
+consistent evidence of the effectiveness and
+safety of this approach. Using a safe and
+effective decision aid to increase outpatient
+treatment of patients with CAP has potential
+to decrease unnecessary variability in
+admission rates, the high cost of inpatient
+pneumonia treatment (53, 54), and the
+risk of hospital-acquired complications.
+Providing a conditional recommendation
+to use CURB-65 considers its greater
+simplicity of use relative to the PSI despite
+the paucity of evidence regarding its
+effectiveness or safety.
+
+Research needed in this area. It is
+important to study the effectiveness and
+safety of using CURB scores or new
+prediction rules for prognosis as decision
+aids to guide the initial site of treatment for
+patients with CAP compared with the PSI.
+Future studies of prediction rules should
+also test electronic versions generated in real
+time from data routinely recorded in the
+electronic medical record and assess their
+performance in patient populations
+excluded from the development of existing
+prediction rules (55, 56).
+
+Question 7: Should a Clinical
+Prediction Rule for Prognosis plus
+Clinical Judgment versus Clinical
+Judgment Alone Be Used to
+Determine Inpatient General Medical
+versus Higher Levels of Inpatient
+Treatment Intensity (ICU, Step-
+Down, or Telemetry Unit) for
+Adults with CAP?
+
+Recommendation. We recommend direct
+admission to an ICU for patients with
+hypotension requiring vasopressors or
+respiratory failure requiring mechanical
+ventilation (strong recommendation, low
+quality of evidence).
+
+For patients not requiring vasopressors
+or mechanical ventilator support, we suggest
+
+e52
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+using the IDSA/ATS 2007 minor severity
+criteria (Table 1) together with clinical
+judgment to guide the need for higher levels
+of treatment intensity (conditional
+recommendation, low quality of evidence).
+Summary of the evidence. The PSI and
+CURB-65 were not designed to help select
+the level of care needed by a patient who is
+hospitalized for CAP. Several prognostic
+models have been designed to predict the
+need for higher levels of inpatient treatment
+intensity using severity-of-illness
+parameters based on patient outcomes (ATS
+2001, IDSA/ATS 2007, SMART-COP, and
+SCAP score). Studies of prognostic models
+have used different end points, including
+inpatient mortality (57, 58), ICU admission
+(57–59), receipt of intensive respiratory or
+vasopressor support (59, 60), or ICU
+admission plus receipt of a critical therapy
+(61). In comparative studies, these
+prognostic models yield higher overall
+accuracy than the PSI or CURB-65 when
+using illness outcomes other than mortality
+(58, 59, 61).
+
+The 2007 IDSA/ATS CAP guidelines
+
+recommended a set of two major and nine
+minor criteria to deﬁne severe pneumonia
+requiring ICU admission (Table 1). These
+criteria were based on empirical evidence
+from published studies and expert
+consensus. All elements are routinely
+available in emergency department settings
+and are electronically calculable (51, 61).
+Several groups have validated these criteria
+in pneumonia cohorts from different
+countries (57–59, 61), with a meta-analysis
+reporting one major or three minor criteria
+had a pooled sensitivity of 84% and
+a speciﬁcity of 78% for predicting ICU
+admission (62). Without the major criteria,
+a threshold of three or more minor criteria
+(recommended in the 2007 IDSA/ATS
+guideline) had a pooled sensitivity of 56%
+and speciﬁcity of 91% for predicting ICU
+admission (63).
+
+SMART-COP is an alternative,
+validated prediction rule for identifying
+patients with pneumonia who need
+vasopressor support and/or mechanical
+ventilation. The eight SMART-COP criteria
+and the nine 2007 IDSA/ATS minor criteria
+have ﬁve overlapping elements: hypoxia,
+confusion, respiratory rate, multilobar
+radiographic opacities, and low systolic
+blood pressure. SMART-COP had a pooled
+sensitivity of 79% and speciﬁcity of 64% in
+predicting ICU admission using a threshold
+of three or more criteria but uses albumin,
+
+PaO2, and pH, which are not universally
+available for real-time clinical decision-
+making (60). For predicting ICU admission,
+one comparison reported equivalence of the
+IDSA/ATS minor criteria and SMART-
+COP (63) and another reported
+a signiﬁcantly greater performance of the
+IDSA/ATS minor criteria (61). No
+randomized studies have evaluated the
+effectiveness or safety of an illness severity
+tool as a decision aid to guide the intensity
+of inpatient treatment for patients
+hospitalized with CAP.
+
+Rationale for the recommendation.
+
+Patients transferred to an ICU after
+admission to a hospital ward experience
+higher mortality than those directly
+admitted to the ICU from an emergency
+department (64–67). This higher mortality
+may in part be attributable to progressive
+pneumonia, but “mis-triage” of patients
+with unrecognized severe pneumonia may
+be a contributing factor (64). It seems
+unlikely that physician judgment alone
+would be equivalent to physician judgment
+together with a severity tool to guide the
+site-of-care decision. We recommend the
+2007 IDSA/ATS severe CAP criteria over
+other published scores, because they are
+composed of readily available severity
+parameters and are more accurate than the
+other scores described above.
+
+Research needed in this area.
+
+Controlled studies are needed to study the
+effectiveness and safety of using illness
+severity tools as decision aids to guide the
+intensity of treatment in adults hospitalized
+for pneumonia.
+
+Question 8: In the Outpatient Setting,
+Which Antibiotics Are Recommended
+for Empiric Treatment of CAP in
+Adults?
+
+Recommendation.
+1. For healthy outpatient adults without
+
+comorbidities listed below or risk factors
+for antibiotic resistant pathogens, we
+recommend (Table 3):
+d amoxicillin 1 g three times daily
+
+(strong recommendation, moderate
+quality of evidence), or
+
+d doxycycline 100 mg twice daily
+
+(conditional recommendation, low
+quality of evidence), or
+
+d a macrolide (azithromycin 500 mg on
+
+ﬁrst day then 250 mg daily or
+clarithromycin 500 mg twice daily or
+
+clarithromycin extended release
+1,000 mg daily) only in areas with
+pneumococcal resistance to
+macrolides ,25% (conditional
+recommendation, moderate quality of
+evidence).
+
+2. For outpatient adults with comorbidities
+such as chronic heart, lung, liver, or
+renal disease; diabetes mellitus;
+alcoholism; malignancy; or asplenia we
+recommend (in no particular order of
+preference) (Table 3):
+d Combination therapy:
+
+B amoxicillin/clavulanate 500 mg/125
+mg three times daily, or amoxicillin/
+clavulanate 875 mg/125 mg twice
+daily, or 2,000 mg/125 mg twice
+daily, or a cephalosporin
+(cefpodoxime 200 mg twice daily or
+cefuroxime 500 mg twice daily);
+AND
+
+B macrolide (azithromycin 500 mg
+on ﬁrst day then 250 mg daily,
+clarithromycin [500 mg twice daily
+or extended release 1,000 mg once
+daily]) (strong recommendation,
+moderate quality of evidence for
+combination therapy), or doxycycline
+100 mg twice daily (conditional
+recommendation, low quality of
+evidence for combination therapy);
+OR
+
+d Monotherapy:
+
+B respiratory ﬂuoroquinolone
+(levoﬂoxacin 750 mg daily,
+moxiﬂoxacin 400 mg daily, or
+gemiﬂoxacin 320 mg daily) (strong
+recommendation, moderate quality
+of evidence).
+
+Summary of the evidence. RCTs of
+antibiotic treatment regimens for adults
+with CAP provide little evidence of either
+superiority or equivalence of one antibiotic
+regimen over another, because of small
+numbers and the rare occurrence of
+important outcomes such as mortality
+or treatment failure resulting in
+hospitalization. Several published trials
+included comparators that are no longer
+available (e.g., ketolides). This paucity of
+data was noted in a 2014 Cochrane review
+(68).
+
+We identiﬁed 16 relevant RCTs
+comparing two antibiotic regimens for the
+treatment of outpatient CAP (69–84). Meta-
+analyses of each of these groups of studies
+revealed no differences in relevant
+outcomes between any of the compared
+regimens. Similar ﬁndings have been
+
+American Thoracic Society Documents
+
+e53
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+reported in a 2008 meta-analysis of
+antibiotic treatment for outpatient CAP (85).
+
+assessing whether such an approach is
+associated with improved outcomes.
+
+The committee also considered
+
+whether to accept data regarding oral
+antibiotics given to inpatients with CAP. We
+believed that this evidence, albeit indirect,
+could be reasonably extended to outpatients,
+because inpatients are generally higher risk
+and more severely ill. As observational data
+suggest that inpatient and outpatient CAP
+are due to the same pathogens (69, 71–73,
+82), except for Legionella and gram-negative
+bacilli, which are rarely documented in
+outpatient settings, it seems reasonable that
+an antibiotic regimen that was effective for
+inpatients would be effective for outpatients.
+Studies of high-dose oral amoxicillin
+have demonstrated efﬁcacy for inpatients
+with CAP (86–88). Similarly, there is
+evidence supporting amoxicillin-clavulanic
+acid in outpatient CAP (71, 73) and
+inpatient CAP (89, 90).
+
+There are limited data regarding oral
+doxycycline for pneumonia, mostly involving
+small numbers of patients (81). Intravenous
+doxycycline 100 mg twice daily compared
+favorably to intravenous levoﬂoxacin 500 mg
+daily in 65 in patients with CAP (91). In an
+open-label randomized trial of intravenous
+doxycycline 100 mg twice daily compared
+with standard antibiotics, doxycycline was
+associated with a quicker response and less
+change in antibiotics (92).
+
+Rationale for the recommendation. Given
+the paucity of RCT data in the outpatient
+setting, the committee considered all
+available evidence. The data included the
+few RCTs of outpatient CAP, observational
+studies, RCTs of inpatient CAP treatment,
+antimicrobial resistance data from
+surveillance programs, and data regarding
+antibiotic-related adverse events.
+
+For patients without comorbidities that
+
+increase the risk for poor outcomes, the
+panel recommended amoxicillin 1 g every
+8 hours or doxycycline 100 mg twice daily.
+The recommendation for amoxicillin was
+based on several studies that showed efﬁcacy
+of this regimen for inpatient CAP despite
+presumed lack of coverage of this antibiotic
+for atypical organisms. This treatment also
+has a long track record of safety. The
+recommendation for doxycycline was based
+on limited clinical trial data, but a broad
+spectrum of action, including the most
+common relevant organisms. Some experts
+recommend that the ﬁrst dose of oral
+doxycycline be 200 mg, to achieve adequate
+serum levels more rapidly. There are no data
+
+In a departure from the prior CAP
+guidelines, the panel did not give a strong
+recommendation for routine use of
+a macrolide antibiotic as monotherapy for
+outpatient CAP, even in patients without
+comorbidities. This was based on studies
+of macrolide failures in patients with
+macrolide-resistant S. pneumoniae (93, 94),
+in combination with a macrolide resistance
+rate of .30% among S. pneumoniae isolates
+in the United States, most of which is high-
+level resistance (95). However, in settings
+where macrolide resistance is documented
+to be low and there are contraindications
+to alternative therapies, a macrolide as
+monotherapy is a treatment option.
+
+Patients with comorbidities should
+receive broader-spectrum treatment for two
+reasons. First, such patients are likely more
+vulnerable to poor outcomes if the initial
+empiric antibiotic regimen is inadequate.
+Second, many such patients have risk factors
+for antibiotic resistance by virtue of previous
+contact with the healthcare system
+and/or prior antibiotic exposure (see
+Recommendation 10) and are therefore
+recommended to receive broader-spectrum
+therapy to ensure adequate coverage. In
+addition to H. inﬂuenzae and M. catarrhalis
+(both of which frequently produce
+b-lactamase), S. aureus and gram-negative
+bacilli are more common causes of CAP in
+patients with comorbidities, such as COPD.
+
+Regimens recommended for patients
+with comorbidities include a b-lactam or
+cephalosporin in combination with either
+a macrolide or doxycycline. These
+combinations should effectively target
+macrolide- and doxycycline-resistant
+S. pneumoniae (as b-lactam resistance in
+S. pneumoniae remains less common), in
+addition to b-lactamase–producing strains
+of H. inﬂuenzae, many enteric gram-
+negative bacilli, most methicillin-
+susceptible S. aureus, and M. pneumoniae
+and C. pneumoniae. The monotherapies
+listed also are effective against most
+common bacterial pathogens.
+
+Both sets of treatment recommendations
+
+contain multiple antibiotic options
+without specifying a preference order.
+The choice between these options requires
+a risk–beneﬁt assessment for each individual
+patient, weighing local epidemiological
+data against speciﬁc risk factors that
+increase the risk of individual choices,
+such as documented b-lactam or macrolide
+
+allergy, cardiac arrhythmia (macrolides),
+vascular disease (ﬂuoroquinolones),
+and history of infection with Clostridium
+difﬁcile. In particular, despite the concern
+regarding adverse events associated with
+ﬂuoroquinolones, the panel believed that
+ﬂuoroquinolone therapy was justiﬁed for
+adults with comorbidities and CAP
+managed in the outpatient setting.
+Reasons included the performance of
+ﬂuoroquinolones in numerous studies of
+outpatient CAP (70, 72, 75, 77, 80, 83)
+and inpatient CAP (see inpatient CAP
+section), the very low resistance rates
+in common bacterial causes of CAP,
+their coverage of both typical and
+atypical organisms, their oral bioavailability,
+the convenience of monotherapy, and the
+relative rarity of serious adverse events related
+to their use. However, there have been
+increasing reports of adverse events related to
+ﬂuoroquinolone use as summarized on the
+U.S. Food and Drug Administration
+website (96).
+
+Of note, we adopt the convention of
+prior guidelines to recommend that patients
+with recent exposure to one class of antibiotics
+recommended above receive treatment with
+antibiotics from a different class, given
+increased risk for bacterial resistance to the
+initial treatment regimen. We also highlight
+that although patients with signiﬁcant risk
+factors for CAP due to MRSA or P. aeruginosa
+(see Recommendation 11) are uncommonly
+managed in the outpatient setting, these
+patients may require antibiotics that include
+coverage for these pathogens.
+
+Research needed in this area. There is
+a need for head-to-head prospective RCTs
+of outpatient CAP treatment, comparing
+clinical outcomes, including treatment
+failure, need for subsequent visits,
+hospitalization, time to return to usual
+activities and adverse events. Furthermore,
+the prevalence of speciﬁc pathogens and
+their antimicrobial susceptibility patterns in
+outpatients with pneumonia should be
+monitored. Newer agents, including
+lefamulin and omadacycline, need further
+validation in the outpatient setting.
+
+Question 9: In the Inpatient Setting,
+Which Antibiotic Regimens Are
+Recommended for Empiric Treatment
+of CAP in Adults without Risk Factors
+for MRSA and P. aeruginosa?
+
+Recommendation 9.1. In inpatient adults
+with nonsevere CAP without risk factors for
+
+e54
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+MRSA or P. aeruginosa (see Recommendation
+11), we recommend the following empiric
+treatment regimens (in no order of
+preference) (Table 4):
+d combination therapy with a b-lactam
+(ampicillin 1 sulbactam 1.5–3 g every
+6 h, cefotaxime 1–2 g every 8 h,
+ceftriaxone 1–2 g daily, or ceftaroline
+600 mg every 12 h) and a macrolide
+(azithromycin 500 mg daily or
+clarithromycin 500 mg twice daily)
+(strong recommendation, high quality of
+evidence), or
+
+d monotherapy with a respiratory
+
+ﬂuoroquinolone (levoﬂoxacin 750 mg
+daily, moxiﬂoxacin 400 mg daily) (strong
+recommendation, high quality of
+evidence).
+
+A third option for adults with CAP who
+have contraindications to both macrolides
+and ﬂuoroquinolones is:
+d combination therapy with a b-lactam
+(ampicillin 1 sulbactam, cefotaxime,
+ceftaroline, or ceftriaxone, doses as
+above) and doxycycline 100 mg twice
+daily (conditional recommendation, low
+quality of evidence).
+
+Summary of the evidence. Most
+
+randomized controlled studies of
+hospitalized adults with CAP comparing
+b-lactam/macrolide therapy versus
+ﬂuoroquinolone monotherapy were
+designed as noninferiority trials and had
+limited sample sizes (97–103). These data
+suggested that patients treated with
+b-lactam/macrolide therapy have similar
+clinical outcomes compared with those
+treated with ﬂuoroquinolone monotherapy.
+A systematic review of 16 RCTs in 4,809
+patients found ﬂuoroquinolone
+monotherapy resulted in signiﬁcantly fewer
+incidences of clinical failure, treatment
+discontinuation, and diarrhea than
+b-lactam/macrolide combination (104).
+However, mortality rates were low overall,
+and there were no signiﬁcant differences in
+mortality between groups. Another
+systematic review of 20 experimental and
+observational studies in adults hospitalized
+with radiographically conﬁrmed CAP,
+b-lactam plus macrolide combination
+therapy, or ﬂuoroquinolone monotherapy
+were generally associated with lower
+mortality than b-lactam monotherapy
+(105). Therefore, the panel recommends
+a b-lactam (ampicillin plus sulbactam,
+cefotaxime, ceftaroline, or ceftriaxone) plus
+
+macrolide (azithromycin or clarithromycin)
+or monotherapy with a respiratory
+ﬂuoroquinolone (levoﬂoxacin,
+moxiﬂoxacin) for the management of
+inpatients with nonsevere CAP. (Of note,
+azithromycin but not clarithromycin is
+available in parenteral formulation.) In
+choosing between these two options,
+clinicians should weigh the risks and
+beneﬁts of the drugs, particularly in light of
+individual risk factors, such as a history of
+C. difﬁcile infection or risk factors related to
+U.S. Food and Drug Administration
+warnings (96). The panel recommends
+using doxycycline as an alternative to
+a macrolide in combination with a b-
+lactam as a third option in the presence of
+documented allergies or contraindications
+to macrolides or ﬂuoroquinolones or
+clinical failure on one of those agents. Of
+note, a newer member of the tetracycline
+class, omadacycline, was recently reported
+to be equivalent to moxiﬂoxacin as
+monotherapy for adults with nonsevere
+CAP and is effective in the setting of
+tetracycline resistance (106). However, as
+this is a single published report and the
+safety information is less well established,
+the committee decided to not list this new
+agent as an alternative to the currently
+recommended treatment options.
+
+The panel also considered b-lactam
+monotherapy as an option for inpatients
+with nonsevere CAP. An RCT in 580
+patients with CAP could not rule out the
+possibility that b-lactam monotherapy was
+inferior to b-lactam/macrolide therapy for
+inpatients with CAP (107). Nie and
+colleagues identiﬁed several cohort (n = 4)
+and retrospective observational (n = 12)
+studies addressing this question and found
+that b-lactam/macrolide therapy reduced
+mortality in patients with CAP compared
+with patients treated with b-lactam
+monotherapy (108). Similarly, Horita
+and colleagues demonstrated that
+b-lactam/macrolide combinations may
+decrease all-cause death, but mainly for
+patients with severe CAP (109). Therefore,
+we suggest that b-lactam monotherapy
+should not be routinely used for inpatients
+with CAP over ﬂuoroquinolone
+monotherapy or b-lactam/macrolide
+combination therapy.
+
+Rationale for the recommendation. As
+
+summarized in Table 4, the empiric
+antibiotic coverage recommendations for
+patients hospitalized with CAP remain
+aligned to cover the most likely pathogens
+
+causing CAP. There is a paucity of RCTs to
+favor the recommendation of combination
+b-lactam plus macrolide versus
+monotherapy with a respiratory
+ﬂuoroquinolone versus combined therapy
+with b-lactam plus doxycycline.
+
+Research needed in this area. There is
+
+a need for higher-quality evidence in
+support of the use of combination therapy
+with a b-lactam and doxycycline. Given
+concerns over increasing drug resistance
+(macrolides) and safety issues (macrolides,
+ﬂuoroquinolones), there is a need for
+research on new therapeutic agents for
+adults with CAP including omadacycline
+(see above) and lefamulin, a new
+pleuromutilin antibiotic that was recently
+demonstrated to be noninferior to
+moxiﬂoxacin in hospitalized adult patients
+with CAP (110).
+
+Recommendation 9.2. In inpatient
+adults with severe CAP (see Table 1)
+without risk factors for MRSA or P.
+aeruginosa, we recommend (Table 4) (note,
+speciﬁc agents and doses are the same as
+9.1):
+d a b-lactam plus a macrolide (strong
+
+recommendation, moderate quality of
+evidence); or
+
+d a b-lactam plus a respiratory
+ﬂuoroquinolone (strong
+recommendation, low quality of
+evidence).
+
+Summary of the evidence. In the
+absence of RCTs evaluating therapeutic
+alternatives in severe CAP, the evidence is
+from observational studies that used
+different deﬁnitions of illness severity to
+address this question. Sligl and colleagues
+found in a meta-analysis of observational
+studies with almost 10,000 critically ill
+patients with CAP that macrolide-
+containing therapies (often in combination
+with a b-lactam) were associated with
+a signiﬁcant mortality reduction (18%
+relative risk, 3% absolute risk) compared
+with non–macrolide-containing therapies
+(111). A mortality beneﬁt from macrolides
+has been observed mainly in cohorts
+with a large number of patients with
+severe CAP. In a systematic review,
+Vardakas and colleagues compared a
+b-lactam/ﬂuoroquinolone versus a
+b-lactam/macrolide combination for the
+treatment of patients with CAP (112). The
+authors found 17 observational studies and
+no RCTs addressing this comparison. The
+combination of b-lactam/ﬂuoroquinolone
+
+American Thoracic Society Documents
+
+e55
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+therapy was associated with higher
+mortality than b-lactam/macrolide
+combination therapy, but the overall quality
+of the studies was judged to be low,
+precluding a deﬁnitive recommendation
+(112).
+
+Rationale for the recommendation. In
+
+the absence of data from clinical trials
+demonstrating the superiority of any
+speciﬁc regimen for patients with severe
+CAP, the committee considered
+epidemiological data for severe CAP
+pathogens and observational studies
+comparing different regimens. As a result,
+we recommend that combination therapy
+with a b-lactam plus a macrolide or a b-
+lactam plus a respiratory ﬂuoroquinolone
+should be the treatment of choice for
+patients with severe CAP. Both
+ﬂuoroquinolone monotherapy and the
+combination of b-lactam plus
+doxycycline have not been well studied in
+severe CAP and are not recommended as
+empiric therapy for adults with severe
+CAP.
+
+Research needed in this area. Future
+
+well-designed RCTs should focus on
+therapies for patients at highest risk of
+death with severe pneumonia, as these
+are needed to assess the beneﬁts and
+risks of combination b-lactam and
+macrolide therapy compared with
+b-lactam and respiratory ﬂuoroquinolone
+therapy. Studies of ﬂuoroquinolone
+monotherapy in severe CAP are also needed.
+
+Question 10: In the Inpatient Setting,
+Should Patients with Suspected
+Aspiration Pneumonia Receive
+Additional Anaerobic Coverage
+beyond Standard Empiric Treatment
+for CAP?
+
+Recommendation. We suggest not routinely
+adding anaerobic coverage for suspected
+aspiration pneumonia unless lung abscess or
+empyema is suspected (conditional
+recommendation, very low quality of
+evidence).
+
+Summary of the evidence. Aspiration is
+a common event, and as many as half of all
+adults aspirate during sleep (113). As
+a result, the true rate of aspiration
+pneumonia is difﬁcult to quantify, and
+there is no deﬁnition that separates patients
+with aspiration pneumonia from all others
+diagnosed with pneumonia. Some have
+estimated that 5% to 15% of pneumonia
+
+hospitalizations are associated with
+aspiration (114). Rates are higher in
+populations admitted from nursing homes
+or extended care facilities (115).
+
+Patients who aspirate gastric contents
+
+are considered to have aspiration
+pneumonitis. Many of these patients have
+resolution of symptoms within 24 to
+48 hours and require only supportive
+treatment, without antibiotics (116).
+
+Studies evaluating the microbiology of
+patients with aspiration pneumonia in the
+1970s showed high rates of isolation of
+anaerobic organisms (117, 118); however,
+these studies often used trans-tracheal
+sampling and evaluated patients late in
+their disease course, two factors that may
+have contributed to a higher likelihood of
+identifying anaerobic organisms (114).
+Several studies of acute aspiration events in
+hospitalized patients have suggested that
+anaerobic bacteria do not play a major role
+in etiology (119–121).
+
+With increasing rates of C. difﬁcile
+infections (frequently associated with use
+of clindamycin), the question of adding
+empiric anaerobic coverage (clindamycin
+or b-lactam/b-lactamase inhibitors) in
+addition to routine CAP treatment in
+patients with suspected aspiration is an
+important one. However, there are no
+clinical trials comparing treatment
+regimens with and without anaerobic
+coverage for patients hospitalized with
+suspected aspiration. Most recent studies
+are small, retrospective, and provide only
+observational data on microbiologic
+patterns and treatment regimens for
+patients hospitalized with suspected
+aspiration pneumonia.
+
+Rationale for the recommendation.
+Although older studies of patients with
+aspiration pneumonia showed high
+isolation rates of anaerobic organisms,
+more recent studies have shown that
+anaerobes are uncommon in patients
+hospitalized with suspected aspiration
+(119, 120). Increasing prevalence of
+antibiotic-resistant pathogens and
+complications of antibiotic use
+highlight the need for a treatment
+approach that avoids unnecessary use
+of antibiotics.
+
+Research needed in this area. Clinical
+trials evaluating diagnostic and treatment
+strategies in patients with suspected
+aspiration are needed, especially in terms of
+the ability to distinguish micro- and macro-
+aspiration events that lead to lower
+
+respiratory tract infection from those that
+do not result in infection.
+
+Question 11: In the Inpatient Setting,
+Should Adults with CAP and Risk
+Factors for MRSA or P. aeruginosa Be
+Treated with Extended-Spectrum
+Antibiotic Therapy Instead of
+Standard CAP Regimens?
+
+Recommendation. We recommend
+abandoning use of the prior categorization of
+healthcare-associated pneumonia (HCAP) to
+guide selection of extended antibiotic coverage
+in adults with CAP (strong recommendation,
+moderate quality of evidence).
+
+We recommend clinicians only cover
+empirically for MRSA or P. aeruginosa in
+adults with CAP if locally validated risk
+factors for either pathogen are present
+(strong recommendation, moderate quality
+of evidence). Empiric treatment options for
+MRSA include vancomycin (15 mg/kg
+every 12 h, adjust based on levels) or
+linezolid (600 mg every 12 h). Empiric
+treatment options for P. aeruginosa include
+piperacillin-tazobactam (4.5 g every 6 h),
+cefepime (2 g every 8 h), ceftazidime (2 g
+every 8 h), aztreonam (2 g every 8 h),
+meropenem (1 g every 8 h), or imipenem
+(500 mg every 6 h).
+
+If clinicians are currently covering
+empirically for MRSA or P. aeruginosa in
+adults with CAP on the basis of published
+risk factors but do not have local etiological
+data, we recommend continuing empiric
+coverage while obtaining culture data to
+establish if these pathogens are present to
+justify continued treatment for these
+pathogens after the ﬁrst few days of empiric
+treatment (strong recommendation, low
+quality of evidence).
+
+Summary of the evidence. HCAP, as
+a distinct clinical entity warranting unique
+antibiotic treatment, was incorporated into
+the 2005 ATS/IDSA guidelines for
+management of hospital-acquired and
+ventilator-associated pneumonia (122).
+HCAP was deﬁned for those patients who
+had any one of several potential risk factors
+for antibiotic-resistant pathogens, including
+residence in a nursing home and other
+long-term care facilities, hospitalization for
+>2 days in the last 90 days, receipt of home
+infusion therapy, chronic dialysis, home
+wound care, or a family member with
+a known antibiotic-resistant pathogen. The
+introduction of HCAP was based on studies
+identifying a higher prevalence of
+
+e56
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+pathogens that are not susceptible to
+standard ﬁrst-line antibiotic therapy, in
+particular MRSA and P. aeruginosa, in
+some subsets of patients with CAP (123).
+Since then, many studies have
+demonstrated that the factors used to
+deﬁne HCAP do not predict high
+prevalence of antibiotic-resistant pathogens
+in most settings. Moreover, a signiﬁcant
+increased use of broad-spectrum
+antibiotics (especially vancomycin and
+antipseudomonal b-lactams) has resulted,
+without any apparent improvement in
+patient outcomes (124–133).
+
+Studies have identiﬁed risk factors for
+antibiotic-resistant pathogens, and in some
+cases the risk factors are distinct for MRSA
+versus P. aeruginosa (134–154). However,
+most of these individual risk factors are
+weakly associated with these pathogens.
+The most consistently strong individual risk
+factors for respiratory infection with MRSA
+or P. aeruginosa are prior isolation of these
+organisms, especially from the respiratory
+tract, and/or recent hospitalization and
+exposure to parenteral antibiotics (134, 155,
+156). Therefore, we have highlighted these
+individual risk factors to help guide initial
+microbiological testing and empiric
+coverage for these pathogens.
+
+Unfortunately, no validated scoring
+systems exist to identify patients with MRSA
+or P. aeruginosa with sufﬁciently high
+positive predictive value to determine the
+need for empiric extended-spectrum
+antibiotic treatment. Scoring system
+development and validation are complicated
+by varying prevalence of MRSA and
+P. aeruginosa in different study populations.
+Moreover, no scoring system has been
+demonstrated to improve patient outcomes
+or reduce overuse of broad-spectrum
+antibiotics.
+
+Although there is limited evidence to
+
+support the use of a speciﬁc set of risk
+factors to identify patients with sufﬁciently
+high risk of MRSA or P. aeruginosa to
+warrant extended-spectrum therapy,
+a stronger evidence base guides
+deescalation of therapy after extended-
+spectrum therapy is initially prescribed.
+Although no randomized prospective
+studies have been reported, recent
+observational (157) and retrospective
+(158–161) studies in patients with CAP
+provide strong evidence that deescalation of
+antibiotic therapy at 48 hours in accord
+with microbiological results that do not
+yield MRSA or P. aeruginosa is safe and
+
+reduces duration of antibiotic treatment,
+length of hospitalization, and complications
+of broad-spectrum therapy. These results are
+reinforced by retrospective (162) and
+prospective and randomized but not blinded
+(163) studies of patients with severe sepsis,
+the majority of whom had pneumonia, as
+well as by a recent meta-analysis of
+deescalation in adults with sepsis (164).
+We propose that clinicians need to
+obtain local data on whether MRSA or
+P. aeruginosa is prevalent in patients with
+CAP and what the risk factors for infection
+are at a local (i.e., hospital or catchment
+area) level. We refer to this process as “local
+validation.” This recommendation is based
+on the absence of high-quality outcome
+studies, the very low prevalence of MRSA
+or P. aeruginosa in most centers, and
+signiﬁcant increased use of anti-MRSA and
+antipseudomonal antibiotics for treatment
+of CAP (142, 155, 165). Although we
+acknowledge that centers may not currently
+have local prevalence data, adopting the
+recommendations for culture of sputum
+and blood when risk factors for MRSA or P.
+aeruginosa are present will enable clinicians
+to generate these local data over time. We
+recommend analyzing the frequency of
+MRSA or P. aeruginosa as a CAP pathogen
+relative to the number of all cases of CAP,
+not just those for whom cultures are sent.
+Finally, routine cultures in patients
+empirically treated for MRSA or P.
+aeruginosa allow deescalation to standard
+CAP therapy if cultures do not reveal
+a drug-resistant pathogen and the patient is
+clinically improving at 48 hours.
+
+Rationale for the recommendation. Our
+approach to treating inpatient adults with
+CAP is summarized in Table 4. Our
+recommendation against using the former
+category of HCAP as a basis for selecting
+extended-spectrum therapy is based on
+high-quality studies of patient outcomes.
+Although we understand that clinicians
+would prefer a simple rule that does not
+require incorporating site-speciﬁc data, the
+current evidence does not permit
+endorsement of a simple and accurate rule
+to determine which patients with CAP
+should be covered for MRSA and/or P.
+aeruginosa. However, the alternative
+approach to MRSA and P. aeruginosa that
+we propose as a replacement is not based
+on high-quality studies, because such
+studies do not exist. The lack of adequate
+outcome data and marked variation
+between sites in prevalence of MRSA and
+
+P. aeruginosa make generalizing any ﬁndings
+extremely difﬁcult. We hope that future
+research will improve our understanding of
+this challenging clinical problem.
+
+Our ﬁrst principle was to maintain the
+
+distinction between severe and nonsevere
+pneumonia as per prior guidelines, because
+the risk of inadequate empiric antibiotic
+therapy is much greater in severe CAP. As
+noted previously, severity is deﬁned by the
+degree of physiological impairment, as
+classiﬁed by the IDSA/ATS 2007 criteria.
+
+The second principle was that there is
+sufﬁcient evidence that prior identiﬁcation
+of MRSA or P. aeruginosa in the respiratory
+tract within the prior year predicts a very
+high risk of these pathogens being
+identiﬁed in patients presenting with CAP
+(139, 141, 143, 150, 155, 165), and therefore
+these were sufﬁcient indications to
+recommend blood and sputum cultures and
+empiric therapy for these pathogens in
+patients with CAP in addition to coverage
+for standard CAP pathogens, with
+deescalation at 48 hours if cultures are
+negative. We endorse the empiric treatment
+recommendations for MRSA and P.
+aeruginosa provided by the 2016 Clinical
+Practice Guideline from IDSA and ATS for
+the management of adults with hospital-
+acquired and ventilator-associated
+pneumonia (166).
+
+The major additional risk factors for
+MRSA and P. aeruginosa identiﬁed in the
+literature are hospitalization and parenteral
+antibiotic exposure in the last 90 days
+(136–138, 140, 142–151, 153). In patients
+with recent hospitalization and exposure to
+parenteral antibiotics, we recommend
+microbiological testing without empiric
+extended-spectrum therapy for treatment of
+nonsevere CAP and microbiological testing
+with extended-spectrum empiric therapy in
+addition to coverage for standard CAP
+pathogens for treatment of severe CAP, with
+deescalation at 48 hours if cultures are
+negative and the patient is improving.
+
+The data supporting rapid MRSA nasal
+testing are robust (167, 168), and treatment
+for MRSA pneumonia can generally be
+withheld when the nasal swab is negative,
+especially in nonsevere CAP. However, the
+positive predictive value is not as high;
+therefore, when the nasal swab is positive,
+coverage for MRSA pneumonia should
+generally be initiated, but blood and
+sputum cultures should be sent and therapy
+deescalated if cultures are negative.
+However, this latter strategy of deescalation
+
+American Thoracic Society Documents
+
+e57
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+in the face of a positive nasal swab will vary
+depending on the severity of CAP and the
+local prevalence of MRSA as a pathogen.
+
+Question 12: In the Inpatient Setting,
+Should Adults with CAP Be Treated
+with Corticosteroids?
+
+Recommendation. We recommend not
+routinely using corticosteroids in
+adults with nonsevere CAP (strong
+recommendation, high quality of evidence).
+We suggest not routinely using
+corticosteroids in adults with severe CAP
+(conditional recommendation, moderate
+quality of evidence).
+
+We suggest not routinely using
+corticosteroids in adults with severe
+inﬂuenza pneumonia (conditional
+recommendation, low quality of evidence).
+We endorse the Surviving Sepsis
+Campaign recommendations on the use of
+corticosteroids in patients with CAP and
+refractory septic shock (169).
+
+Summary of the evidence. Two
+
+randomized controlled studies of
+corticosteroids used for treatment of CAP
+have shown signiﬁcant reductions in
+mortality, length of stay, and/or organ
+failure. The ﬁrst study found a large
+magnitude of mortality beneﬁt that has not
+been replicated in other studies, raising
+concerns that the results overestimated the
+true effect (170). In the second study, there
+were baseline differences in renal function
+between groups (171). Other RCTs of
+corticosteroids in the treatment of CAP
+have not shown signiﬁcant differences in
+clinically important endpoints. Differences
+have been observed in the time to
+resolution of fever and other features of
+clinical stability, but these have not
+translated into differences in mortality,
+length of stay, or organ failure (172, 173).
+Some (174, 175), but not all (176, 177),
+
+meta-analyses of published corticosteroid
+studies have shown a mortality beneﬁt in
+patients with severe CAP, although no
+consistent deﬁnition of disease severity was
+used. Side effects of corticosteroids (on the
+order of 240 mg of hydrocortisone per
+day) include signiﬁcant increases in
+hyperglycemia requiring therapy and
+possible higher secondary infection rates
+(178, 179). No reported study has shown
+excess mortality in the corticosteroid-
+treated group.
+
+In pneumonia due to inﬂuenza, a meta-
+
+analysis (180) of predominantly small
+
+retrospective studies suggests that mortality
+may be increased in patients who receive
+corticosteroids. This ﬁnding might reﬂect
+the importance of innate immunity in
+defense against inﬂuenza as opposed to
+bacterial pneumonia.
+
+Rationale for the recommendation.
+There are no data suggesting beneﬁt of
+corticosteroids in patients with nonsevere
+CAP with respect to mortality or organ
+failure and only limited data in patients with
+severe CAP. The risk of corticosteroids in
+the dose range up to 240 mg of
+hydrocortisone equivalent per day for
+a maximum of 7 days is predominantly
+hyperglycemia, although rehospitalization
+rates may also be higher (176), and
+more general concerns about greater
+complications in the following 30 to 90
+days have been raised (179). At least one
+large trial (clinicaltrials.gov NCT01283009)
+has been completed but not reported and
+may further inform which subgroups of
+patients beneﬁt from steroids. We also
+endorse the Surviving Sepsis Campaign
+recommendations on the use of steroids in
+patients with septic shock refractory to
+adequate ﬂuid resuscitation and
+vasopressor support (169).
+
+Of note, there is no intent that our
+recommendations would override clinically
+appropriate use of steroids for comorbid
+diseases, such as chronic obstructive
+pulmonary disease, asthma, and
+autoimmune diseases, where corticosteroids
+are supported as a component of treatment.
+Research needed in this area. Large,
+multicenter, randomized trials with well-
+deﬁned inclusion and exclusion criteria and
+measurement of multiple relevant clinical
+outcomes are needed to deﬁne the subsets of
+patients (if any) who beneﬁt or are
+potentially harmed from corticosteroid
+therapy. The trial should also make
+extensive efforts to deﬁne causative
+pathogens, to deﬁne whether there are
+clear pathogen-speciﬁc indications or
+contraindications for corticosteroid therapy
+(especially disease due to S. pneumoniae
+and inﬂuenza).
+
+Question 13: In Adults with CAP Who
+Test Positive for Inﬂuenza, Should the
+Treatment Regimen Include Antiviral
+Therapy?
+
+Recommendation. We recommend that
+antiinﬂuenza treatment, such as oseltamivir,
+be prescribed for adults with CAP who test
+
+positive for inﬂuenza in the inpatient
+setting, independent of duration of illness
+before diagnosis (strong recommendation,
+moderate quality of evidence).
+
+We suggest that antiinﬂuenza
+
+treatment be prescribed for adults with CAP
+who test positive for inﬂuenza in the
+outpatient setting, independent of duration
+of illness before diagnosis (conditional
+recommendation, low quality of evidence).
+Summary of the evidence. No clinical
+trials have evaluated the effect of treatment
+with antiinﬂuenza agents in adults with
+inﬂuenza pneumonia, and data are lacking
+on the beneﬁts of using antiinﬂuenza agents
+in the outpatient setting for patients with
+CAP who test positive for inﬂuenza virus.
+Several observational studies suggest that
+treatment with oseltamivir is associated
+with reduced risk of death in patients
+hospitalized for CAP who test positive for
+inﬂuenza virus (181, 182). Treatment
+within 2 days of symptom onset or
+hospitalization may result in the best
+outcomes (183, 184), although there may be
+beneﬁts up to 4 or 5 days after symptoms
+begin (181, 185).
+
+The use of antiinﬂuenza agents in the
+
+outpatient setting reduces duration of
+symptoms and the likelihood of lower
+respiratory tract complications among
+patients with inﬂuenza (186), with most
+beneﬁt if therapy is received within
+48 hours after onset of symptoms (187).
+
+Rationale for the recommendation.
+
+For inpatients, a substantial body of
+observational evidence suggests that
+giving antiinﬂuenza agents reduces
+mortality risk in adults with inﬂuenza
+infection. Although beneﬁts are strongest
+when therapy is started within 48 hours of
+symptom onset, studies also support starting
+later (185). These data underlie our strong
+recommendation for using antiinﬂuenza
+agents for patients with CAP and inﬂuenza in
+the inpatient setting, consistent with the
+recently published IDSA Inﬂuenza Clinical
+Practice Guideline (33).
+
+Although we did not identify studies
+
+that speciﬁcally evaluated antiinﬂuenza
+agents for treating outpatients with CAP
+who test positive for inﬂuenza, we make the
+same recommendation as for inpatients, on
+the basis of the inpatient data and on
+outpatient data showing better time to
+resolution of symptoms and prevention
+of hospitalization among those with
+inﬂuenza but without pneumonia. Our
+recommendations are consistent with the
+
+e58
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+IDSA inﬂuenza guidelines, which were
+recently released (33).
+
+Research needed in this area.
+
+Randomized controlled studies are needed to
+support the recommendation for use of
+antiinﬂuenza agents to treat for inﬂuenza
+pneumonia in the outpatient setting. In
+particular, knowing whether therapy is
+valuable when started more the 48 hours after
+symptom onset would help guide clinical
+decision-making.
+
+Question 14: In Adults with CAP Who
+Test Positive for Inﬂuenza, Should the
+Treatment Regimen Include
+Antibacterial Therapy?
+
+Recommendation. We recommend that
+standard antibacterial treatment be initially
+prescribed for adults with clinical and
+radiographic evidence of CAP who test
+positive for inﬂuenza in the inpatient
+and outpatient settings (strong
+recommendation, low quality of evidence).
+Summary of the evidence. Bacterial
+pneumonia can occur concurrently with
+inﬂuenza virus infection or present later as
+a worsening of symptoms in patients who were
+recovering from their primary inﬂuenza virus
+infection. As many as 10% of patients
+hospitalized for inﬂuenza and bacterial
+pneumonia die as a result of their infection
+(188). An autopsy series from the 2009 H1N1
+inﬂuenza pandemic found evidence of bacterial
+coinfection in about 30% of deaths (189).
+
+S. aureus is one of the most common
+bacterial infections associated with inﬂuenza
+pneumonia, followed by S. pneumoniae, H.
+inﬂuenzae, and group A Streptococcus; other
+bacteria have also been implicated (188,
+190–192). Given this spectrum of pathogens,
+appropriate agents for initial therapy include
+the same agents generally recommended for
+CAP. Risk factors and need for empiric
+coverage for MRSA would follow the
+guidelines included earlier in this document.
+Rapidly progressive severe pneumonia with
+MRSA has been described in previously
+healthy young patients, particularly in the
+setting of prior inﬂuenza; however, it is
+typically readily identiﬁed in the nares or
+sputum and should be identiﬁed by following
+the recommendations of earlier
+recommendations in this guideline.
+
+Rationale for the recommendation. The
+
+recommendation to routinely prescribe
+antibacterial agents in patients with
+inﬂuenza virus infection and pneumonia
+was based on evidence suggesting that
+
+bacterial coinfections are a common and
+serious complication of inﬂuenza, as well as
+the inability to exclude the presence of
+bacterial coinfection in a patient with CAP
+who has a positive test for inﬂuenza virus.
+Although low levels of biomarkers such as
+procalcitonin decrease the likelihood that
+patients have bacterial infections, these
+biomarkers do not completely rule out
+bacterial pneumonia in an individual patient
+with sufﬁcient accuracy to justify initially
+withholding antibiotic therapy, especially
+among patients with severe CAP (37, 38, 193).
+We have provided a strong recommendation
+because of the signiﬁcant risk of treatment
+failure in delaying appropriate antibacterial
+therapy in patients with CAP. However in
+patients with CAP, a positive inﬂuenza test,
+no evidence of a bacterial pathogen
+(including a low procalcitonin level), and
+early clinical stability, consideration could be
+given to earlier discontinuation of antibiotic
+treatment at 48 to 72 hours.
+
+Research needed in this area. Randomized
+
+controlled studies are needed to establish
+whether antibacterial therapy can be
+stopped at 48 hours for patients with
+CAP who test positive for inﬂuenza and
+have no biomarker (e.g., procalcitonin) or
+microbiological evidence of a concurrent
+bacterial infection.
+
+Question 15: In Outpatient and
+Inpatient Adults with CAP Who Are
+Improving, What Is the Appropriate
+Duration of Antibiotic Treatment?
+
+Recommendation. We recommend that the
+duration of antibiotic therapy should be
+guided by a validated measure of clinical
+stability (resolution of vital sign
+abnormalities [heart rate, respiratory rate,
+blood pressure, oxygen saturation, and
+temperature], ability to eat, and normal
+mentation), and antibiotic therapy should be
+continued until the patient achieves stability
+and for no less than a total of 5 days (strong
+recommendation, moderate quality of
+evidence).
+
+Summary of the evidence. A small
+number of randomized trials address the
+appropriate duration of antibiotic therapy in
+CAP, and randomized placebo-controlled
+trials of high quality are mostly limited to
+the inpatient setting. In these trials, no
+difference was observed between 5
+additional days of oral amoxicillin
+compared with placebo in patients who had
+clinically improved on 3 days of intravenous
+
+amoxicillin (194), or between 2 days of
+intravenous cefuroxime followed by 5 days
+versus 8 days of oral cefuroxime (195).
+Similar results were obtained with 5 days of
+levoﬂoxacin 750 mg daily compared with
+10 days of levoﬂoxacin 500 mg daily (196) and
+5 days of intravenous ceftriaxone compared
+with 10 days (197). Several recent meta-
+analyses similarly demonstrate the efﬁcacy of
+shorter courses of antibiotic therapy of 5 to
+7 days (198–200).
+
+Several studies have demonstrated that
+
+the duration of antibiotic therapy can be
+reduced in patients with CAP with the use of
+a procalcitonin-guided pathway and serial
+procalcitonin measurement compared with
+conventional care, but in most cases the
+average length of treatment was greatly in
+excess of current U.S. standards of practice
+as well as the recommendations of these
+current guidelines. Concern has also been
+raised that procalcitonin levels may not be
+elevated when there is concurrent viral and
+bacterial infection (201, 202) or with
+important pathogens such as Legionella and
+Mycoplasma spp (37, 201, 203). Serial
+procalcitonin measurement is therefore
+likely to be useful primarily in settings
+where the average length of stay for
+patients with CAP exceeds normal practice
+(e.g., 5–7 d).
+
+It is recognized that some patients do
+
+not respond to a standard duration of
+therapy. A variety of criteria for determining
+clinical improvement have been developed
+for patients with CAP and validated in
+clinical trials, including resolution of vital
+sign abnormalities (heart rate, respiratory
+rate, blood pressure, oxygen saturation, and
+temperature), ability to eat, and normal
+mentation (204). Failure to achieve clinical
+stability within 5 days is associated with
+higher mortality and worse clinical
+outcomes (205–207). Such failure should
+prompt assessment for a pathogen resistant
+to the current therapy and/or complications
+of pneumonia (e.g., empyema or lung
+abscess) or for an alternative source of
+infection and/or inﬂammatory response
+(208, 209). When assessment of clinical
+stability has been introduced into clinical
+practice, patients have shorter durations of
+antibiotic therapy without adverse impact
+on outcome (210). All clinicians should
+therefore use an assessment of clinical
+stability as part of routine care of patients
+with CAP.
+
+Longer courses of antibiotic therapy
+
+are recommended for 1) pneumonia
+
+American Thoracic Society Documents
+
+e59
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+complicated by meningitis, endocarditis,
+and other deep-seated infection; or 2)
+infection with other, less-common
+pathogens not covered in these guidelines
+(e.g., Burkholderia pseudomallei,
+Mycobacterium tuberculosis or endemic
+fungi).
+
+Rationale for the recommendation.
+
+As recent data supporting antibiotic
+administration for ,5 days are scant, on
+a risk–beneﬁt basis we recommend treating
+for a minimum of 5 days, even if the patient
+has reached clinical stability before 5 days.
+As most patients will achieve clinical
+stability within the ﬁrst 48 to 72 hours,
+a total duration of therapy of 5 days will be
+appropriate for most patients. In switching
+from parenteral to oral antibiotics, either
+the same agent or the same drug class
+should be used.
+
+We acknowledge that most studies in
+
+support of 5 days of antibiotic therapy
+include patients without severe CAP, but we
+believe these results apply to patients with
+severe CAP and without infectious
+complications. We believe that the duration
+of therapy for CAP due to suspected or
+proven MRSA or P. aeruginosa should be 7
+days, in agreement with the recent hospital-
+acquired pneumonia and ventilator-
+associated pneumonia guidelines (166).
+
+Research needed in this area. Controlled
+
+studies are needed to establish the
+duration of antibiotic therapy for adults
+with complications of CAP, including
+empyema, and adults with prolonged time
+to achieving clinical stability.
+
+Question 16: In Adults with CAP Who
+Are Improving, Should Follow-up
+Chest Imaging Be Obtained?
+
+Recommendation. In adults with CAP
+whose symptoms have resolved within 5 to
+7 days, we suggest not routinely obtaining
+follow-up chest imaging (conditional
+recommendation, low quality of evidence).
+Summary of the evidence. There are
+limited data on the clinical usefulness of
+reimaging patients with pneumonia. Most
+available data have evaluated whether
+reimaging patients detects lung malignancy
+not recognized at the time of treatment for
+pneumonia. Reported rates of malignancy in
+patients recovering from CAP range from
+1.3% to 4% (211–214). When unsuspected
+
+nonmaligant pathology is included, the
+rate of abnormal ﬁndings may reach 5%.
+
+Almost all patients with malignancy in
+reported series were smokers or ex-smokers.
+One longer-term study found 9.2% of CAP
+survivors in the Veterans Affairs system
+(with a predominantly male population and
+high smoking prevalence) had a new
+diagnosis of cancer, with a mean time to
+diagnosis of 297 days. However, only 27%
+were diagnosed within 90 days of discharge
+from hospital, suggesting the yield of routine
+follow-up post discharge would be low
+(215).
+
+Rationale for the recommendation.
+
+Available data suggest the positive yield
+from repeat imaging ranges from 0.2% to
+5.0%; however many patients with new
+abnormalities in these studies meet criteria
+for lung cancer screening among current or
+past smokers (216).
+
+Research needed in this area. Further
+research may clarify subgroups of patients
+who may beneﬁt from further radiological
+assessment after initial therapy for
+pneumonia.
+
+Conclusions
+
+Recommendations to help clinicians
+optimize therapy for their patients with CAP
+have been revised in light of new data.
+Methods of quality improvement are critical
+to the implementation of guideline
+recommendations. It remains disappointing
+how few key clinical questions have been
+studied adequately enough to allow for
+strong recommendations regarding the
+standard of care. We hope that the research
+priorities outlined in this document will
+prompt new investigations addressing key
+knowledge gaps.
+
+Despite substantial concern over the
+
+rise of antibiotic-resistant pathogens,
+most patients with CAP can be adequately
+treated with regimens that have been
+used for multiple decades. It is also true
+that the subset of patients with CAP who
+have signiﬁcant comorbidities and
+frequent contact with healthcare
+settings and antibiotics is increasing,
+and, in some settings, the rates of
+infection with MRSA or P. aeruginosa
+are high enough to warrant empiric
+treatment.
+
+Unfortunately, microbiological testing
+
+has yet to deliver fast, accurate, and
+affordable testing that results in proven
+beneﬁt for patients with CAP in terms of
+more rapid delivery of targeted therapy or
+safe deescalation of unnecessary therapy.
+Exceptions include rapid testing for MRSA
+and inﬂuenza. Until we have such widely
+available (and affordable) tests, therapy for
+many or most patients with CAP will
+remain empiric. Therefore, clinicians need
+to be aware of the spectrum of local
+pathogens, especially if they care for
+patients at a center where infection with
+antibiotic-resistant pathogens such as
+MRSA and P. aeruginosa are more
+common.
+
+A difference between this guideline and
+previous ones is that we have signiﬁcantly
+increased the proportion of patients in
+whom we recommend routinely obtaining
+respiratory tract samples for microbiologic
+studies. This decision is largely based on
+a desire to correct the overuse of anti-MRSA
+and antipseudomonal therapy that has
+occurred since the introduction of the
+HCAP classiﬁcation (which we recommend
+abandoning) rather than high-quality
+evidence. We expect this change will
+generate signiﬁcant research to prove or
+disprove the value of this approach. As
+it is not possible to create a “one size
+ﬁts all” schema for empiric therapy for
+CAP, clinicians must validate any
+approach taking into account their local
+spectrum and frequency of resistant
+pathogens, which is another driver for
+recommending increased testing. We
+similarly expect our move against
+endorsing monotherapy with macrolides,
+which is based on population resistance
+data rather than high-quality clinical
+studies, will generate future outcomes
+studies comparing different treatment
+strategies.
+
+We hope that clinicians and researchers
+
+will ﬁnd this guideline useful, but the
+recommendations included here do not
+obviate the need for clinical assessment and
+knowledge to ensure each individual patient
+receives appropriate and timely care.
+However, this guideline delineates
+minimum clinical standards that are
+achievable and will help drive the best
+patient outcomes on the basis of currently
+available data. n
+
+e60
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+This clinical practice guideline was prepared by an ATS/IDSA ad hoc committee on community-acquired pneumonia in adults.
+
+Members of the committee are as
+follows:
+
+JOSHUA P. METLAY, M.D., PH.D.
+
+(Co-Chair)1,2
+
+GRANT W. WATERER, M.B. B.S., PH.D.
+
+(Co-Chair)3
+
+ANTONIO ANZUETO, M.D.4,5
+JAN BROZEK, M.D., PH.D.6*
+KRISTINA CROTHERS, M.D.7,8
+LAURA A. COOLEY, M.D.9
+NATHAN C. DEAN, M.D.10,11
+MICHAEL J. FINE, M.D., M.SC.12,13
+SCOTT A. FLANDERS, M.D.14
+MARIE R. GRIFFIN, M.D., M.P.H.15
+ANN C. LONG, M.D., M.S.8*
+MARK L. METERSKY, M.D.16
+DANIEL M. MUSHER, M.D.17,18
+MARCOS I. RESTREPO, M.D., M.SC., PH.D.4,5
+CYNTHIA G. WHITNEY, M.D., M.P.H.9
+
+and University of Western Australia, Perth,
+Australia; 4South Texas Veterans Healthcare
+System, San Antonio, Texas; 5University of
+Texas Health San Antonio, San Antonio,
+Texas; 6McMaster University, Hamilton,
+Ontario, Canada; 7VA Puget Sound Health
+Care System, Seattle, Washington; 8University
+of Washington, Seattle, Washington;
+9Respiratory Diseases Branch, Centers for
+Disease Control and Prevention, Atlanta,
+Georgia; 10Intermountain Medical Center, Salt
+Lake City, Utah; 11University of Utah, Salt Lake
+City, Utah; 12VA Pittsburgh Medical Center,
+Pittsburgh, Pennsylvania; 13University of
+Pittsburgh, Pittsburgh, Pennsylvania;
+14University of Michigan, Ann Arbor, Michigan;
+15Vanderbilt University, Nashville, Tennessee;
+16University of Connecticut School of
+Medicine, Farmington, Connecticut; 17Michael
+E. DeBakey VA Medical Center, Houston,
+Texas; and 18Baylor College of Medicine,
+Houston, Texas
+
+*Methodologist.
+1Massachusetts General Hospital, Boston,
+Massachusetts; 2Harvard Medical School,
+Boston, Massachusetts; 3Royal Perth Hospital
+
+Author Disclosures: A.A. served as
+a consultant for AstraZeneca, Bayer,
+Boehringer Ingelheim, GlaxoSmithKline,
+Novartis, Pﬁzer, and Sunovion; served on an
+
+advisory committee for AstraZeneca, Forest,
+and Novartis; served on a data safety and
+monitoring board for Bayer; and received
+research support from GlaxoSmithKline.
+N.C.D. served as a consultant for Cerexa;
+served on a data safety and monitoring board
+for Contrafect and Theravance; and served on
+an advisory committee for Cempra and
+Paratek. S.A.F. received research support from
+the Blue Cross Blue Shield of Michigan;
+received personal fees for expert testimony
+related to the practice of hospital medicine;
+and received royalties from Wiley Publishing.
+A.C.L. has ownership or investment interest
+with Aurora Cannabis, Canopy Growth, and
+Cronos Group. M.L.M. received research
+support from Gilead, Insmed, Multiclonal
+Therapeutics, and Pharmaxis; served as
+a consultant for Aradigm, Arsanis, Bayer,
+Insmed, International Biophysics, Savara,
+Shionogi, and various law ﬁrms; served as
+a consultant for EBSCO as a reviewer for
+DynaMed, a decision support tool; and served
+on an advisory committee and as a consultant
+for Grifols. J.P.M., G.W., J.B., K.C., L.A.C.,
+M.J.F., M.R.G., D.M.M., M.I.R., and C.G.W.
+reported no relevant commercial relationships.
+
+References
+
+1. Mandell LA, Wunderink RG, Anzueto A, Bartlett JG, Campbell GD, Dean
+
+NC, et al.; Infectious Diseases Society of America; American
+Thoracic Society. Infectious Diseases Society of America/American
+Thoracic Society consensus guidelines on the management of community-
+acquired pneumonia in adults. Clin Infect Dis 2007;44:S27–S72.
+
+2. Guyatt GH, Oxman AD, Kunz R, Atkins D, Brozek J, Vist G, et al. GRADE
+guidelines: 2. Framing the question and deciding on important
+outcomes. J Clin Epidemiol 2011;64:395–400.
+
+3. Metlay JP, Kapoor WN, Fine MJ. Does this patient have community-
+
+acquired pneumonia? Diagnosing pneumonia by history and physical
+examination. JAMA 1997;278:1440–1445.
+
+4. Sato T, Aoshima M, Ohmagari N, Tada H, Chohnabayashi N. Usefulness
+of sputum Gram staining in community-acquired pneumonia [in
+Japanese]. Nihon Kokyuki Gakkai Zasshi 2002;40:558–563.
+5. Shariatzadeh MR, Marrie TJ. Does sputum culture affect the
+
+management and/or outcome of community-acquired pneumonia?
+East Mediterr Health J 2009;15:792–799.
+
+6. Signori LG, Ferreira MW, Vieira LC, Muller KR, Mattos WL. Sputum
+
+examination in the clinical management of community-acquired
+pneumonia [in Portuguese]. J Bras Pneumol 2008;34:152–158.
+7. Uematsu H, Hashimoto H, Iwamoto T, Horiguchi H, Yasunaga H. Impact
+of guideline-concordant microbiological testing on outcomes of
+pneumonia. Int J Qual Health Care 2014;26:100–107.
+
+8. Lidman C, Burman LG, Lagergren A, Ortqvist A. Limited value of routine
+
+microbiological diagnostics in patients hospitalized for community-
+acquired pneumonia. Scand J Infect Dis 2002;34:873–879.
+
+9. Sanyal S, Smith PR, Saha AC, Gupta S, Berkowitz L, Homel P. Initial
+microbiologic studies did not affect outcome in adults hospitalized
+with community-acquired pneumonia. Am J Respir Crit Care Med
+1999;160:346–348.
+
+10. van der Eerden MM, Vlaspolder F, de Graaff CS, Groot T, Bronsveld W,
+Jansen HM, et al. Comparison between pathogen directed antibiotic
+treatment and empirical broad spectrum antibiotic treatment in
+patients with community acquired pneumonia: a prospective
+randomised study. Thorax 2005;60:672–678.
+
+11. Ewig S, Torres A, Angeles Marcos M, Angrill J, Rañ ´o A, de Roux A, et al.
+Factors associated with unknown aetiology in patients with
+community-acquired pneumonia. Eur Respir J 2002;20:
+1254–1262.
+
+12. Ewig S, Schlochtermeier M, G ¨oke N, Niederman MS. Applying sputum
+as a diagnostic tool in pneumonia: limited yield, minimal impact on
+treatment decisions. Chest 2002;121:1486–1492.
+
+13. Garc´ıa-V ´azquez E, Marcos MA, Mensa J, de Roux A, Puig J, Font C,
+et al. Assessment of the usefulness of sputum culture for diagnosis
+of community-acquired pneumonia using the PORT predictive
+scoring system. Arch Intern Med 2004;164:1807–1811.
+
+14. L ´evy M, Dromer F, Brion N, Leturdu F, Carbon C. Community-acquired
+pneumonia: importance of initial noninvasive bacteriologic and
+radiographic investigations. Chest 1988;93:43–48.
+
+15. Miyashita N, Shimizu H, Ouchi K, Kawasaki K, Kawai Y, Obase Y, et al.
+Assessment of the usefulness of sputum Gram stain and culture for
+diagnosis of community-acquired pneumonia requiring
+hospitalization. Med Sci Monit 2008;14:CR171–CR176.
+
+16. Ros ´on B, Carratal `a J, Verdaguer R, Dorca J, Manresa F, Gudiol F.
+Prospective study of the usefulness of sputum Gram stain in the
+initial approach to community-acquired pneumonia requiring
+hospitalization. Clin Infect Dis 2000;31:869–874.
+
+17. van der Eerden MM, Vlaspolder F, de Graaff CS, Groot T, Jansen HM,
+
+Boersma WG. Value of intensive diagnostic microbiological
+investigation in low- and high-risk patients with community-acquired
+pneumonia. Eur J Clin Microbiol Infect Dis 2005;24:241–249.
+
+18. Musher DM, Montoya R, Wanahita A. Diagnostic value of microscopic
+
+examination of Gram-stained sputum and sputum cultures in patients with
+bacteremic pneumococcal pneumonia. Clin Infect Dis 2004;39:165–169.
+
+19. McCauley LM, Webb BJ, Sorensen J, Dean NC. Use of tracheal
+
+aspirate culture in newly intubated patients with community-onset
+pneumonia. Ann Am Thorac Soc 2016;13:376–381.
+
+20. Meehan TP, Fine MJ, Krumholz HM, Scinto JD, Galusha DH, Mockalis
+JT, et al. Quality of care, process, and outcomes in elderly patients
+with pneumonia. JAMA 1997;278:2080–2084.
+
+21. Benenson RS, Kepner AM, Pyle DN II, Cavanaugh S. Selective use of
+blood cultures in emergency department pneumonia patients. J
+Emerg Med 2007;33:1–8.
+
+American Thoracic Society Documents
+
+e61
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+22. Dedier J, Singer DE, Chang Y, Moore M, Atlas SJ. Processes of care,
+
+42. Marrie TJ, Lau CY, Wheeler SL, Wong CJ, Vandervoort MK, Feagan
+
+illness severity, and outcomes in the management of community-
+acquired pneumonia at academic hospitals. Arch Intern Med 2001;
+161:2099–2104.
+
+BG; CAPITAL Study Investigators. A controlled trial of a critical
+pathway for treatment of community-acquired pneumonia. JAMA
+2000;283:749–755.
+
+23. Campbell SG, Marrie TJ, Anstey R, Dickinson G, Ackroyd-Stolarz S.
+The contribution of blood cultures to the clinical management of adult
+patients admitted to the hospital with community-acquired pneumonia:
+a prospective observational study. Chest 2003;123:1142–1150.
+
+24. Waterer GW, Wunderink RG. The inﬂuence of the severity of
+
+community-acquired pneumonia on the usefulness of blood cultures.
+Respir Med 2001;95:78–82.
+
+43. Yealy DM, Auble TE, Stone RA, Lave JR, Meehan TP, Graff LG, et al.
+Effect of increasing the intensity of implementing pneumonia guidelines:
+a randomized, controlled trial. Ann Intern Med 2005;143:881–894.
+
+44. Carratal `a J, Fern ´andez-Sab ´e N, Ortega L, Castellsagu ´e X, Ros ´on B,
+
+Dorca J, et al. Outpatient care compared with hospitalization for
+community-acquired pneumonia: a randomized trial in low-risk
+patients. Ann Intern Med 2005;142:165–172.
+
+25. Waterer GW, Jennings SG, Wunderink RG. The impact of blood
+
+45. Atlas SJ, Benzer TI, Borowsky LH, Chang Y, Burnham DC, Metlay JP,
+
+cultures on antibiotic therapy in pneumococcal pneumonia. Chest
+1999;116:1278–1281.
+
+26. Metersky ML, Ma A, Bratzler DW, Houck PM. Predicting bacteremia in
+patients with community-acquired pneumonia. Am J Respir Crit Care
+Med 2004;169:342–347.
+
+27. Costantini E, Allara E, Patrucco F, Faggiano F, Hamid F, Balbo PE.
+
+Adherence to guidelines for hospitalized community-acquired
+pneumonia over time and its impact on health outcomes and
+mortality. Intern Emerg Med 2016;11:929–940.
+
+28. Falguera M, Ruiz-Gonz ´alez A, Schoenenberger JA, Touz ´on C, G ´azquez
+I, Galindo C, et al. Prospective, randomised study to compare
+empirical treatment versus targeted treatment on the basis of the
+urine antigen results in hospitalised patients with community-
+acquired pneumonia. Thorax 2010;65:101–106.
+
+29. Piso RJ, Iven-Koller D, Koller MT, Bassetti S. The routine use of urinary
+pneumococcal antigen test in hospitalised patients with community
+acquired pneumonia has limited impact for adjustment of antibiotic
+treatment. Swiss Med Wkly 2012;142:w13679.
+
+30. Garrison LE, Kunz JM, Cooley LA, Moore MR, Lucas C, Schrag S, et al.
+Vital signs: deﬁciencies in environmental control identiﬁed in
+outbreaks of legionnaires’ disease. North America, 2000-2014.
+MMWR Morb Mortal Wkly Rep 2016;65:576–584.
+
+31. Dooling KL, Toews KA, Hicks LA, Garrison LE, Bachaus B, Zansky S,
+
+et al. Active bacterial core surveillance for legionellosis: United States,
+2011-2013. MMWR Morb Mortal Wkly Rep 2015;64:1190–1193.
+
+32. Uyeki TM. Preventing and controlling inﬂuenza with available
+
+interventions. N Engl J Med 2014;370:789–791.
+
+33. Uyeki TM, Bernstein HH, Bradley JS, Englund JA, File TM Jr, Fry AM,
+et al. Clinical practice guidelines by the Infectious Diseases
+Society of America: 2018 update on diagnosis, treatment,
+chemoprophylaxis, and institutional outbreak management of
+seasonal inﬂuenzaa. Clin Infect Dis 2018;68:e1–e47.
+
+34. Musher DM, Thorner AR. Community-acquired pneumonia. N Engl J
+
+Med 2014;371:1619–1628.
+
+35. Christ-Crain M, Stolz D, Bingisser R, M ¨uller C, Miedinger D, Huber PR,
+
+et al. Procalcitonin guidance of antibiotic therapy in community-
+acquired pneumonia: a randomized trial. Am J Respir Crit Care Med
+2006;174:84–93.
+
+36. Schuetz P, M ¨uller B, Christ-Crain M, Stolz D, Tamm M, Bouadma L,
+
+et al. Procalcitonin to initiate or discontinue antibiotics in acute
+respiratory tract infections. Cochrane Database Syst Rev 2012;(9):
+CD007498.
+
+37. Self WH, Balk RA, Grijalva CG, Williams DJ, Zhu Y, Anderson EJ,
+et al. Procalcitonin as a marker of etiology in adults hospitalized
+with community-acquired pneumonia. Clin Infect Dis 2017;65:183–190.
+38. Kamat IS, Ramachandran V, Eswaran H, Abers MS, Musher DM. Low
+procalcitonin, community acquired pneumonia, and antibiotic
+therapy. Lancet Infect Dis 2018;18:496–497.
+
+39. Fine MJ, Auble TE, Yealy DM, Hanusa BH, Weissfeld LA, Singer DE,
+et al. A prediction rule to identify low-risk patients with community-
+acquired pneumonia. N Engl J Med 1997;336:243–250.
+
+40. Lim WS, van der Eerden MM, Laing R, Boersma WG, Karalus N, Town
+GI, et al. Deﬁning community acquired pneumonia severity on
+presentation to hospital: an international derivation and validation
+study. Thorax 2003;58:377–382.
+
+41. Aujesky D, Auble TE, Yealy DM, Stone RA, Obrosky DS, Meehan TP,
+et al. Prospective comparison of three validated prediction rules for
+prognosis in community-acquired pneumonia. Am J Med 2005;118:
+384–392.
+
+et al. Safely increasing the proportion of patients with community-
+acquired pneumonia treated as outpatients: an interventional trial.
+Arch Intern Med 1998;158:1350–1356.
+
+46. Jo S, Kim K, Jung K, Rhee JE, Cho IS, Lee CC, et al. The effects of
+
+incorporating a pneumonia severity index into the admission protocol for
+community-acquired pneumonia. J Emerg Med 2012;42:133–138.
+
+47. Juli ´an-Jim ´enez A, Palomo de los Reyes MJ, Parejo Miguez R, La´ın-
+
+Ter ´es N, Cuena-Boy R, Lozano-Anc´ın A. Improved management of
+community-acquired pneumonia in the emergency department. Arch
+Bronconeumol 2013;49:230–240.
+
+48. Renaud B, Coma E, Labarere J, Hayon J, Roy PM, Boureaux H, et al.;
+
+Pneumocom Study Investigators. Routine use of the Pneumonia
+Severity Index for guiding the site-of-treatment decision of patients
+with pneumonia in the emergency department: a multicenter,
+prospective, observational, controlled cohort study. Clin Infect Dis
+2007;44:41–49.
+
+49. Labarere J, Stone RA, Scott Obrosky D, Yealy DM, Meehan TP, Auble
+TE, et al. Factors associated with the hospitalization of low-risk
+patients with community-acquired pneumonia in a cluster-
+randomized trial. J Gen Intern Med 2006;21:745–752.
+
+50. Marrie TJ, Huang JQ. Low-risk patients admitted with community-
+
+acquired pneumonia. Am J Med 2005;118:1357–1363.
+
+51. Dean NC, Jones BE, Jones JP, Ferraro JP, Post HB, Aronsky D, et al.
+Impact of an electronic clinical decision support tool for emergency
+department patients with pneumonia. Ann Emerg Med 2015;66:
+511–520.
+
+52. Richards DA, Toop LJ, Epton MJ, McGeoch GR, Town GI, Wynn-Thomas
+SM, et al. Home management of mild to moderately severe
+community-acquired pneumonia: a randomised controlled trial.
+Med J Aust 2005;183:235–238.
+
+53. Colice GL, Morley MA, Asche C, Birnbaum HG. Treatment costs of
+
+community-acquired pneumonia in an employed population. Chest
+2004;125:2140–2145.
+
+54. Yu H, Rubin J, Dunning S, Li S, Sato R. Clinical and economic burden
+
+of community-acquired pneumonia in the Medicare fee-for-service
+population. J Am Geriatr Soc 2012;60:2137–2143.
+
+55. MDCalc. PSI/PORT score: pneumonia severity index for CAP
+
+[accessed 2019 Sept 8]. Available from: https://www.mdcalc.com/
+psi-port-score-pneumonia-severity-index-cap.
+
+56. Jones BE, Jones J, Bewick T, Lim WS, Aronsky D, Brown SM, et al.
+CURB-65 pneumonia severity assessment adapted for electronic
+decision support. Chest 2011;140:156–163.
+
+57. Liapikou A, Ferrer M, Polverino E, Balasso V, Esperatti M, Piñer R, et al.
+Severe community-acquired pneumonia: validation of the Infectious
+Diseases Society of America/American Thoracic Society guidelines
+to predict an intensive care unit admission. Clin Infect Dis 2009;48:
+377–385.
+
+58. Phua J, See KC, Chan YH, Widjaja LS, Aung NW, Ngerng WJ, et al.
+
+Validation and clinical implications of the IDSA/ATS minor criteria
+for severe community-acquired pneumonia. Thorax 2009;64:598–603.
+
+59. Chalmers JD, Taylor JK, Mandal P, Choudhury G, Singanayagam A,
+
+Akram AR, et al. Validation of the Infectious Diseases Society of
+America/American Thoracic Society minor criteria for intensive care
+unit admission in community-acquired pneumonia patients without
+major criteria or contraindications to intensive care unit care. Clin
+Infect Dis 2011;53:503–511.
+
+60. Charles PG, Wolfe R, Whitby M, Fine MJ, Fuller AJ, Stirling R, et al.;
+
+Australian Community-Acquired Pneumonia Study Collaboration.
+SMART-COP: a tool for predicting the need for intensive respiratory
+
+e62
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+or vasopressor support in community-acquired pneumonia. Clin
+Infect Dis 2008;47:375–384.
+
+61. Brown SM, Jones BE, Jephson AR, Dean NC; Infectious Disease
+
+Society of America/American Thoracic Society 2007. Validation of
+the Infectious Disease Society of America/American Thoracic
+Society 2007 guidelines for severe community-acquired pneumonia.
+Crit Care Med 2009;37:3010–3016.
+
+62. Marti C, Garin N, Grosgurin O, Poncet A, Combescure C, Carballo S,
+et al. Prediction of severe community-acquired pneumonia:
+a systematic review and meta-analysis. Crit Care 2012;16:R141.
+
+63. Chalmers JD, Mandal P, Singanayagam A, Akram AR, Choudhury G,
+Short PM, et al. Severity assessment tools to guide ICU admission in
+community-acquired pneumonia: systematic review and meta-analysis.
+Intensive Care Med 2011;37:1409–1420.
+
+64. Brown SM, Jones JP, Aronsky D, Jones BE, Lanspa MJ, Dean NC.
+
+Relationships among initial hospital triage, disease progression and mortality
+in community-acquired pneumonia. Respirology 2012;17:1207–1213.
+65. Phua J, Ngerng WJ, Lim TK. The impact of a delay in intensive care unit
+
+admission for community-acquired pneumonia. Eur Respir J 2010;
+36:826–833.
+
+66. Renaud B, Brun-Buisson C, Santin A, Coma E, Noyez C, Fine MJ, et al.
+Outcomes of early, late, and no admission to the intensive care unit
+for patients hospitalized with community-acquired pneumonia. Acad
+Emerg Med 2012;19:294–303.
+
+67. Restrepo MI, Mortensen EM, Rello J, Brody J, Anzueto A. Late admission
+
+to the ICU in patients with community-acquired pneumonia is
+associated with higher mortality. Chest 2010;137:552–557.
+68. Pakhale S, Mulpuru S, Verheij T, Kochen M, Rohde G, Bjerre L.
+
+Antibiotics for community-acquired pneumonia in adolescent and
+adult outpatients. 2014 [accessed 2017 Nov 19]. Available from:
+http://www.cochrane.org/CD002109/ARI_antibiotics-for-
+community-acquired-pneumonia-in-adolescent-and-adult-
+outpatients.
+
+69. English ML, Fredericks CE, Milanesio NA, Rohowsky N, Xu ZQ, Jenta
+TR, et al. Cethromycin versus clarithromycin for community-acquired
+pneumonia: comparative efﬁcacy and safety outcomes from two
+double-blinded, randomized, parallel-group, multicenter,
+multinational noninferiority studies. Antimicrob Agents Chemother
+2012;56:2037–2047.
+
+70. Fogarty C, Grossman C, Williams J, Haverstock M, Church D. Efﬁcacy
+and safety of moxiﬂoxacin vs clarithromycin for community-acquired
+pneumonia. Infect Med 1999;16:748–763.
+
+71. Fogarty CM, Cyganowski M, Palo WA, Hom RC, Craig WA. A
+
+comparison of cefditoren pivoxil and amoxicillin/clavulanate in the
+treatment of community-acquired pneumonia: a multicenter,
+prospective, randomized, investigator-blinded, parallel-group study.
+Clin Ther 2002;24:1854–1870.
+
+72. Gotfried MH, Dattani D, Riffer E, Devcich KJ, Busman TA, Notario GF, et al.
+A controlled, double-blind, multicenter study comparing clarithromycin
+extended-release tablets and levoﬂoxacin tablets in the treatment of
+community-acquired pneumonia. Clin Ther 2002;24:736–751.
+
+73. Higuera F, Hidalgo H, Feris J, Giguere G, Collins JJ. Comparison of oral
+cefuroxime axetil and oral amoxycillin/clavulanate in the treatment of
+community-acquired pneumonia. J Antimicrob Chemother 1996;37:
+555–564.
+
+74. Kohno S, Watanabe A, Aoki N, Niki Y. Clinical evaluation of
+
+telithromycin for community-acquired pneumonia phase III double-
+blind comparative study of telithromycin versus levoﬂoxacin.
+Japanese Journal of Chemotherapy 2003;51:255–278.
+
+75. Liu Y, Zhang Y, Wu J, Zhu D, Sun S, Zhao L, et al. A randomized,
+
+double-blind, multicenter phase II study comparing the efﬁcacy and safety
+of oral nemonoxacin with oral levoﬂoxacin in the treatment of community-
+acquired pneumonia. J Microbiol Immunol Infect 2017;50:811–820.
+76. Bonvehi P, Weber K, Busman T, Shortridge D, Notario G. Comparison
+of clarithromycin and amoxicillin/clavulanic acid for community-
+acquired pneumonia in an era of drug-resistant Streptococcus
+pneumoniae. Clin Drug Investig 2003;23:491–501.
+
+77. D’Ignazio J, Camere MA, Lewis DE, Jorgensen D, Breen JD. Novel,
+single-dose microsphere formulation of azithromycin versus 7-day
+levoﬂoxacin therapy for treatment of mild to moderate community-
+acquired pneumonia in adults. Antimicrob Agents Chemother 2005;
+49:4035–4041.
+
+78. Salvarezza CR, Mingrone H, Fachinelli H, Kijanczuk S. Comparison of
+
+roxithromycin with ceﬁxime in the treatment of adults with
+community-acquired pneumonia. J Antimicrob Chemother 1998;41:
+75–80.
+
+79. Tellier G, Niederman MS, Nusrat R, Patel M, Lavin B. Clinical and
+
+bacteriological efﬁcacy and safety of 5 and 7 day regimens of
+telithromycin once daily compared with a 10 day regimen of
+clarithromycin twice daily in patients with mild to moderate
+community-acquired pneumonia. J Antimicrob Chemother 2004;54:
+515–523.
+
+80. van Rensburg DJ, Perng RP, Mitha IH, Bester AJ, Kasumba J, Wu RG,
+
+et al. Efﬁcacy and safety of nemonoxacin versus levoﬂoxacin for
+community-acquired pneumonia. Antimicrob Agents Chemother
+2010;54:4098–4106.
+
+81. Wiesner B, Wilen-Rosenqvist G, Lehtonen L. Twice daily dosing of
+
+erythromycin acistrate in the treatment of acute bronchitis and
+pneumonia. Arzneimittelforschung 1993;43:1014–1017.
+
+82. Mathers Dunbar L, Hassman J, Tellier G. Efﬁcacy and tolerability of
+once-daily oral telithromycin compared with clarithromycin for the
+treatment of community-acquired pneumonia in adults. Clin Ther
+2004;26:48–62.
+
+83. Oldach D, Clark K, Schranz J, Das A, Craft JC, Scott D, et al.
+
+Randomized, double-blind, multicenter phase 2 study comparing the
+efﬁcacy and safety of oral solithromycin (CEM-101) to those of oral
+levoﬂoxacin in the treatment of patients with community-acquired
+bacterial pneumonia. Antimicrob Agents Chemother 2013;57:2526–2534.
+
+84. Rovira E, Martinez-Moragon E, Belda A, Gonzalvo F, Ripolles F,
+
+Pascual JM. Treatment of community-acquired pneumonia
+in outpatients: randomized study of clarithromycin alone
+versus clarithromycin and cefuroxime. Respiration 1999;66:
+413–418.
+
+85. Maimon N, Nopmaneejumruslers C, Marras TK. Antibacterial class is
+not obviously important in outpatient pneumonia: a meta-analysis.
+Eur Respir J 2008;31:1068–1076.
+
+86. Petitpretz P, Arvis P, Marel M, Moita J, Urueta J; CAP5 Moxiﬂoxacin
+
+Study Group. Oral moxiﬂoxacin vs high-dosage amoxicillin in the
+treatment of mild-to-moderate, community-acquired, suspected
+pneumococcal pneumonia in adults. Chest 2001;119:185–195.
+87. Aubier M, Verster R, Regamey C, Geslin P, Vercken JB; Sparﬂoxacin
+European Study Group. Once-daily sparﬂoxacin versus high-dosage
+amoxicillin in the treatment of community-acquired, suspected
+pneumococcal pneumonia in adults. Clin Infect Dis 1998;26:
+1312–1320.
+
+88. Hagberg L, Torres A, van Rensburg D, Leroy B, Rangaraju M, Ruuth E.
+
+Efﬁcacy and tolerability of once-daily telithromycin compared with
+high-dose amoxicillin for treatment of community-acquired
+pneumonia. Infection 2002;30:378–386.
+
+89. Siquier B, S ´anchez-Alvarez J, Garc´ıa-Mendez E, Sabri ´a M, Santos J,
+Pallar ´es R, et al.; 620 Clinical Study Group. Efﬁcacy and safety of twice-
+daily pharmacokinetically enhanced amoxicillin/clavulanate (2000/125
+mg) in the treatment of adults with community-acquired pneumonia in
+a country with a high prevalence of penicillin-resistant Streptococcus
+pneumoniae. J Antimicrob Chemother 2006;57:536–545.
+
+90. Paris R, Confalonieri M, Dal Negro R, Ligia GP, Mos L, Todisco T, et al.
+Efﬁcacy and safety of azithromycin 1 g once daily for 3 days in the
+treatment of community-acquired pneumonia: an open-label
+randomised comparison with amoxicillin-clavulanate 875/125 mg
+twice daily for 7 days. J Chemother 2008;20:77–86.
+91. Mokabberi R, Haftbaradaran A, Ravakhah K. Doxycycline vs.
+
+levoﬂoxacin in the treatment of community-acquired pneumonia. J
+Clin Pharm Ther 2010;35:195–200.
+
+92. Ailani RK, Agastya G, Ailani RK, Mukunda BN, Shekar R. Doxycycline is
+
+a cost-effective therapy for hospitalized patients with community-
+acquired pneumonia. Arch Intern Med 1999;159:266–270.
+93. Lonks JR, Garau J, Gomez L, Xercavins M, Ochoa de Echag ¨uen A,
+
+Gareen IF, et al. Failure of macrolide antibiotic treatment in patients
+with bacteremia due to erythromycin-resistant Streptococcus
+pneumoniae. Clin Infect Dis 2002;35:556–564.
+
+94. Daneman N, McGeer A, Green K, Low DE; Toronto Invasive Bacterial
+
+Diseases Network. Macrolide resistance in bacteremic
+pneumococcal disease: implications for patient management. Clin
+Infect Dis 2006;43:432–438.
+
+American Thoracic Society Documents
+
+e63
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+95. Centers for Disease Control and Prevention. Active Bacterial Core
+
+surveillance (ABCs) report, Emerging Infections Program Network,
+Streptococcus pneumoniae, 2016 [accessed 2019 Sept 8]. Available from:
+https://www.cdc.gov/abcs/reports-ﬁndings/survreports/spneu16.pdf.
+
+96. U.S. Food and Drug Administration. Fluoroquinolone antimicrobial
+drugs information. 2019 [accessed 2019 Mar 8]. Available from:
+https://www.fda.gov/Drugs/DrugSafety/InformationbyDrugClass/
+ucm346750.htm.
+
+97. Fogarty C, Siami G, Kohler R, File TM, Tennenberg AM, Olson WH,
+
+et al. Multicenter, open-label, randomized study to compare the
+safety and efﬁcacy of levoﬂoxacin versus ceftriaxone sodium and
+erythromycin followed by clarithromycin and amoxicillin-clavulanate
+in the treatment of serious community-acquired pneumonia in adults.
+Clin Infect Dis 2004;38:S16–S23.
+
+98. Frank E, Liu J, Kinasewitz G, Moran GJ, Oross MP, Olson WH, et al. A
+multicenter, open-label, randomized comparison of levoﬂoxacin
+and azithromycin plus ceftriaxone in hospitalized adults with
+moderate to severe community-acquired pneumonia. Clin Ther 2002;
+24:1292–1308.
+
+99. Lee JH, Kim SW, Kim JH, Ryu YJ, Chang JH. High-dose levoﬂoxacin in
+
+community-acquired pneumonia: a randomized, open-label study.
+Clin Drug Investig 2012;32:569–576.
+
+100. Lin TY, Lin SM, Chen HC, Wang CJ, Wang YM, Chang ML, et al.
+
+An open-label, randomized comparison of levoﬂoxacin and
+amoxicillin/clavulanate plus clarithromycin for the treatment of
+hospitalized patients with community-acquired pneumonia. Chang
+Gung Med J 2007;30:321–332.
+
+101. Portier H, Brambilla C, Garre M, Paganin F, Poubeau P, Zuck P.
+Moxiﬂoxacin monotherapy compared to amoxicillin-clavulanate
+plus roxithromycin for nonsevere community-acquired pneumonia
+in adults with risk factors. Eur J Clin Microbiol Infect Dis 2005;24:
+367–376.
+
+102. Postma DF, van Werkhoven CH, van Elden LJ, Thijsen SF, Hoepelman
+AI, Kluytmans JA, et al.; CAP-START Study Group. Antibiotic
+treatment strategies for community-acquired pneumonia in adults.
+N Engl J Med 2015;372:1312–1323.
+
+103. Xu S, Xiong S, Xu Y, Liu J, Liu H, Zhao J, et al. Efﬁcacy and safety of
+intravenous moxiﬂoxacin versus cefoperazone with azithromycin in
+the treatment of community acquired pneumonia. J Huazhong Univ
+Sci Technolog Med Sci 2006;26:421–424.
+
+104. Raz-Pasteur A, Shasha D, Paul M. Fluoroquinolones or macrolides
+
+alone versus combined with b-lactams for adults with community-
+acquired pneumonia: systematic review and meta-analysis. Int J
+Antimicrob Agents 2015;46:242–248.
+
+105. Lee JS, Giesler DL, Gellad WF, Fine MJ. Antibiotic therapy for adults
+
+hospitalized with community-acquired pneumonia: a systematic
+review. JAMA 2016;315:593–602.
+
+106. Stets R, Popescu M, Gonong JR, Mitha I, Nseir W, Madej A, et al.
+
+Omadacycline for community-acquired bacterial pneumonia. N
+Engl J Med 2019;380:517–527.
+
+107. Garin N, Genn ´e D, Carballo S, Chuard C, Eich G, Hugli O, et al. b-Lactam
+monotherapy vs b-lactam-macrolide combination treatment in
+moderately severe community-acquired pneumonia: a randomized
+noninferiority trial. JAMA Intern Med 2014;174:1894–1901.
+
+108. Nie W, Li B, Xiu Q. b-Lactam/macrolide dual therapy versus b-lactam
+monotherapy for the treatment of community-acquired pneumonia
+in adults: a systematic review and meta-analysis. J Antimicrob
+Chemother 2014;69:1441–1446.
+
+109. Horita N, Otsuka T, Haranaga S, Namkoong H, Miki M, Miyashita N,
+et al. Beta-lactam plus macrolides or beta-lactam alone for
+community-acquired pneumonia: a systematic review and meta-
+analysis. Respirology 2016;21:1193–1200.
+
+110. File TM Jr, Goldberg L, Das A, Sweeney C, Saviski J, Gelone SP, et al.
+Efﬁcacy and safety of iv-to-oral lefamulin, a pleuromutilin antibiotic,
+for treatment of community-acquired bacterial pneumonia: the
+phase 3 LEAP 1 trial. Clin Infect Dis [online ahead of print] 4 Feb
+2019; DOI: 10.1093/cid/ciz090.
+
+111. Sligl WI, Asadi L, Eurich DT, Tjosvold L, Marrie TJ, Majumdar SR.
+Macrolides and mortality in critically ill patients with community-
+acquired pneumonia: a systematic review and meta-analysis. Crit
+Care Med 2014;42:420–432.
+
+112. Vardakas KZ, Trigkidis KK, Falagas ME. Fluoroquinolones or
+macrolides in combination with b-lactams in adult patients
+hospitalized with community acquired pneumonia:
+a systematic review and meta-analysis. Clin Microbiol Infect
+2017;23:234–241.
+
+113. Gleeson K, Eggli DF, Maxwell SL. Quantitative aspiration during sleep
+
+in normal subjects. Chest 1997;111:1266–1272.
+
+114. Marik PE. Aspiration pneumonitis and aspiration pneumonia. N Engl J
+
+Med 2001;344:665–671.
+
+115. Marrie TJ, Durant H, Kwan C. Nursing home-acquired pneumonia:
+a case-control study. J Am Geriatr Soc 1986;34:697–702.
+116. Jaoude P, Badlam J, Anandam A, El-Solh AA. A comparison between
+time to clinical stability in community-acquired aspiration
+pneumonia and community-acquired pneumonia. Intern Emerg
+Med 2014;9:143–150.
+
+117. Bartlett JG, Gorbach SL. Treatment of aspiration pneumonia and
+primary lung abscess: penicillin G vs clindamycin. JAMA 1975;234:
+935–937.
+
+118. Cesar L, Gonzalez C, Calia FM. Bacteriologic ﬂora of aspiration-
+induced pulmonary infections. Arch Intern Med 1975;135:
+711–714.
+
+119. El-Solh AA, Pietrantoni C, Bhat A, Aquilina AT, Okada M, Grover V,
+et al. Microbiology of severe aspiration pneumonia in institutionalized
+elderly. Am J Respir Crit Care Med 2003;167:1650–1654.
+
+120. Marik PE, Careau P. The role of anaerobes in patients with ventilator-
+
+associated pneumonia and aspiration pneumonia: a prospective
+study. Chest 1999;115:178–183.
+
+121. Mier L, Dreyfuss D, Darchy B, Lanore JJ, Djeda¨ıni K, Weber P, et al. Is
+penicillin G an adequate initial treatment for aspiration pneumonia?
+A prospective evaluation using a protected specimen brush and
+quantitative cultures. Intensive Care Med 1993;19:279–284.
+122. American Thoracic Society; Infectious Diseases Society of America.
+
+Guidelines for the management of adults with hospital-acquired,
+ventilator-associated, and healthcare-associated pneumonia. Am J
+Respir Crit Care Med 2005;171:388–416.
+
+123. Kollef MH, Shorr A, Tabak YP, Gupta V, Liu LZ, Johannes RS.
+
+Epidemiology and outcomes of health-care-associated pneumonia:
+results from a large US database of culture-positive pneumonia.
+Chest 2005;128:3854–3862.
+
+124. Attridge RT, Frei CR, Pugh MJ, Lawson KA, Ryan L, Anzueto A, et al.
+Health care-associated pneumonia in the intensive care unit:
+guideline-concordant antibiotics and outcomes. J Crit Care 2016;
+36:265–271.
+
+125. Attridge RT, Frei CR, Restrepo MI, Lawson KA, Ryan L, Pugh MJ, et al.
+Guideline-concordant therapy and outcomes in healthcare-
+associated pneumonia. Eur Respir J 2011;38:878–887.
+126. Chalmers JD, Rother C, Salih W, Ewig S. Healthcare-associated
+
+pneumonia does not accurately identify potentially resistant
+pathogens: a systematic review and meta-analysis. Clin Infect Dis
+2014;58:330–339.
+
+127. Chen JI, Slater LN, Kurdgelashvili G, Husain KO, Gentry CA.
+
+Outcomes of health care-associated pneumonia empirically treated
+with guideline-concordant regimens versus community-acquired
+pneumonia guideline-concordant regimens for patients admitted to
+acute care wards from home. Ann Pharmacother 2013;47:9–19.
+
+128. Dobler CC, Waterer G. Healthcare-associated pneumonia: a US
+
+disease or relevant to the Asia Paciﬁc, too? Respirology 2013;18:
+923–932.
+
+129. Ewig S, Welte T. Adding fuel to the ﬂames? It is time to leave HCAP.
+
+Respir Med 2012;106:1309–1310.
+
+130. Grenier C, P ´epin J, Nault V, Howson J, Fournier X, Poirier MS, et al.
+Impact of guideline-consistent therapy on outcome of patients with
+healthcare-associated and community-acquired pneumonia. J
+Antimicrob Chemother 2011;66:1617–1624.
+
+131. Jones BE, Jones MM, Huttner B, Stoddard G, Brown KA, Stevens VW,
+et al. Trends in antibiotic use and nosocomial pathogens in
+hospitalized Veterans with pneumonia at 128 medical centers,
+2006-2010. Clin Infect Dis 2015;61:1403–1410.
+
+132. Kamata K, Suzuki H, Kanemoto K, Tokuda Y, Shiotani S, Hirose Y,
+
+et al. Clinical evaluation of the need for carbapenems to treat
+community-acquired and healthcare-associated pneumonia. J
+Infect Chemother 2015;21:596–603.
+
+e64
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+133. Rothberg MB, Zilberberg MD, Pekow PS, Priya A, Haessler S, Belforti
+R, et al. Association of guideline-based antimicrobial therapy and
+outcomes in healthcare-associated pneumonia. J Antimicrob
+Chemother 2015;70:1573–1579.
+
+134. Webb BJ, Dascomb K, Stenehjem E, Dean N. Predicting risk of drug-
+resistant organisms in pneumonia: moving beyond the HCAP
+model. Respir Med 2015;109:1–10.
+
+135. Webb BJ, Dascomb K, Stenehjem E, Vikram HR, Agrwal N, Sakata K,
+et al. Derivation and multicenter validation of the drug resistance in
+pneumonia clinical prediction score. Antimicrob Agents Chemother
+2016;60:2652–2663.
+
+136. Arancibia F, Bauer TT, Ewig S, Mensa J, Gonzalez J, Niederman MS,
+et al. Community-acquired pneumonia due to gram-negative
+bacteria and pseudomonas aeruginosa: incidence, risk, and
+prognosis. Arch Intern Med 2002;162:1849–1858.
+
+137. Cill ´oniz C, Gabarr ´us A, Ferrer M, Puig de la Bellacasa J, Rinaudo M,
+Mensa J, et al. Community-acquired pneumonia due to multidrug-
+and non-multidrug-resistant Pseudomonas aeruginosa. Chest
+2016;150:415–425.
+
+138. Falcone M, Russo A, Giannella M, Cangemi R, Scarpellini MG,
+Bertazzoni G, et al. Individualizing risk of multidrug-resistant
+pathogens in community-onset pneumonia. PLoS One 2015;10:
+e0119528.
+
+139. Gross AE, Van Schooneveld TC, Olsen KM, Rupp ME, Bui TH,
+
+Forsung E, et al. Epidemiology and predictors of multidrug-resistant
+community-acquired and health care-associated pneumonia.
+Antimicrob Agents Chemother 2014;58:5262–5268.
+140. Jung JY, Park MS, Kim YS, Park BH, Kim SK, Chang J, et al.
+
+Healthcare-associated pneumonia among hospitalized patients in
+a Korean tertiary hospital. BMC Infect Dis 2011;11:61.
+141. Jung WJ, Kang YA, Park MS, Park SC, Leem AY, Kim EY, et al.
+
+Prediction of methicillin-resistant Staphylococcus aureus in patients
+with non-nosocomial pneumonia. BMC Infect Dis 2013;13:370.
+
+142. Metersky ML, Frei CR, Mortensen EM. Predictors of Pseudomonas
+
+and methicillin-resistant Staphylococcus aureus in hospitalized patients
+with healthcare-associated pneumonia. Respirology 2016;21:157–163.
+143. Minejima E, Lou M, Nieberg P, Wong-Beringer A. Patients presenting
+
+to the hospital with MRSA pneumonia: differentiating
+characteristics and outcomes with empiric treatment. BMC Infect
+Dis 2014;14:252.
+
+144. Pifarre R, Falguera M, Vicente-de-Vera C, Nogues A. Characteristics
+of community-acquired pneumonia in patients with chronic
+obstructive pulmonary disease. Respir Med 2007;101:2139–2144.
+145. Polverino E, Cilloniz C, Menendez R, Gabarrus A, Rosales-Mayor E,
+Alcaraz V, et al. Microbiology and outcomes of community acquired
+pneumonia in non cystic-ﬁbrosis bronchiectasis patients. J Infect
+2015;71:28–36.
+
+152. Wang PH, Wang HC, Cheng SL, Chang HT, Laio CH. Selection of
+
+empirical antibiotics for health care-associated pneumonia via
+integration of pneumonia severity index and risk factors of drug-
+resistant pathogens. J Formos Med Assoc 2016;115:356–363.
+
+153. Wooten DA, Winston LG. Risk factors for methicillin-resistant
+
+Staphylococcus aureus in patients with community-onset and
+hospital-onset pneumonia. Respir Med 2013;107:1266–1270.
+154. Wu HP, Chu CM, Lin CY, Yu CC, Hua CC, Yu TJ, et al. Liver cirrhosis
+
+and diabetes mellitus are risk factors for Staphylococcus aureus
+infection in patients with healthcare-associated or hospital-
+acquired pneumonia. Pulm Med 2016;2016:4706150.
+
+155. Aliberti S, Reyes LF, Faverio P, Sotgiu G, Dore S, Rodriguez AH, et al.;
+GLIMP Investigators. Global initiative for methicillin-resistant
+Staphylococcus aureus pneumonia (GLIMP): an international,
+observational cohort study. Lancet Infect Dis 2016;16:1364–1376.
+
+156. Restrepo MI, Babu BL, Reyes LF, Chalmers JD, Soni NJ, Sibila O,
+
+et al.; GLIMP. Burden and risk factors for Pseudomonas aeruginosa
+community-acquired pneumonia: a multinational point prevalence
+study of hospitalised patients. Eur Respir J 2018;52:1701190.
+
+157. Carugati M, Franzetti F, Wiemken T, Kelley RR, Peyrani P, Blasi F,
+
+et al. De-escalation therapy among bacteraemic patients with
+community-acquired pneumonia. Clin Microbiol Infect 2015;21:936,
+e11-8.
+
+158. Viasus D, Simonetti AF, Garcia-Vidal C, Niubo J, Dorca J, Carratala J.
+Impact of antibiotic de-escalation on clinical outcomes in
+community-acquired pneumococcal pneumonia. J Antimicrob
+Chemother 2017;72:547–553.
+
+159. Cremers AJ, Sprong T, Schouten JA, Walraven G, Hermans PW, Meis
+
+JF, et al. Effect of antibiotic streamlining on patient outcome in
+pneumococcal bacteraemia. J Antimicrob Chemother 2014;69:
+2258–2264.
+
+160. Yamana H, Matsui H, Tagami T, Hirashima J, Fushimi K, Yasunaga H.
+De-escalation versus continuation of empirical antimicrobial therapy in
+community-acquired pneumonia. J Infect 2016;73:314–325.
+161. Buckel WR, Stenehjem E, Sorensen J, Dean N, Webb B. Broad-
+
+versus narrow-spectrum oral antibiotic transition and outcomes in
+health care-associated pneumonia. Ann Am Thorac Soc 2017;14:
+200–205.
+
+162. Morel J, Casoetto J, Josp ´e R, Aubert G, Terrana R, Dumont A, et al.
+De-escalation as part of a global strategy of empiric antibiotherapy
+management: a retrospective study in a medico-surgical intensive
+care unit. Crit Care 2010;14:R225.
+
+163. Leone M, Bechis C, Baumstarck K, Lefrant JY, Alban `ese J, Jaber S,
+et al.; AZUREA Network Investigators. De-escalation versus
+continuation of empirical antimicrobial treatment in severe sepsis:
+a multicenter non-blinded randomized noninferiority trial. Intensive
+Care Med 2014;40:1399–1408.
+
+146. Prina E, Ranzani OT, Polverino E, Cill ´oniz C, Ferrer M, Fernandez L,
+
+164. Guti ´errez-Pizarraya A, Leone M, Garnacho-Montero J, Martin C,
+
+et al. Risk factors associated with potentially antibiotic-resistant
+pathogens in community-acquired pneumonia. Ann Am Thorac Soc
+2015;12:153–160.
+
+147. Rodrigo-Troyano A, Sibila O. The respiratory threat posed by
+
+multidrug resistant Gram-negative bacteria. Respirology 2017;22:
+1288–1299.
+
+148. Shindo Y, Ito R, Kobayashi D, Ando M, Ichikawa M, Shiraki A, et al.
+Risk factors for drug-resistant pathogens in community-acquired
+and healthcare-associated pneumonia. Am J Respir Crit Care Med
+2013;188:985–995.
+
+149. Shorr AF, Myers DE, Huang DB, Nathanson BH, Emons MF, Kollef
+
+MH. A risk score for identifying methicillin-resistant Staphylococcus
+aureus in patients presenting to the hospital with pneumonia. BMC
+Infect Dis 2013;13:268.
+
+150. Torre-Cisneros J, Natera C, Mesa F, Trikic M, Rodriguez-Bano J.
+
+Clinical predictors of methicillin-resistant Staphylococcus aureus in
+nosocomial and healthcare-associated pneumonia: a multicenter,
+matched case-control study. Eur J Clin Microbiol Infect Dis 2018;
+37:51–56.
+
+151. von Baum H, Welte T, Marre R, Suttorp N, Ewig S; CAPNETZ
+study group. Community-acquired pneumonia through
+Enterobacteriaceae and Pseudomonas aeruginosa: diagnosis,
+incidence and predictors. Eur Respir J 2010;35:598–605.
+
+Martin-Loeches I. Collaborative approach of individual participant
+data of prospective studies of de-escalation in non-immunosuppressed
+critically ill patients with sepsis. Expert Rev Clin Pharmacol 2017;10:
+457–465.
+
+165. Jones BE, Brown KA, Jones MM, Huttner BD, Greene T, Sauer BC,
+et al. Variation in empiric coverage versus detection of methicillin-
+resistant Staphylococcus aureus and Pseudomonas aeruginosa in
+hospitalizations for community-onset pneumonia across 128 US
+Veterans Affairs Medical Centers. Infect Control Hosp Epidemiol
+2017;38:937–944.
+
+166. Kalil AC, Metersky ML, Klompas M, Muscedere J, Sweeney DA,
+
+Palmer LB, et al. Management of adults with hospital-acquired and
+ventilator-associated pneumonia: 2016 clinical practice guidelines
+by the Infectious Diseases Society of America and the American
+Thoracic Society. Clin Infect Dis 2016;63:e61–e111.
+
+167. Dangerﬁeld B, Chung A, Webb B, Seville MT. Predictive value of
+methicillin-resistant Staphylococcus aureus (MRSA) nasal swab
+PCR assay for MRSA pneumonia. Antimicrob Agents Chemother
+2014;58:859–864.
+
+168. Parente DM, Cunha CB, Mylonakis E, Timbrook TT. The clinical utility
+of methicillin-resistant Staphylococcus aureus (MRSA) nasal
+screening to rule out MRSA pneumonia: a diagnostic meta-analysis
+with antimicrobial stewardship implications. Clin Infect Dis 2018;67:1–7.
+
+American Thoracic Society Documents
+
+e65
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+169. Rhodes A, Evans LE, Alhazzani W, Levy MM, Antonelli M, Ferrer R,
+
+et al. Surviving sepsis Campaign: international guidelines for
+management of sepsis and septic shock: 2016. Intensive Care Med
+2017;43:304–377.
+
+170. Confalonieri M, Urbino R, Potena A, Piattella M, Parigi P, Puccio G,
+
+et al. Hydrocortisone infusion for severe community-acquired
+pneumonia: a preliminary randomized study. Am J Respir Crit Care
+Med 2005;171:242–248.
+
+171. Nafae RM, Ragab MI, Amany FM, Rashed SB. Adjuvant role of
+
+corticosteroids in the treatment of community-acquired pneumonia.
+Egypt J Chest Dis Tuberc 2013;62:439–445.
+
+172. Blum CA, Nigro N, Briel M, Schuetz P, Ullmer E, Suter-Widmer I, et al.
+Adjunct prednisone therapy for patients with community-acquired
+pneumonia: a multicentre, double-blind, randomised, placebo-
+controlled trial. Lancet 2015;385:1511–1518.
+
+173. Torres A, Sibila O, Ferrer M, Polverino E, Menendez R, Mensa J, et al.
+
+Effect of corticosteroids on treatment failure among hospitalized
+patients with severe community-acquired pneumonia and high
+inﬂammatory response: a randomized clinical trial. JAMA 2015;313:
+677–686.
+
+174. Horita N, Otsuka T, Haranaga S, Namkoong H, Miki M, Miyashita N,
+et al. Adjunctive systemic corticosteroids for hospitalized
+community-acquired pneumonia: systematic review and meta-
+analysis 2015 update. Sci Rep 2015;5:14061.
+
+175. Siemieniuk RA, Meade MO, Alonso-Coello P, Briel M, Evaniew N,
+Prasad M, et al. Corticosteroid therapy for patients hospitalized
+with community-acquired pneumonia: a systematic review and
+meta-analysis. Ann Intern Med 2015;163:519–528.
+
+176. Briel M, Spoorenberg SMC, Snijders D, Torres A, Fernandez-Serrano
+S, Meduri GU, et al.; Ovidius Study Group; Capisce Study Group;
+STEP Study Group. Corticosteroids in patients hospitalized
+with community-acquired pneumonia: systematic review and
+individual patient data metaanalysis. Clin Infect Dis 2018;66:
+346–354.
+
+177. Chen LP, Chen JH, Chen Y, Wu C, Yang XH. Efﬁcacy and safety of
+glucocorticoids in the treatment of community-acquired
+pneumonia: a meta-analysis of randomized controlled trials. World
+J Emerg Med 2015;6:172–178.
+
+178. Keh D, Trips E, Marx G, Wirtz SP, Abduljawwad E, Bercker S, et al.;
+
+SepNet–Critical Care Trials Group. Effect of hydrocortisone on
+development of shock among patients with severe sepsis: the
+HYPRESS randomized clinical trial. JAMA 2016;316:1775–1785.
+
+179. Waljee AK, Rogers MA, Lin P, Singal AG, Stein JD, Marks RM, et al.
+
+Short term use of oral corticosteroids and related harms among
+adults in the United States: population based cohort study. BMJ
+2017;357:j1415.
+
+180. Rodrigo C, Leonardi-Bee J, Nguyen-Van-Tam J, Lim WS.
+
+Corticosteroids as adjunctive therapy in the treatment of inﬂuenza.
+Cochrane Database Syst Rev 2016;3:CD010406.
+
+181. Lee N, Choi KW, Chan PK, Hui DS, Lui GC, Wong BC, et al. Outcomes
+of adults hospitalised with severe inﬂuenza. Thorax 2010;65:510–515.
+182. McGeer A, Green KA, Plevneshi A, Shigayeva A, Siddiqi N, Raboud J,
+et al.; Toronto Invasive Bacterial Diseases Network. Antiviral
+therapy and outcomes of inﬂuenza requiring hospitalization in
+Ontario, Canada. Clin Infect Dis 2007;45:1568–1575.
+
+183. Lee EH, Wu C, Lee EU, Stoute A, Hanson H, Cook HA, et al. Fatalities
+associated with the 2009 H1N1 inﬂuenza A virus in New York city.
+Clin Infect Dis 2010;50:1498–1504.
+
+184. Siston AM, Rasmussen SA, Honein MA, Fry AM, Seib K, Callaghan
+WM, et al.; Pandemic H1N1 Inﬂuenza in Pregnancy Working Group.
+Pandemic 2009 inﬂuenza A(H1N1) virus illness among pregnant
+women in the United States. JAMA 2010;303:1517–1525.
+185. Louie JK, Yang S, Acosta M, Yen C, Samuel MC, Schechter R, et al.
+Treatment with neuraminidase inhibitors for critically ill patients with
+inﬂuenza A (H1N1)pdm09. Clin Infect Dis 2012;55:1198–1204.
+186. Dobson J, Whitley RJ, Pocock S, Monto AS. Oseltamivir treatment for
+inﬂuenza in adults: a meta-analysis of randomised controlled trials.
+Lancet 2015;385:1729–1737.
+
+187. Venkatesan S, Myles PR, Leonardi-Bee J, Muthuri SG, Al Masri M,
+
+Andrews N, et al. Impact of outpatient neuraminidase inhibitor
+treatment in patients infected with inﬂuenza A(H1N1)pdm09 at high
+
+risk of hospitalization: an individual participant data metaanalysis.
+Clin Infect Dis 2017;64:1328–1334.
+
+188. Metersky ML, Masterton RG, Lode H, File TM, Jr., Babinchak T.
+Epidemiology, microbiology, and treatment considerations for
+bacterial pneumonia complicating inﬂuenza. Int J Infect Dis 2012;
+16:e321–e331.
+
+189. Shieh WJ, Blau DM, Denison AM, Deleon-Carnes M, Adem P,
+
+Bhatnagar J, et al. 2009 pandemic inﬂuenza A (H1N1): pathology
+and pathogenesis of 100 fatal cases in the United States. Am J
+Pathol 2010;177:166–175.
+
+190. Hageman JC, Uyeki TM, Francis JS, Jernigan DB, Wheeler JG,
+
+Bridges CB, et al. Severe community-acquired pneumonia due to
+Staphylococcus aureus, 2003-04 inﬂuenza season. Emerg Infect
+Dis 2006;12:894–899.
+
+191. Jean C, Louie JK, Glaser CA, Harriman K, Hacker JK, Aranki F, et al.
+
+Invasive group A streptococcal infection concurrent with 2009
+H1N1 inﬂuenza. Clin Infect Dis 2010;50:e59–e62.
+
+192. Paddock CD, Liu L, Denison AM, Bartlett JH, Holman RC, Deleon-
+Carnes M, et al. Myocardial injury and bacterial pneumonia
+contribute to the pathogenesis of fatal inﬂuenza B virus infection. J
+Infect Dis 2012;205:895–905.
+
+193. Rodr´ıguez AH, Avil ´es-Jurado FX, D´ıaz E, Schuetz P, Treﬂer SI, Sol ´e-
+
+Viol ´an J, et al.; SEMICYUC/GETGAG Working Group. Procalcitonin
+(PCT) levels for ruling-out bacterial coinfection in ICU patients with
+inﬂuenza: a CHAID decision-tree analysis. J Infect 2016;72:143–151.
+194. el Moussaoui R, de Borgie CA, van den Broek P, Hustinx WN, Bresser
+P, van den Berk GE, et al. Effectiveness of discontinuing antibiotic
+treatment after three days versus eight days in mild to moderate-
+severe community acquired pneumonia: randomised, double blind
+study. BMJ 2006;332:1355.
+
+195. Siegel RE, Alicea M, Lee A, Blaiklock R. Comparison of 7 versus
+
+10 days of antibiotic therapy for hospitalized patients with
+uncomplicated community-acquired pneumonia: a prospective,
+randomized, double-blind study. Am J Ther 1999;6:217–222.
+
+196. Dunbar LM, Wunderink RG, Habib MP, Smith LG, Tennenberg AM,
+
+Khashab MM, et al. High-dose, short-course levoﬂoxacin for
+community-acquired pneumonia: a new treatment paradigm. Clin
+Infect Dis 2003;37:752–760.
+
+197. Leophonte P, Choutet P, Gaillat J, Petitpretz P, Portier H, Montestruc
+F, et al. Efﬁcacit ´e compar ´ee de la ceftriaxone dans un traitement de
+dix jours versus un traitement raccourci de cinq jours des
+pneumonies aigues communautaires de l’adulte hospitalis ´e avec
+facteur de risque [in French]. Med Mal Infect 2992;32:360–381.
+
+198. Dimopoulos G, Matthaiou DK, Karageorgopoulos DE, Grammatikos
+AP, Athanassa Z, Falagas ME. Short- versus long-course
+antibacterial therapy for community-acquired pneumonia :
+a meta-analysis. Drugs 2008;68:1841–1854.
+
+199. Li JZ, Winston LG, Moore DH, Bent S. Efﬁcacy of short-course
+
+antibiotic regimens for community-acquired pneumonia: a meta-
+analysis. Am J Med 2007;120:783–790.
+
+200. Tansarli GS, Mylonakis E. Systematic review and meta-analysis of the
+efﬁcacy of short-course antibiotic treatments for community-
+acquired pneumonia in adults. Antimicrob Agents Chemother 2018;
+62:e00635-18.
+
+201. Kr ¨uger S, Ewig S, Papassotiriou J, Kunde J, Marre R, von Baum H,
+
+et al.; CAPNETZ Study Group. Inﬂammatory parameters predict
+etiologic patterns but do not allow for individual prediction of
+etiology in patients with CAP: results from the German competence
+network CAPNETZ. Respir Res 2009;10:65.
+
+202. Pﬁster R, Kochanek M, Leygeber T, Brun-Buisson C, Cuquemelle E,
+Machado MB, et al. Procalcitonin for diagnosis of bacterial
+pneumonia in critically ill patients during 2009 H1N1
+inﬂuenza pandemic: a prospective cohort study, systematic
+review and individual patient data meta-analysis. Crit Care 2014;
+18:R44.
+
+203. Musher DM, Bebko SP, Roig IL. Serum procalcitonin level, viral
+
+polymerase chain reaction analysis, and lower respiratory tract
+infection. J Infect Dis 2014;209:631–633.
+
+204. Halm EA, Fine MJ, Marrie TJ, Coley CM, Kapoor WN, Obrosky DS,
+et al. Time to clinical stability in patients hospitalized with
+community-acquired pneumonia: implications for practice
+guidelines. JAMA 1998;279:1452–1457.
+
+e66
+
+American Journal of Respiratory and Critical Care Medicine Volume 200 Number 7 | October 1 2019
+
+ AMERICAN THORACIC SOCIETY DOCUMENTS
+
+205. Zasowski E, Butterﬁeld JM, McNutt LA, Cohen J, Cosler L, Pai MP,
+et al. Relationship between time to clinical response and outcomes
+among Pneumonia Outcomes Research Team (PORT) risk class III
+and IV hospitalized patients with community-acquired pneumonia
+who received ceftriaxone and azithromycin. Antimicrob Agents
+Chemother 2014;58:3804–3813.
+
+206. Garin N, Felix G, Chuard C, Genn ´e D, Carballo S, Hugli O, et al.
+Predictors and implications of early clinical stability in patients
+hospitalized for moderately severe community-acquired
+pneumonia. PLoS One 2016;11:e0157350.
+
+207. Men ´endez R, Torres A, Zalaca´ın R, Aspa J, Mart´ın Villasclaras JJ,
+Border´ıas L, et al.; Neumofail Group. Risk factors of treatment
+failure in community acquired pneumonia: implications for disease
+outcome. Thorax 2004;59:960–965.
+
+208. Men ´endez R, Torres A, Rodr´ıguez de Castro F, Zalaca´ın R, Aspa J,
+Mart´ın Villasclaras JJ, et al.; Neumofail Group. Reaching stability in
+community-acquired pneumonia: the effects of the severity of
+disease, treatment, and the characteristics of patients. Clin Infect
+Dis 2004;39:1783–1790.
+
+209. Arancibia F, Ewig S, Martinez JA, Ruiz M, Bauer T, Marcos MA, et al.
+Antimicrobial treatment failures in patients with community-
+acquired pneumonia: causes and prognostic implications. Am J
+Respir Crit Care Med 2000;162:154–160.
+
+210. Uranga A, España PP, Bilbao A, Quintana JM, Arriaga I, Intxausti M,
+et al. Duration of antibiotic treatment in community-acquired
+pneumonia: a multicenter randomized clinical trial. JAMA Intern
+Med 2016;176:1257–1265.
+
+211. Macdonald C, Jayathissa S, Leadbetter M. Is post-pneumonia chest
+
+X-ray for lung malignancy useful? Results of an audit of current
+practice. Intern Med J 2015;45:329–334.
+
+212. Holmberg H, Kragsbjerg P. Association of pneumonia and lung
+
+cancer: the value of convalescent chest radiography and follow-up.
+Scand J Infect Dis 1993;25:93–100.
+
+213. Little BP, Gilman MD, Humphrey KL, Alkasab TK, Gibbons FK,
+
+Shepard JA, et al. Outcome of recommendations for radiographic
+follow-up of pneumonia on outpatient chest radiography. AJR Am J
+Roentgenol 2014;202:54–59.
+
+214. Tang KL, Eurich DT, Minhas-Sandhu JK, Marrie TJ, Majumdar SR. Incidence,
+correlates, and chest radiographic yield of new lung cancer diagnosis
+in 3398 patients with pneumonia. Arch Intern Med 2011;171:1193–1198.
+
+215. Mortensen EM, Copeland LA, Pugh MJ, Fine MJ, Nakashima B,
+
+Restrepo MI, et al. Diagnosis of pulmonary malignancy after
+hospitalization for pneumonia. Am J Med 2010;123:66–71.
+216. Moyer VA; U.S. Preventive Services Task Force. Screening for lung
+
+cancer: U.S. Preventive Services Task Force recommendation
+statement. Ann Intern Med 2014;160:330–338.
+
+American Thoracic Society Documents
+
+e67
+
+ 

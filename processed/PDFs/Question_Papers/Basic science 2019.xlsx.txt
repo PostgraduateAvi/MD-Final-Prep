@@ -1,0 +1,17 @@
+
+--- Sheet: Basic science 2019 ---
+ Question_ID  Serial_Number                                                                                                                       Stem  Tags
+         NaN              1 How will you approach a case of nosocomial fever? Describe what measures will be taken to prevent 4 nosocomial infections.   NaN
+         NaN              2                  Enumerate the causes of chronic breathlessness and cough. Describe aetiopathology of respiratory failure.   NaN
+         NaN              3                                                                      Anatomy of mediastinum and superior venacava syndrome   NaN
+         NaN              4                                                                                                         Medical negligence   NaN
+         NaN              5                                                                    Management of alcohol related nutritional deficiencies.   NaN
+         NaN              6                                                                                                  Phase III clinical trial.   NaN
+         NaN              7                                                      Immune complications of blood transfusion & diagnosis and management.   NaN
+         NaN              8                                                                                         Cerebral malaria  pathophysiology.   NaN
+         NaN              9                                                                                 Cushings disease diagnosis- and management   NaN
+         NaN             10                                                             Vitamin B12 -clinical presentation , evaluation and management   NaN
+--- Sheet: Sheet1 ---
+Empty DataFrame
+Columns: []
+Index: []

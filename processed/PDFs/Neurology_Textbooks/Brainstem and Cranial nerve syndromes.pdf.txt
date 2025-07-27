@@ -1,0 +1,1068 @@
+CHAPTER	21
+
+Brainstem	and	Multiple	Cranial
+Nerve	Syndromes
+
+The	 brainstem	 is	 a	 compact	 structure,	 with	 cranial	 nerve	 (CN)	 nuclei,	 nerve
+fascicles,	 and	 long	 ascending	 and	 descending	 tracts	 all	 closely	 juxtaposed.
+Structures	 and	 centers	 in	 the	 reticular	 formation	 control	 many	 vital	 functions.
+Brainstem	 diseases	 are	 serious	 and	 often	 life	 threatening.	 Involvement	 of	 the
+intricate	network	of	neural	structures	often	causes	a	plethora	of	clinical	findings.
+Brainstem	 syndromes	 typically	 involve	 dysfunction	 of	 one	 or	 more	 CNs.
+Deficits	 due	 to	 dysfunction	 of	 individual	 nerves	 are	 covered	 in	 the	 preceding
+chapters.	 This	 chapter	 discusses	 conditions	 that	 cause	 dysfunction	 beyond	 the
+distribution	 of	 a	 single	 CN,	 involving	 more	 than	 one	 CN,	 or	 conditions	 that
+involve	brainstem	structures	in	addition	to	the	CN	nucleus	or	fascicles.	The	first
+part	covers	intramedullary	disorders	of	the	brainstem,	and	the	second	part	covers
+disorders	that	involve	multiple	CNs	in	their	extramedullary	course.
+
+Some	may	argue	it	is	sufficient	to	recognize	that	a	brainstem	disorder	exists
+and	to	define	the	process	more	precisely	with	an	imaging	study.	However,	some
+important	 clinical	 conditions	 may	 cause	 major	 brainstem	 dysfunction	 without
+dramatically	 changing	 the	 appearance	 of	 the	 imaging	 study.	 Examples	 of
+processes	easily	missed	radiographically	include	Wernicke’s	disease,	progressive
+bulbar	 palsy	 (PBP),	 progressive	 supranuclear	 palsy,	 basilar	 artery	 migraine,
+Whipple’s	disease,	syringobulbia,	olivopontocerebellar	atrophy,	and	Gerstmann-
+Sträussler-Scheinker	syndrome.	With	disorders	causing	multiple	CN	deficits,	the
+imaging	studies	are	often	not	helpful.
+
+BRAINSTEM	SYNDROMES
+
+In	 the	 brainstem,	 descending	 motor	 tracts	 prior	 to	 decussation,	 as	 well	 as
+
+ascending	sensory	pathways	that	have	already	crossed,	lie	in	intimate	relation	to
+the	lower	motor	neurons	of	the	CN	nuclei.	With	a	few	exceptions,	CNs	innervate
+structures	 of	 the	 head	 and	 neck	 ipsilaterally.	 A	 process	 affecting	 the	 brainstem
+long	tracts	on	one	side	causes	clinical	abnormalities	on	the	opposite	side	of	the
+body.	 For	 this	 reason,	 focal	 brainstem	 lesions	 are	 characterized	 by	 “crossed”
+syndromes	of	ipsilateral	CN	dysfunction	and	contralateral	long	motor	or	sensory
+tract	dysfunction.	For	instance,	in	the	right	side	of	the	pons,	the	nuclei	for	CNs
+VI	and	VII	lie	in	proximity	to	the	right	corticospinal	tract,	which	is	destined	to
+decussate	in	the	medulla	to	innervate	the	left	side	of	the	body.	The	patient	with	a
+lesion	 in	 the	 right	 pons	 will	 have	 CN	 findings	 on	 the	 right,	 such	 as	 a	 sixth	 or
+seventh	nerve	palsy,	and	a	hemiparesis	on	the	left.
+
+This	 crossed	 deficit	 will	 often	 be	 associated	 with	 symptoms	 reflecting
+dysfunction	 of	 other	 brainstem	 structures	 or	 their	 connections.	 Because	 of	 the
+rich	vestibular	and	cerebellar	connections,	patients	with	brainstem	disease	often
+have	 dizziness	 or	 vertigo,	 unsteadiness,	 imbalance,	 incoordination,	 difficulty
+walking,	nausea,	and	vomiting.	Pharyngeal	and	laryngeal	muscles	are	innervated
+by	 neurons	 in	 the	 brainstem,	 and	 patients	 often	 have	 dysarthria	 or	 dysphagia.
+Dysfunction	 of	 CNs	 III,	 IV,	 and	 VI	 or	 their	 connections	 may	 cause	 ocular
+motility	 abnormalities.	 Unless	 the	 process	 has	 impaired	 the	 reticular	 activating
+system,	 these	 patients	 are	 normal	 mentally—awake,	 alert,	 able	 to	 converse
+(though	 perhaps	 dysarthric),	 not	 demented,	 not	 confused,	 and	 not	 aphasic.	 The
+fourth	ventricle	and	cerebral	aqueduct	lie	nearby;	if	these	are	involved,	patients
+may	 develop	 obstructive	 hydrocephalus.	 Although	 most	 pathologic	 processes
+that	involve	the	brainstem	occur	in	other	parts	of	the	brain,	some	disorders	are
+characterized	 by	 primarily	 brainstem	
+involvement	 (e.g.,	 central	 pontine
+myelinolysis,	 medulloblastoma,	 and	 olivopontocerebellar	 atrophy).	 With
+vascular	 lesions,	 the	 clinical	 deficit	 depends	 on	 whether	 the	 occlusive	 process
+has	 involved	 the	 paramedian	 perforating,	 short	 circumferential,	 or	 long
+circumferential	branches	of	the	basilar	artery.
+
+From	 an	 anatomical	 standpoint,	 brainstem	 syndromes	 may	 be	 localized	 by
+considering	the	rostral	to	caudal	level	and	the	medial	to	lateral	level.	The	rostral
+to	caudal	localization	is	determined	by	the	CN	involvement.	Abnormality	of	CN
+III	or	IV,	or	a	vertical	gaze	abnormality,	indicates	a	midbrain	lesion;	CN	VI	or
+VII,	 or	 a	 horizontal	 gaze	 palsy—a	 pontine	 lesion;	 CN	 VIII—a	 pontomedullary
+junction	lesion;	and	CNs	IX,	X,	XI,	or	XII—a	medullary	lesion.	Because	of	the
+vast	longitudinal	extent	of	the	spinal	tract	of	CN	V,	facial	sensory	abnormalities
+can	occur	with	lesions	anywhere	from	the	pons	to	the	cervical	spinal	cord.
+
+The	long	motor	tracts	tend	to	lie	medial,	and	the	long	sensory	tracts	lateral,	in
+the	 brainstem.	 Somatic	 motor	 nuclei	 (extraocular	 and	 hypoglossal)	 are
+paramedian;	branchiomotor	nuclei	are	more	lateral.	Involvement	 of	descending
+motor	 tracts	 or	 somatic	 motor	 nuclei	 indicates	 medial	 lesions;	 involvement	 of
+long	 sensory	 tracts,	 branchiomotor	 nuclei,	 and	 special	 sensory	 nuclei	 indicates
+lateral	lesions.	The	cerebellar	peduncles	also	lie	laterally.	The	alar	plate–derived
+sensory	nuclei	lie	laterally	and	are	separated	from	the	basal	plate–derived	motor
+nuclei	 by	 the	 sulcus	 limitans	 (Figures	 11.2	 and	 11.4).	 Paramedian	 perforators
+from	 the	 basilar	 artery	 perfuse	 the	 midline	 structures;	 circumferential	 arteries
+perfuse	 the	 lateral	 structures.	 There	 are	 therefore	 medial	 and	 lateral	 medullary
+syndromes;	medial	and	lateral	inferior,	middle,	and	superior	pontine	syndromes;
+and	 the	 midbrain	 syndromes.	 The	 posterior	 inferior	 cerebellar	 artery	 (PICA)
+supplies	 the	 lateral	 medulla;	 the	 anterior	 inferior	 cerebellar	 artery	 (AICA)
+supplies	 the	 inferior	 lateral	 pons;	 and	 the	 superior	 cerebellar	 artery	 (SCA)
+supplies	 the	 superior	 lateral	 pons.	 Paramedian	 lesions	 are	 typically	 lacunar;
+lateral	lesions	are	more	often	from	disease	of	the	larger	circumferential	vessels.
+The	 lateral	 medullary	 and	 pontine	 syndromes	 are	 often	 referred	 to	 by	 their
+vascular	territory	designations:	PICA,	AICA,	and	SCA.
+
+Occlusion	 of	 medial	 pontine	 branches	 of	 the	 basilar	 artery	 may	 cause
+involvement	of	the	nuclei	of	CNs	VI	and	VII	or	their	emerging	fibers,	the	medial
+longitudinal	fasciculus	(MLF),	the	corticospinal	tract,	the	medial	lemniscus,	and
+the	pontine	paramedian	reticular	formation.	Clinical	manifestations	may	include
+ipsilateral	facial	nerve	palsy,	abducens	palsy,	horizontal	gaze	palsy,	internuclear
+ophthalmoplegia	 (INO),	 or	 impaired	 taste,	 with	 contralateral	 corticospinal
+weakness	 and	 impaired	 lemniscal	 sensation.	 Thrombosis	 of	 the	 lateral	 pontine
+branches	of	the	basilar	artery	produces	ischemia	that	may	involve	the	middle	and
+superior	cerebellar	peduncles,	the	vestibular	and	cochlear	nuclei,	the	facial	and
+trigeminal	 motor	 nuclei,	 the	 trigeminal	 sensory	 nucleus,	 and	 the	 spinothalamic
+tract.	Findings	may	include	ipsilateral	cerebellar	ataxia	and	dysfunction	of	CNs
+V,	VII,	and	VIII,	with	contralateral	loss	of	pain	and	temperature	sensation	on	the
+trunk	and	extremities.	Occlusion	of	the	internal	auditory	artery	causes	unilateral
+deafness	and	impaired	vestibular	function.
+
+CLASSICAL	BRAINSTEM	SYNDROMES
+
+Many	 of	 the	 early	 neurologic	 pioneer	 clinicians	 described	 the	 clinical	 findings
+
+due	to	a	focal	process	affecting	the	brainstem.	These	physicians	practiced	in	an
+era	when	disorders	such	as	tuberculoma,	syphilitic	gumma,	and	tumor	were	seen
+much	 more	 often	 than	 today.	 Many	 of	 the	 classical	 brainstem	 syndromes	 as
+originally	 described	 were	 not	 due	 to	 ischemia,	 and	 the	 effects	 of	 tuberculoma,
+gumma,	 and	 similar	 lesions	 are	 not	 limited	 to	 vascular	 distributions.	 Some
+degree	of	mismatch	has	therefore	resulted	between	the	classic	 descriptions	and
+the	 current	 environment	 when	 most	 brainstem	 syndromes	 are	 due	 to	 ischemia.
+There	 has	 also	 been	 significant	 drift	 of	 many	 of	 the	 eponymic	 syndromes
+through	failure	to	honor	precisely	the	original	descriptions.	Liu	et	al.	pointed	out
+the	variability	in	textbook	descriptions	of	Claude’s,	Benedikt’s,	and	Nothnagel’s
+syndromes	 and	 noted	 the	 difference	 in	 textbook	 descriptions	 compared	 to	 the
+original	 papers.	 Box	 21.1	 contains	 a	 discussion	 of	 the	 classical	 eponymic
+brainstem	 syndromes,	 largely	 from	 a	 historical	 perspective,	 and	 Table	 21.1
+summarizes	the	clinical	features.
+
+Wallenberg	 described	 the	 lateral	 medullary	 syndrome	 (LMS),	 the	 most
+common	 form	 of	 brainstem	 stroke.	 Wallenberg’s	 original	 patient	 had	 an
+occlusion	 of	 the	 PICA,	 but	 LMS	 is	 most	 often	 due	 to	 ischemia	 in	 the	 PICA
+distribution	 because	 of	 vertebral	 artery	 occlusion	 (Figure	 21.1).	 Typical
+manifestations	 include	 vertigo,	 nausea	 and	 vomiting,	 nystagmus,	 hoarseness,
+dysphagia,	 dysphonia,	 singultus,	 ipsilateral	 hemiataxia,	 and	 numbness	 of	 the
+ipsilateral	face	and	contralateral	body.	Occipital	headache	or	pain	in	the	back	of
+the	 neck	 may	 occur	 at	 the	 onset;	 prominent	 pain	 raises	 the	 possibility	 of
+vertebral	 artery	 dissection.	 The	 patient	 may	 be	 unable	 to	 talk	 and	 swallow
+initially.	Clinical	findings	are	summarized	in	Table	21.1.
+
+BOX	21.1
+
+Classical	Brainstem	Syndromes
+
+Midbrain	Syndromes
+Weber	described	a	patient	with	a	hematoma	of	one	cerebral	peduncle,	which
+damaged	 the	 corticospinal	 and	 corticobulbar	 tracts	 and	 the	 exiting	 third
+nerve.	 The	 patient	 had	 a	 contralateral	 hemiparesis	 involving	 face,	 arm,	 and
+leg	 and	 an	 ipsilateral	 complete	 third	 nerve	 palsy.	 Benedikt	 described	 one
+patient	 with	 a	 similar	 peduncular	 lesion	 due	 to	 a	 midbrain	 tuberculoma,
+which	extended	further	into	the	tegmentum	and	involved	the	regions	of	the
+substantia	nigra	and	red	nucleus,	causing	tremor	and	involuntary	movements
+
+of	 the	 hemiparetic	 limbs.	 Two	 clinically	 similar	 patients	 were	 not	 studied
+pathologically;	 one	 probably	 had	 meningovascular	 syphilis.	 Claude
+described	 a	 patient	 with	 a	 midbrain	 infarction	 in	 whom	 the	 corticospinal
+pathways	 were	 not	 involved;	 the	 clinical	 picture	 was	 ipsilateral	 third	 nerve
+palsy	 and	 contralateral	 cerebellar	 ataxia	 due	 to	 involvement	 of	 the	 superior
+cerebellar	 peduncle.	 Debate	 remains	 about	 how	 much	 red	 nucleus
+involvement	occurs	in	Claude’s	and	Benedikt’s	syndrome.	Seo	concluded	on
+the	basis	of	clinical	and	magnetic	resonance	imaging	(MRI)	studies	that	the
+lesion	 usually	 lies	 just	 caudal	 and	 medial	 to	 the	 red	 nucleus	 and	 that	 the
+tremor	and	ataxia	are	due	to	involvement	of	the	cerebellar	outflow	pathways
+in	the	superior	cerebellar	peduncle.
+
+These	three	midbrain	syndromes	are	variations	on	a	theme.	The	lesion	is
+anterior—in	
+the	 cerebral	 peduncle—in	 Weber’s	 syndrome,	 causing
+hemiparesis.	It	is	more	posterior—in	the	tegmentum—in	Claude’s	syndrome,
+causing	 hemiataxia.	 In	 Benedikt’s	 syndrome,	 the	 lesion	 is	 more	 extensive,
+involving	 both	 the	 tegmentum	 and	 the	 peduncle,	 causing	 hemiparesis	 with
+tremor	and	ataxia	of	the	involved	limbs;	Benedikt’s	is	essentially	Weber’s	+
+Claude’s.	Because	the	fascicles	of	cranial	nerve	(CN)	III	are	scattered	in	their
+course	through	the	midbrain,	the	third	nerve	palsy	in	any	of	these	syndromes
+may	be	partial.
+
+Nothnagel’s	 (ophthalmoplegia-ataxia)	syndrome	is	different;	it	is	more	a
+variant	of	Parinaud’s	syndrome,	with	unilateral	or	bilateral	third	nerve	palsy
+and	ataxia	accompanied	by	vertical	gaze	deficits	and	other	neurologic	signs.
+The	 lesion	 affects	 the	 midbrain	 tectum	 and	 is	 often	 neoplastic.	 Nothnagel’s
+original	patient	had	a	pineal	sarcoma.
+
+Pontine	Syndromes
+Millard	 and	 Gubler	 separately	 described	 patients	 with	 an	 ipsilateral	 lower
+motor	neuron	facial	nerve	palsy	and	contralateral	hemiparesis	due	to	a	lesion
+involving	 the	 pons.	 Gubler’s	 cases	 included	 three	 with	 a	 tumor,	 one	 with	 a
+stroke,	and	one	with	a	brownish	softening.	Millard	reported	one	case	due	to
+pontine	 hemorrhage	 as	 a	 letter	 to	 the	 editor	 in	 the	 journal	 where	 Gubler
+reported	his	cases.	In	all	cases,	the	lesion	lay	in	the	lateral	pons	and	did	not
+involve	CN	VI;	the	patients	had	no	ocular	motility	disturbance.	Nevertheless,
+it	 is	 common	 to	 see	 sixth	 nerve	 palsy	 included	 in	 textbook	 descriptions	 of
+Millard-Gubler	 syndrome.	 Gubler	 was	 a	 senior	 clinician	 reporting	 several
+cases;	 Millard	 had	 just	 graduated	 from	 medical	 school,	 was	 essentially	 a
+resident,	and	reported	only	one.	Gubler	instructed	the	journal	editor	to	give
+
+Millard	precedence,	hence	the	eponym.
+
+Foville	 described	 a	 patient	 with	 an	 ipsilateral	 lower	 motor	 neuron	 facial
+palsy	and	a	horizontal	gaze	palsy,	with	a	contralateral	hemiparesis;	there	was
+no	pathology	but	the	onset	was	apoplectic.	Landry,	in	a	letter	commenting	on
+Foville’s	 case,	 described	 a	 patient	 with	 sixth	 nerve	 palsy	 and	 contralateral
+hemiplegia,	 including	 the	 face,	 due	 to	 pontine	 ischemia	 in	 a	 patient	 with
+syphilis.	 Yelloly	 had	 described	 a	 case	 of	 abducens	 palsy	 with	 contralateral
+hemiplegia	 50	 years	 previously.	 Raymond	 described	 a	 patient	 with	 sixth
+nerve	 palsy	 and	 contralateral	 hemiplegia,	 but	 it	 is	 not	 clear	 that	 the
+hemiplegia	was	of	pontine	origin.
+
+Medullary	Syndromes
+There	are	two	primary	medullary	syndromes,	the	lateral	(Wallenberg)	and	the
+medial	 (Dejerine).	 The	 rare	 medial	 medullary	 syndrome	 is	 summarized	 in
+Table	 21.1.	 In	 a	 study	 of	 clinical	 magnetic	 resonance	 imaging	 (MRI)
+correlation	 in	 medial	 medullary	 infarction,	 classical	 Dejerine’s	 syndrome
+(ipsilateral	 tongue	 weakness	 with	 contralateral	 hemiparesis	 and	 lemniscal
+sensory	loss)	was	seen	in	64%	of	patients;	the	remainder	had	partial	lesions,
+which	 may	 be	 less	 readily	 recognized.	 In	 a	 series	 of	 18	 patients,	 the	 most
+common	 manifestation	 of	 medial	 medullary	 stroke	 was	 a	 unilateral
+sensorimotor	 deficit.	 The	 extremely	 rare	 bilateral	 medial	 medullary
+syndrome	 causes	 quadriparesis	 and	 other	 abnormalities.	 Isolated	 tongue
+weakness	has	been	reported	because	of	bilateral	medullary	infarction.	Other
+syndromes	of	the	medulla	(Avellis’s,	 Jackson’s,	Schmidt’s,	Céstan-Chenais,
+and	 Babinski-Nageotte)	 are	 described	 in	 Table	 21.1.	 Except	 for	 the
+occasional	upper	motor	neuron	facial	palsy	in	Wallenberg’s	syndrome,	there
+is	sparing	of	facial	motor	function	in	all	of	the	medullary	syndromes.
+
+In	a	series	of	MRI-verified	LMS,	the	most	common	findings	were	ipsilateral
+Horner’s	 syndrome	 and	 ataxia	 and	 contralateral	 body	 hypalgesia.	 The
+spontaneous	 nystagmus	 is	 usually	 horizontal	 or	 mixed	 horizontal-torsional.
+Horizontal	nystagmus	beats	away	from	the	side	of	the	lesion	and	may	be	second
+or	third	degree.	Torsional	nystagmus	with	the	upper	poles	beating	away	from	the
+side	of	the	lesion	is	also	common.	The	nystagmus	is	influenced	by	head	and	eye
+position	 and	 by	 fixation.	 Dysphagia	 is	 common.	 It	 is	 often	 more	 severe	 than
+would	be	expected	simply	from	a	lesion	of	the	nucleus	ambiguus,	and	disruption
+of	connections	to	a	premotor	swallowing	center	in	the	dorsolateral	medulla	has
+
+been	postulated.	Partial	resolution	and	survival	is	the	rule;	the	ability	to	swallow
+and	 talk	 returns,	 although	 residual	 hoarseness,	 persistent	 ataxia,	 and	 sensory
+changes	 may	 remain.	 Aspiration	 is	 a	 major	 threat.	 The	 presence	 of	 dysphonia,
+soft	 palate	 dysfunction,	 or	 facial	 sensory	 loss	 suggests	 an	 increased	 risk.
+Although	 LMS	 is	 usually	 ischemic,	 it	 has	 also	 been	 described	 with	 aneurysm,
+abscess,	 hematoma,	 arteriovenous	 malformation,	 demyelinating	 disease,	 and
+metastatic	 neoplasm.	 The	 LMS	 may	 have	 many	 unusual	 manifestations	 (Box
+21.2).
+
+ANATOMIC	BRAINSTEM	SYNDROMES
+
+The	other	approach	to	organizing	brainstem	syndromes	is	by	the	anatomical	area
+or	the	major	blood	vessel	involved.	The	midbrain	syndromes	are	variations	and
+combinations	of	an	ipsilateral	third	nerve	palsy	and	weakness,	ataxia,	or	tremor
+of	 the	 contralateral	 limbs;	 this	 is	 due	 to	 ischemia	 in	 the	 distribution	 of
+paramedian	 penetrating	 vessels	 from	 the	 rostral	 basilar	 artery.	 The	 LMS	 is
+discussed	 in	 the	 previous	 section,	 and	 the	 medial	 medullary	 syndrome	 is
+discussed	in	Box	21.1.
+
+The	 vascular	 pontine	 syndromes	 can	 be	 divided	 into	 medial	 and	 lateral	 and
+into	 superior,	 middle,	 and	 inferior.	 The	 medial	 pontine	 syndromes	 are	 due	 to
+disease	of	the	paramedian	perforators;	the	lateral	pontine	syndromes	are	due	to
+disease	 of	 the	 circumferential	 arteries.	 The	 AICA	 supplies	 the	 lateral	 inferior
+pons	and	upper	medulla,	whereas	the	SCA	supplies	the	lateral	upper	pons.	The
+midpons	 is	 supplied	 by	 a	 short	 circumferential	 artery.	 Just	 as	 PICA	 ischemia
+causes	 the	 LMS,	 ischemia	 in	 the	 AICA	 distribution	 causes	 the	 lateral	 inferior
+pontine	 syndrome;	 and	 ischemia	 in	 the	 SCA	 distribution	 causes	 the	 lateral
+superior	 pontine	 syndrome.	 The	 generally	 recognized	 pontine	 syndromes	 are
+therefore	the	medial	inferior	pontine,	lateral	inferior	pontine	(AICA),	medial	and
+lateral	midpontine,	medial	superior	pontine,	and	lateral	superior	pontine	(SCA).
+The	 vascular	 pontine	 syndromes	 are	 summarized	 in	 Table	 21.2.	 In	 a	 series	 of
+patients	 with	 lesions	 involving	 the	 AICA	 distribution,	 only	 29%	 had	 the
+complete	AICA	syndrome.	Partial	syndromes	were	characteristic	of	small	vessel
+disease;	more	widespread	involvement	indicated	basilar	artery	occlusive	disease.
+The	SCA	syndrome	is	also	often	partial.	Basilar	branch	occlusion	may	involve
+any	 of	 the	 branches	 of	 the	 basilar	 artery.	 The	 mechanism	 is	 atherothrombotic
+occlusion	at	the	point	of	origin	of	the	branch,	and	the	infarction	typically	extends
+
+to	the	ventral	surface	of	the	pons.
+
+Vertebrobasilar	transient	ischemic	attacks	(vertebrobasilar	insufficiency,	VBI)
+are	 episodes	 of	 brainstem	 ischemia	 due	 to	 occlusive	 disease	 involving	 the
+posterior	 circulation.	 Symptoms	 depend	 upon	 which	 region	 of	 the	 brainstem	 is
+ischemic.	The	clinical	manifestations	of	an	attack	of	VBI	are	typically	bilateral,
+with	 varying	 degrees	 of	 weakness,	 numbness,	 and	 CN	 dysfunction.
+Accompanying	symptoms	indicative	of	brainstem	dysfunction	include	diplopia,
+dysarthria,	 dysphagia,	 vertigo,	 nausea,	 and	 vomiting.	 There	 may	 be	 impaired
+vision	 due	 to	 ischemia	 in	 the	 posterior	 cerebral	 artery	 distribution.	 Bilateral
+sensory	 complaints	 are	 common,	 especially	 circumoral	 paresthesias.	 Attacks
+usually	last	from	a	few	minutes	to	half	an	hour,	sometimes	longer.
+
+TABLE
+21.1
+
+Summary	of	the	Classical	Named	Brainstem
+Syndromes
+
+FIGURE	 21.1	 Cross	 section	 of	 the	 medulla	 illustrating	 the	 lesion	 in	 the	 lateral
+medullary	syndrome.
+
+Basilar	artery	occlusion	may	have	a	gradual	onset	or	a	fluctuating	course	with
+prodromata,	 but	 often,	 the	 symptoms	 appear	 apocalyptically;	 death	 may	 occur
+
+within	 a	 short	 period	 of	 time.	 When	 the	 onset	 is	 acute,	 there	 is	 sudden	 loss	 of
+consciousness	 with	 gradually	 increasing	 coma	 and	 flaccid	 extremities	 or
+decerebrate	rigidity.	The	onset	may	be	subacute	with	prodromal	vertigo,	nausea,
+headache,	 and	 paresthesias,	 which	 may	 occur	 up	 to	 2	 weeks	 before	 the	 stroke,
+followed	 by	 bilateral	 CN	 and	 long	 tract	 abnormalities	 (progressive	 basilar
+in	 basilar	 artery
+thrombosis).	 Fisher	 described	 a	 “herald	 hemiparesis”	
+thrombosis,	frequently	present	at	an	early	stage,	when	brainstem	signs	are	absent
+or	inconspicuous,	followed	within	a	few	hours	by	bilateral	hemiplegia	and	coma
+or	a	locked-in	state	(Chapter	51).	With	total	occlusion,	there	is	either	hemiplegia
+on	one	side	and	partial	hemiplegia	on	the	other,	or	quadriplegia.	Involvement	of
+ascending	 sensory	 pathways	 causes	 a	 disturbance	 of	 both	 deep	 and	 superficial
+sensations	on	the	body,	the	extremities,	and	sometimes	the	face.	The	pupils	are
+usually	miotic	and	poorly	reactive.	Ocular	bobbing	and	palatal	myoclonus	may
+occur.	 The	 neurologic	 signs	 are	 characteristically	 variable	 and	 complex.	 Coma
+and	decerebrate	rigidity	with	respiratory	and	circulatory	instability	are	common.
+Patients	with	coma	at	the	outset	have	a	grave	prognosis.	The	site	of	occlusion
+is	 usually	 in	 the	 lower	 third	 of	 the	 basilar	 artery.	 The	 outcome	 with	 severe
+brainstem	 ischemic	 disease	 is	 usually	 poor.	 Death	 is	 a	 common	 outcome	 of
+complete	 basilar	 artery	 occlusion.	 Patients	 may	 be	 left	 in	 a	 locked-in	 state
+(Chapter	51).
+
+BOX	21.2
+
+Unusual	Manifestations	of	Lateral	Medullary	Syndrome
+
+Patients	 may	 have	 an	 ipsilateral	 upper	 motor	 neuron	 facial	 palsy	 due	 to
+involvement	of	Dejerine’s	aberrant	pyramidal	tract	(see	facial	nerve	chapter).
+In	the	series	of	Sacco	et	al.,	mild	ipsilateral	facial	weakness	was	present	in
+42%	 of	 patients,	 usually	 limited	 to	 the	 lower	 face.	 The	 hypalgesia	 may
+involve	only	the	ipsilateral	face	or	only	the	contralateral	body;	the	classical
+crossed	pattern	occurs	only	in	a	minority.	Other	patterns	of	sensory	loss	are
+discussed	in	Chapter	15.	Ocular	motor	abnormalities	are	common,	including
+skew	 deviation	 with	 ipsilateral	 hypotropia,	 ocular	 tilt	 reaction,	 bizarre
+environmental	 tilt	 illusions	 including	 world	 inversion	 (floor	 on	 ceiling
+phenomenon),	ipsilateral	gaze	deviation	with	impaired	contralateral	pursuit,
+saccadic	 abnormalities,	 seesaw	 nystagmus,	 and	 eyelid	 nystagmus.	 Ocular
+abnormalities	and	facial	weakness	are	common	and	do	not	imply	extension
+
+of	 the	 lesion	 beyond	 the	 lateral	 medulla.	 There	 may	 be	 contralateral
+hemiparesis	 due	 to	 inferior	 extension	 of	 the	 zone	 of	 ischemia	 to	 the
+medullary	 pyramid	 prior	 to	 decussation	 or	 ipsilateral	 hemiparesis	 due	 to
+inferior	extension	to	the	lateral	funiculus	of	the	rostral	spinal	cord	(Opalski’s
+submedullary	syndrome,	Figure	21.2).	Rarely,	there	is	impaired	sensation	of
+the	ipsilateral	arm	and	leg	due	to	inferior	extension	to	the	gracile	and	cuneate
+nuclei,	 ipsilateral	 loss	 of	 taste,	 or	 contralateral	 facial	 hypalgesia.	 Other
+unusual	 manifestations	 include	 wild	 unilateral,	 proximal	 arm	 ataxia;
+neurotrophic	ulceration	of	the	face;	inability	to	sneeze;	paroxysmal	sneezing;
+loss	 of	 taste;	 Ondine’s	 curse;	 and	 weakness	 of	 the	 sternocleidomastoid.
+Chronic	central	facial	pain	develops	in	some	patients.
+
+FIGURE	 21.2	 Imaging	 features	 of	 Opalski	 syndrome.	 Fluid-attenuated	 inversion
+recovery	MRI.	A.	Directionally	encoded	map	with	hues	reflecting	tensor	orientation.	B.
+Superimposed	 images.	 C,D.	 A	 yellow	 halo	 represents	 the	 infarct	 and	 blue	 lines
+represent	 the	 pyramidal	 tracts	 (coronal);	 the	 tracts	 fuse	 at	 the	 decussation
+(transverse).	Caudal	extension	of	the	lesion	involves	the	ipsilateral	corticospinal	tract
+(arrows)	after	the	decussation	(arrowheads).	(Reprinted	from	Nakamura	S,	Kitami	M,
+
+Furukawa	 Y.	 Opalski	 syndrome:	 ipsilateral	 hemiplegia	 due	 to	 a	 lateral-medullary
+infarction.	Neurology	2010;75[18]:1658,	with	permission.)
+
+TABLE
+21.2
+
+Summary	of	the	Vascular	Pontine	Syndromes	Organized
+by	Anatomical	Region	and	Blood	Vessel	Involved
+
+The	“top	of	the	basilar”	syndrome	is	caused	by	ischemia	in	the	distribution	of
+the	 distal	 basilar	 artery,	 usually	 embolic,	 involving	 the	 rostral	 brainstem,
+thalamus,	and	portions	of	the	cerebral	hemispheres	fed	by	the	posterior	cerebral
+arteries.	 A	 variety	 of	 oculomotor	 and	 pupillary	 abnormalities	 may	 occur,	 along
+with	 visual	 and	 behavioral	 abnormalities,	 often	 without	 significant	 extremity
+weakness.
+
+Patients	 with	 pontine	 hemorrhage	 have	 a	 clinical	 picture	 similar	 to	 basilar
+artery	occlusion,	but	warning	symptoms	are	less	apt	to	occur.	They	are	comatose
+and	 quadriplegic	 and	 have	 bilateral	 facial	 paralysis,	 bilateral	 horizontal	 gaze
+palsies,	and	pinpoint	poorly	reactive	pupils.	Hyperthermia	is	common.	Imaging
+studies	often	show	a	large	hematoma	in	the	midpons.	Few	patients	survive	such
+an	 event.	 The	 initial	 level	 of	 consciousness	 and	 the	 size	 of	 the	 hematoma	 are
+strongly	related	to	the	outcome.
+
+Pressure	on	the	brainstem	due	to	 supratentorial	mass	effect	can	cause	either
+
+lateral	transtentorial	herniation	(uncal	syndrome),	with	third	nerve	involvement
+and	 signs	 of	 lateral	 midbrain	 compression,	 or	 central	 transtentorial	 herniation,
+with	constricted	pupils,	Cheyne-Stokes	respirations,	bilateral	corticospinal	tract
+signs,	decorticate	rigidity,	and	progressive	impairment	of	diencephalic,	midbrain,
+pontine,	 and	 medullary	 function.	 Because	 of	 the	 patterns	 of	 venous	 drainage,
+increased	intracranial	pressure	and	herniation	at	either	the	foramen	magnum	or
+the	tentorium	may	cause	secondary	bleeding	into	the	midbrain,	pons,	or	medulla.
+Duret	 hemorrhages	 are	 secondary	 hemorrhages	 into	 the	 upper	 brainstem	 that
+occur	 with	 increased	 intracranial	 pressure	 and	 descending	 transtentorial
+herniation.	 Brainstem	 hemorrhage	 may	 cause	 hyperthermia,	 respiratory
+abnormalities,	 coma,	 and	 finally	 death	
+tumors,
+subarachnoid	 hemorrhage,	 cerebral	 hemorrhage,	 trauma,	 rapidly	 expanding
+supratentorial	 mass	 lesions,	 or	 similar	 conditions	 causing	 an	 increase	 in
+intracranial	 pressure.	 Affected	 patients	 rarely	 survive;	 Stiver	 et	 al.	 reported	 an
+exception	in	a	young	adult	traumatic	brain	injury	patient.
+
+in	 patients	 with	 brain	
+
+When	
+
+increased	
+
+tonsillar	 herniation,	
+
+intracranial	 pressure	 causes	
+
+the
+cerebellar	tonsils	and	lower	medulla	are	forced	downward	through	the	foramen
+magnum.	 Although	 tonsillar	 herniation	 is	 a	 feared	 complication	 of	 lumbar
+puncture	 done	 in	 the	 face	 of	 increased	 intracranial	 pressure,	 it	 is	 in	 fact	 rare.
+Medullary	compression	causes	profound	impairment	of	all	vital	functions,	with
+bradycardia,	 either	 a	 fall	 or	 rise	 in	 blood	 pressure,	 slow	 or	 rapid	 respirations,
+soaring	 temperature,	 convulsions,	 unconsciousness,	 and	 death.	 The	 Cushing
+(vasopressor)	 reflex	 (response,	 reaction,	 or	 effect)	 is	 hypertension,	 increased
+pulse	pressure,	bradycardia,	and	slow,	irregular	respirations	seen	in	patients	with
+increased	intracranial	pressure	and	brainstem	compression.	The	full	triad	occurs
+in	 only	 about	 one-third	 of	 cases,	 and	 some	 patients	 may	 have	 isolated
+hypertension.	On	postmortem	examination,	a	pressure	cone	may	be	seen	on	the
+medulla.
+
+BOX	21.3
+
+Other	Brainstem	Syndromes
+
+The	 one-and-a-half	 syndrome	 is	 a	 horizontal	 gaze	 palsy	 and	 ipsilateral
+internuclear	 ophthalmoplegia,	 or	 INO	 (Chapter	 14).	 The	 association	 of	 an
+ipsilateral	 lower	 motor	 neuron	 facial	 nerve	 palsy	 and	 a	 one-and-a-half
+syndrome	 has	 been	 termed	 the	 eight-and-a-half	 syndrome.	 The	 Brissaud-
+
+is	
+
+ipsilateral	 hemifacial	 spasm	 and	 contralateral
+Sicard	 syndrome	
+hemiparesis	 due	 to	 a	 pontine	 lesion.	 The	 lateral	 pontomedullary	 syndrome
+consists	 of	 the	 findings	 of	 the	 lateral	 medullary	 syndrome	 with	 additional
+involvement	of	CNs	VII	and	VIII	consistent	with	extension	of	the	lesion	to
+the	 inferior	 pons.	 Raymond-Cestan	 syndrome	 is	 horizontal	 or	 vertical	 gaze
+palsy,	 contralateral	 hemiparesis	 or	 quadriparesis,	 hemianesthesia,	 and
+athetosis	 due	 to	 basilar	 branch	 occlusion.	 Rasdolsky’s	 syndrome	 is
+contracture	and	paresis	of	the	masseter	and	facial	muscles	due	to	neoplasm
+of	 ipsilateral	 pontine	 tegmentum.	 Marie-Foix	 syndrome	 is	 contralateral
+hemiparesis	and	hypalgesia	with	ipsilateral	cerebellar	ataxia	due	to	a	lesion
+involving	the	lateral	pons.	Other	unusual	manifestations	of	brainstem	disease
+isolated
+include	 pontine	 anosognosia,	 cognitive	 dysfunction,	 painful	
+Horner’s	 syndrome,	 head	 shaking	 nystagmus,	 jaw	 opening	 dystonia,
+hemidystonia,	facial	pain	syndromes,	a	sensory	level	on	the	trunk,	unilateral
+hyper-	 or	 hypohidrosis,	 upside-down	 reversal	 of	 vision,	 tonic	 seizures,	 and
+convulsive-like	movements.
+
+Aneurysms	 of	 the	 basilar	 or	 vertebral	 arteries	 or	 their	 branches,	 and
+hemangiomas,	 may	 cause	 extramedullary	 compression	 and	 CN	 involvement.
+Arteriovenous	 malformations	 may	 cause	 intramedullary	 or	 extramedullary
+dysfunction,	 depending	 on	 their	 extent	 and	 location.	 Extravasation	 of	 blood
+about	the	base	of	the	brain	from	subarachnoid	or	intracerebral	hemorrhage	may
+affect	the	CNs	as	they	leave	the	skull.
+
+Lacunes	 are	 small,	 deep	 infarctions	 in	 the	 territory	 of	 a	 deep	 penetrating
+arteriole.	 Hypertension	 is	 the	 major	 predisposing	 factor.	 The	 brainstem,
+particularly	 the	 pons,	 is	 a	 common	 location	 for	 lacunar	 infarction.	 Brainstem
+lacunar	 syndromes	
+include	 pure	 motor	 stroke,	 dysarthria–clumsy	 hand
+syndrome,	 and	 ataxic	 hemiparesis	 (homolateral	 ataxia	 and	 crural	 paresis).	 Pure
+motor	 stroke	 is	 the	 most	 common	 lacunar	 syndrome.	 Although	 lacunar
+syndromes,	 especially	 pure	 sensory	 stroke	 and	 ataxic	 hemiparesis,	 are	 highly
+predictive	 of	 lacunar	 infarction,	 in	 about	 one	 in	 four	 patients	 the	 etiology
+involves	a	nonlacunar	mechanism.
+
+Other	unusual,	typically	vascular,	brainstem	syndromes	are	briefly	described
+
+in	Box	21.3.
+
+Nonvascular	Brainstem	Disorders
+
+Brainstem	gliomas	are	astrocytomas	that	diffusely	infiltrate	the	brainstem.	Most
+involve	 the	 pons,	 but	 they	 may	 affect	 any	 level	 of	 the	 brainstem,	 typically
+causing	 a	 combination	 of	 multiple	 cranial	 nerve	 palsies	 (MCNPs),	 gaze	 palsy,
+long	tract	signs,	and	ataxia.	Because	of	the	slow	evolution,	there	is	sometimes	a
+paucity	 of	 neurologic	 signs	 in	 spite	 of	 the	 size	 of	 the	 tumor.	 Ventricular
+obstruction	 may	 produce	 hydrocephalus	 and	 increased	 intracranial	 pressure.
+Ependymomas	 and	 medulloblastomas	 may	 also	
+the	 brainstem.
+Extramedullary	
+schwannomas,	 meningiomas,
+hemangiomas,	metastases)	may	cause	pressure	effects.	The	course	of	a	brainstem
+neoplasm	 is	 progressive.	 Increased	 intracranial	 pressure	 may	 appear	 late,
+particularly	 in	 brainstem	 gliomas.	 Extrinsic	 metastases	 and	 neoplasms	 that
+spread	 by	 direct	 extension	 from	 the	 nasopharynx	 and	 neighboring	 sites	 may
+cause	 widespread	 CN	 involvement	 and	 bone	 erosion	 with	 signs	 of	 brainstem
+compression.	 Tuberculomas,	 sarcoidosis,	 and	 other	 granulomas	 may	 produce	 a
+picture	similar	to	neoplasms.
+
+(neurofibromas,	
+
+involve	
+
+tumors	
+
+Brainstem	 encephalitis	 (Bickerstaff’s	 encephalitis)	 is	 a	 clinical	 syndrome	 of
+acute	diffuse	or	multifocal	brainstem	dysfunction	with	cerebrospinal	fluid	(CSF)
+pleocytosis	and	increased	protein.	Actual	viral	infection	has	seldom,	if	ever,	been
+documented,	 and	 the	 disease	 is	 usually	 immunologically	 mediated.	 Patients
+develop	ophthalmoplegia	and	ataxia	followed	by	gradual	brainstem	dysfunction
+and	 altered	 consciousness.	 The	 illness	 is	 usually	 preceded	 by	 a	 viral	 infection.
+Some	 patients	 have	 serum	 anti-GQ1b	 IgG	 autoantibodies,	 the	 same	 antibody
+found	 in	 Miller	 Fisher	 syndrome	 (ophthalmoplegia,	 ataxia,	 and	 areflexia).
+Bickerstaff’s	 brainstem	 encephalitis	 is	 not	 to	 be	 confused	 with	 Bickerstaff’s
+(basilar	 artery)	 migraine	 (see	 below).	 Brainstem	 encephalitis	 may	 be
+paraneoplastic.	 Rhombencephalitis	 refers	 to	 inflammatory	 disease	 affecting	 the
+hindbrain	 (brainstem	 and	 cerebellum).	 It	 has	 a	 wide	 variety	 of	 etiologies,
+including	 multiple	 sclerosis	 (MS),	 Behcet’s	 disease,	 paraneoplastic	 syndrome,
+lupus,	and	viral	and	tuberculous	infection.	Listeria	monocytogenes	is	particularly
+likely	to	cause	rhombencephalitis;	it	accounted	for	9%	of	cases	in	one	series.
+
+Demyelinating	 disease	 frequently	 involves	 the	 brainstem.	 INO	 due	 to	 a
+demyelinating	lesion	involving	the	MLF	is	a	very	common	clinical	manifestation
+of	 MS.	 MS	 can	 cause	 lesions	 elsewhere	 in	 the	 brainstem	 and	 can	 occasionally
+simulate	one	of	the	vascular	syndromes.	Acute	disseminated	encephalomyelitis
+may	 affect	 the	 brainstem,	 and	 the	 involvement	 is	 occasionally	 limited	 to	 the
+brainstem.
+
+In	 central	 pontine	 myelinolysis	 (osmotic	 demyelination	 syndrome),	 there	 is
+
+widespread,	 symmetric	 myelin	 loss	 in	 the	 central	 portion	 of	 the	 pons.	 Lesions
+commonly	 occur	 in	 other	 sites	 as	 well	 (extrapontine	 myelinolysis).	 Central
+pontine	 myelinolysis	 occurs	 especially	 in	 alcoholics	 or	 other	 malnourished	 or
+debilitated	 individuals	 and	 after	 correction	 of	 severe	 hyponatremia.	 It	 typically
+begins	 with	 diplopia,	 dysphagia,	 dysarthria,	 and	 other	 evidence	 of	 brainstem
+dysfunction,	 followed	 by	 quadriplegia,	 mutism,	 and	 extensor	 rigidity.	 Central
+pontine	myelinolysis	runs	a	fulminating	course	and	is	often	fatal.
+
+Developmental	 or	 congenital	 anomalies	 of	 the	 craniocervical	 junction	 are
+frequently	associated	with	brainstem	dysfunction.	The	bony	walls	of	the	foramen
+magnum	 and	 upper	 spinal	 canal	 lie	 in	 close	 anatomic	 relationship	 to	 the	 lower
+brainstem,	upper	spinal	cord,	and	cerebellum.	Neurologic	abnormalities	may	be
+produced	 by	 mechanical	 compression	 by	 the	 bony	 abnormality,	 but	 often	 the
+bony	 abnormality	 and	 the	 neural	 abnormality	 are	 part	 of	 the	 same	 process.
+Platybasia,	 basilar	 impression,	 occipitalization	 of	 the	 atlas,	 and	 cervical	 spina
+bifida	are	examples	of	primary	bony	abnormalities.	Klippel-Feil	syndrome	is	the
+congenital	 fusion	 of	
+two	 or	 more	 cervical	 vertebrae.	 There	 may	 be
+accompanying	craniocervical	junction	abnormalities.	The	associated	neurologic
+abnormalities	may	include	myelopathy,	radiculopathy,	syringomyelia,	and	mirror
+movements.
+
+Arnold-Chiari	 (or	 simply	 Chiari,	 who	 made	 the	 greater	 contribution)
+malformation	is	a	congenital	maldevelopment	of	the	brainstem	and	cerebellum.
+The	 cerebellar	 tonsils	 are	 herniated	 or	 displaced	 down	 into	 the	 upper	 cervical
+spinal	 canal.	 With	 more	 severe	 maldevelopment,	 the	 inferior	 vermis,	 lower
+medulla,	and	fourth	ventricle	may	also	be	displaced	below	the	foramen	magnum.
+Clinical	manifestations	include	headache,	cerebellar	ataxia,	nystagmus	(typically
+downbeat),	and	other	brainstem	deficits.	Three	varieties	commonly	occur.	Type	1
+is	 the	 hindbrain	 malformation	 only;	 it	 can	 present	 in	 adulthood.	 Mild	 type	 1
+Chiari	 malformations	 are	 not	 uncommonly	 found	 on	 MRI	 imaging	 done	 for
+other	 reasons	 and	 may	 be	 totally	 asymptomatic.	 Type	 2	 is	 a	 more	 severe
+hindbrain	defect	usually	associated	with	a	lumbar	meningomyelocele.	Type	3	is
+the	same	as	type	2	except	that	the	meningomyelocele	or	encephalocele	occurs	in
+the	 occipitocervical	 region.	 The	 Dandy-Walker	 syndrome	 is	 agenesis	 of	 the
+cerebellar	 vermis	 with	 a	 massively	 dilated	 fourth	 ventricle	 forming	 a	 cystic
+structure	that	occupies	most	of	the	posterior	fossa.
+
+Syringobulbia	 is	 a	 slit-like	 cavity	 in	 the	 brainstem.	 A	 brainstem	 syrinx	 is
+usually	 a	 rostral	 extension	 of	 a	 syringomyelic	 cavity	 from	 the	 cervical	 spinal
+cord	in	a	patient	with	a	Chiari	malformation,	but	syringobulbia	may	rarely	occur
+
+de	novo.	In	syringobulbia,	the	syrinx	most	often	involves	the	lateral	medullary
+tegmentum.	 The	 cavity	 is	 usually	 restricted	 to	 the	 lower	 brainstem	 but	 may
+extend	to	the	pons	and	rarely	higher.	The	cavity	and	the	resultant	clinical	picture
+are	 typically	 asymmetric,	 with	 lower	 CN	 dysfunction,	 facial	 numbness,	 and
+nystagmus.	The	facial	sensory	loss	may	be	in	an	onion-skin	distribution,	initially
+sparing	the	nasal	tip	and	perioral	region.	Hypoglossal	weakness	and	atrophy	may
+occur.	 Facial	 myokymia	 is	 an	 unusual	 feature.	 There	 may	 be	 autonomic
+involvement	and	respiratory	compromise.
+
+A	strategically	placed	lesion	involving	the	pyramidal	decussation	may	cause
+unusual	 patterns	 of	 weakness.	 The	 corticospinal	 fibers	 innervating	 the	 upper
+extremities	are	thought	to	decussate	more	rostrally	and	medially	than	the	fibers
+innervating	 the	 lower	 extremities,	 although	 this	 concept	 has	 been	 questioned
+(Figure	11.12).	 The	 term	 cruciate	 paralysis	 is	 used	 in	 two	 ways.	 One	 refers	 to
+weakness	of	both	arms,	brachial	diplegia,	with	relative	sparing	of	the	legs,	due	to
+a	lesion	involving	the	rostral	portion	of	the	pyramidal	decussation.	The	findings
+are	similar	to	those	of	a	central	cord	syndrome	of	the	cervical	spine	or	the	man-
+in-the-barrel	syndrome	because	of	watershed	cerebral	infarction.	Most	cases	are
+due	to	trauma.	The	other	use	refers	to	corticospinal	paralysis	of	one	arm	and	the
+opposite	 leg	 (cruciate	 hemiplegia,	 pyramidal	 decussation	 syndrome).	 This	 may
+occur	because	a	lesion	involves	arm	fibers	that	have	already	decussated	but	leg
+fibers	that	have	not,	which	causes	a	crossed	pattern	of	weakness.	Triparesis,	with
+weakness	 of	 one	 arm	 and	 both	 legs,	 has	 been	 reported	 after	 unilateral	 medial
+medullary	infarction.
+
+Gerstman-Sträussler-Schinker	(GSS)	syndrome	is	a	rare	autosomal	dominant
+spongiform	encephalopathy	due	to	a	mutation	of	the	prion	protein	gene.	It	begins
+in	 midlife	 and	 runs	 a	 progressive	 course	 with	 ataxia,	 spasticity,	 dysarthria,
+nystagmus,	and	dementia.	GSS	is	genetically	and	phenotypically	heterogeneous;
+among	 the	 different	 prion	 diseases,	 it	 has	 the	 longest	 clinical	 course	 and	 the
+potential	 to	 mimic	 other	 neurologic	 disorders,	 such	 as	 cerebellar	 degeneration
+and	demyelinating	disease.
+
+Basilar	 artery	 (Bickerstaff’s,	 basilar	 type,	 vertebrobasilar,	 posterior	 fossa)
+migraine	is	an	unusual	type	of	complicated	migraine	with	prominent	brainstem
+symptoms	 similar	 to	 those	 of	 VBI.	 The	 disorder	 occurs	 primarily	 in	 young
+females	and	is	usually	followed	by	an	occipital	headache.
+
+The	 foramen	 magnum	 syndrome	 can	 cause	 some	 unusual	 and	 puzzling
+clinical	 deficits.	 Lesions	 in	 the	 region	 of	 the	 foramen	 magnum	 are	 typically
+compressive	extramedullary	mass	lesions	(e.g.,	meningioma).	Patients	may	have
+
+crossed	 hemiparesis,	 involving	 one	 arm	 and	 the	 opposite	 leg,	 because	 of
+involvement	of	the	pyramidal	decussation	(see	above).	There	may	be	weakness
+and	 wasting	 of	 the	 small	 hand	 muscles	 for	 reasons	 that	 remain	 unclear.	 Such
+hand	muscle	wasting	may	also	occur	as	a	false	localizing	sign	in	upper	cervical
+spinal	cord	compression.	Downbeat	nystagmus	in	primary	gaze	is	suggestive	of
+a	lesion	at	the	cervicomedullary	junction,	and	the	nystagmus	is	often	greatest	in
+eccentric	 downgaze.	 Other	 symptoms	 suggestive	 of	 a	 foramen	 magnum	 lesion
+include	 occipital	 headache,	 neck	 pain,	 and	 stiffness;	 Lhermitte’s	 sign;	 C2
+sensory	 loss;	 and	 shawl	 distribution	 upper	 extremity	 sensory	 loss.	 Tumors	 are
+generally	 histologically	 benign	 and	 often	 become	 large	 before	 the	 diagnosis	 is
+made.	 Masses	 usually	 intrude	 from	 posteriorly,	 so	 that	 posterior	 column	 signs,
+including	 pseudoathetosis,	 are	 common.	 Lower	 CN	 palsies	 are	 uncommon.
+There	may	be	a	fluctuating	course	simulating	MS.
+
+Bulbar	Palsy
+
+There	 are	 two	 principal	 types	 of	 bulbar	 palsy:	 PBP	 and	 pseudobulbar	 palsy.	 In
+both,	the	outstanding	symptoms	are	dysphagia	and	dysarthria;	both	run	a	chronic
+course.	Despite	the	similarities,	the	etiologies	are	different.
+
+PBP	is	a	form	of	motor	neuron	disease	involving	bulbar	innervated	muscles,
+causing	 weakness	 and	 atrophy	 of	 muscles	 supplied	 by	 the	 lower	 CNs,	 often
+accompanied	 by	 fasciculations.	 It	 is	 closely	 related	 to	 progressive	 spinal
+muscular	atrophy,	in	which	the	process	is	limited	to	the	anterior	horn	cells	of	the
+spinal	 cord,	 and	 amyotrophic	 lateral	 sclerosis	 (ALS),	 in	 which	 there	 is
+involvement	of	the	bulbar	nuclei,	the	anterior	horn	cells,	and	the	pyramidal	cells
+in	the	motor	cortex.
+
+In	PBP,	there	is	a	relentlessly	progressive	degeneration	of	the	neurons	of	the
+brainstem	motor	nuclei,	primarily	those	in	the	medulla.	It	usually	occurs	in	late
+adult	life	with	onset	in	the	sixth	and	seventh	decades.	The	disease	usually	starts
+in	 the	 nucleus	 of	 the	 CN	 XII	 and	 ascends.	 Typical	 initial	 manifestations	 are
+atrophy,	 weakness,	 and	 fasciculations	 of	 the	 tongue.	 Involvement	 is	 bilateral
+from	 the	 outset.	 In	 advanced	 cases,	 the	 patient	 may	 be	 unable	 to	 protrude	 the
+tongue	or	to	manipulate	food	in	the	mouth.	The	lingual	involvement	is	followed
+or	 accompanied	 by	 dysphagia	 and	 dysarthria.	 Nasal	 regurgitation	 of	 liquids	 is
+common	and	may	lead	to	choking	and	aspiration.	Involvement	of	the	soft	palate,
+larynx,	 and	 tongue	 causes	 flaccid	 dysarthria.	 Early,	 the	 most	 pronounced
+difficulty	 is	 with	 pronunciation	 of	 linguals	 and	 velars;	 later,	 the	 labials	 are
+
+the	
+
+facial	 and	
+
+trigeminal	 motor	 nuclei.	 Occasionally,	
+
+affected.	In	advanced	cases,	speech	is	reduced	to	unintelligible	laryngeal	noises.
+There	is	often	marked	drooling	of	saliva.	Patients	may	keep	a	tissue	or	rag	at	the
+chin	 to	 absorb	 unswallowed	 secretions.	 Sometimes,	 atrophy	 and	 fasciculations
+extend	 to	 the	 palate	 and	 pharynx,	 and	 the	 condition	 may	 eventually	 ascend	 to
+involve	
+the
+sternocleidomastoid	and	trapezius	muscles	are	affected.	There	may	be	autonomic
+involvement	with	tachycardia.	The	palatal	and	pharyngeal	gag	reflexes	disappear
+early.	There	are	no	sensory	changes.	PBP	is	aggressive	and	relentless,	with	death
+usually	caused	by	aspiration	pneumonia.	PBP	may	be	the	first	manifestation	of
+ALS.	When	ALS	causes	prominent	bulbar	weakness,	it	is	referred	to	as	bulbar
+ALS.	 In	 bulbar	 palsy	 due	 to	 ALS,	 there	 are	 also	 corticospinal	 tract
+manifestations.	 In	 a	 series	 of	 32	 patients	 with	 PBP,	 all	 but	 two	 progressed	 to
+ALS,	regardless	of	the	presence	of	upper	motor	signs	or	generalized	denervation
+on	limb	electromyography	(EMG).	The	other	two	died	at	the	PBP	stage.
+
+Severe	bulbar	involvement	 occurs	 in	other	 motor	 neuronopathies.	It	is	often
+the	 terminal	 aspect	 of	 Werdnig-Hoffmann	 disease	 (hereditary	 spinal	 muscular
+atrophy	 type	 1).	 Fazio-Londe	 disease	 is	 PBP	 occurring	 in	 children.	 Kennedy’s
+disease	(X-linked	recessive	bulbospinal	 neuronopathy)	 causes	 a	clinical	picture
+resembling	 ALS	 but	 with	 slow	 progression	 and	 other	 atypical	 features;
+dysphagia	 or	 dysarthria	 may	 be	 prominent	 late	 in	 the	 course.	 Bulbar
+polioencephalitis	may	occur	as	part	of	paralytic	poliomyelitis,	causing	paralysis
+of	 the	 throat,	 tongue,	 and	 respiratory	 muscles.	 Creutzfeldt-Jakob	 disease	 may
+present	as	bulbar	palsy.
+
+Pseudobulbar	 palsy	 also	 causes	 marked	 difficulty	 with	 bulbar	 function,
+especially	 speech	 and	 swallowing.	 Although	 the	 clinical	 manifestations	 are
+similar,	 the	 underlying	 mechanism	 is	 entirely	 different.	 Pseudobulbar	 palsy	 is
+caused	 by	 bilateral	 supranuclear	 lesions,	 which	 involve	 the	 corticobulbar
+pathways	to	the	bulbar	nuclei.	PBP	and	bulbar	ALS	cause	lower	motor	neuron
+weakness;	pseudobulbar	palsy	causes	upper	motor	neuron	weakness.	In	patients
+with	 bulbar	 ALS,	 both	 processes	 may	 be	 at	 work.	 Because	 of	 bilateral
+supranuclear	innervation,	unilateral	lesions	of	the	corticobulbar	tract	rarely	cause
+significant	bulbar	dysfunction.	But	with	bilateral	supranuclear	lesions,	the	bulbar
+dysfunction	 may	 be	 severe.	 It	 is	 usually	 accompanied	 by	 other	 upper	 motor
+neuron	 signs.	 There	 may	 be	 weakness	 and	 spasticity	 of	 the	 muscles	 of
+mastication,	an	exaggerated	jaw	jerk,	and	frontal	release	signs	such	as	snout	and
+suck	
+reflexes.	 Difficulty	 with	 emotional	 control	 causing	 spontaneous,
+unprovoked	 laughing	 and	 crying	 (pseudobulbar	 affect,	 emotional	 incontinence)
+
+is	common.	Pathologic	laughing	(crazy	laughter	or	“fou	rire	prodromique”)	and
+crying	 have	 also	 been	 reported	 with	 brainstem	 lesions.	 Some	 patients	 have
+paresis	of	the	muscles	of	facial	expression	causing	masking	of	the	facies.	There
+are	typically	significant	neurologic	abnormalities	beyond	the	distribution	of	the
+CN	nuclei,	with	bilateral	cortical	spinal	tract	signs.
+
+The	 most	 common	 cause	 of	 pseudobulbar	 palsy	 is	 multiple	 cerebral
+infarctions.	The	syndrome	may	also	occur	in	encephalitis,	MS,	trauma,	cerebral
+anoxia,	 primary	 lateral	 sclerosis,	 or	 other	 disease	 processes	 that	 cause	 bilateral
+corticobulbar	 tract	 lesions.	 The	 lesions	 may	 be	 in	 the	 cortex	 or	 in	 the	 corona
+radiata,	internal	capsule,	cerebral	peduncles,	or	brainstem	rostral	to	the	nuclear
+centers.	 Speech	 is	 thick	 and	 slurred	 but	 may	 have	 an	 explosive	 quality.	 There
+may	be	dysphagia,	nasal	regurgitation,	choking,	and	drooling.	Patients	may	keep
+food	 in	 the	 mouth	 for	 prolonged	 periods.	 There	 is	 less	 of	 a	 tendency	 to	 choke
+than	 in	 true	 bulbar	 palsy	 because	 the	 gag	 reflexes	 are	 intact	 and	 may	 be
+hyperactive.	 Although	 the	 tongue	 may	 be	 strikingly	 immobile,	 atrophy	 and
+fasciculations	do	not	develop.	 The	 prognosis	 in	 pseudobulbar	palsy	is	no	more
+favorable	than	in	PBP.	The	eventual	outcome	in	both	conditions	is	death,	often
+because	of	aspiration.	Two	types	of	pseudobulbar	palsy	have	been	described;	one
+is	 due	 to	 lesions	 affecting	 the	 corticobulbar	 fibers,	 and	 the	 other	 is	 due	 to
+involvement	 of	 the	 basal	 ganglia	 or	 extrapyramidal	 pathways.	 In	 striatal
+pseudobulbar	 palsy,	 there	 are	 additional	 signs	 of	 basal	 ganglia	 involvement,
+including	rigidity,	hyperkinesias,	and	a	parkinsonian	picture.
+
+Other	 conditions	 that	 may	 cause	 prominent	 weakness	 of	 bulbar	 muscles	 or
+other	 evidence	 of	 brainstem	 dysfunction	 include	 neuromuscular	 transmission
+disorders,	 some	 neuropathies	 and	 myopathies,	 and	 certain	 rare	 neurologic
+conditions.	 The	 dysarthria	 and	 dysphagia	 of	 myasthenia	 gravis	 (MG)	 may
+resemble	 bulbar	 palsy.	 Early	 in	 the	 course,	 it	 may	 be	 difficult	 to	 distinguish
+bulbar	ALS	or	PBP	from	MG.	The	characteristic	eye	signs	of	MG	are	not	always
+present.	 Bulbar	 signs	 and	 symptoms	 similar	 to	 those	 of	 MG	 can	 occur	 in
+botulism	and	Lambert-Eaton	syndrome.
+
+tend	
+
+Patients	 with	 MUSK	 antibody	 MG	
+
+to	 have	 prominent	 bulbar
+dysfunction,	neck	and	shoulder	girdle	weakness,	and	respiratory	symptoms	and
+may	 develop	 muscle	 atrophy.	 Bulbar	 muscle	 weakness	 can	 occur	 in	 muscular
+dystrophies,	 especially	 oculopharyngeal	 dystrophy,	 and	 other	 myopathies.
+Bulbar	 weakness	 may	 complicate	 Guillain-Barré	 syndrome	 and	 other
+polyneuropathies.	 CN	
+diphtheritic
+polyneuropathy.	 In	 tetanus,	 pharyngeal	 spasms	 may	 accompany	 trismus.	 In
+
+characteristic	
+
+involvement	
+
+of	
+
+is	
+
+rabies,	 spasmodic	 contractions	 of	 the	 muscles	 occur	 on	 attempts	 to	 swallow.
+Whipple’s	 disease	 involving	 the	 central	 nervous	 system	 (CNS)	 may	 have
+prominent	 brainstem	 findings.	 Oculomasticatory	 myorhythmia,	 a	 striking
+movement	 disorder	 involving	 the	 eyes	 and	 jaw,	 is	 characteristic,	 perhaps
+pathognomonic,	 of	 CNS	 Whipple’s	 disease.	 Brainstem	 involvement	 may	 be	 a
+striking	 feature	 of	 Leigh’s	 disease	 (subacute	 necrotizing	 encephalomyopathy).
+The	brainstem	can	also	be	damaged	by	radiation.
+
+MULTIPLE	CRANIAL	NERVE	PALSIES
+
+Intracranial-extramedullary	or	extracranial	processes	may	involve	more	than	one
+CN.	A	disease	may	involve	homologous	nerves	on	the	two	sides	(e.g.,	bilateral
+facial	 palsy)	 or	 different	 nerves	 on	 the	 same	 or	 opposite	 sides.	 In	 some
+conditions,	 a	 cluster	 of	 nerves	 is	 involved	 in	 a	 discrete	 anatomical	 region.	 The
+progression	may	follow	some	anatomical	pattern	or	appear	capricious.	Multiple
+CNs	may	be	affected	from	the	outset,	or	the	process	may	begin	with	one	nerve
+and	progress	to	involve	others.	Pain	may	or	may	not	be	present.	Table	21.3	lists
+some	conditions	that	may	cause	MCNPs.	Table	21.4	covers	some	of	the	named
+multiple	CN	syndromes.
+
+In	Keane’s	series	of	979	patients	with	MCNP,	the	most	commonly	involved
+nerves	 were	 CNs	 VI,	 VII,	 V,	 and	 VIII.	 The	 most	 common	 combinations	 were
+involvement	 of	 CNs	 III	 and	 IV,	 V	 and	 VI,	 and	 V	 and	 VII.	 The	 most	 common
+locations	 were	 cavernous	 sinus,	 brainstem,	 and	 individual	 nerve	 trunks.	 The
+most	 common	 causes	 were	 neoplasm,	 vascular	 disease,	 trauma,	 infection,	 and
+the	 Guillain-Barré	 and	 Miller	 Fisher	 syndromes.	 A	 MCNP	 variant	 of	 Guillain-
+Barré	 has	 been	 described.	 The	 most	 common	 causes	 of	 recurrent	 cranial
+neuropathies	were	diabetes	and	idiopathic.
+
+A	 major	 consideration	 when	 there	 is	 MCNP	 is	 some	 process	 affecting	 the
+meninges	 at	 the	 base	 of	 the	 skull.	 Although	 infectious	 and	 inflammatory
+conditions	 are	 possible,	 the	 major	 consideration	 when	 there	 is	 painless
+dysfunction	 of	 several	 CNs	 over	 a	 period	 of	 days	 to	 weeks	 is	 neoplastic
+meningitis,	 which	 can	 be	 either	 carcinomatous	 or	 lymphomatous	 (meningeal
+carcinomatosis	 or	 lymphomatosis).	 Neoplastic	 meningitis	 occurs	 in	 as	 many	 as
+15%	 of	 patients	 with	 systemic	 malignancy	 and	 may	 be	 the	 presenting
+manifestation	in	5%	to	10%.	The	most	common	neoplastic	processes	to	involve
+the	meninges	are	small	cell	carcinoma	of	the	lung,	melanoma,	and	myeloblastic
+
+leukemia.	 Carcinoma	 of	 the	 breast	 seldom	 spreads	 to	 the	 meninges	 but	 is	 a
+common	cause	of	meningeal	neoplasia	because	of	its	frequency.
+
+TABLE
+21.3
+
+Some	Disease	Processes	That	May	Involve	Multiple
+Cranial	Nerves	(CNs)
+
+Acute	infectious	meningitis
+Chronic	infectious	meningitis
+Syphilis
+Lyme	disease
+Viral	infection	(Herpes	zoster,	herpes	simplex,	EBV,	HIV,	HTLV-1,	CMV)
+Meningeal	neoplasia	(leptomeningeal	metastases,	carcinomatous
+meningitis,	lymphomatous	meningitis,	primary	leptomeningeal
+lymphoma,	neurolymphomatosis)
+
+Pituitary	apoplexy
+Nasopharyngeal	carcinoma	(Schmincke	tumor)
+Primary	clivus	or	skull	base	neoplasm	(glomus	tumor,	meningioma,
+
+chordoma,	others)
+
+Metastatic	clivus	or	skull	base	neoplasm	(prostate,	breast,	lung,	head,
+
+and	neck	tumors)
+
+Cavernous	sinus	disease	(Tolosa-Hunt	syndrome,	mass	lesion,	others)
+Sarcoidosis	(special	predilection	for	CNs	II,	VII,	and	VIII)
+Granulomatosis	with	polyangiitis	(Wegener’s	granulomatosis)
+Vasculitis	(polyarteritis	nodosa,	Churg-Strauss,	lymphomatoid
+granulomatosis,	giant	cell	arteritis,	granulomatous	angiitis)
+
+Connective	tissue	disease	(systemic	lupus	erythematosis,	Sjögren’s
+
+syndrome,	scleroderma,	mixed	connective	tissue	disease)
+
+Cryoglobulinemia
+Prepontine	mass	lesion
+Skull	base	trauma
+Aneurysm	(carotid	dissection,	fusiform	basilar)
+Carotid	endarterectomy
+Bony	disease	of	skull	base	(Paget’s	disease,	osteopetrosis)
+
+Diabetes	mellitus
+Guillain-Barré	syndrome
+Miller	Fisher	syndrome
+Polyneuritis	cranialis
+Amyloidosis
+Craniocervical	junction	anomalies
+Cranial	irradiation
+Idiopathic	cranial	polyneuropathy
+Idiopathic	hypertrophic	cranial	pachymeningitis
+
+CMV,	cytomegalovirus;	EBV,	Epstein-Barr	virus;	HTLV-1,	human	T-cell	lymphocytotrophic	virus.
+
+Patients	 with	 neoplastic	 meningitis	 typically	 have	 accompanying	 headache,
+meningeal	 signs,	 and	 evidence	 of	 increased	 intracranial	 pressure.	 Facial
+numbness	in	association	with	a	multiple	lower	CN	palsy	syndrome	is	ominous.
+A	 combination	 of	 CNs	 VI	 and	 XII	 palsies	 is	 particularly	 suggestive	 of	 a
+neoplastic	process	involving	the	clivus.	Leptomeningeal	metastatic	disease	from
+solid	tumors	is	more	likely	to	present	with	spinal	cord	or	radicular	involvement.
+Diffuse	meningeal	involvement	from	hematologic	malignancies	is	more	likely	to
+present	 with	 MCNP.	 Obtaining	 CSF	 cytologic	 confirmation	 is	 often	 difficult
+initially;	biochemical	markers	may	be	helpful.
+
+TABLE
+21.4
+
+Summary	of	Syndromes	with	Involvement	of	Multiple
+CNs*
+
+Other	neoplastic	processes	and	mass	lesions	at	the	base	of	the	skull	may	also
+produce	an	MCNP	syndrome.	A	skull	base	neoplasm	accounted	for	13%	of	cases
+in	 Keane’s	 MCNP	 series.	 Nasopharyngeal	 carcinomas	 (NPCs),	 such	 as
+lymphoepithelioma	(Schmincke	tumor),	occur	in	younger	patients	than	do	other
+head	 and	 neck	 cancers;	 there	 may	 be	 an	 association	 with	 Epstein-Barr	 virus
+infection.	 NPC	 often	 arises	 in	 Rosenmuller’s	 fossa	 and	 spreads	 laterally	 to	 the
+paranasopharyngeal	 space	 and	 then	 to	 the	 skull	 base.	 The	 tumor	 may	 infiltrate
+
+the	pterygopalatine	fossa,	and	the	maxillary	nerve,	and	may	spread	to	involve	the
+cavernous	sinus.	About	20%	of	patients	have	CN	involvement	at	the	time	of	the
+diagnosis	 of	 NPC.	 Radiotherapy	 for	 the	 tumor	 may	 itself	 cause	 cranial
+neuropathy,	particularly	of	CN	XII.	Distinguishing	radiation-induced	neuropathy
+from	tumor	recurrence	may	be	difficult.
+
+NPCs	may	erode	the	clivus.	Other	tumors	involving	the	clivus	may	also	cause
+MCNP.	A	chordoma,	a	rare	primary	bone	tumor,	usually	presents	in	males	in	the
+sixth	 decade.	 The	 tumor	 is	 histologically	 benign	 but	 locally	 invasive	 and
+destructive.	 When	 it	 extends	 posteriorly,	 it	 may	 cause	 CN	 palsies	 or	 brainstem
+compression.	 Other	 skull	 base	 neoplasms	 include	 metastasis,	 meningiomas,
+lymphoma,	 myeloma,	
+tumor,
+hemangiopericytoma,	 and	 various	 primary	 bone	 tumors.	 Osteopetrosis	 (Albers-
+Schonberg	or	marble	bone	disease)	causes	a	generalized	increase	in	bone	density
+and	 can	 narrow	 exit	 foramina,	 causing	 MCNP.	 Other	 bone	 disorders	 that	 may
+behave	 similarly	 include	 Paget’s	 disease,	 fibrous	 dysplasia,	 and	 hyperostosis
+cranialis	interna.
+
+histiocytosis,	
+
+neurinoma,	
+
+giant	
+
+cell	
+
+Mass	lesions	lying	along	the	clivus,	even	though	not	arising	from	it	directly,
+may	 cause	 MCNP.	 Vertebrobasilar	 dolichoectasia	 may	 cause	 cranial
+neuropathies	 because	 of	 compression	 or	 ischemia.	 Patients	 with	 a	 tortuous
+basilar	 artery	 of	 normal	 caliber	 are	 more	 likely	 to	 have	 isolated	 cranial
+neuropathy;	 those	 with	 basilar	 artery	 ectasia	 or	 with	 fusiform,	 giant	 aneurysm
+are	more	likely	to	have	MCNP.	Rarely,	hematoma	lying	along	the	clivus	in	the
+prepontine	 region	 affects	 multiple	 CNs.	 Other	 processes	 that	 may	 affect	 the
+prepontine	region	include	exophytic	glioma	and	dermoid,	epidermoid,	and	other
+cystic	lesions.
+
+Infectious	 disease	 accounted	 for	 10%	 of	 Keane’s	 MCNP	 cases.	 Conditions
+include	 Lyme	 disease,
+
+to	 cause	 cranial	 neuropathy	
+particularly	 prone	
+tuberculosis,	neurosyphilis,	cryptococcosis,	and	HIV.
+
+The	 nervous	 system	 is	 involved	 in	 5%	 to	 15%	 of	 patients	 with	 sarcoidosis.
+The	 disease	 may	 present	 neurologically	 and	 rarely	 remains	 confined	 to	 the
+nervous	 system.	 About	 half	 of	 the	 patients	 with	 neurosarcoidosis	 have	 CN
+involvement.	 The	 CNs	 most	 commonly	 involved	 are	 II,	 VII,	 and	 VIII.	 A
+peripheral	 facial	 palsy	 is	 the	 most	 common	 manifestation.	 About	 half	 of	 the
+patients	 with	 CN	 involvement	 have	 a	 cranial	 polyneuropathy,	 most	 commonly
+bilateral	 facial	 nerve	 palsy.	 Other	 common	 neurologic	 complications	 include
+chronic	 meningitis,	 hydrocephalus,	 hypothalamic-pituitary	 dysfunction,
+myelopathy,	 myopathy,	 and	 peripheral	 neuropathy.	 Neurologic	 involvement
+
+occurs	 in	 as	 many	 as	 20%	 of	 patients	 with	 Behcet’s	 disease,	 including	 MCNP
+due	to	meningeal	or	brainstem	lesions.	The	most	commonly	involved	nerves	are
+CN	II	and	CN	VIII.
+
+Several	forms	of	systemic	vasculitis	may	cause	MCNP;	the	most	common	is
+granulomatosis	 with	 polyangiitis	 (Wegener’s	 granulomatosis).	 In	 one	 series,
+cranial	neuropathies	were	the	most	common	neurologic	abnormality.	Giant	cell
+arteritis	may	cause	the	combination	of	optic	and	extraocular	neuropathies.	Other
+vasculitic	 processes	 of	 concern	 include	 lymphomatoid	 granulomatosis,	 a
+lymphoreticular	 malignancy,	 and	 vasculitis	 due	 to	 connective	 tissue	 disease,
+especially	polyarteritis	nodosa.
+
+Polyneuritis	cranialis	is	an	MCNP	syndrome	that	may	represent	a	variant	of
+Guillain-Barré	 syndrome	 involving	 the	 lower	 CNs.	 An	 acute,	 painful,	 steroid-
+responsive	 MCNP	 syndrome	 that	 may	 be	 on	 a	 continuum	 with	 Tolosa-Hunt
+syndrome	 (see	 section	 on	 Cavernous	 Sinus	 Syndrome)	 but	 involving	 nerves
+(idiopathic	 cranial
+outside	
+polyneuropathy).	 Bannwarth’s	 syndrome	 (meningopolyradiculitis)	 refers	 to
+MCNP	and	painful	polyradiculopathies	due	to	Lyme	disease.	Most	patients	have
+an	 acute	 peripheral	 facial	 paresis	 with	 additional	 involvement	 of	 other	 nerves
+and	spinal	roots.
+
+the	 cavernous	 sinus	 has	 been	 described	
+
+CN	 palsy	 occurs	 occasionally	 in	 carotid	 artery	 dissection;	 rarely,	 it	 is	 the
+dominant	 or	 only	 manifestation.	 Ipsilateral	 headache,	 Horner’s	 syndrome,	 and
+lower	 CN	 palsy	 are	 suggestive	 of	 carotid	 dissection	 even	 in	 the	 absence	 of
+cerebral	 ischemic	 symptoms.	 CN	 XII	 is	 invariably	 affected,	 and	 in	 some
+patients,	other	CNs	may	be	involved	as	well.	The	etiology	is	not	certain.	There
+may	be	compression	or	stretching	by	the	aneurysmal	dilatation	or	ischemia	due
+to	 involvement	 of	 the	 segmental	 arteries	 supplying	 the	 nerves,	 particularly	 the
+ascending	pharyngeal	artery.	CN	palsy	also	occurs	as	a	complication	of	carotid
+endarterectomy.
+
+Trauma	accounted	for	12%	of	MCNP	cases	in	Keane’s	series.	Blunt	trauma,
+such	 as	 MVA	 or	 falling,	 is	 twice	 as	 common	 as	 penetrating	 trauma.	 Iatrogenic
+trauma	 accounts	 for	 a	 significant	 minority,	 especially	 radical	 head	 or	 neck
+dissections.
+
+DISORDERS	OF	CRANIAL	NERVE	GROUPS
+
+In	some	locations,	two	or	more	CNs	are	bundled	in	a	common	anatomical	space,
+
+such	 as	 the	 cavernous	 sinus	 or	 jugular	 foramen.	 A	 focal	 disease	 process	 may
+involve	 the	 entire	 cluster	 of	 nerves.	 Intradural,	 extramedullary	 pathology
+involves	 the	 nerves	 after	 they	 exit	 the	 brainstem	 but	 before	 they	 exit	 the	 skull
+(e.g.,	 in	 the	 cerebellopontine	 angle	 [CPA]).	 Extracranial	 pathology	 involves	 a
+group	of	nerves	just	after	they	exit	the	skull	but	before	they	disperse	(e.g.,	in	the
+retroparotid	 space).	 As	 with	 brainstem	 syndromes,	 the	 many	 syndromes	 that
+involve	 multiple	 CNs	 carry	 an	 eponym	 and	 an	 anatomical	 description.	 The
+anatomical	regions	involved	are	often	so	arcane	that	the	eponym	serves	just	as
+well.	 Table	21.4	 summarizes	 these	 syndromes.	 Most	 of	 the	 disorders	 affecting
+CN	groups	are	due	to	mass	effect.	The	mass	is	often	neoplastic.	Primary	neural
+tumors,	such	as	schwannoma	or	neurofibroma,	arising	from	one	CN	may	cause
+compression	of	adjacent	nerves.	Many	of	these	syndromes	are	rare	in	neurologic
+practice.	The	relatively	common	ones	are	the	cavernous	sinus,	CPA,	and	jugular
+foramen	syndromes.
+
+FIGURE	21.3	A.	The	cavernous	sinus	lies	just	lateral	to	the	sella	turcica.	Within	it	lie
+the	 carotid	 artery	 and	 cranial	 nerves	 (CNs)	 III,	 IV,	 and	 VI	 and	 branches	 of	 CN	 V.	 B.
+Pathologic	 findings	 involving	 the	 cavernous	 sinus	 are	 not	 rare	 and	 can	 usually	 be
+recognized	by	the	pattern	of	CN	involvement.
+
+Cavernous	Sinus	Syndrome
+
+The	cavernous	sinuses	are	complex	venous	channels	that	lie	on	either	side	of	the
+sphenoid	bone	and	sella	turcica,	extending	from	the	superior	orbital	fissure	to	the
+apex	of	the	petrous	temporal	bone	(Figure	21.3).	The	two	sides	are	connected	by
+an	anterior	and	posterior	intercavernous	sinus.	A	thin	layer	of	dura,	the	pituitary
+capsule,	forms	the	medial	wall	of	the	cavernous	sinus.	The	internal	carotid	artery
+with	its	pericarotid	sympathetic	plexus	runs	through	the	sinus.	CNs	III,	IV,	and	V
+
+lie	in	the	wall	of	the	sinus	from	above	to	below.	CN	VI	lies	free	in	the	lumen	of
+the	 sinus	 inferolateral	 to	 the	 carotid	 artery.	 The	 ophthalmic	 division	 of	 CN	 V
+traverses	 the	 sinus;	 the	 maxillary	 division	 runs	 for	 a	 short	 distance	 through	 its
+posterior-inferior	part.
+
+Conditions	 of	 the	 cavernous	 sinus	 were	 recognized	 by	 Gowers	 in	 1888,	 but
+some	years	 later,	 the	 writings	of	 C.	Foix	(French	neurologist)	 and	G.	Jefferson
+(English	 neurosurgeon,	 best	 known	 for	 describing	 C1	 fracture)	 brought	 wide
+recognition	 to	 the	 existence	 of	 the	 cavernous	 sinus	 syndrome.	 The	 cavernous
+sinus	may	be	involved	by	tumor,	thrombosis	(bland	or	septic),	carotid	aneurysm,
+carotid-cavernous	fistula,	inflammation,	infection,	and	other	processes.	There	is
+variable	involvement	of	the	CNs	crossing	the	sinus.	Severe	processes	may	affect
+all	of	the	nerves,	but	isolated	sixth	nerve	palsy	also	occurs.	In	Keane’s	series	of
+151	 patients,	 the	 most	 common	 etiologies	 were	 tumor,	 trauma,	 self-limited
+inflammation,	carotid	aneurysms	and	fistulas,	and	infection.	These	accounted	for
+88%	 of	 the	 cases.	 Other	 causes	 of	 cavernous	 sinus	 syndrome	 include	 pituitary
+apoplexy,	 metastasis,	
+leukemia,	 myeloma,	 neuroblastoma,
+mucormycosis,	aspergillosis,	tuberculosis,	carotid-cavernous	fistula,	trauma,	and
+sarcoidosis.
+
+lymphoma	 or	
+
+Intracavernous	 carotid	 aneurysms	 may	 compress	 and	 distort	 the	 contents	 of
+the	 cavernous	 sinus	 (Figure	 21.3B).	 A	 carotid-cavernous	 fistula	
+is	 a
+communication	between	the	carotid	artery	and	the	cavernous	sinus.	Fistulas	may
+be	traumatic	or	 develop	 spontaneously	because	 of	rupture	 of	 an	intracavernous
+carotid	 aneurysm.	 In	 addition	 to	 CN	 palsies,	 patients	 may	 have	 pulsatile
+proptosis,	chemosis,	an	ocular	bruit,	and	evidence	of	increased	venous	pressure
+in	the	eye.	Dilated,	arteriolized	conjunctival	and	episcleral	blood	vessels	with	a
+tortuous,	corkscrew	shape	are	characteristic	(Figure	21.4).	Neoplasms	commonly
+involve	 the	 cavernous	 sinus.	 Common	 tumor	 types	 include	 NPC,	 metastases,
+lymphoma,	pituitary	adenoma,	and	meningioma.
+
+Two	 neurosurgeons,	 E.	 S.	 Tolosa	 (Spanish)	 and	 W.	 E.	 Hunt	 (American),
+described	 indolent,	 idiopathic,	 granulomatous	 inflammation	 of	 the	 cavernous
+sinus	 causing	 pain	 and	 ophthalmoplegia.	 Pathologically,	 there	 is	 noncaseating,
+granulomatous	inflammation	similar	to	that	seen	in	orbital	pseudotumor.	Patients
+present	with	severe	periorbital	headache	and	dysfunction	of	one	or	more	of	the
+intracavernous	 CNs.	 Tolosa-Hunt	 syndrome	 is	 exquisitely	 responsive	 to	 even
+small	doses	of	steroids,	and	steroid	responsiveness	has	been	used	as	a	diagnostic
+criterion.	 However,	 other	 conditions	 involving	 the	 cavernous	 sinus,	 including
+tumors,	 infection,	 and	 aneurysm,	 may	 also	 improve	 with	 steroids.	 MRI	 may
+
+show	 T2	 isointense	 tissue	 that	 enhances	 with	 gadolinium.	 Another	 condition
+related	 to	 cavernous	 sinus	 syndrome	 is	 Raeder’s	 paratrigeminal	 (or	 the
+paratrigeminal	oculosympathetic)	syndrome	(Chapter	15).
+
+FIGURE	 21.4	 Corkscrew	 conjunctival	 and	 episcleral	 vessels	 in	 a	 patient	 with	 a
+carotid-cavernous	fistula.
+
+Cerebellopontine	Angle	Syndrome
+
+A	mass	lesion	in	the	CPA	is	usually	an	acoustic	neuroma,	but	other	tumors	and
+masses	may	arise	in	the	region	(Chapter	17).	An	acoustic	neuroma	usually	arises
+from	the	vestibular	portion	of	CN	VIII	within	the	internal	auditory	meatus.	The
+initial	symptoms	are	usually	hearing	loss	and	tinnitus.	Examination	early	in	the
+course	 shows	 sensorineural	 hearing	 loss	 and	 impaired	 labyrinthine	 function	 on
+the	 involved	 side.	 Vertigo	 is	 unusual	 because	 the	 tumor	 grows	 slowly	 and	 the
+vestibular	 system	 compensates,	 although	 patients	 may	 have	 impaired	 balance.
+As	the	mass	expands,	compression	of	CN	V	causes	ipsilateral	facial	sensory	loss
+and	impairment	of	the	corneal	reflex.	Pressure	on	the	cerebellum	or	its	peduncles
+causes	ataxia	and	incoordination.	There	may	be	involvement	of	CN	VII,	with	a
+peripheral	facial	palsy,	and	of	CNs	VI,	IX,	and	X.	Late	in	the	course,	increased
+intracranial	 pressure	 may	 cause	 headache,	 papilledema,	 and	 occasional	 loss	 of
+consciousness.	 Nystagmus	 is	 common;	 it	 may	 be	 coarse	 and	 slow	 on	 gaze
+toward	the	side	of	the	lesion	(gaze	paretic	nystagmus)	and	fine	and	rapid	on	gaze
+away	 from	 the	 lesion	 (vestibular	 nystagmus).	 This	 unusual	 combination	 is
+referred	 to	 as	 Bruns’	 nystagmus	 (for	 Ludwig	 Bruns,	 German	 neurologist,	 see
+Video	Link	21.1).
+
+

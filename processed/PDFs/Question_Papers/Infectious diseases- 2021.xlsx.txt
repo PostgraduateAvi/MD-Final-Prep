@@ -1,0 +1,13 @@
+
+--- Sheet: Infections_Disease_Paper_III_Ju ---
+ serial number                                                                             question
+             1    Discuss pathophysiology, clinical features and management of complicated malaria.
+             2 Describe clinical features, diagnosis of HIV associated tuberculosis and management.
+             3                              Describe clinical features of Influenza and management.
+             4                                                                  Adult Immunization.
+             5                                                                        Scorpion Bite
+             6                                                  Cardiotoxic poisons seen in tropics
+             7                                                                          Brucellosis
+             8                                                               Necrotizing Fasciitis.
+             9                                                           Newere antimalarial agents
+            10                                       approach to diarrohea in Hiv positive patients

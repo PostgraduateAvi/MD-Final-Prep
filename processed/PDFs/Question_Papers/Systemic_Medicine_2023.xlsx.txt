@@ -1,0 +1,13 @@
+
+--- Sheet: Systemic Medicine-2023 ---
+ serial number                                                                                                                         question
+             1                              Discuss aetiology, clinical features, investigations, and management in a case of Aortic dissection
+             2 Discuss classification, aetiology, clinical features, investigations, and treatment in a patient with interstitial lung disease.
+             3                      Discuss Hypertensive Emergencies. Tabulate preferred parenteral drugs for selected Hypertensive Emergencies
+             4                                                           Classify Haemolytic Anaemia.Discuss in detail Hereditary Spherocytosis
+             5                                                                                           SGLT-2 inhibiters in clinical practice
+             6                                                                  Discuss etiopathogenesis and management of Autoimmune Hepatitis
+             7                                                                                                            Psoriatic Arthropathy
+             8                                         Algorithm depicting assessment and management of delirium in hospitalized older patients
+             9                                                                                                                  Lupus Nephritis
+            10                                                              Discuss the pathophysiology and management of Parkinson’s’ disease.

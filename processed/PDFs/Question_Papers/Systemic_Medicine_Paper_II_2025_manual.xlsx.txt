@@ -1,0 +1,13 @@
+
+--- Sheet: Systemic Examination-2024 ---
+ serial number                                                                                                                                                            question
+             1                                                                        Classify Hypercalcaemia. Discuss Calcium homeostasis, causes and approach to hypercalcaemia.
+             2                                               Define Criteria for Acute Kidney Injury (AKI). Discuss in detail causes, clinical features and investigations of AKI.
+             3 Mention indications for Cardiac catheterization and coronary angiography. Discuss in detail diagnosis, management and complications of Acute Myocardial Infarction.
+             4                                                                                                                                Dissociative (Conversion) Disorders.
+             5                                                                                               Clinical features and Management of Inflammatory Bowel Disease (IBD).
+             6                                                                                                                                          Acute Meningoencephalitis.
+             7                Classify Diffuse Parenchymal Lung Disease. Discuss the clinical features and algorithm for investigation of patients with interstitial lung disease.
+             8                                                      Define and classify vasculitis syndrome. Discuss potential mechanisms of vessel damage in vasculitis syndrome.
+             9                                                                                                                                           Bullous diseases of Skin.
+            10                                                           Raynaud phenomenon – Mention types with causes. Discuss in detail Mixed Connective Tissue Disease (MCTD).

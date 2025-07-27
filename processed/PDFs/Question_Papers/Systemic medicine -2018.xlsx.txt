@@ -1,0 +1,13 @@
+
+--- Sheet: Paper_I_BASIC_SCIENCES_2019 ---
+ serial number                                                                                       question
+             1 Etiology, clinical features and Management of Addison’s disease. Add a note on adrenal crisis.
+             2                                                                 Hereditary Hemolytic Anaemias.
+             3                                                                     Renal replacement therapy.
+             4                                                                        Acute myeloid leukemia.
+             5                                             Diabetic neuropathy classification and management.
+             6                                                                       Hashimoto's thyroiditis.
+             7                                                                              Erythema nodosum.
+             8                                                                 Obsessive Compulsive disorder.
+             9                                                               Anemia In chronic kidney disease
+            10                                                        Superior vena cava obstruction syndrome
