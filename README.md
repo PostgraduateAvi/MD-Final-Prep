@@ -27,52 +27,122 @@ This repository contains organized medical study materials with the following st
   - Infectious Diseases papers (2019-2024)
   - Recent Advances papers (2020-2024)
 
-## Tokenization
+## 🤖 Complete Automation System
 
-The repository includes scripts to convert PDF and Excel content into tokens suitable for language model processing:
+This repository now includes a comprehensive automation system that handles the entire MD Final Prep workflow with minimal user interaction.
+
+### 🚀 Quick Start - One Command Automation
+
+```bash
+# Complete automation - just run this!
+python3 run_full_automation.py
+```
+
+This single command will:
+- ✅ Verify environment and install dependencies
+- ✅ Process all PDF and Excel files 
+- ✅ Generate comprehensive tokenization
+- ✅ Create embeddings (if OpenAI API key available)
+- ✅ Start API server for content access
+- ✅ Provide detailed progress monitoring
+
+### 📚 Automation Scripts
+
+#### 1. `run_full_automation.py` - One-Command Solution
+**The simplest way to run everything:**
+```bash
+python3 run_full_automation.py           # Complete automation
+python3 run_full_automation.py --quick   # Setup only
+python3 run_full_automation.py --server-only  # Start server only
+```
+
+#### 2. `md_final_prep_agent.py` - Master Automation Agent
+**Comprehensive automation with detailed control:**
+```bash
+python3 md_final_prep_agent.py --mode full       # Full automation
+python3 md_final_prep_agent.py --mode tokenize   # Tokenization only
+python3 md_final_prep_agent.py --mode embeddings # Embeddings only
+python3 md_final_prep_agent.py --mode server     # API server
+python3 md_final_prep_agent.py --mode status     # Show status
+```
+
+#### 3. `quick_setup.py` - Environment Setup
+**Automated setup and verification:**
+```bash
+python3 quick_setup.py --auto    # Automated setup
+python3 quick_setup.py --check   # Check status
+python3 quick_setup.py --repair  # Repair issues
+```
+
+#### 4. `automate.py` - Advanced Automation
+**Advanced features with monitoring:**
+```bash
+python3 automate.py --full --parallel  # Parallel processing
+python3 automate.py --backup           # Create backup
+python3 automate.py --monitor          # Monitor processes
+```
+
+### ⚙️ Features
+
+- **🔧 Automated Setup**: Dependency checking and installation
+- **📊 Progress Monitoring**: Real-time progress with visual feedback
+- **🔄 Parallel Processing**: Multi-threaded content processing
+- **💾 Backup & Restore**: Automatic state management
+- **🛠️ Error Recovery**: Robust error handling and retry mechanisms
+- **📈 Performance Monitoring**: System resource tracking
+- **🌐 API Integration**: RESTful API for content access
+- **📝 Comprehensive Logging**: Detailed operation logs
+
+## Traditional Processing (Manual)
+
+For manual control, the individual scripts are still available:
+
+### Tokenization
 
 - `simple_tokenize.py` - Main tokenization script using built-in Python libraries
 - `tokenize_content.py` - Advanced tokenization script (requires additional dependencies)
-- `requirements.txt` - Python package dependencies
+- `pdf_token_agent.py` - GitHub API-based PDF processing
 
-### Usage
+### Manual Usage
 
-To tokenize all content:
 ```bash
+# Manual tokenization
 python3 simple_tokenize.py
+
+# PDF agent processing
+python3 pdf_token_agent.py
+
+# Generate embeddings (requires OPENAI_API_KEY)
+python3 generate_embeddings.py
+
+# Start API server
+python3 server.py
+
+# Navigate content
+python3 navigate_content.py
 ```
 
-This generates:
-- `tokenized_content.json` - Detailed tokenization results with text chunks
-- `token_summary.csv` - Summary statistics for all processed files
-
-### Tokenization Summary
+### Processing Results
 
 Total processed: 56 files (278 MB)
 - **19.2M tokens** generated across all materials
 - **6.1M unique tokens** identified
 - Organized by category for easy language model training/fine-tuning
 
-### Embedding Generation
+### Output Files
 
-After tokenization you can generate OpenAI embeddings for each text chunk to
-build a retrieval index for a Custom GPT.
+After automation completes, you'll have:
+- `tokenized_content.json` - Detailed tokenization results with text chunks
+- `token_summary.csv` - Summary statistics for all processed files  
+- `token_summary.txt` - Agent-generated comprehensive token summary
+- `embeddings.jsonl` - OpenAI embeddings for semantic search (if API key provided)
 
-```bash
-# Requires OPENAI_API_KEY environment variable
-python3 generate_embeddings.py
-```
+### API Server
 
-This creates `embeddings.jsonl` containing one record per chunk with the text and
-its embedding vector. You can upload this file to OpenAI's retrieval tool or any
-vector database for semantic search.
+The FastAPI server (`server.py`) exposes endpoints for:
+- File listing and categorization
+- Tokenization data retrieval
+- Embedding generation
+- Content navigation
 
-### Local API Server
-
-A simple FastAPI server (`server.py`) exposes endpoints for tokenization, embedding generation, and retrieving token data. Start the server with:
-
-```bash
-python3 server.py
-```
-
-The API is documented in `openapi.yaml` and can be used as a Custom GPT action.
+API documentation available at `http://localhost:8000/docs` when server is running.
