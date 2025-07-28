@@ -1,6 +1,15 @@
 # MD-Final-Prep
 All data needed to pass my MD exam
 
+## 🚀 Quick Start - New Users Start Here
+
+**Get started in 5 minutes:**
+1. Run: `python3 run_full_automation.py`
+2. Access API: `http://localhost:8001/docs`
+3. **Need help?** See [📚 Documentation Index](DOCUMENTATION_INDEX.md) for complete navigation
+
+---
+
 ## Repository Organization
 
 This repository contains organized medical study materials with the following structure:
@@ -146,3 +155,11 @@ The FastAPI server (`server.py`) exposes endpoints for:
 - Content navigation
 
 API documentation available at `http://localhost:8000/docs` when server is running.
+
+---
+
+## 📚 Documentation
+
+- **[📚 Documentation Index](DOCUMENTATION_INDEX.md)** - Complete navigation guide
+- **[📊 Documentation Analysis](DOCUMENTATION_ANALYSIS.md)** - Comprehensive review of all documentation
+- **[🚀 Usability Improvements](USABILITY_IMPROVEMENTS.md)** - Enhancement recommendations
