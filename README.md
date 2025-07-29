@@ -4,9 +4,11 @@ All data needed to pass my MD exam
 ## 🚀 Quick Start - New Users Start Here
 
 **Get started in 5 minutes:**
-1. Run: `python3 run_full_automation.py`
-2. Access API: `http://localhost:8001/docs`
-3. **Need help?** See [📚 Documentation Index](DOCUMENTATION_INDEX.md) for complete navigation
+1. Install dependencies: `pip install -r requirements.txt`
+2. Run full automation: `python3 run_full_automation.py`
+3. **Web Interface**: `python3 app.py` - Access at `http://localhost:7860`
+4. **API Only**: Access at `http://localhost:8001/docs`
+5. **Need help?** See [📚 Documentation Index](DOCUMENTATION_INDEX.md) for complete navigation
 
 ---
 
@@ -39,6 +41,20 @@ This repository contains organized medical study materials with the following st
 ## 🤖 Complete Automation System
 
 This repository now includes a comprehensive automation system that handles the entire MD Final Prep workflow with minimal user interaction.
+
+### 🌐 Web Interface (NEW!)
+
+**Easy-to-use Gradio web interface:**
+```bash
+# Start the web interface (includes API server)
+python3 app.py
+```
+
+Then open your browser to `http://localhost:7860` for:
+- 📊 **Exam Predictions** - Get likely exam topics
+- 📝 **Topic Summaries** - Quick overviews of medical topics  
+- 📚 **Content Search** - Detailed medical content
+- 🔧 **System Status** - Monitor automation health
 
 ### 🚀 Quick Start - One Command Automation
 
@@ -93,6 +109,7 @@ python3 automate.py --monitor          # Monitor processes
 
 ### ⚙️ Features
 
+- **🌐 Web Interface**: User-friendly Gradio app for easy access
 - **🔧 Automated Setup**: Dependency checking and installation
 - **📊 Progress Monitoring**: Real-time progress with visual feedback
 - **🔄 Parallel Processing**: Multi-threaded content processing
@@ -101,6 +118,7 @@ python3 automate.py --monitor          # Monitor processes
 - **📈 Performance Monitoring**: System resource tracking
 - **🌐 API Integration**: RESTful API for content access
 - **📝 Comprehensive Logging**: Detailed operation logs
+- **🚀 CI/CD**: Automated testing with GitHub Actions
 
 ## Traditional Processing (Manual)
 
@@ -155,6 +173,69 @@ The FastAPI server (`server.py`) exposes endpoints for:
 - Content navigation
 
 API documentation available at `http://localhost:8000/docs` when server is running.
+
+---
+
+## 🛠️ Setup and Testing
+
+### Environment Setup
+
+```bash
+# Clone the repository
+git clone <repository-url>
+cd MD-Final-Prep
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Verify setup
+python3 quick_setup.py --check
+```
+
+### Testing
+
+The repository includes comprehensive automated testing:
+
+```bash
+# Run all tests
+python3 test_automation.py
+python3 test_md_exam_prep_api.py
+python3 test_extract_text.py
+
+# Or use pytest
+pytest test_automation.py -v
+```
+
+### Web Interface Setup
+
+```bash
+# Start the web interface (auto-starts API server)
+python3 app.py
+
+# Access the web interface
+# Open browser to: http://localhost:7860
+```
+
+### Manual API Testing
+
+```bash
+# Start API server only
+python3 md_exam_prep_api.py
+
+# Test API endpoints
+curl http://localhost:8001/health
+curl http://localhost:8001/predict?limit=3
+```
+
+### GitHub Actions CI/CD
+
+The repository includes automated CI/CD that runs on every push and pull request:
+- Installs dependencies
+- Runs all test scripts
+- Validates system configuration
+- Tests API functionality
+
+See `.github/workflows/ci.yml` for the complete workflow.
 
 ---
 

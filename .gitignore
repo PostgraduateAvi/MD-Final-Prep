@@ -8,3 +8,10 @@ __pycache__/
 .env
 # OpenAI API key files
 openai_key.txt
+
+# Testing
+.pytest_cache/
+*.log
+
+# Web interface
+gradio_cached_examples/
