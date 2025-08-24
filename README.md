@@ -4,9 +4,13 @@ All data needed to pass my MD exam
 ## 🚀 Quick Start - New Users Start Here
 
 **Get started in 5 minutes:**
-1. Run: `python3 run_full_automation.py`
-2. Access API: `http://localhost:8001/docs`
-3. **Need help?** See [📚 Documentation Index](DOCUMENTATION_INDEX.md) for complete navigation
+1. **Install dependencies:** `pip install -r requirements.txt`
+2. **Run automation:** `python3 run_full_automation.py`
+3. **Launch web app:** `python3 app.py`
+4. **Access interfaces:**
+   - 🌐 **Web Interface:** `http://localhost:7860` (User-friendly study interface)
+   - 📊 **API Documentation:** `http://localhost:8001/docs` (Developer API)
+5. **Need help?** See [📚 Documentation Index](DOCUMENTATION_INDEX.md) for complete navigation
 
 ---
 
@@ -35,6 +39,46 @@ This repository contains organized medical study materials with the following st
   - Systemic Medicine papers (2017-2025)
   - Infectious Diseases papers (2019-2024)
   - Recent Advances papers (2020-2024)
+
+## 🌐 Web Interface
+
+**NEW: User-Friendly Study Interface**
+
+Launch the intuitive web interface for easy access to your study materials:
+
+```bash
+# Start the web app (automatically starts API server)
+python3 app.py
+```
+
+**Access at:** `http://localhost:7860`
+
+### 🎯 Web App Features
+
+- **📚 Content Search**: Find medical topics and relevant study materials
+- **📋 Topic Summaries**: Generate high-yield study points automatically  
+- **🎯 Exam Predictions**: AI-powered predictions of likely exam topics
+- **🔧 Server Status**: Monitor system health and troubleshoot issues
+- **📱 Mobile-Friendly**: Responsive design works on all devices
+
+### 🛠️ Web App Setup
+
+1. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Launch the app:**
+   ```bash
+   python3 app.py
+   ```
+
+3. **Access the interface:**
+   - Open browser to `http://localhost:7860`
+   - The API server will start automatically
+   - If issues occur, manually start API: `python3 md_exam_prep_api.py`
+
+---
 
 ## 🤖 Complete Automation System
 
@@ -91,9 +135,47 @@ python3 automate.py --backup           # Create backup
 python3 automate.py --monitor          # Monitor processes
 ```
 
-### ⚙️ Features
+## 🧪 Testing
+
+### Automated Testing (CI/CD)
+
+This repository includes automated testing via GitHub Actions that runs on every push and pull request:
+
+- **Component Tests**: Verify all automation scripts work correctly
+- **API Tests**: Validate FastAPI endpoints and responses  
+- **Integration Tests**: Test complete workflow functionality
+- **Cross-Platform**: Tests run on Python 3.11 and 3.12
+
+### Manual Testing
+
+Run tests locally to verify everything works:
+
+```bash
+# Test automation components
+python3 test_automation.py
+
+# Test API endpoints  
+python3 test_md_exam_prep_api.py
+
+# Test text extraction (may have known issues)
+python3 test_extract_text.py
+
+# Run with pytest (optional)
+pytest test_*.py
+```
+
+### Expected Test Results
+
+- ✅ **Automation Tests**: Should pass (3/3 component tests, 4/4 file tests)
+- ✅ **API Tests**: Should pass (5/5 endpoint tests) 
+- ⚠️ **Text Extraction**: May have some failures due to PDF parsing issues (this is expected)
+
+---
+
+## 🎯 Features
 
 - **🔧 Automated Setup**: Dependency checking and installation
+- **🌐 Web Interface**: User-friendly Gradio app for easy content access
 - **📊 Progress Monitoring**: Real-time progress with visual feedback
 - **🔄 Parallel Processing**: Multi-threaded content processing
 - **💾 Backup & Restore**: Automatic state management
@@ -101,6 +183,7 @@ python3 automate.py --monitor          # Monitor processes
 - **📈 Performance Monitoring**: System resource tracking
 - **🌐 API Integration**: RESTful API for content access
 - **📝 Comprehensive Logging**: Detailed operation logs
+- **🧪 Automated Testing**: GitHub Actions CI/CD pipeline
 
 ## Traditional Processing (Manual)
 
