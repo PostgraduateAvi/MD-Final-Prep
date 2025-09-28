@@ -1,0 +1,80 @@
+[
+  {
+    "id": "cardiac-rehab-2021",
+    "title": "Comparative outcomes of cardiac rehab",
+    "summary": "A multicentre randomized trial evaluating cardiac rehabilitation outcomes with dual identifiers to support DOI and PMID linkage.",
+    "doi": "10.5555/valid-cardiac-rehab",
+    "pmid": "33557799",
+    "journal": "European Journal of Preventive Cardiology",
+    "year": 2021,
+    "authors": ["Nguyen T", "Lewis H", "Patel R"],
+    "topics": ["cardiology", "rehabilitation", "exercise"],
+    "source_url": "https://example.org/cardiac-rehab-trial",
+    "doi_known_bad": false
+  },
+  {
+    "id": "metabolic-syndrome-2019",
+    "title": "Lifestyle impact on metabolic syndrome",
+    "summary": "Prospective cohort study tracking dietary adherence markers where the DOI intentionally points to a decommissioned resolver, requiring PMID fallback.",
+    "doi": "10.5555/invalid-metabolic-cohort",
+    "pmid": "30001000",
+    "journal": "Journal of Metabolic Health",
+    "year": 2019,
+    "authors": ["Santos M", "Gomez L", "Hart A"],
+    "topics": ["endocrinology", "metabolic", "lifestyle"],
+    "source_url": "https://example.org/metabolic-syndrome-cohort",
+    "doi_known_bad": true
+  },
+  {
+    "id": "hepatic-regeneration-2020",
+    "title": "Novel insights into hepatic regeneration",
+    "summary": "Mechanistic overview of hepatocyte regeneration without a DOI identifier, relying solely on PubMed linkage.",
+    "doi": "",
+    "pmid": "25012345",
+    "journal": "Liver International",
+    "year": 2020,
+    "authors": ["Adams J", "Khan S"],
+    "topics": ["hepatology", "regeneration"],
+    "source_url": "https://example.org/hepatic-regeneration-review",
+    "doi_known_bad": false
+  },
+  {
+    "id": "community-screening-initiative",
+    "title": "Community screening pilot programme",
+    "summary": "Pilot programme highlighting screening uptake; neither DOI nor PMID identifiers are currently available for this evaluation report.",
+    "doi": "",
+    "pmid": "",
+    "journal": "Public Health Practice",
+    "year": 2018,
+    "authors": ["O'Connor B", "Singh V"],
+    "topics": ["public-health", "screening"],
+    "source_url": "https://example.org/community-screening",
+    "doi_known_bad": false
+  },
+  {
+    "id": "telemedicine-heart-failure",
+    "title": "Telemedicine follow-up for heart failure",
+    "summary": "Randomized comparison of virtual versus in-person cardiology follow-up demonstrating non-inferiority of telemedicine support.",
+    "doi": "10.5555/valid-telemedicine-heart-failure",
+    "pmid": "34221109",
+    "journal": "Circulation",
+    "year": 2022,
+    "authors": ["Wallace P", "Zhang L", "Murthy A"],
+    "topics": ["cardiology", "telemedicine"],
+    "source_url": "https://example.org/telemedicine-heart-failure",
+    "doi_known_bad": false
+  },
+  {
+    "id": "critical-care-ultrasound",
+    "title": "Point-of-care ultrasound in critical care",
+    "summary": "Narrative review summarising practical applications of bedside ultrasound for haemodynamic monitoring in intensive care units.",
+    "doi": "10.5555/valid-critical-care-pocus",
+    "pmid": "30577841",
+    "journal": "Critical Care Clinics",
+    "year": 2018,
+    "authors": ["Bennett R", "Miller J"],
+    "topics": ["critical-care", "ultrasound"],
+    "source_url": "https://example.org/critical-care-pocus",
+    "doi_known_bad": false
+  }
+]
