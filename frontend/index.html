@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MD Final Prep Evidence Explorer</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <header class="page-header">
+      <div>
+        <h1>MD Final Prep Evidence Explorer</h1>
+        <p class="subtitle">Search curated clinical studies, verify identifiers, and prep viva answers faster.</p>
+      </div>
+      <nav class="header-actions">
+        <a class="docs-link" href="/docs" target="_blank" rel="noopener">API Docs</a>
+      </nav>
+    </header>
+
+    <section class="controls" aria-label="Search controls">
+      <label class="sr-only" for="search-input">Search evidence</label>
+      <input id="search-input" type="text" placeholder="Search by title, identifier, topic, or summary" autocomplete="off" />
+
+      <label class="control">
+        <input id="verify-toggle" type="checkbox" checked />
+        <span>Verify DOI availability</span>
+      </label>
+
+      <label class="control">
+        <span>Topic</span>
+        <select id="topic-filter">
+          <option value="">All topics</option>
+        </select>
+      </label>
+
+      <button id="search-btn" type="button">Search</button>
+    </section>
+
+    <section id="status" aria-live="polite"></section>
+
+    <main id="results" aria-live="polite" aria-busy="false"></main>
+
+    <template id="card-template">
+      <article class="card">
+        <div class="card-header">
+          <div>
+            <h2 class="card-title"></h2>
+            <p class="card-meta"></p>
+          </div>
+          <span class="badge"></span>
+        </div>
+        <p class="card-summary"></p>
+        <div class="card-authors"></div>
+        <div class="actions"></div>
+        <p class="identifier-warning" hidden></p>
+        <div class="viva"></div>
+      </article>
+    </template>
+
+    <script type="module" src="/static/app.js"></script>
+  </body>
+</html>

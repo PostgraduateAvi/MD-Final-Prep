@@ -148,13 +148,23 @@ After automation completes, you'll have:
 
 ### API Server
 
-The FastAPI server (`server.py`) exposes endpoints for:
-- File listing and categorization
-- Tokenization data retrieval
-- Embedding generation
-- Content navigation
+The FastAPI server (`server.py`) now ships the complete evidence explorer stack:
 
-API documentation available at `http://localhost:8000/docs` when server is running.
+- `GET /` serves the front-end single page app from `frontend/`
+- `GET /api/search` provides identifier-aware evidence cards with optional DOI verification
+- `GET /api/topics` lists available topic filters for the UI
+- Legacy automation endpoints for tokenization and embeddings remain available
+
+To start the stack locally:
+
+```bash
+python3 -m pip install -r requirements.txt
+uvicorn server:app --reload
+```
+
+Open `http://localhost:8000` to interact with the explorer UI or `http://localhost:8000/docs` for the interactive API documentation.
+
+> **Tip:** Set `ENABLE_DOI_NETWORK_CHECKS=1` before launching the server to perform live HEAD requests against `doi.org`. When the variable is omitted, deterministic in-repo verification flags drive the DOI/PMID fallback logic so the UI stays responsive offline.
 
 ---
 
