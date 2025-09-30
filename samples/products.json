@@ -1,0 +1,84 @@
+[
+  {
+    "name": "SwiftClean Go",
+    "brand": "Cleanix",
+    "category": "vacuum",
+    "price_inr": 12999,
+    "specs": {
+      "motor_watts": 120,
+      "runtime_minutes": 30,
+      "weight_kg": 2.2,
+      "attachments": ["crevice", "upholstery", "dusting"],
+      "warranty_months": 18,
+      "cordless": true,
+      "filtration": "HEPA"
+    },
+    "ratings": {"avg": 4.4, "count": 860},
+    "seller": "Cleanix Official",
+    "return_policy_days": 10
+  },
+  {
+    "name": "Budget Breeze",
+    "brand": "HomeLite",
+    "category": "vacuum",
+    "price_inr": 6999,
+    "specs": {
+      "motor_watts": 80,
+      "runtime_minutes": 18,
+      "weight_kg": 3.1,
+      "attachments": ["floor", "brush"],
+      "warranty_months": 12,
+      "cordless": true
+    },
+    "ratings": {"avg": 3.8, "count": 240},
+    "seller": "HomeLite Hub",
+    "return_policy_days": 7
+  },
+  {
+    "name": "Data Sparse Vac",
+    "brand": "Mystery",
+    "category": "vacuum",
+    "price_inr": 8999,
+    "specs": {
+      "cordless": true
+    },
+    "ratings": {"avg": 3.5, "count": 45},
+    "seller": "Generic Retail"
+  },
+  {
+    "name": "Wired PowerMax",
+    "brand": "MegaClean",
+    "category": "vacuum",
+    "price_inr": 10999,
+    "specs": {
+      "motor_watts": 200,
+      "runtime_minutes": 45,
+      "weight_kg": 4.5,
+      "attachments": ["crevice", "floor"],
+      "warranty_months": 24,
+      "cordless": false
+    },
+    "ratings": {"avg": 4.7, "count": 1240},
+    "seller": "MegaClean Store",
+    "return_policy_days": 15
+  },
+  {
+    "name": "Premium FeatherLite",
+    "brand": "LuxVac",
+    "category": "vacuum",
+    "price_inr": 18999,
+    "specs": {
+      "motor_watts": 140,
+      "runtime_minutes": 35,
+      "weight_kg": 1.9,
+      "attachments": ["crevice", "upholstery", "mattress"],
+      "warranty_months": 24,
+      "cordless": true,
+      "filtration": "HEPA"
+    },
+    "ratings": {"avg": 4.6, "count": 320},
+    "seller": "LuxVac Flagship",
+    "return_policy_days": 10,
+    "last_price_inr_30d": 21999
+  }
+]
