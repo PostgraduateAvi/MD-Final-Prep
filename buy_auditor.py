@@ -554,7 +554,7 @@ def evaluate_product(
         + vfm * normalized_weights.get("vfm", 0)
         + risk * normalized_weights.get("risk", 0)
     )
-    final_score = clamp(weighted * 10)
+    final_score = clamp(weighted)
 
     missing = gather_missing(product)
     confidence = infer_confidence(12, len(missing) + len(risk_flags))
