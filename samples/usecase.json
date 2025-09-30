@@ -1,0 +1,7 @@
+{
+  "purpose": "Cleaning sofas and cots in a 2BHK",
+  "budget_max_inr": 15000,
+  "must_haves": ["cordless", "warranty>=12m"],
+  "nice_to_haves": ["HEPA", "lightweight<=2.5kg", "attachments:crevice", "attachments:upholstery"],
+  "region": "IN"
+}
